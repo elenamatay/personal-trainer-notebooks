@@ -1,0 +1,33 @@
+{
+"one-legged-glute-bridge": {
+    "form": {
+      "steps": "\n1. Lie on your back with your knees bent and feet flat on the floor, hip-width apart. Extend one leg straight up towards the ceiling. \n2. Engage your core and tuck your pelvis slightly to activate your glutes. \n3. Push through the heel of your grounded foot, driving your hips upward towards the ceiling. Use the glute muscle in the bent leg to lift your hips until your body forms a straight line from your shoulders to your knees. \n4. Squeeze your glutes at the top of the movement for a moment. \n5. Slowly lower your hips back down to the starting position, reversing the movement. \n6. Repeat for the desired number of repetitions on one leg before switching to the other side.",
+      "form": {
+        "Hips": "Lift your hips until your body forms a straight line from your shoulders to your knees. Don't overextend your lower back.",
+        "Core": "Keep your core engaged throughout the exercise to protect your lower back and maintain stability.",
+        "Foot Placement": "Keep your grounded foot flat on the floor, with your heel directly below your knee. Your toes can be slightly turned outwards.",
+        "Extended Leg": "Keep your extended leg straight and in line with your torso. Avoid letting it drop down towards the floor.",
+        "Head and Neck": "Maintain a neutral head and neck position throughout the exercise. Avoid looking up or straining your neck."
+      }
+    },
+    "commonMistakes": {
+      "Arching the Lower Back": "Overextending the lower back instead of using the glutes to lift the hips. This can lead to lower back pain.",
+      "Not Engaging the Core": "Failing to engage the core muscles, which can also lead to lower back pain or instability during the exercise.",
+      "Lifting Too High": "Lifting the hips too high, going beyond a straight line from shoulders to knees. This can put unnecessary stress on the lower back.",
+      "Not Squeezing at the Top": "Not fully contracting the glutes at the top of the movement, which reduces the effectiveness of the exercise."
+    },
+    "comments": {
+      "Glute Activation": "The one-legged glute bridge is an excellent exercise for activating and strengthening the glutes, which are essential for hip extension, rotation, and stability.",
+      "Unilateral Exercise": "As a unilateral exercise (working one leg at a time), it helps identify and address any strength imbalances between the left and right sides.",
+      "Progression": "You can increase the challenge by adding weight, such as a dumbbell or barbell, across your hips.",
+      "Home Workout Friendly": "This exercise is suitable for home workouts as it requires no special equipment."
+    },
+    "alternativesAndVariations": {
+      "Glute Bridge": "The two-legged version of this exercise, which is a good starting point before progressing to the single-leg variation.",
+      "Hip Thrust": "A similar exercise that targets the glutes, but is typically performed with the upper back elevated on a bench or platform.",
+      "Single-Leg Deadlift": "A challenging exercise that works the glutes, hamstrings, and lower back unilaterally. It requires balance and coordination.",
+      "Donkey Kicks": "A bodyweight exercise that isolates the glutes and can be used for both activation and strengthening."
+    },
+    "tempo": "2020 (2 seconds lifting, 0 seconds pause at the top, 2 seconds lowering, 0 seconds pause at the bottom)"
+  }
+}

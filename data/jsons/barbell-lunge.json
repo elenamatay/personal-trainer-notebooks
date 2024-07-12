@@ -1,0 +1,34 @@
+{
+    " barbell_lunge":{
+        "form": {
+            "steps": "\n 1. Stand tall with your feet shoulder-width apart, holding a barbell across your upper back. \n2. Engage your core, and take a big step forward, \n3. Sink (descend) as deep as possible in a lunge position, without hitting the knee of the back leg in the floor (this is usually until both knees are bent at 90-degree angles). During descent, keep your front heel flat on the ground and your front knee tracking in line with your toes. \n4. Push yourself back with your front leg to return to the starting position.",
+            "form": {
+                "Back": "Keep your back straight and maintain a natural arch in your lower back throughout the movement.",
+                "Core": "Engage your core to keep your body stable and upright.",
+                "Front Knee": "Don't let your front knee cave inward; keep it tracking in line with your toes.",
+                "Weight": "Distribute the weight evenly between your front and back heel.",
+                "Barbell Position": "Rest the barbell comfortably across your upper back, traps engaged and shoulder blades squeezed together."
+            }
+        },
+        "commonMistakes": {
+            "Round back": "Letting your back round during the lunge.",
+            "Shallow lunge": "Not lowering yourself down far enough, resulting in a shallow lunge.",
+            "Caving knees": "Letting your front knee cave inward.",
+            "Fluffy core": "Not engaging your core throughout the movement."
+        },
+        "comments": {
+            "Muscle Groups": "Barbell lunges primarily target the quadriceps (front thighs), glutes, and adductors, but it also involves the hamstrings (back thighs) calves, and core.",
+            "Balance":"The lunge is an exercise that not only strengthens your leg muscles, but it can also be used to train your balance, coordination and control.",
+            "Progression": "As you get stronger, you can increase the weight of the barbell, use a split stance (one leg further forward than shoulder-width apart) or perform walking lunges."
+        },
+        "alternativesAndVariations": {
+            "Change external load used":"An alternative to using a barbell for external load, is to hold weights (i.e. dumbbells or kettlebells) in your hands.",
+            "Step backward":"An alternative way to perform this exercise, that might feel easier on your knees, is to take a step backward instead of forward",
+            "Split Squat": "Single-leg variation of the barbell lunge that can help improve balance and stability.",
+            "Walking Lunge": "Dynamic variation of the barbell lunge that involves taking a lunge step forward with each leg, continuously moving forward.",
+            "Bulgarian Split Squat": "Performed with your back leg elevated on a bench, placing more emphasis on the front leg."
+        },
+        "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+    }
+}
+  

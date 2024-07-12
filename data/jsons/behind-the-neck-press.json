@@ -1,0 +1,33 @@
+{
+"behind-the-neck-press": {
+"form": {
+"steps": "\n1. Stand with your feet shoulder-width apart, holding a barbell across your upper back, resting on the top of your traps. \n2. Take a breath, lightly brace your core, and unrack the bar by straightening your arms. Take a step back to ensure you have enough space. \n3. Lower the bar slowly by bending your elbows, keeping your forearms vertical as much as possible, until it reaches the base of your neck. \n4. Press the bar back up to the starting position, extending your arms fully while exhaling. \n5. Inhale at the top, and repeat for reps.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows slightly in front of the bar during the movement.",
+"Back": "Maintain a neutral spine throughout the exercise. Avoid arching your back.",
+"Head": "Keep your head straight and look forward. Avoid tilting your head forward or backward.",
+"Range of Motion": "Lower the bar until it gently touches the base of your neck. Avoid going too low, as this can put excessive stress on your shoulder joints."
+}
+},
+"commonMistakes": {
+"Using Too Much Weight": "Using a weight that is too heavy can lead to improper form and increase the risk of injury.",
+"Arching the Back": "Arching your back excessively can put stress on your spine. Keep your core engaged and maintain a neutral spine.",
+"Lowering the Bar Too Far": "Lowering the bar too far down the neck can put excessive stress on the shoulder joints. Stop when the bar gently touches the base of your neck.",
+"Not Controlling the Movement": "Perform the exercise with slow and controlled movements to maintain proper form and engage the target muscles effectively."
+},
+"comments": {
+"Muscle groups used": "The behind-the-neck press primarily targets the front and lateral deltoids, but it also involves the trapezius and triceps.",
+"Shoulder Mobility": "This exercise requires good shoulder mobility. If you have any pre-existing shoulder issues, it's best to consult with a medical professional before performing this exercise.",
+"Alternatives": "If you experience discomfort or have limited shoulder mobility, consider alternative exercises like the dumbbell shoulder press or the landmine press.",
+"Progression": "As you get stronger, you can increase the weight or use resistance bands to make the exercise more challenging."
+},
+"alternativesAndVariations": {
+"Military Press (Barbell Overhead Press)": "A similar exercise that is performed with the barbell in front of the head, which is generally considered safer for the shoulders.",
+"Dumbbell Shoulder Press": "This variation allows for a greater range of motion and can help address muscle imbalances.",
+"Arnold Press": "A variation of the dumbbell shoulder press that involves rotating the dumbbells as you press them up, engaging more muscle fibers in the shoulders.",
+"Landmine Press": "Performed with one end of a barbell anchored to the ground, providing a unique angle of resistance and challenging the shoulders in a different way."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

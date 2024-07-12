@@ -1,0 +1,33 @@
+{
+  "inverted-row": {
+    "form": {
+      "steps": "\n1. Set a barbell in a squat rack at about waist height. The bar should be low enough that you can fully extend your arms while lying underneath it. \n2. Lie face up underneath the bar and grab it with an overhand grip, slightly wider than shoulder-width apart. Your body should be in a straight line from head to heels, with your feet flat on the floor. \n3. Engage your core and pull your chest up to the bar, keeping your body straight. \n4. Slowly lower yourself back down to the starting position, maintaining control throughout the movement.",
+      "form": {
+        "Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+        "Body Position": "Maintain a straight line from head to heels throughout the exercise.",
+        "Shoulder Blades": "Pull your shoulder blades together as you pull yourself up.",
+        "Elbows": "Keep your elbows close to your body.",
+        "Range of Motion": "Pull yourself up until your chest touches the bar, or as high as you can while maintaining good form."
+      }
+    },
+    "commonMistakes": {
+      "Sagging Hips": "Allowing your hips to sag during the exercise, which can put stress on your lower back.",
+      "Shrugging Shoulders": "Raising your shoulders towards your ears, which can lead to neck pain.",
+      "Using Momentum": "Swinging your body to generate momentum, instead of using your muscles to pull yourself up.",
+      "Partial Range of Motion": "Not pulling yourself up high enough or lowering yourself down all the way.",
+      "Loose Core": "Not engaging your core, which can lead to lower back pain."
+    },
+    "comments": {
+      "Muscle Groups": "The inverted row is a compound exercise that primarily targets the muscles in the back (lats, traps, and rear deltoids), but it also works the biceps, forearms, and core.",
+      "Progression": "You can make the exercise heavier by placing your feet on an elevation, or easier by raising the bar to a higher rack position.",
+      "Grip Variation": "A variation of this exercise is to do it with an underhand grip, which could increase the involvement of your biceps."
+    },
+    "alternativesAndVariations": {
+      "Pull-Ups": "A more challenging bodyweight exercise that also targets the back muscles. The main difference is that pull-ups are performed with a pronated grip (palms facing away from you) and your body hanging freely.",
+      "Barbell Rows": "A compound exercise that works the back muscles. The main difference is that barbell rows are performed with your feet on the ground and your torso bent over.",
+      "Seated Cable Rows": "A machine-based exercise that isolates the back muscles. The main difference is that seated cable rows provide a more controlled range of motion.",
+      "Lat Pulldowns": "Another machine-based exercise that targets the back muscles. The main difference is that lat pulldowns are performed in a seated position with your thighs supported."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

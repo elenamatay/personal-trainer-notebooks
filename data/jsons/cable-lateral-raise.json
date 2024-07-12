@@ -1,0 +1,33 @@
+{
+"cable-lateral-raise": {
+"form": {
+"steps": "\n1. Stand sideways to a low-pulley cable machine with your feet shoulder-width apart. \n2. Grip a handle connected to the lower position on a cable pulley with your outside hand (the hand furthest from the machine). \n3. Stand close to the pulley, with the arm holding the handle facing away from the machine and a slight bend in your elbow. \n4. Keeping your elbow slightly bent and initiating the movement from your elbow (not your hand), lift the handle outwards to your side in a smooth arc, until your upper arm is horizontal or slightly above. \n5. Slowly lower the handle back to the starting position, resisting the weight as you go. \n6. Repeat for reps, then switch sides.",
+"form": {
+"Elbow": "Maintain a slight bend in your elbow throughout the exercise.",
+"Wrist": "Keep your wrist straight or slightly flexed inward, acting merely as a hook.",
+"Torso": "Avoid swinging your body or using momentum to lift the weight. Keep your torso still and upright.",
+"Range of Motion": "Lift the weight until your upper arm is parallel to the floor or slightly above. Don't go too high, as this can put stress on your shoulder joint."
+}
+},
+"commonMistakes": {
+"Using Too Much Weight": "This is a common mistake that can lead to poor form and increase the risk of injury. Focus on using a weight that allows you to maintain good form and control throughout the exercise.",
+"Swinging the Body": "Using momentum to lift the weight reduces the effectiveness of the exercise. Keep your torso still and avoid swinging your body.",
+"Lifting from the Hand": "Initiate the movement from your elbow, not your hand. This helps to target the lateral deltoid muscle more effectively.",
+"Locking Out the Elbow": "Keep a slight bend in your elbow throughout the exercise to protect your elbow joint.",
+"Going Too Heavy": "This often leads to using momentum and reduces the effectiveness of the exercise. Choose a weight that allows you to maintain good form for the desired number of repetitions."
+},
+"comments": {
+"Mind-Muscle Connection": "This exercise benefits from a strong mind-muscle connection. Focus on squeezing the lateral deltoid muscle at the top of the movement to maximize muscle activation.",
+"Weight Selection": "It's better to start with a lighter weight and focus on proper form. As you get stronger, you can gradually increase the weight.",
+"Variations": "You can also perform cable lateral raises with both arms simultaneously using a double-cable machine.",
+"Target Muscles": "Cable lateral raises primarily target the lateral head of the deltoid muscle, which is responsible for lifting the arm out to the side. This exercise helps to build wider shoulders."
+},
+"alternativesAndVariations": {
+"Dumbbell Lateral Raise": "A similar exercise that can be performed with dumbbells instead of cables. Dumbbell lateral raises allow for a greater range of motion but can be more challenging to control.",
+"Lateral Raise Machine": "Provides a fixed range of motion and can be a good option for beginners who are still learning proper form.",
+"Band Lateral Raise": "Can be a good option for home workouts or for adding resistance to lateral raises. Bands provide variable resistance, which means the resistance increases as you lift the weight.",
+"Upright Rows": "A compound exercise that works the lateral deltoids, trapezius, and biceps. However, upright rows can put stress on the shoulder joint if not performed correctly."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

@@ -1,0 +1,28 @@
+{
+"band-external-shoulder-rotation": {
+"form": {
+"steps": "\n1. Fasten an elastic band at elbow height. \n2. Grab the band with the hand opposite the attachment point, step away, and stand sideways to the band. \n3. Keep your upper arm close to your side, and bend your elbow to 90 degrees. \n4. Rotate your upper arm externally (outwards) against the resistance of the band, as far as possible. \n5. Reverse the movement, and repeat for reps.",
+"form": {
+"Elbow": "Keep your elbow tucked in close to your side throughout the exercise.",
+"Upper Arm": "Maintain a consistent 90-degree angle with your elbow throughout the movement.",
+"Movement": "The rotation should occur only at the shoulder joint. Avoid using your back or torso to generate momentum."
+}
+},
+"commonMistakes": {
+"Using Too Much Resistance": "Using a band that's too heavy can compromise form and potentially lead to injury. Start with a lighter band and gradually increase resistance as you get stronger.",
+"Rushing the Movement": "Performing the exercise too quickly reduces muscle engagement and increases the risk of injury. Focus on slow, controlled movements.",
+"Not Keeping the Elbow Tucked": "Allowing the elbow to flare out reduces the effectiveness of the exercise and can strain the shoulder joint."
+},
+"comments": {
+"Muscle Focus": "This exercise primarily targets the posterior rotator cuff muscles, mainly the infraspinatus and teres minor, which are essential for shoulder stability and external rotation.",
+"Injury Prevention": "Strengthening the external rotators is crucial for maintaining shoulder health, especially for athletes involved in overhead sports like baseball, tennis, and volleyball.",
+"Warm-up": "This exercise is often used as part of a shoulder warm-up routine to activate and prepare the rotator cuff muscles for more demanding movements."
+},
+"alternativesAndVariations": {
+"Cable External Rotation": "This variation uses a cable machine instead of a band, providing a more consistent resistance throughout the range of motion.",
+"Dumbbell External Rotation": "Performed lying on your side with a dumbbell, this variation isolates the external rotators effectively.",
+"Side-Lying External Rotation": "This bodyweight variation involves lying on your side and rotating your upper arm upwards against gravity."
+},
+"tempo": "2011 (2 seconds during external rotation, 0 seconds pause, 1 second during internal rotation, 1 second pause)"
+}
+}

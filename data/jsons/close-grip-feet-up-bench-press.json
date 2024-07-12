@@ -1,0 +1,36 @@
+{
+  "close-grip-feet-up-bench-press": {
+    "form": {
+      "steps": "\n1. Lie on the bench with your shoulder blades together and down, and raise your chest up, creating a slight arch in your back. \n2. Grip the bar with an overhand grip, narrower than in a regular bench press, so that your hands are slightly closer than shoulder-width apart. \n3. Lift your feet up off the floor and hold them in the air, either crossed at the ankles or knees slightly bent. \n4. Take a breath and hold it, and unrack the bar by straightening your arms. \n5. Lower the bar with control, until it touches your chest somewhere around the nipple line, keeping your elbows tucked in at about a 45-degree angle. \n6. Push the bar up to the starting position while exhaling, keeping your elbows slightly bent. \n7. Take another breath in the top position, and repeat for reps.",
+      "form": {
+        "Grip": "Overhand grip, slightly closer than shoulder-width apart.",
+        "Elbows": "Keep your elbows tucked in at about a 45-degree angle during the movement.",
+        "Back": "Maintain a slight arch in your back, but avoid excessive arching.",
+        "Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+        "Chest": "Lower the bar to your chest around the nipple line.",
+        "Feet": "Keep your feet elevated throughout the exercise, either crossed at the ankles or knees slightly bent."
+      }
+    },
+    "commonMistakes": {
+      "Flaring Elbows": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints.",
+      "Bouncing the Bar": "Bouncing the bar off your chest, which can lead to injury.",
+      "Not Controlling the Descent": "Lowering the weight too quickly, which can put excessive stress on your muscles and joints.",
+      "Arching Back Excessively": "While a slight arch is okay, excessive arching can lead to lower back pain and reduce chest activation.",
+      "Holding Breath": "Remember to breathe throughout the exercise, inhaling during the descent and exhaling during the ascent."
+    },
+    "comments": {
+      "Muscle groups used": "The close-grip feet-up bench press primarily targets the triceps, but it also involves the chest and front deltoid.",
+      "Triceps Emphasis": "The close grip emphasizes the triceps muscles more than the regular bench press.",
+      "Feet Up Benefit": "Raising your feet during the exercise helps to increase core engagement and stability in the upper body. It can also reduce assistance from the legs, leading to greater isolation of the triceps and chest.",
+      "Assistance Lift": "This exercise can be used as an assistance lift for the bench press to strengthen the triceps.",
+      "Shoulder Issues": "For certain shoulder issues, the close-grip bench press might serve as a viable substitute for regular bench presses, as the narrower grip can be more comfortable on the shoulder joints."
+    },
+    "alternativesAndVariations": {
+      "Close-Grip Bench Press": "The same movement pattern as the close-grip feet-up bench press, but with your feet flat on the floor. This variation may be slightly easier as it allows for more leg drive.",
+      "Skull Crushers": "An isolation exercise that specifically targets the triceps. It involves extending the elbows from a bent to a straight position while holding a weight.",
+      "Triceps Pushdowns": "Another isolation exercise for the triceps, performed on a cable machine. It involves pushing a bar or rope down towards the floor using only the triceps.",
+      "Dips": "A bodyweight exercise that works the triceps, chest, and shoulders. It can be performed on parallel bars or on a dip station."
+    },
+    "tempo": "2110 (2 seconds lowering, 1 second pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}

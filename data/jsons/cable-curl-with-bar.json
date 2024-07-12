@@ -1,0 +1,32 @@
+{
+"cable-curl-with-bar": {
+"form": {
+"steps": "\n1. Fasten a straight or EZ bar attachment to the lower pulley of a cable machine. \n2. Grip the bar with an underhand (supinated) grip, hands about shoulder-width apart. \n3. Step back from the machine, so there is tension on the cable and your arms are slightly extended in front of you. \n4. Keeping your upper arms still or moving slightly forward, curl the bar upwards by flexing your elbows. \n5. Slowly lower the bar back to the starting position, resisting the weight as you extend your arms.",
+"form": {
+"Grip": "Use an underhand (supinated) grip, with hands shoulder-width apart.",
+"Elbows": "Keep your elbows tucked in at your sides throughout the movement.",
+"Upper Arms": "Maintain a fixed position with your upper arms, or allow a slight forward movement during the curl.",
+"Back": "Keep your back straight and avoid swinging your body to lift the weight."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the body or using momentum to lift the weight, reducing muscle activation in the biceps.",
+"Elbow Movement": "Allowing the elbows to move forward or backward during the exercise, which can shift the focus away from the biceps.",
+"Full Extension": "Fully extending the arms at the bottom of the movement, which can put stress on the elbow joints.",
+"Too Heavy Weight": "Using a weight that is too heavy, leading to poor form and potential injury."
+},
+"comments": {
+"Constant Tension": "The cable curl provides constant tension on the biceps muscles throughout the entire range of motion, which can be beneficial for muscle growth.",
+"Variation": "The cable curl is a great alternative to the barbell curl and can be varied by using different attachments, such as a rope or single-hand handles.",
+"Target Muscles": "This exercise primarily targets the biceps brachii, but also engages the brachialis and brachioradialis muscles in the upper arm, as well as the forearm muscles that assist in grip.",
+"Mind-Muscle Connection": "Focus on squeezing the biceps at the top of the curl to maximize muscle activation."
+},
+"alternativesAndVariations": {
+"Barbell Curl": "A classic biceps exercise that uses a barbell instead of cables. It allows for heavier weight but doesn't provide constant tension.",
+"Dumbbell Curl": "Performed with dumbbells, allowing for unilateral training and a greater range of motion.",
+"Hammer Curl": "Performed with a neutral grip (palms facing each other), which emphasizes the brachialis muscle.",
+"Concentration Curl": "An isolation exercise that focuses on one arm at a time, typically performed seated with the elbow resting on the inner thigh."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

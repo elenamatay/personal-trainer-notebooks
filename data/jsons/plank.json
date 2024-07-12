@@ -1,0 +1,33 @@
+{
+"plank": {
+"form": {
+"steps": "\n1. Start in a push-up position, with your forearms on the ground, elbows aligned below your shoulders, and hands flat on the floor. \n2. Extend your legs back, coming up onto your toes, so that your body forms a straight line from head to heels. \n3. Engage your core muscles, pulling your belly button towards your spine, and maintain a neutral spine. \n4. Hold this position for the desired amount of time, typically starting with 20-30 seconds and gradually increasing as you get stronger.",
+"form": {
+"Body Alignment": "Maintain a straight line from head to heels, avoiding any sagging or arching of the back.",
+"Elbow Position": "Keep your elbows directly beneath your shoulders.",
+"Core Engagement": "Actively engage your core muscles throughout the exercise, pulling your belly button towards your spine.",
+"Head and Neck": "Keep your head in line with your spine, looking straight down at the floor.",
+"Breathing": "Breathe normally throughout the exercise, avoiding holding your breath."
+}
+},
+"commonMistakes": {
+"Sagging Hips": "Allowing your hips to sag towards the floor, which puts stress on your lower back.",
+"Arching Back": "Arching your back, which also puts stress on your spine.",
+"Holding Breath": "Holding your breath, which can lead to dizziness or lightheadedness.",
+"Looking Forward": "Looking forward instead of down at the floor, which can strain your neck."
+},
+"comments": {
+"Progression": "The plank can be made more challenging by placing your hands or feet on an unstable surface (such as a Bosu ball, balance board, or in suspended rings), or by placing a weight on your back.",
+"Variations": "There are many variations of the plank, such as the forearm plank, straight-arm plank, side plank, and plank jacks.",
+"Muscle Groups": "The plank is a full-body exercise that primarily targets the abs (rectus abdominis, transverse abdominis, and obliques), but it also engages the muscles in the back, shoulders, chest, glutes, and legs."
+},
+"alternativesAndVariations": {
+"Forearm Plank": "This variation places more emphasis on the core and shoulders, as it requires you to hold your body weight up with your forearms instead of your hands.",
+"Straight-Arm Plank": "This variation is similar to the forearm plank, but you hold your body weight up with your arms fully extended, which places more emphasis on the shoulders and triceps.",
+"Side Plank": "This variation targets the obliques more directly, as you hold your body weight up on one forearm and the side of your foot.",
+"Plank Jacks": "This dynamic variation adds a cardiovascular element to the plank by having you jump your feet out and in while maintaining a plank position.",
+"Hollow Body Hold": "This advanced variation involves lying on your back and lifting your arms, legs, and shoulders off the ground, which requires a high level of core strength and stability."
+},
+"tempo": "0000 (Hold the position with no movement for the desired time)"
+}
+}

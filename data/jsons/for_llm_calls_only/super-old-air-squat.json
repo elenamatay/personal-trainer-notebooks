@@ -1,0 +1,34 @@
+{
+    "id": 92,
+    "name": "air-squat",
+    "musclesInvolved": {
+        "image": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/10/Muscles-worked-by-air-squats.jpg?resize=700%2C700&ssl=1",
+        "primary": [
+            {
+                "label": "Quads",
+                "link": "https://www.strengthlog.com/quad-muscles-exercises-workout/"
+            },
+            {
+                "label": "Glutes",
+                "link": "https://www.strengthlog.com/glute-muscles-exercises-workout/"
+            },
+            {
+                "label": "Adductors",
+                "link": "https://www.strengthlog.com/hip-adductor-muscles-exercises-workout/"
+            }
+        ],
+        "secondary": [
+            {
+                "label": "Calves",
+                "link": "https://www.strengthlog.com/calf-muscles-exercises-workout/"
+            }
+        ]
+    },
+    "executionSteps": [
+        "Stand with your feet about shoulder width apart.",
+        "Squat as deep as possible.",
+        "Reverse the movement, and return to a standing position."
+    ],
+    "executionVideo": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2020/02/Air-squat.gif?resize=600%2C600&ssl=1",
+    "commentary": "The air squat is a classic exercise that requires no equipment. For the beginner, this exercise might initiate a strength gain all on its own, and for the more experienced trainee it might serve as a mobility-increasing exercise, warm-up or rehabilitation. You can aid your balance in this exercise by holding out your arms in front of you, or even holding a light weight, like in a \ngoblet squat\n."
+}

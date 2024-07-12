@@ -1,0 +1,29 @@
+{
+"leg-curl-on-ball": {
+"form": {
+"steps": "\n1. Lie flat on your back on the floor, with your arms by your sides for stability. Place your heels on top of an exercise ball with your legs straight. \n2. Keep your core braced and hips elevated, so that your body creates a straight line from feet to shoulders. \n3. Bend your knees to roll the ball towards your body, pulling your heels towards your glutes. Keep your hips lifted and your core engaged. \n4. Slowly straighten your legs, rolling the ball back to the starting position. \n5. Repeat for reps.",
+"form": {
+"Hips": "Keep your hips raised throughout the entire exercise to ensure continuous tension on the hamstrings.",
+"Core": "Maintain a tight core engagement to protect your lower back and improve stability.",
+"Foot Placement": "Place your heels firmly on the ball, ensuring they don't slip during the movement.",
+"Movement": "The movement should be slow and controlled, focusing on squeezing the hamstrings at the top of the movement."
+}
+},
+"commonMistakes": {
+"Dropping Hips": "Allowing your hips to sag towards the floor reduces hamstring engagement and can strain your lower back.",
+"Limited Range of Motion": "Not rolling the ball close enough to the glutes limits hamstring muscle activation.",
+"Fast, Uncontrolled Movements": "Performing the exercise too quickly reduces muscle engagement and increases the risk of injury."
+},
+"comments": {
+"Benefits": "Leg curls are effective for strengthening the hamstrings and glutes. Using an exercise ball isn't just a good alternative if you don't have access to a leg curl machine; it also helps to improve your balance and core stability.",
+"Progression": "To increase the difficulty, you can try single-leg hamstring curls or use a smaller exercise ball for a greater stability challenge."
+},
+"alternativesAndVariations": {
+"Machine Leg Curls": "This variation provides a fixed range of motion and allows for heavier weight, leading to greater muscle hypertrophy.",
+"Lying Leg Curls": "Similar to the ball variation but performed on a dedicated leg curl machine, offering greater stability and weight capacity.",
+"Seated Leg Curls": "This variation targets the hamstrings from a seated position, emphasizing the lower portion of the hamstrings.",
+"Glute Ham Raise (GHR)": "A more advanced exercise that targets both the hamstrings and glutes, requiring significant strength and stability."
+},
+"tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

@@ -1,0 +1,32 @@
+{
+"triceps-bodyweight-extension": {
+"form": {
+"steps": "\n1. Stand facing a Smith machine or a stable bar. \n2. Grab the bar using an overhand grip, with your hands about shoulder-width apart. \n3. Walk forward until your body is at a slight angle and your arms are fully extended, but keeping your elbows slightly bent, not locked. Your body should be in a straight line from head to heels, like in a standing plank position, with your core and glutes activated. \n4. Bend the arms, bring your torso forward, and lower your head below the bar, until your forehead almost touches the bar. Do the movement slow and controlled, keeping your elbows tucked in close to your body. \n5. Reverse the movement by straightening your arms, pushing through the palms of your hands, until you reach the starting position. \n6. Repeat for reps.",
+"form": {
+"Elbows": "Keep your elbows tucked in close to your body throughout the movement, don't let them flare out.",
+"Body": "Maintain a straight line from head to heels throughout the exercise, like in a plank position.",
+"Head": "Keep your head in line with your spine, don't look up or down.",
+"Grip": "Use an overhand grip, with your hands about shoulder-width apart.",
+"Range of Motion": "Lower your body down until your forehead almost touches the bar, and extend your arms fully at the top, but without locking your elbows."
+}
+},
+"commonMistakes": {
+"Flaring Elbows": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints and reduce triceps activation.",
+"Not Controlling the Movement": "Lowering or raising the body too quickly, which can increase the risk of injury and reduce muscle engagement.",
+"Arching Your Back": "Not maintaining a straight line from head to heels, which can put stress on your lower back.",
+"Locking Elbows": "Fully extending your elbows at the top of the movement, which can put stress on your elbow joints."
+},
+"comments": {
+"Progression": "If you want to make the movement easier, set the bar higher. If you want to make it harder, set it lower.",
+"Alternative": "This is a good alternative for triceps training if you don’t have access to free weights or want to work them with your own body weight.",
+"Muscle groups used": "This exercise primarily targets the triceps, but it also engages the core, shoulders, and chest to a lesser extent."
+},
+"alternativesAndVariations": {
+"Close-Grip Bench Press": "A compound exercise that also targets the triceps, but with a barbell and a bench.",
+"Overhead Triceps Extensions": "Can be performed with dumbbells, a barbell, or a cable machine, focusing on elbow extension.",
+"Triceps Pushdowns": "An isolation exercise performed on a cable machine, also targeting the triceps.",
+"Diamond Push-Ups": "A challenging bodyweight exercise that emphasizes the triceps more than standard push-ups."
+},
+"tempo": "3010 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

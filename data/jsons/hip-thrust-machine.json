@@ -1,0 +1,31 @@
+{
+"hip-thrust-machine": {
+"form": {
+"steps": "\n1. Adjust the machine to your height and desired weight. Sit on the ground with your back against the backrest and your feet flat on the platform. \n2. Position your upper back comfortably against the backrest, slightly below your shoulder blades. \n3. Drive through your heels, extending your hips upward towards the ceiling. \n4. Squeeze your glutes at the top of the movement, ensuring your hips are fully extended. \n5. Slowly lower the weight back down to the starting position, maintaining control throughout the movement. \n6. Repeat for the desired number of repetitions.",
+"form": {
+"Feet": "Place your feet flat on the platform, hip-width apart, with your toes pointing slightly outward.",
+"Back": "Maintain a neutral spine throughout the exercise, avoiding any excessive arching or rounding.",
+"Hips": "Lower the weight until your hips are just below parallel to the ground, then drive back up to full extension.",
+"Core": "Engage your core muscles to stabilize your body and maintain proper form."
+}
+},
+"commonMistakes": {
+"Using too much weight": "Using a weight that is too heavy can lead to poor form and increase the risk of injury. Start with a lighter weight and gradually increase as you get stronger.",
+"Not achieving full hip extension": "Failing to fully extend your hips at the top of the movement reduces glute activation. Ensure you squeeze your glutes at the top to maximize muscle engagement.",
+"Arching your back": "Excessive arching of the lower back can put stress on your spine. Maintain a neutral spine throughout the exercise.",
+"Pushing through your toes": "Pushing through your toes instead of your heels shifts the focus away from the glutes. Keep your weight distributed evenly across your feet, with an emphasis on driving through your heels."
+},
+"comments": {
+"Muscle activation": "The hip thrust machine primarily targets the gluteus maximus, but it also engages the hamstrings, quadriceps, and adductors.",
+"Variations": "The hip thrust machine can be performed with one or two legs, depending on your fitness level and goals. Single-leg variations increase the challenge to your core and stabilizing muscles.",
+"Progression": "As you get stronger, you can increase the weight or the number of repetitions. You can also try more challenging variations, such as single-leg hip thrusts or band-resisted hip thrusts."
+},
+"alternativesAndVariations": {
+"Barbell Hip Thrust": "A free-weight variation of the hip thrust that allows for a greater range of motion and increased core activation. The main difference is that you support the weight with your upper back instead of using a machine.",
+"Glute Bridge": "A bodyweight exercise that targets the same muscle groups as the hip thrust. It's a great starting point for beginners or those who don't have access to a hip thrust machine.",
+"Single-Leg Hip Thrust": "A more challenging variation of the hip thrust that increases glute activation and challenges your balance and stability.",
+"Hip Thrust with Band Resistance": "Adding a resistance band to the hip thrust increases the resistance at the top of the movement, further challenging your glutes."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

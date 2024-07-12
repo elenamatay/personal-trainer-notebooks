@@ -1,0 +1,32 @@
+{
+"incline-dumbbell-curl": {
+"form": {
+"steps": "\n1. Grab a pair of dumbbells and sit down on an inclined bench (set at about a 45-degree angle). Let your arms hang straight down by your sides, with your palms facing each other. \n2. Keeping your shoulders stationary and elbows tucked in, lift the dumbbells with control by flexing your elbows. \n3. Slowly reverse the movement and lower the dumbbells back to the starting position, until your elbows are fully extended.",
+"form": {
+"Grip": "Neutral grip (palms facing each other).",
+"Shoulders": "Keep your shoulders stationary and pulled back throughout the movement.",
+"Elbows": "Keep your elbows tucked in to your sides, don't let them flare out.",
+"Range of Motion": "Lower the dumbbells until your elbows are fully extended, and lift them until you feel a strong contraction in your biceps."
+}
+},
+"commonMistakes": {
+"Swinging": "Using momentum to swing the weights up, instead of using a controlled movement.",
+"Not Full Range of Motion": "Not lowering the dumbbells all the way down, which reduces the effectiveness of the exercise.",
+"Elbows Flaring": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints.",
+"Lifting Too Heavy": "Using weights that are too heavy, which can compromise form and increase the risk of injury."
+},
+"comments": {
+"Muscle Growth": "The incline dumbbell curl works the biceps brachii at a slightly longer muscle length than regular bicep curls, which can potentially lead to greater muscle growth.",
+"Reduced Cheating": "The incline position makes it slightly harder to cheat with your technique compared to regular curls.",
+"Variation": "You can also perform this exercise with a hammer grip (palms facing each other) to target the brachialis muscle, which is located underneath the biceps.",
+"Mind-Muscle Connection": "Focus on squeezing your biceps at the top of the movement to maximize muscle activation."
+},
+"alternativesAndVariations": {
+"Regular Bicep Curls": "A classic biceps exercise that can be performed with dumbbells or a barbell. The main difference is the angle of the bench, which is flat in regular bicep curls.",
+"Hammer Curls": "A variation of the bicep curl that targets the brachialis muscle. It is performed with a neutral grip (palms facing each other).",
+"Concentration Curls": "An isolation exercise that focuses on one arm at a time. It is performed with the elbow resting on the inner thigh.",
+"Chin-Ups": "A compound exercise that works the biceps, back, and shoulders. It involves pulling yourself up to a bar with an underhand grip."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

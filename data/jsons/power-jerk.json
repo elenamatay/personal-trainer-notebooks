@@ -1,0 +1,35 @@
+{
+"power-jerk": {
+"form": {
+"steps": "\n1. Get into the starting position by cleaning the bar to your shoulders or lifting it out from a rack. Grip the bar slightly wider than shoulder-width apart, and let it rest on the front of your shoulders, with your elbows high and pointing forward. \n2. Stand with your feet hip-width apart, toes pointing slightly outward. \n3. Hold your breath and brace your core slightly. \n4. Slightly bend your knees (around quarter squat), and then explosively extend them (with the power of your legs and hips) to push the bar up. \n5. As the bar is traveling upwards, quickly duck under the bar and catch it on straight arms, with your elbows high and slightly in front of the bar, by slightly bending your knees. \n6. Stand up on straight legs again, keeping the bar overhead. \n7. Lower the bar in front of you, with control, or lower it back unto the front of your shoulders.",
+"form": {
+"Grip": "Slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows high and pointing forward throughout the movement.",
+"Back": "Maintain a neutral spine throughout the exercise.",
+"Core": "Keep your core engaged to stabilize your body.",
+"Head": "Look straight ahead during the lift.",
+"Feet": "Keep your feet flat on the ground throughout the exercise."
+}
+},
+"commonMistakes": {
+"Not getting low enough in the dip": "A shallow dip won't generate enough power to propel the bar upward.",
+"Not driving through the legs": "The power jerk relies heavily on leg drive. Not using your legs enough will make the lift much harder.",
+"Not keeping the bar close to the body": "Letting the bar drift away from your body will put unnecessary stress on your shoulders and make the lift less efficient.",
+"Catching the bar with bent arms": "Catching the bar with bent arms puts a lot of stress on your elbows and can lead to injury. Ensure your arms are fully extended before you catch the bar."
+},
+"comments": {
+"Muscle groups used": "The power jerk is a full-body exercise that primarily works the quads, glutes, back, shoulders, and triceps.",
+"Explosive Exercise": "The power jerk is an explosive movement that requires a lot of power and coordination. It's a great exercise for improving athleticism and explosiveness.",
+"Progression": "As you get stronger, you can increase the weight of the barbell.",
+"Olympic Weightlifting": "The power jerk is a variation of the jerk, which is one of the two main lifts in Olympic weightlifting (the other being the snatch).",
+"Jerk Variations": "Other variations of the jerk include the split jerk and the squat jerk."
+},
+"alternativesAndVariations": {
+"Split Jerk": "Involves catching the bar with one leg forward and one leg back, which can be easier on the wrists and elbows for some people.",
+"Squat Jerk": "Involves catching the bar in a deep squat position, which requires more mobility but can be a stronger position for some lifters.",
+"Push Press": "A simpler overhead pressing exercise that can help you develop the strength and power needed for the power jerk. It doesn't involve the dip and drive of the power jerk.",
+"Overhead Press": "A strict overhead pressing exercise that can help you build shoulder and upper back strength."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

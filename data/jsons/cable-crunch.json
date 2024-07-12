@@ -1,0 +1,30 @@
+{
+"cable-crunch": {
+"form": {
+"steps": "\n1. Fasten a rope handle to the upper position of a cable pulley machine. \n2. Kneel facing the machine, a couple of feet away from it. \n3. Grab the rope with an overhand grip, placing your hands on either side of your head, slightly above your ears. \n4. Keeping your hips still, bend your upper body forward, contracting your abs to bring your elbows towards your thighs. \n5. Reverse the motion and return to the starting position with control, extending your torso back to the starting position.",
+"form": {
+"Torso": "Keep your torso upright, avoiding swinging or using momentum.",
+"Neck": "Avoid pulling on your neck with your hands. Imagine you have an orange under your chin.",
+"Hips": "Maintain a stable hip position throughout the movement. Your hips should not move.",
+"Movement": "The movement should be initiated by the contraction of your abs, not by pulling with your arms."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the body or using momentum instead of engaging the abs.",
+"Pulling with the Neck": "Pulling on the neck with the hands instead of using the abs to initiate the movement.",
+"Not Maintaining a Stable Hip Position": "Allowing the hips to move during the exercise, which reduces the engagement of the abs."
+},
+"comments": {
+"Muscle groups used": "The cable crunch is an isolation exercise that primarily targets the rectus abdominis (the “six-pack” muscle), but it also engages the obliques to a lesser extent.",
+"Control and Range of Motion": "The cable crunch offers a greater degree of control over the resistance compared to traditional crunches, allowing for a more controlled movement and a greater range of motion.",
+"Variation": "You can increase the difficulty of the exercise by increasing the weight on the cable machine or by performing the exercise on a decline bench."
+},
+"alternativesAndVariations": {
+"Crunches": "A bodyweight exercise that also targets the abs. The main difference is that cable crunches provide a more consistent resistance throughout the movement.",
+"Sit-Ups": "A more challenging exercise that works the abs and hip flexors. Sit-ups involve a larger range of motion than cable crunches.",
+"Plank": "An isometric exercise that strengthens the core muscles, including the abs, obliques, and lower back.",
+"Reverse Crunch": "An exercise that targets the lower abs more than the upper abs. It involves bringing the knees towards the chest while lying on your back."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

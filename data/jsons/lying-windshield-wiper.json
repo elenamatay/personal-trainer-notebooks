@@ -1,0 +1,33 @@
+{
+"lying-windshield-wiper": {
+"form": {
+"steps": "\n1. Lie on your back with your arms extended to your sides, either straight or bent at a 90-degree angle with your palms facing down. \n2. Raise your legs towards the ceiling, keeping them together and your knees slightly bent. \n3. Engage your core and slowly lower your legs to one side, moving in a controlled manner. \n4. Stop lowering your legs when you feel a stretch in your obliques or when your legs are close to touching the ground. \n5. Reverse the motion and bring your legs back to the starting position. \n6. Repeat the movement on the other side, lowering your legs to the opposite side.",
+"form": {
+"Arms": "Keep your arms extended to your sides throughout the exercise, either straight or bent at a 90-degree angle with your palms facing down.",
+"Legs": "Keep your legs together and your knees slightly bent throughout the exercise.",
+"Core": "Engage your core muscles to stabilize your body and control the movement.",
+"Range of Motion": "Lower your legs until you feel a stretch in your obliques or until your legs are close to touching the ground. Avoid going beyond this point to prevent strain on your lower back.",
+"Controlled Movement": "Perform the exercise slowly and in a controlled manner, avoiding any jerky or swinging movements."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your legs instead of using your core muscles to control the movement.",
+"Not Engaging the Core": "Failing to engage the core muscles, which can lead to lower back pain or injury.",
+"Lowering Legs Too Far": "Lowering your legs beyond the point where you feel a stretch in your obliques, which can strain your lower back.",
+"Holding Breath": "Remember to breathe throughout the exercise, exhaling as you lower your legs and inhaling as you raise them back up."
+},
+"comments": {
+"Progression": "To make the exercise more challenging, you can add ankle weights or hold a weight plate on your chest.",
+"Regression": "To make the exercise easier, you can bend your knees at a greater angle or decrease the range of motion.",
+"Variations": "You can also perform the exercise with straight legs for a greater challenge to the hip flexors.",
+"Muscle Groups": "Lying windshield wipers primarily target the obliques, which are the muscles on the sides of your abdomen. They also engage the abs to a lesser extent."
+},
+"alternativesAndVariations": {
+"Russian Twists": "A similar exercise that also targets the obliques. The main difference is that Russian twists are performed in a seated position with the torso leaning back.",
+"Side Planks": "An isometric exercise that strengthens the obliques and improves core stability. The main difference is that side planks involve holding a static position, while lying windshield wipers involve movement.",
+"Bicycle Crunches": "A dynamic exercise that targets both the abs and obliques. The main difference is that bicycle crunches involve bringing the opposite elbow and knee together, while lying windshield wipers focus on lowering the legs to the side.",
+"Cable Woodchoppers": "A cable machine exercise that targets the obliques and core. The main difference is that cable woodchoppers involve using resistance from a cable machine, while lying windshield wipers are bodyweight exercises."
+},
+"tempo": "3010 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

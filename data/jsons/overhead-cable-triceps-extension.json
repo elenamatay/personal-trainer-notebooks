@@ -1,0 +1,24 @@
+{
+"overhead_cable_triceps_extension": {
+"form": {
+"Steps": "\n1. Fasten a rope handle in the lower position of a cable pulley. Stand with your back against the pulley, with a slight forward lean, and hold the rope behind your head and your upper arms next to your ears. \n2. Straighten your elbows until your arms are fully extended. \n3. Reverse the motion by bending your arms again.",
+"Form": {
+"1. Positioning": "Stand in front of the cable machine, facing away from it. You can stand shoulder-width apart, either with your feet parrallell or with one foot in front of the other. Try both, and find what feels best for you. Lean forward slightly, from your hips. Your back should remain straight, and make sure to keep a slight tension in your core throughout the entire movement.",
+"2. Movement": "Extend your forearms overhead, until your arms are fully extended but not locked out at the elbows. This is an isolated tricep exercise, so make sure to keep the rest of your body still, the only movement should be in the elbow joint."
+}
+},
+"tempo": "2110",
+"commonMistakes": {
+"1. Flaring elbows": "Letting the elbows flare out to the sides during the movement makes the exercise less effective, and can also be stressful for the shoulder joint. Keep your elbows at the same length apart throughout the movement.",
+"2. Hyperextending the lower back": "Arching the lower back excessively can place strain on the spine and increase the risk of injury. Maintain a neutral spine and engage your core throughout the exercise to provide stability.",
+"3. Adding too much weight": "Using weights that are too heavy can lead to poor form, reduced range of motion, and increased risk of injury. Choose a weight that allows you to complete the desired number of repetitions with proper form."
+},
+"comments": "This is an exercise that is effective for isolating the tricep muscle, and the direction of resistance helps to keep constant tension in your triceps, which might be beneficial for muscle growth.",
+"alternativesAndVariations": {
+"1. Barbell Standing Triceps Extension": "The standing barbell triceps extension uses a barbell instead of a cable machine. This means that the tension won’t be constant throughout the movement due to the gravitation. However, the barbell version might be more accessible for many lifters, since you only need a barbell to perform it.",
+"2. Dumbbell Standing Triceps Extension": "Just like the barbell standing triceps extension, the dumbbell version is more accessible, and also offers an opportunity to work on any imbalances since you’ll work with one side at a time.",
+"3. Barbell Lying Triceps Extension": "The barbell lying triceps extension is performed while lying on a flat bench. It requires less core engagement compared to the overhead cable extension due to the lying down position. The barbell lying triceps extension is also relying on gravity, which means that the resistance will vary during the movement.",
+"4. Dumbbell Lying Triceps Extension": "This variation is performed with dumbbells, allowing for a greater range of motion and independent movement of each arm. Just like the variation above, it requires a little less activation of your core than the overhead standing cable version, due to the lying position."
+}
+}
+}

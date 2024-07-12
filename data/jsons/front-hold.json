@@ -1,0 +1,34 @@
+{
+"front-hold": {
+"form": {
+"steps": "\n1. Stand with your feet shoulder-width apart, holding a weight plate in front of your thighs with your palms facing your body. \n2. Keeping your back straight and core engaged, lift the plate forward and upward, maintaining a slight bend in your elbows, until your arms are parallel to the floor. \n3. Hold this position for the desired amount of time, keeping your shoulders down and back.",
+"form": {
+"Elbows": "Maintain a slight bend in your elbows throughout the exercise.",
+"Shoulders": "Keep your shoulders down and back, avoiding shrugging them up towards your ears.",
+"Back": "Keep your back straight, avoiding any arching or rounding.",
+"Core": "Engage your core muscles to maintain stability and proper posture.",
+"Grip": "Hold the plate with a secure grip, ensuring it doesn't slip."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weight up instead of using a controlled movement.",
+"Shrugging Shoulders": "Raising your shoulders towards your ears, which can lead to neck strain.",
+"Arching Back": "Overarching your lower back, which can cause pain and injury.",
+"Holding Breath": "Remember to breathe throughout the exercise.",
+"Using Excessive Weight": "Choosing a weight that is too heavy, leading to improper form and potential injury."
+},
+"comments": {
+"Muscle Activation": "The front hold primarily targets the anterior deltoids (front shoulders), but it also engages the lateral deltoids (side shoulders), core muscles, and trapezius (upper back).",
+"Weight Selection": "This is an exercise where it is easy to pick a weight that is too heavy. Rather err on the lighter side, and strive for a strict form where you focus on getting good contact with your delts.",
+"Progression": "You can increase the weight of the plate, the duration of the hold, or the number of sets and reps as you get stronger.",
+"Variations": "You can also perform this exercise with dumbbells or kettlebells instead of a weight plate."
+},
+"alternativesAndVariations": {
+"Front Raise": "Involves lifting the weight with straight arms in front of you, targeting the front deltoids. The main difference is that the front raise is a dynamic exercise, while the front hold is an isometric exercise.",
+"Lateral Raise": "Focuses on the lateral deltoids, lifting the weight out to the sides with a slight bend in the elbows. It targets different parts of the shoulder muscles.",
+"Arnold Press": "A compound exercise that works the front, side, and rear deltoids, involving a rotating movement as you press the weights overhead.",
+"Overhead Press": "A compound exercise that works the shoulders, triceps, and upper back, pressing the weight overhead from a standing or seated position."
+},
+"tempo": "N/A - The front hold is an isometric exercise, meaning there is no movement involved. Therefore, tempo doesn't apply to this exercise."
+}
+}

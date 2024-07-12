@@ -1,0 +1,34 @@
+{
+"half-body-weight-squats": {
+    "form": {
+      "steps": "\n1. Stand with your feet slightly wider than shoulder-width apart, toes pointing slightly outwards. \n2. Keeping your back straight and core engaged, initiate the squat by pushing your hips back as if you were about to sit down. \n3. Lower yourself down until your thighs are parallel to the ground or slightly above. \n4. Push through your heels to return to the starting position, extending your hips and knees simultaneously.",
+      "form": {
+        "Back": "Keep your back straight throughout the movement, maintaining a neutral spine. Avoid rounding your back.",
+        "Core": "Engage your core muscles to stabilize your spine and prevent injury.",
+        "Knees": "Keep your knees in line with your toes throughout the movement. Avoid letting your knees cave inwards.",
+        "Heels": "Keep your weight on your heels throughout the movement. You should be able to wiggle your toes at any point.",
+        "Head": "Keep your head up and look straight ahead."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the back": "This is usually caused by a lack of core strength or trying to squat too heavy. Focus on keeping your core engaged and your back straight.",
+      "Knee valgus": "Letting your knees cave inwards, which can put stress on the knee joint. Ensure your knees track in line with your toes.",
+      "Heels coming off the ground": "This indicates that your weight is shifting forward, putting stress on your knees. Focus on keeping your weight on your heels.",
+      "Not squatting low enough": "Not squatting to at least parallel (thighs parallel to the ground) reduces the effectiveness of the exercise. Aim to squat as low as your mobility allows while maintaining good form."
+    },
+    "comments": {
+      "Progression": "As you get stronger, you can progress to full squats or add weight to your half-body-weight squats.",
+      "Warm-up": "Half-body-weight squats are a great exercise to include in your warm-up routine before any lower body workout.",
+      "Mobility": "This exercise can help improve hip and ankle mobility, which is essential for many daily activities and sports.",
+      "Balance": "Half-body-weight squats can also help improve balance and coordination.",
+      "Goblet Squat": "Holding a weight in front of you, like in a goblet squat, can help improve your form by providing a counterbalance."
+    },
+    "alternativesAndVariations": {
+      "Full Squats": "A more challenging variation that involves squatting down until your hips are below your knees.",
+      "Box Squats": "A variation where you squat down until your butt touches a box, which can help improve depth and technique.",
+      "Goblet Squats": "A variation where you hold a weight in front of you, which can help improve core engagement and balance.",
+      "Bulgarian Split Squats": "A single-leg variation that challenges your balance and targets your quads, glutes, and hamstrings."
+    },
+    "tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}

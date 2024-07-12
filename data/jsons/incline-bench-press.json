@@ -1,0 +1,34 @@
+{
+"incline-bench-press": {
+"form": {
+"steps": "\n1. Adjust the incline bench to an angle between 30 and 45 degrees. \n2. Sit on the bench with your feet flat on the floor, slightly wider than shoulder-width apart. \n3. Pull your shoulder blades together and down, and maintain a slight arch in your back. \n4. Grip the barbell with an overhand grip, slightly wider than shoulder-width apart. \n5. Unrack the barbell by straightening your arms and hold it above your shoulders. \n6. Inhale and slowly lower the bar down to your upper chest, keeping your elbows slightly tucked in. \n7. Press the bar back up to the starting position while exhaling, keeping your core engaged and maintaining a straight line from your shoulders to your hips. \n8. Pause at the top for a brief moment and squeeze your chest muscles. \n9. Repeat for the desired number of repetitions.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows slightly tucked in, not flared out to the sides.",
+"Back": "Maintain a slight arch in your back, but keep your butt on the bench.",
+"Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+"Chest": "Lower the bar to your upper chest, around the collarbone level."
+}
+},
+"commonMistakes": {
+"Incorrect Incline": "Using an incline that is too steep or too shallow. A steeper incline will target more of the upper chest and front deltoids, while a shallower incline will target more of the middle chest.",
+"Flaring Elbows": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints.",
+"Bouncing the Bar": "Bouncing the bar off your chest, which can lead to injury.",
+"Not Controlling the Descent": "Lowering the weight too quickly, which can put excessive stress on your muscles and joints.",
+"Lifting your Butt off the Bench": "This usually means you are lifting too heavy and compensating with your lower back, which can lead to injury."
+},
+"comments": {
+"Muscle groups used": "The incline bench press primarily targets the upper chest muscles (clavicular head of the pectoralis major), as well as the front deltoids and triceps.",
+"Angle Variation": "The angle of the incline bench can be adjusted to target different areas of the chest. A steeper incline will emphasize the upper chest and front deltoids, while a shallower incline will emphasize the middle chest.",
+"Shoulder Friendly": "The incline bench press is often considered to be easier on the shoulders than the flat bench press, as the angle of the bench puts less stress on the shoulder joint.",
+"Progression": "As you get stronger, you can increase the weight, increase the number of sets and reps, or decrease the rest time between sets."
+},
+"alternativesAndVariations": {
+"Dumbbell Incline Press": "Performing the exercise with dumbbells allows for a greater range of motion and can help improve muscle imbalances.",
+"Smith Machine Incline Press": "Using a Smith machine provides a fixed plane of motion, which can be helpful for beginners or those with shoulder stability issues.",
+"Decline Bench Press": "This variation targets the lower chest muscles more than the incline bench press.",
+"Overhead Press": "A compound exercise that primarily targets the shoulders, but also works the triceps and upper chest."
+},
+"tempo": "2110 (2 seconds lowering, 1 second pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

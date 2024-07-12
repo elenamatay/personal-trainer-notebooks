@@ -1,0 +1,33 @@
+{
+"block-clean": {
+"form": {
+"steps": "\n1. Set the barbell on blocks at a height slightly above your knees. \n2. Stand with your feet hip-width apart, toes pointing slightly outwards. \n3. Grip the bar with an overhand grip, slightly wider than shoulder-width apart, using a hook grip (thumb wrapped around the bar and under your fingers). \n4. Hinge at your hips to lower your body, ensuring your back is straight and your core is engaged. Your shoulders should be slightly in front of the barbell. \n5. Explosively extend your hips and knees, pulling the barbell upwards. Keep the bar close to your body as it rises. \n6. As the barbell reaches chest height, quickly rotate your elbows forward and pull yourself under the bar, dropping into a quarter-squat position. \n7. Catch the barbell on your upper chest and shoulders, with your elbows high and pointing forward. \n8. Stand up completely, maintaining an upright posture. \n9. Lower the barbell to the ground with control, reversing the movement.",
+"form": {
+"Back": "Keep your back straight throughout the entire movement, maintaining a neutral spine.",
+"Grip": "Use an overhand, hook grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows high and pointing forward when catching the barbell.",
+"Bar Path": "The bar should travel in a straight line close to your body throughout the lift.",
+"Foot Stance": "Maintain a hip-width stance with toes slightly pointed outwards."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This is a common mistake that can lead to lower back injury. Ensure your back is straight throughout the lift.",
+"Not Keeping the Bar Close": "Allowing the bar to drift away from your body reduces efficiency and increases the risk of injury. Keep the bar as close to your body as possible.",
+"Not Exploding Upwards": "The block clean requires a powerful upward explosion. Don't try to lift the weight slowly.",
+"Catching the Bar Too Low": "Catching the bar too low will put excessive strain on your arms and shoulders. Aim to catch the bar on your upper chest and shoulders."
+},
+"comments": {
+"Muscle Engagement": "The block clean is a compound exercise that engages multiple muscle groups, including the glutes, hamstrings, quads, back, traps, and shoulders.",
+"Power Development": "This exercise is highly effective for developing explosive power, which is essential for many sports and activities.",
+"Progression": "As you get stronger, you can increase the weight or the height of the blocks.",
+"Olympic Weightlifting": "The block clean is a variation of the clean, which is one of the two main lifts in Olympic weightlifting."
+},
+"alternativesAndVariations": {
+"Clean": "The full clean starts from the floor, making it more challenging than the block clean.",
+"Power Clean": "The power clean is similar to the clean but with a higher catch position, emphasizing explosiveness.",
+"Hang Clean": "The hang clean starts from a standing position with the bar at hip height, focusing on the second pull of the clean.",
+"Deadlifts": "Deadlifts work similar muscle groups as the block clean and can help improve overall strength."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

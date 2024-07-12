@@ -1,0 +1,37 @@
+{
+"hang-snatch": {
+"form": {
+"steps": "\n1. Stand with your feet hip-width apart, with a barbell in front of you. \n2. Bend at your hips to grip the barbell with an overhand grip, slightly wider than shoulder-width apart. Your grip should be wide enough that when you stand up straight, the bar sits comfortably in the crease of your hips. \n3. Extend your legs to lift the bar off the ground, keeping your back straight and core engaged. \n4. Lower the bar down to just above your knees by bending at your hips and knees, maintaining a straight back and keeping the bar close to your body. This is the starting position for the hang snatch. \n5. From this starting position, explosively extend your hips and knees, pulling the bar upwards. \n6. As the bar reaches chest height, quickly pull yourself under the bar, rotating your elbows around and under the bar. \n7. Drop into a squat position, catching the bar overhead with your arms fully extended. \n8. Stand up from the squat position, maintaining a stable overhead position with the bar. \n9. Lower the bar to the ground in a controlled manner.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Back": "Keep your back straight throughout the entire movement.",
+"Elbows": "Keep your elbows high and wide as you pull the bar upwards.",
+"Squat": "Catch the bar in a full squat position, with your hips below your knees.",
+"Head": "Keep your head in a neutral position, looking straight ahead.",
+"Bar Path": "The bar should travel in a straight line, close to your body throughout the entire lift."
+}
+},
+"commonMistakes": {
+"Not keeping the bar close to the body": "Allowing the bar to drift away from your body during the lift can put unnecessary stress on your lower back and make the lift less efficient.",
+"Not extending the hips and knees fully": "Failing to fully extend your hips and knees during the second pull will reduce the power of the lift.",
+"Not pulling yourself under the bar quickly enough": "Hesitating when pulling yourself under the bar will make it difficult to catch the bar in the correct position.",
+"Catching the bar with bent arms": "Catching the bar with bent arms puts excessive stress on your elbows and shoulders.",
+"Not squatting low enough": "Failing to squat low enough to catch the bar in a full squat position will make the lift less efficient and potentially dangerous."
+},
+"comments": {
+"Muscle groups used": "The hang snatch is a full-body exercise that primarily targets the glutes, hamstrings, quads, lower back, trapezius, and shoulders. It also engages the core, forearms, and calves.",
+"Explosive Exercise": "The hang snatch is an explosive exercise that requires a great deal of coordination and timing. It is important to start with a light weight and gradually increase the weight as you improve your technique.",
+"Progression": "Once you have mastered the hang snatch, you can progress to the full snatch, which starts from the floor.",
+"Olympic Weightlifting": "The hang snatch is a variation of the snatch, which is one of the two lifts contested in Olympic weightlifting (the other being the clean and jerk).",
+"Benefits": "The hang snatch is a highly effective exercise for developing power, speed, coordination, and athleticism."
+},
+"alternativesAndVariations": {
+"Power Snatch": "A variation of the hang snatch that is performed with a wider grip and a faster, more explosive pull. It is typically used as a power development exercise.",
+"Muscle Snatch": "A variation of the hang snatch that is performed with a slower, more controlled tempo. It is typically used to improve technique and build muscle mass.",
+"Hang Clean": "A similar exercise to the hang snatch, but the bar is caught in a front rack position instead of overhead.",
+"Power Clean": "A variation of the hang clean that is performed with a wider grip and a faster, more explosive pull.",
+"Muscle Clean": "A variation of the hang clean that is performed with a slower, more controlled tempo."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

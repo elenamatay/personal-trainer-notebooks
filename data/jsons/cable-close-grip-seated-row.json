@@ -1,0 +1,34 @@
+{
+  "cable-close-grip-seated-row": {
+    "form": {
+      "steps": "\n1. Attach a narrow, neutral grip handle to the cable row machine and adjust the footplate so that your legs are slightly bent when seated. \n2. Sit down on the machine and grip the handle with a neutral grip, slightly less than shoulder-width apart. \n3. Maintain an upright posture with your chest out, shoulders back, and core engaged. Lean forward slightly from your hips, keeping your back straight, and let your scapulae move freely by letting them protract (rounding your upper back slightly). \n4. Inhale, retract your shoulder blades (pull them together), and pull the handle towards your lower abdomen while slightly leaning back, until it touches your torso. \n5. Hold the contraction for a moment, keeping your shoulders pulled back and down. \n6. Exhale and slowly return to the starting position by extending your arms and leaning forward, allowing your shoulder blades to protract again.",
+      "form": {
+        "Grip": "Use a neutral grip (palms facing each other) slightly less than shoulder-width apart.",
+        "Back": "Maintain a straight back throughout the exercise. Don't hunch your back or lean too far forward or backward.",
+        "Shoulders": "Initiate the movement by retracting your shoulder blades, pulling them together. Don't shrug your shoulders up towards your ears.",
+        "Elbows": "Keep your elbows tucked in close to your body throughout the movement. Don't let them flare out to the sides.",
+        "Range of Motion": "Pull the handle towards your lower abdomen until it touches your torso. Don't stop short of full contraction.",
+        "Tempo": "Control the movement, both during the pulling and the returning phase. Don't use momentum to swing the weight."
+      }
+    },
+    "commonMistakes": {
+      "Rounding your back": "Keep your back straight throughout the exercise. Rounding your back can lead to lower back pain.",
+      "Shrugging your shoulders": "Focus on pulling your shoulder blades down and back, not up towards your ears. Shrugging your shoulders can lead to neck pain.",
+      "Flaring your elbows": "Keep your elbows tucked in close to your body. Flaring your elbows out to the sides can put stress on your shoulder joints.",
+      "Using momentum": "Control the movement and don't use momentum to swing the weight. Using momentum reduces the effectiveness of the exercise and increases the risk of injury."
+    },
+    "comments": {
+      "Muscle groups used": "The cable close-grip seated row primarily targets the muscles in your back, including the latissimus dorsi (lats), rhomboids, trapezius (traps), and rear deltoids. It also engages the biceps, forearms, and core muscles for stability.",
+      "Variations": "You can vary the width of your grip to target different muscle groups. A wider grip will emphasize the lats more, while a closer grip will emphasize the traps and rhomboids more.",
+      "Progression": "As you get stronger, you can increase the weight on the stack. You can also try using a heavier weight and doing fewer reps, or a lighter weight and doing more reps.",
+      "Alternatives": "If you don't have access to a cable machine, you can do other exercises that work the same muscle groups, such as pull-ups, chin-ups, or dumbbell rows."
+    },
+    "alternativesAndVariations": {
+      "Cable wide-grip seated row": "This variation emphasizes the lats more than the close-grip version. To perform it, use a wide grip on the handle, slightly wider than shoulder-width apart.",
+      "Barbell row": "This is a compound exercise that works the same muscle groups as the cable row. To perform it, stand with your feet shoulder-width apart and bend over at the waist, keeping your back straight. Grab the barbell with an overhand grip, slightly wider than shoulder-width apart. Pull the barbell up to your chest, keeping your elbows tucked in close to your body. Lower the barbell back to the starting position.",
+      "Pull-ups": "This is a challenging bodyweight exercise that works the back, biceps, and forearms. To perform it, grab a pull-up bar with an overhand grip, slightly wider than shoulder-width apart. Hang from the bar with your arms fully extended. Pull yourself up until your chin is over the bar. Lower yourself back down to the starting position.",
+      "Chin-ups": "This is a variation of the pull-up that emphasizes the biceps more. To perform it, grab a pull-up bar with an underhand grip, slightly narrower than shoulder-width apart. Hang from the bar with your arms fully extended. Pull yourself up until your chin is over the bar. Lower yourself back down to the starting position."
+    },
+    "tempo": "2011 (2 seconds pulling, 0 seconds pause at the contracted position, 1 second returning, 1 second pause at the starting position)"
+  }
+}

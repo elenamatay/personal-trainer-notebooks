@@ -1,0 +1,33 @@
+{
+  "one-handed-cable-row": {
+    "form": {
+      "steps": "\n1. Set up a cable machine with a single-grip handle attached at chest height. \n2. Stand facing the machine and grab the handle with one hand, keeping your other hand on your hip or a support for balance. \n3. Step back with one foot to create a staggered stance, with your knees slightly bent. \n4. Hinge at your hips to lean forward, maintaining a straight back and letting the weight pull your arm straight out in front of you. This is your starting position. \n5. Inhale and pull the handle towards the side of your abdomen, keeping your elbow close to your body and pulling your shoulder blade back and down. \n6. Exhale and slowly return to the starting position by extending your arm and leaning forward, allowing your shoulder blade to protract (move forward) in a controlled manner.",
+      "form": {
+        "Back": "Keep your back straight throughout the exercise, with a neutral spine. Avoid rounding or arching your back.",
+        "Elbow": "Keep your elbow close to your body during the pulling motion. Avoid letting it flare out to the side.",
+        "Shoulder Blades": "Focus on retracting your shoulder blade (pulling it back and down) as you pull the weight. This ensures proper muscle activation and prevents shoulder strain.",
+        "Core": "Engage your core muscles throughout the exercise to maintain stability and balance.",
+        "Range of Motion": "Pull the weight until it reaches your side, feeling a strong contraction in your back muscles. Avoid using momentum or jerking the weight."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the Back": "This is a common mistake that can lead to lower back pain. Make sure to keep your back straight throughout the exercise.",
+      "Flaring Elbows": "Letting your elbows flare out to the sides reduces the engagement of the back muscles and puts more stress on your shoulders.",
+      "Using Momentum": "Using momentum to pull the weight reduces the effectiveness of the exercise. Focus on using a controlled movement and squeezing your back muscles at the top of the row.",
+      "Not Retracting Shoulder Blades": "Not retracting your shoulder blades properly can lead to shoulder impingement and reduce the effectiveness of the exercise."
+    },
+    "comments": {
+      "Unilateral Exercise": "The one-handed cable row is a unilateral exercise, meaning it works one side of the body at a time. This can help identify and correct muscle imbalances between sides.",
+      "Muscle Focus": "This exercise primarily targets the latissimus dorsi (lats), the largest muscles in your back. It also works the rhomboids, trapezius, rear deltoids, biceps, and forearms.",
+      "Variations": "You can vary the exercise by changing the attachment point of the cable. A lower attachment point will emphasize the lower lats, while a higher attachment point will emphasize the upper back muscles.",
+      "Grip Variations": "Experiment with different grip variations, such as overhand, underhand, or neutral grip, to target different muscle groups and find what feels most comfortable for you."
+    },
+    "alternativesAndVariations": {
+      "Barbell Rows": "A compound exercise that works multiple muscle groups in the back, similar to the one-handed cable row. The main difference is that barbell rows are performed with a barbell and engage both sides of the body simultaneously.",
+      "Pull-Ups": "A challenging bodyweight exercise that primarily targets the lats and biceps. Pull-ups require you to lift your own body weight, making them a highly effective exercise for building back strength.",
+      "Seated Cable Rows": "Similar to the one-handed cable row, but performed while seated. Seated cable rows provide more stability and can be a good option for those with balance issues.",
+      "T-Bar Rows": "Another variation of the row exercise that uses a T-bar machine. T-bar rows allow for a greater range of motion and can be loaded heavier than cable rows."
+    },
+    "tempo": "2011 (2 seconds pulling, 0 seconds pause at the contracted position, 1 second returning to the starting position, 1 second pause at the stretched position)"
+  }
+}

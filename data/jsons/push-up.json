@@ -1,0 +1,34 @@
+{
+"push-up": {
+"form": {
+"steps": "\n1. Assume the starting position, with hands slightly wider than shoulder-width apart, fingers pointing forward. \n2. Try to form a straight line from head to heels, and brace your abdomen slightly. \n3. Lower yourself as deep as you can, while inhaling, until your chest touches the floor. \n4. Reverse the motion when you've touched the floor, and push yourself up to straight arms again while exhaling. \n5. Repeat for reps.",
+"form": {
+"Hand Placement": "Slightly wider than shoulder-width apart, fingers pointing forward.",
+"Body Alignment": "Maintain a straight line from head to heels throughout the movement.",
+"Core Engagement": "Keep your core engaged to prevent your hips from sagging or hiking.",
+"Elbow Position": "Keep your elbows slightly tucked in towards your body, not flared out.",
+"Range of Motion": "Lower your body until your chest touches the floor, then push back up to full extension."
+}
+},
+"commonMistakes": {
+"Elbow Flare": "Flaring elbows out to the sides, which can strain your shoulder joints.",
+"Sagging Hips": "Letting your hips sag towards the floor, indicating weak core engagement.",
+"Partial Range of Motion": "Not lowering your body far enough down or not pushing all the way back up.",
+"Head Position": "Looking up or dropping your head down, which can strain your neck. Keep your neck neutral."
+},
+"comments": {
+"Bodyweight Exercise": "The push-up is a classic bodyweight exercise for the upper body, with the benefit that you don't need any equipment to perform it.",
+"Muscle Activation": "Push-ups primarily work the chest, triceps, and front deltoids, but they also engage the core, back, and shoulders for stabilization.",
+"Intensity Adjustment": "You can increase or decrease the intensity of push-ups by adjusting your body position. To make it easier, perform push-ups against a wall, elevated surface, or with your knees on the ground. To increase the difficulty, elevate your feet, use resistance bands, or try variations like decline push-ups or diamond push-ups.",
+"Core Training": "Push-ups also provide static core training, similar to the plank exercise. To further enhance core activation, try performing push-ups with your hands or feet on an unstable surface, such as suspension trainers or stability balls."
+},
+"alternativesAndVariations": {
+"Bench Press": "A compound exercise that primarily targets the chest, triceps, and shoulders. It's a good alternative for those who find push-ups too challenging or want to lift heavier weights.",
+"Incline Push-Up": "This variation emphasizes the upper chest muscles. Place your hands on an elevated surface, such as a bench or step.",
+"Decline Push-Up": "This variation emphasizes the lower chest muscles. Place your feet on an elevated surface.",
+"Diamond Push-Up": "This variation, with hands close together forming a diamond shape, increases triceps activation.",
+"Pike Push-Up": "This variation, with hips raised high, targets the shoulders more directly."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

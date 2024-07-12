@@ -1,0 +1,32 @@
+{
+"kneeling-ab-wheel-roll-out": {
+"form": {
+"steps": "\n1. Start in a kneeling position on a soft pad or mat with your knees hip-width apart. \n2. Hold the ab wheel with both hands, palms facing down, directly below your shoulders. \n3. Engage your core and slowly roll the wheel forward, extending your body as far as possible while maintaining a straight back and keeping your core engaged. \n4. Once you reach your maximum extension or feel a slight tension in your abs, use your core strength to pull the wheel back towards your knees, returning to the starting position.",
+"form": {
+"Back": "Maintain a straight back throughout the entire movement. Avoid rounding or arching your back.",
+"Core": "Keep your core muscles engaged throughout the exercise. This helps to protect your lower back and ensures that your abs are doing the work.",
+"Hips": "Avoid sagging or pushing your hips up in the air. Keep your hips in line with your torso.",
+"Breathing": "Exhale as you roll out and inhale as you roll back in."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This is a common mistake that can lead to lower back pain. Make sure to keep your back straight throughout the movement.",
+"Rolling Out Too Far": "If you're new to this exercise, start by rolling out only as far as you can while maintaining good form. As you get stronger, you can gradually increase your range of motion.",
+"Using Momentum": "Avoid using momentum to swing the wheel back and forth. Focus on using your core muscles to control the movement."
+},
+"comments": {
+"Progression": "This exercise can be progressed by performing it from a standing position (standing ab wheel rollout).",
+"Regression": "This exercise can be regressed by limiting the range of motion or by performing it with a resistance band.",
+"Variations": "This exercise can be performed with an ab wheel or with a barbell that has good rotation.",
+"Muscle groups used": "The kneeling ab wheel rollout is a challenging exercise that primarily targets the rectus abdominis (abs) and obliques. It also engages the hip flexors, lats, and shoulders to a lesser extent."
+},
+"alternativesAndVariations": {
+"Standing Ab Wheel Rollout": "A more advanced variation that increases the range of motion and the challenge to the core.",
+"Barbell Rollout": "A suitable alternative if you don't have an ab wheel. Use a barbell with weight plates and ensure it rotates smoothly.",
+"Plank": "A static exercise that strengthens the core, including the abs and obliques.",
+"Crunches": "A classic ab exercise that targets the upper abs.",
+"Leg Raises": "An effective exercise for targeting the lower abs."
+},
+"tempo": "3010 (3 seconds rolling out, 0 seconds pause at the bottom, 1 second rolling in, 0 seconds pause at the top)"
+}
+}

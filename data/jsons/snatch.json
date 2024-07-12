@@ -1,0 +1,38 @@
+{
+"snatch": {
+"form": {
+"steps": "\n1. Step up close to the bar, with your feet about hip-width apart, so that the bar is positioned over the middle of your foot. \n2. Lean forward and grip the bar with a wide overhand grip (snatch grip), slightly wider than shoulder-width and close to the weight plates. \n3. With your back straight, shoulders over the bar, and core engaged, lift the bar off the ground a few inches to ensure proper starting position. This is your starting position. \n4. Hold your breath, brace your core tightly, and lower your hips towards the floor, maintaining a flat back. \n5. Explosively extend your legs and hips, driving the bar upwards in a smooth but fast motion. \n6. As the bar reaches hip level, shrug your shoulders powerfully to continue the upward momentum. \n7. Once the bar reaches its maximum height, quickly pull yourself under the bar, rotating your elbows outwards and dropping into a deep squat position. \n8. Catch the bar overhead with straight arms, ensuring the bar is balanced over your head. \n9. Stand up from the squat position, maintaining control of the bar overhead. \n10. Lower the bar to the ground in a controlled manner, either by reversing the movement or gently guiding it down in front of you.",
+"form": {
+"Grip": "Wide overhand grip (snatch grip), slightly wider than shoulder-width.",
+"Back": "Keep your back straight throughout the entire movement.",
+"Core": "Engage your core to maintain stability and power.",
+"Hips": "Lower your hips as much as your mobility allows while maintaining a flat back.",
+"Elbows": "Rotate your elbows outwards as you pull yourself under the bar.",
+"Squat": "Catch the bar in a deep squat position with your chest up and back straight.",
+"Head": "Keep your head neutral and look straight ahead."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This can lead to lower back injury. Focus on maintaining a straight back throughout the lift.",
+"Not Engaging the Core": "Engaging your core is crucial for stability and power transfer. Brace your core tightly throughout the movement.",
+"Early Arm Pull": "Pulling the bar up with your arms too early reduces power and efficiency. Focus on using your legs and hips to drive the bar upwards.",
+"Not Pulling Under the Bar": "Failing to pull yourself under the bar quickly enough will result in a missed lift. As the bar reaches its peak, aggressively pull yourself under.",
+"Catching the Bar Too Far Forward": "This puts excessive strain on your wrists and elbows. Aim to catch the bar directly overhead with your arms locked out."
+},
+"comments": {
+"Explosive Power": "The snatch is a highly technical lift that requires explosive power, coordination, and flexibility. It's a full-body exercise that engages multiple muscle groups simultaneously.",
+"Progression": "Start with lighter weights and gradually increase the load as your technique improves. Focus on mastering the movement pattern before adding weight.",
+"Mobility": "Adequate mobility in your hips, ankles, and thoracic spine is essential for performing the snatch correctly. Incorporate mobility exercises into your warm-up routine.",
+"Power Snatch": "A slightly easier variation of the snatch is the power snatch, in which you don't catch the bar in such a deep squat position.",
+"Weightlifting": "The snatch is one of the two competition lifts in Olympic weightlifting, alongside the clean and jerk."
+},
+"alternativesAndVariations": {
+"Power Snatch": "A variation of the snatch where the bar is caught in a higher squat position, requiring less mobility but more power.",
+"Hang Snatch": "Performed from a standing position with the bar hanging at hip level, focusing on the second pull phase of the snatch.",
+"Muscle Snatch": "A variation that emphasizes the use of the arms and shoulders, performed with a narrower grip and a slower, more controlled movement.",
+"Overhead Squat": "An excellent exercise for improving overhead mobility and stability, which are crucial for the snatch.",
+"Clean and Jerk": "The other competition lift in Olympic weightlifting, also requiring explosive power and technical proficiency."
+},
+"tempo": "10X0 (1 second lowering, 0 seconds pause at the bottom, X - explosive concentric phase, 0 seconds pause at the top)"
+}
+}

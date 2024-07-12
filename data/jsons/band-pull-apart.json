@@ -1,0 +1,29 @@
+{
+"band-pull-apart": {
+"form": {
+"steps": "\n1. Stand upright with your feet shoulder-width apart. \n2. Grab an elastic band with an overhand grip, slightly wider than shoulder-width. \n3. Extend your arms forward in front of you at chest level, keeping them straight but not locked. \n4. Pull the band apart by moving your arms to the sides as far as you can, or until your arms are pointing straight out to the sides. \n5. Slowly return to the starting position, keeping tension on the band throughout the movement.",
+"form": {
+"Elbows": "Maintain a slight bend in your elbows throughout the exercise.",
+"Shoulders": "Focus on using your rear deltoids and upper back muscles to pull the band apart, not your biceps or forearms.",
+"Chest": "Keep your chest up and maintain good posture throughout the movement."
+}
+},
+"commonMistakes": {
+"Using too heavy resistance": "Using a band that is too resistant can lead to improper form and potential injury. Start with a lighter band and gradually increase the resistance as you get stronger.",
+"Not controlling the movement": "It's important to control both the eccentric (pulling apart) and concentric (returning to starting position) portions of the exercise. Avoid letting the band snap back.",
+"Shrugging your shoulders": "Focus on keeping your shoulders down and relaxed. Avoid shrugging them up towards your ears during the movement."
+},
+"comments": {
+"Warm-up exercise": "Band pull-aparts are a popular warm-up exercise for the shoulders, often done before upper body exercises such as bench press or overhead presses.",
+"Grip and Resistance": "Experiment with your grip width on the band, as well as band strength, to find the right resistance that allows you to maintain good form and target the desired muscles.",
+"Muscle activation": "This exercise is great for improving posture, strengthening the muscles that retract the scapula (shoulder blades), and promoting shoulder health and stability."
+},
+"alternativesAndVariations": {
+"Face Pulls": "Similar to band pull-aparts, but performed with a rope attachment on a cable machine. Face pulls engage a greater range of motion and allow for increased resistance.",
+"Reverse Dumbbell Flyes": "Performed with dumbbells, this exercise targets similar muscles as band pull-aparts but with a greater range of motion and the ability to use heavier weight.",
+"Wall Slides": "A bodyweight exercise that helps improve thoracic mobility and shoulder flexibility, which can be beneficial for performing band pull-aparts correctly.",
+"Scapular Push-Ups": "Another bodyweight exercise that strengthens the muscles involved in scapular retraction and protraction, improving shoulder stability."
+},
+"tempo": "2012 (2 seconds pulling apart, 0 seconds pause at the fully stretched position, 1 second returning to starting position, 2 seconds hold at the starting position)"
+}
+}

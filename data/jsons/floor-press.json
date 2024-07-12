@@ -1,0 +1,34 @@
+{
+"floor-press": {
+"form": {
+"steps": "\n1. Lie down on the floor with your feet flat on the ground, positioning yourself so that your eyes are under the racked barbell. \n2. Grip the bar with an overhand grip, slightly wider than shoulder-width apart. \n3. Inhale, pull your shoulder blades down and together, engage your core, and unrack the bar by straightening your arms. \n4. Lower the bar slowly and in a controlled manner until your upper arms make contact with the floor. \n5. Pause briefly, then reverse the motion and push the bar back up to the starting position, extending your arms fully.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows tucked in at about a 45-degree angle during the movement.",
+"Back": "Maintain a natural arch in your back throughout the exercise.",
+"Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+"Head": "Keep your head flat on the floor, looking straight up."
+}
+},
+"commonMistakes": {
+"Flaring Elbows": "Allowing your elbows to flare out to the sides, which can put stress on your shoulder joints.",
+"Bouncing the Bar": "Bouncing the bar off your chest, which can lead to injury.",
+"Not Controlling the Descent": "Lowering the weight too quickly, which can put excessive stress on your muscles and joints.",
+"Lifting your Hips off the Floor": "This usually means you are lifting too heavy and compensating with your lower back, which can lead to injury."
+},
+"comments": {
+"Muscle groups used": "The floor press primarily targets the chest muscles, triceps, and the anterior deltoids (front shoulders).",
+"Range of Motion": "The floor press has a shorter range of motion compared to the traditional bench press, as the floor limits the descent of the barbell.",
+"Shoulder-Friendly": "The limited range of motion can make the floor press a more shoulder-friendly option for individuals who experience discomfort or pain during bench pressing.",
+"Starting Position": "The best way to get into the starting position is if you can unrack the bar from a power rack that you can reach from the floor. Set the rack height so that you only have to extend your arms slightly to unrack the bar.",
+"Alternatives for Starting Position": "If you cannot find a rack that goes low enough, other options would be to place the bar on blocks, have a spotter hand it to you, or heave it up from the floor using your abdomen."
+},
+"alternativesAndVariations": {
+"Bench Press": "A classic compound exercise that targets the chest, triceps, and shoulders. The main difference is that it's performed on a bench, allowing for a greater range of motion.",
+"Dumbbell Floor Press": "This variation allows for a greater range of motion and independent arm movement compared to the barbell version.",
+"Close-Grip Floor Press": "By bringing your hands closer together on the barbell, you shift more emphasis onto your triceps.",
+"Push-Ups": "A bodyweight exercise that can be performed anywhere and targets similar muscle groups as the floor press."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

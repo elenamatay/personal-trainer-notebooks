@@ -1,0 +1,30 @@
+{
+  "barbell-wrist-extension": {
+    "form": {
+      "steps": "\n1. Sit on a bench with your feet flat on the floor. \n2. Grab a barbell with an overhand grip, slightly narrower than shoulder-width apart. \n3. Rest your forearms on your thighs, with your wrists positioned just beyond your knees. \n4. Keeping your forearms on your thighs, slowly lower the barbell towards the floor by extending your wrists. \n5. Reverse the motion by flexing your wrists, bringing the barbell back up to the starting position.",
+      "form": {
+        "Grip": "Overhand grip, slightly narrower than shoulder-width apart.",
+        "Forearms": "Keep your forearms resting on your thighs throughout the entire exercise.",
+        "Wrists": "Maintain a straight line from your forearms to your knuckles.",
+        "Movement": "The movement should only occur at the wrist joint."
+      }
+    },
+    "commonMistakes": {
+      "Using Too Much Weight": "Using a weight that is too heavy can lead to improper form and increase the risk of injury.",
+      "Moving at the Elbows": "The movement should only occur at the wrist joint. Keep your elbows still and avoid using them to lift the weight.",
+      "Not Using Full Range of Motion": "Perform the exercise with a full range of motion, extending your wrists fully at the bottom and flexing them fully at the top."
+    },
+    "comments": {
+      "Muscle Focus": "Barbell wrist extensions primarily target the forearm extensor muscles, which are responsible for extending the wrist.",
+      "Grip Variation": "You can also perform this exercise with a dumbbell in each hand for a slightly different feel.",
+      "Forearm Support": "If you find it uncomfortable to rest your forearms on your thighs, you can also perform the exercise with your forearms resting on a bench.",
+      "Importance of Forearm Strength": "Strong forearm extensors are important for a variety of activities, including gripping, lifting, and carrying objects."
+    },
+    "alternativesAndVariations": {
+      "Dumbbell Wrist Extension": "This variation allows for unilateral training, which can help address strength imbalances between the forearms.",
+      "Reverse Barbell Curl": "This exercise targets the forearm flexors, which are the opposing muscle group to the forearm extensors.",
+      "Plate Pinch": "This exercise involves holding weight plates together with your fingertips, which strengthens the grip and forearm muscles."
+    },
+    "tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

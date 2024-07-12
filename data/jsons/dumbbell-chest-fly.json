@@ -1,0 +1,21 @@
+{
+    "dumbbell_chest_fly": {
+        "form": {
+            "Steps": "\n1. Lie on a bench, and lift a pair of dumbbells up to the starting position, with a pronated grip, slightly narrower than shoulder width. \n2. With almost completely straight arms, lower the dumbbells out to your sides in a wide arc, until you feel a stretch in your chest. \n3. When you’ve lowered the dumbbells as deep as possible, reverse the motion and return the dumbbells to the starting position by contracting your chest muscles. \n4. Repeat for reps.", 
+            "Form": {
+                "1. Positioning": "Lie flat on a bench with your feet flat on the floor to maintain balance. Tuck your shoulder blades down and back, and keep your chest up to create a stable position.", 
+                "2. Movement": "Keep your elbows slightly bent, and hold them in the same position during the entire movement. You want the movement to be in your shoulder joint, by contracting your chest muscles, not in the elbow. Keep both elbows and wrists in the same position during the entire movement."
+            }
+        }, 
+        "tempo": "3110", 
+        "commonMistakes": {
+            "1": "Adding too much weight. The dumbbell chest fly is an exercise that gets heavy fast in the bottom position, and using heavier weights than you can handle puts you at risk of injury or a breakdown in form, reducing the exercise’s effectiveness. Start with very light weights and build from there.", 
+            "2": "Bending your arms. Keep your arms almost straight to avoid turning the chest fly into a chest press. This will require you to use light weights.", "3": "Not controlling the weight. Don't let the dumbbells drop too quickly on the eccentric phase, and don't use momentum to bring them back up. Control the weight during both the eccentric and concentric phases."
+        }, 
+        "comments": "The dumbbell chest fly is an isolation exercise for your chest muscles and front deltoids. As you lower the dumbbells in the chest fly, the load on these muscles increases as they become more stretched, which is beneficial for muscle growth.", 
+        "alternativesAndVariations": {
+            "Cable Chest Fly": "Compared to the dumbbell chest fly, the resistance curve in cable flyes is more evenly distributed. This means your chest muscles get a longer time under tension in each repetition, and you can probably get a better chest pump with this exercise.", 
+            "Resistance Band Chest Fly": "If you don’t have access to dumbbells or a cable machine, you can perform chest flyes with a resistance band. Attach the band at chest height and work one side at a time. The constant tension in the movement is similar to the cable version. The downside is that it’s harder to adjust the resistance with the banded version."
+        }
+    }
+}

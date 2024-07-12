@@ -1,0 +1,33 @@
+{
+"monkey-row": {
+"form": {
+"steps": "\n1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your arms by your sides. \n2. Hinge at your hips and lean forward, keeping your back straight and core engaged. \n3. Let the dumbbells hang straight down from your shoulders, maintaining a neutral grip (palms facing each other). \n4. Pull the dumbbells straight up towards your chest, keeping your elbows close to your body and upper arms perpendicular to the floor. \n5. Squeeze your shoulder blades together at the top of the movement. \n6. With control, lower the dumbbells back to the starting position.",
+"form": {
+"Back": "Keep your back straight and maintain a natural arch in your lower back throughout the movement. Avoid rounding your back.",
+"Core": "Engage your core to stabilize your body and protect your lower back.",
+"Elbows": "Keep your elbows close to your body throughout the movement. Don't let them flare out to the sides.",
+"Grip": "Maintain a neutral grip (palms facing each other) throughout the exercise.",
+"Range of Motion": "Pull the dumbbells up as high as you can while maintaining good form. Lower the dumbbells until your arms are fully extended."
+}
+},
+"commonMistakes": {
+"Using Too Much Weight": "Using too much weight can lead to poor form and increase the risk of injury. Start with a lighter weight and gradually increase as you get stronger.",
+"Rounding the Back": "Rounding your back puts stress on your spine. Keep your back straight and core engaged throughout the movement.",
+"Flaring Elbows": "Flaring your elbows out to the sides reduces the activation of the lateral deltoids. Keep your elbows close to your body.",
+"Not Controlling the Movement": "Control both the lifting and lowering phases of the exercise. Avoid using momentum to swing the weights up."
+},
+"comments": {
+"Muscle Activation": "The monkey row primarily targets the lateral deltoids (side delts), which are responsible for shoulder abduction (lifting your arms out to the sides). It also engages the trapezius, rhomboids, biceps, and forearms.",
+"Variation": "You can perform monkey rows with various equipment, including dumbbells, kettlebells, or resistance bands.",
+"Grip Variations": "While a neutral grip is standard, you can experiment with overhand or underhand grips to slightly alter muscle activation.",
+"Unilateral vs. Bilateral": "You can perform monkey rows unilaterally (one arm at a time) or bilaterally (both arms together). Unilateral exercises can help address strength imbalances between sides."
+},
+"alternativesAndVariations": {
+"Dumbbell Lateral Raises": "A classic shoulder exercise that isolates the lateral deltoids. Stand with dumbbells at your sides and raise your arms out to the sides until they're parallel to the floor.",
+"Cable Face Pulls": "A versatile exercise that targets the rear deltoids, traps, and biceps. Stand facing a cable machine and pull the rope towards your face, keeping your elbows high and wide.",
+"Bent-Over Rows": "A compound exercise that works the back, biceps, and shoulders. Bend at your hips, keeping your back straight, and pull a barbell or dumbbells towards your chest.",
+"Upright Rows": "An exercise that targets the traps, shoulders, and biceps. Stand with a barbell or dumbbells in front of you and pull the weight up towards your chin, keeping it close to your body."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

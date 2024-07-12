@@ -1,0 +1,33 @@
+{
+"decline-push-up": {
+"form": {
+"steps": "\n1. Place your hands slightly wider than shoulder-width apart on the floor and elevate your feet by placing them on a stable, elevated surface (bench, chair, etc.). \n2. Form a straight line from head to heels, engaging your core and glutes to maintain a rigid bodyline. \n3. Inhale as you lower your chest towards the floor by bending your elbows. Keep your elbows slightly tucked in, not flared out to the sides. \n4. Descend until your chest grazes the floor or you reach a comfortable depth. \n5. Exhale and push through your palms to reverse the motion, extending your arms to return to the starting position.",
+"form": {
+"Hand Placement": "Slightly wider than shoulder-width apart, fingers pointing forward.",
+"Elbows": "Keep your elbows slightly tucked in towards your body during the movement.",
+"Bodyline": "Maintain a straight line from head to heels throughout the exercise. Avoid sagging hips or lifting your glutes.",
+"Core Engagement": "Engage your core muscles to stabilize your spine and prevent arching your back.",
+"Breathing": "Inhale as you lower down, exhale as you push up."
+}
+},
+"commonMistakes": {
+"Elbow Flare": "Allowing elbows to flare out to the sides, which can strain shoulder joints.",
+"Sagging Hips": "Letting your hips sag towards the floor, indicating weak core engagement.",
+"Incomplete Range of Motion": "Not lowering your chest close enough to the floor or not fully extending your arms at the top.",
+"Head Position": "Looking up or dropping your head down, which can strain your neck. Keep your head aligned with your spine."
+},
+"comments": {
+"Muscle Activation": "Decline push-ups emphasize the upper chest muscles more than standard push-ups. They also engage the front deltoids, triceps, and core.",
+"Progression": "To increase the challenge, elevate your feet higher. To decrease the challenge, perform the push-up with your hands elevated on a surface instead.",
+"Variations": "Vary hand placement (closer or wider) to target different muscle groups. Closer grip emphasizes triceps, wider grip emphasizes chest.",
+"Core Training": "Like all push-up variations, decline push-ups engage the core muscles to maintain stability, providing a static core workout."
+},
+"alternativesAndVariations": {
+"Incline Push-Ups": "Performed with hands elevated on a surface, these are easier than standard push-ups and target the lower chest muscles.",
+"Standard Push-Ups": "A classic bodyweight exercise that works the chest, triceps, and shoulders with less emphasis on the upper chest compared to decline push-ups.",
+"Chest Press": "A weighted exercise that can be performed with dumbbells or a barbell, offering progressive overload for chest development.",
+"Dumbbell Bench Press": "Similar to the chest press but using dumbbells, allowing for a greater range of motion and muscle activation."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

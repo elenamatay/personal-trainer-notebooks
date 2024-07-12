@@ -1,0 +1,33 @@
+{
+"dumbbell-floor-press": {
+    "form": {
+      "steps": "\n1. Sit on the floor with your legs extended and a pair of dumbbells on each side of your hips. \n2. Pick the dumbbells up and bring them up to your chest, rotating your wrists so that your palms face each other. \n3. Lie down on the floor while bringing the dumbbells up, bending your knees and placing your feet flat on the floor. Your upper arms should be at a 45-degree angle to your torso. \n4. Press the dumbbells up to straight arms, keeping your elbows slightly bent. \n5. Lower the dumbbells slowly until your upper arms touch the floor. \n6. Reverse the motion and push the dumbbells up to straight arms again. \n7. Gently drop the dumbbells to the floor to finish the set.",
+      "form": {
+        "Grip": "Neutral grip, with your palms facing each other.",
+        "Elbows": "Keep your elbows slightly tucked in during the movement, at a 45-degree angle to your torso.",
+        "Back": "Maintain a neutral spine throughout the exercise, with a natural arch in your lower back.",
+        "Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+        "Feet": "Keep your feet flat on the floor, about hip-width apart."
+      }
+    },
+    "commonMistakes": {
+      "Flaring Elbows": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints.",
+      "Bouncing the Dumbbells": "Bouncing the dumbbells off your chest, which can lead to injury.",
+      "Not Controlling the Descent": "Lowering the weight too quickly, which can put excessive stress on your muscles and joints.",
+      "Lifting your Hips off the Floor": "This usually means you are lifting too heavy and compensating with your lower back, which can lead to injury."
+    },
+    "comments": {
+      "Muscle groups used": "The dumbbell floor press primarily targets the chest, front deltoids, and triceps.",
+      "Limited Range of Motion": "The dumbbell floor press has a shorter range of motion compared to the dumbbell bench press, as your upper arms will touch the floor, which can be beneficial for people with shoulder pain.",
+      "Home Workout Friendly": "It's a great alternative to the dumbbell chest press if you train at home and don't have a weight bench.",
+      "Progression": "As you get stronger, you can increase the weight of the dumbbells or perform the exercise with your feet elevated on a bench or box to increase the range of motion."
+    },
+    "alternativesAndVariations": {
+      "Dumbbell Bench Press": "A compound exercise that works the chest, triceps, and shoulders. The main difference is that it's performed on a bench, which allows for a greater range of motion.",
+      "Push-Ups": "A bodyweight exercise that works the chest, triceps, and shoulders. It can be a good alternative to the dumbbell floor press if you don't have access to weights.",
+      "Chest Flyes": "An isolation exercise that targets the chest muscles. It can be performed with dumbbells or cables.",
+      "Cable Crossovers": "Another isolation exercise for the chest, performed on a cable machine. It involves bringing the cables together in front of your chest."
+    },
+    "tempo": "2110 (2 seconds lowering, 1 second pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}

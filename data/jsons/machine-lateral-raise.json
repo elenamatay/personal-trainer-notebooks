@@ -1,0 +1,32 @@
+{
+"machine-lateral-raise": {
+"form": {
+"steps": "\n1. Sit on the machine with your back straight and your feet flat on the floor. Adjust the seat height so that your elbows are aligned with the axis of rotation of the machine's arms. \n2. Place your elbows on the pads, ensuring they are slightly bent and comfortable. Your forearms should be pointing slightly downwards. \n3. Engage your core and keep your chest up. This is your starting position. \n4. Exhale and raise your arms out to the sides in a wide arc, keeping your elbows slightly bent and pointing outwards. Continue raising your arms until they are slightly above parallel to the floor. \n5. Hold for a brief moment at the top of the movement, feeling the contraction in your lateral deltoids. \n6. Inhale and slowly lower the weight back to the starting position, controlling the movement and maintaining tension on the muscles.",
+"form": {
+"Elbows": "Keep your elbows slightly bent throughout the exercise. Don't lock them out.",
+"Torso": "Maintain a stable torso throughout the movement. Avoid swinging your body or using momentum to lift the weight.",
+"Range of Motion": "Lift your arms until they are slightly above parallel to the floor. Avoid going too high, as this can put stress on your shoulder joints.",
+"Movement": "The movement should be slow and controlled, both during the lifting and lowering phases."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the body or using momentum to lift the weight, which reduces the effectiveness of the exercise and increases the risk of injury.",
+"Lifting Too Heavy": "Choosing a weight that is too heavy, leading to poor form and potential strain on the shoulder joints.",
+"Locking Elbows": "Locking out the elbows at the top of the movement, which can put stress on the joints.",
+"Not Controlling the Negative": "Lowering the weight too quickly without control, which reduces muscle engagement and increases the risk of injury."
+},
+"comments": {
+"Isolation exercise": "The machine lateral raise is an isolation exercise that primarily targets the lateral deltoids, which are the muscles on the outer sides of your shoulders.",
+"Muscle Growth": "Developing the lateral deltoids can enhance shoulder width and improve overall upper body aesthetics.",
+"Weight Selection": "It's crucial to select an appropriate weight that allows you to maintain proper form throughout the exercise. Start with a lighter weight and gradually increase it as you get stronger.",
+"Mind-Muscle Connection": "Focus on establishing a strong mind-muscle connection by concentrating on contracting the lateral deltoids during the lifting and lowering phases."
+},
+"alternativesAndVariations": {
+"Dumbbell Lateral Raise": "A free weight variation that allows for a greater range of motion and challenges your core stability to a greater extent.",
+"Cable Lateral Raise": "Provides constant tension on the lateral deltoids throughout the exercise, leading to greater muscle activation.",
+"Leaning Dumbbell Lateral Raise": "This variation emphasizes the lateral deltoids by shifting the weight distribution and increasing the range of motion.",
+"Upright Row": "A compound exercise that works multiple muscle groups in the shoulders and upper back, including the lateral deltoids."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

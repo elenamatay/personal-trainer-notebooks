@@ -1,0 +1,33 @@
+{
+  "chin-up": {
+    "form": {
+      "steps": "\n1. Grip a pull-up bar with an underhand grip (palms facing you), slightly closer than shoulder-width apart. \n2. Hang freely from the bar with your arms fully extended. \n3. Keep your chest up, and look up at the bar. \n4. Inhale and pull yourself up until your chin is over the bar. \n5. Exhale and lower yourself with control until your arms are fully extended.",
+      "form": {
+        "Grip": "Underhand grip, slightly closer than shoulder-width apart.",
+        "Shoulders": "Keep your shoulders pulled down and back, engaging your lats.",
+        "Elbows": "As you pull yourself up, keep your elbows tucked in close to your body.",
+        "Full Range of Motion": "Use a full range of motion, extending your arms completely at the bottom and pulling yourself up until your chin is over the bar.",
+        "Core": "Engage your core throughout the movement to maintain stability."
+      }
+    },
+    "commonMistakes": {
+      "Using Momentum": "Swinging your body to generate momentum instead of using muscle strength to pull yourself up.",
+      "Partial Range of Motion": "Not fully extending your arms at the bottom or not pulling yourself up high enough.",
+      "Shrugging Your Shoulders": "Letting your shoulders rise up towards your ears, which can lead to neck strain and reduces lat engagement.",
+      "Not Engaging Your Lats": "Focusing too much on your biceps and not engaging your lats properly."
+    },
+    "comments": {
+      "Muscle Activation": "Chin-ups are a compound exercise that primarily targets the latissimus dorsi (lats) muscles in your back, but they also work your biceps, rear deltoids, forearms, and core.",
+      "Grip Variation": "You can adjust the width of your grip to target different muscle groups. A closer grip will emphasize the biceps, while a wider grip will put more emphasis on the lats.",
+      "Progression": "If you can't do a full chin-up yet, you can use assistance bands or a machine to help you complete the movement. As you get stronger, you can gradually reduce the assistance until you're able to do unassisted chin-ups.",
+      "Pull-up Comparison": "Many people find chin-ups to be slightly easier than pull-ups (overhand grip) because the underhand grip allows for greater bicep activation."
+    },
+    "alternativesAndVariations": {
+      "Pull-ups": "Similar to chin-ups, but with an overhand grip (palms facing away from you). Pull-ups place more emphasis on the lats and biceps.",
+      "Neutral-Grip Pull-Ups": "Performed with a neutral grip (palms facing each other), which can be easier on the wrists and elbows. They target similar muscle groups as chin-ups.",
+      "Lat Pulldowns": "A machine-based exercise that mimics the movement of a chin-up. It's a good alternative for beginners or those who can't yet perform chin-ups.",
+      "Inverted Rows": "A bodyweight exercise that can be performed using a barbell, suspension trainer, or rings. It works similar muscle groups as chin-ups and can be a good progression towards doing full chin-ups."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

@@ -1,0 +1,32 @@
+{
+"lying-leg-curl": {
+"form": {
+"steps": "\n1. Lie face down on the lying leg curl machine with your legs fully extended and your ankles positioned just below the resistance pads. \n2. Adjust the machine so that the lever arm sits comfortably across the back of your thighs, just above your heels. Your knees should be in line with the machine's joint. \n3. Engage your core and press your hips firmly against the bench to maintain stability throughout the exercise. \n4. Exhale and curl your heels towards your glutes by contracting your hamstrings, ensuring your hips remain in contact with the bench. \n5. Slowly lower the weight back to the starting position, inhaling as you extend your legs.",
+"form": {
+"Hips": "Keep your hips in contact with the bench throughout the exercise.",
+"Movement": "Use a controlled and deliberate motion, avoiding any jerking or swinging.",
+"Range of Motion": "Curl the weight as far as comfortable, aiming for a full range of motion without lifting your hips.",
+"Breathing": "Exhale during the concentric phase (curling the weight) and inhale during the eccentric phase (lowering the weight)."
+}
+},
+"commonMistakes": {
+"Partial Range of Motion": "Not curling the weight all the way up or extending the legs fully.",
+"Lifting Hips": "Lifting your hips off the bench during the exercise, which reduces hamstring engagement and can strain your lower back.",
+"Using Momentum": "Swinging the weight or using momentum instead of controlled muscle contractions.",
+"Incorrect Machine Setup": "Not adjusting the machine properly to your height and limb length, which can lead to discomfort or injury."
+},
+"comments": {
+"Isolation Exercise": "The lying leg curl is an isolation exercise that primarily targets the hamstrings, making it effective for strengthening the back of the thighs.",
+"Muscle Engagement": "To maximize hamstring engagement, focus on squeezing the muscles at the top of the movement.",
+"Progression": "As you get stronger, you can increase the weight, perform more reps, or slow down the tempo to make the exercise more challenging.",
+"Variation": "Some machines allow for different foot positions, which can slightly alter muscle activation. Experiment to find what works best for you."
+},
+"alternativesAndVariations": {
+"Seated Leg Curl": "This variation targets the hamstrings similarly to the lying leg curl but is performed in a seated position.",
+"Standing Leg Curl": "This variation is performed on a standing leg curl machine and targets the hamstrings in a slightly different way.",
+"Glute-Ham Raise": "A bodyweight exercise that works the hamstrings, glutes, and lower back. It involves kneeling on a raised platform and lowering and raising your body using your hamstrings and glutes.",
+"Romanian Deadlift": "A compound exercise that primarily targets the hamstrings and glutes. It involves hinging at the hips while maintaining a straight back and lowering a barbell or dumbbells towards the ground."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

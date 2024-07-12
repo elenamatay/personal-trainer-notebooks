@@ -1,0 +1,31 @@
+{
+"pec-deck": {
+"form": {
+"steps": "\n1. Sit on the pec deck machine and adjust the seat height so that your elbows are in line with your shoulders when you grip the handles. \n2. Place your forearms against the pads, keeping your elbows high and your wrists straight. \n3. Inhale and bring the pads together in front of your chest, squeezing your chest muscles at the end of the movement. \n4. Exhale and slowly return to the starting position, maintaining tension on the muscles throughout the movement.",
+"form": {
+"Elbows": "Keep your elbows high and in line with your shoulders throughout the exercise.",
+"Wrists": "Maintain straight wrists throughout the movement.",
+"Back": "Keep your back flat against the seat and avoid arching your lower back.",
+"Range of Motion": "Don't go too far past the point where your elbows are in line with your chest, as this can put stress on your shoulder joints."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weight instead of using a controlled movement.",
+"Going Too Heavy": "Lifting too much weight, which can lead to improper form and potential injury.",
+"Not Squeezing at the Top": "Failing to squeeze the chest muscles at the top of the movement, which reduces muscle activation.",
+"Locking Out Elbows": "Fully extending your elbows at the top of the movement, which can put stress on your joints."
+},
+"comments": {
+"Isolation Exercise": "The pec deck is an isolation exercise that primarily targets the chest muscles, making it a good exercise for building chest definition.",
+"Constant Tension": "The pec deck provides constant tension on the chest muscles throughout the entire range of motion, which can be beneficial for muscle growth.",
+"Variation": "You can slightly vary the emphasis on different parts of your chest by adjusting your hand position on the pads. A lower grip will target the lower pecs, while a higher grip will target the upper pecs."
+},
+"alternativesAndVariations": {
+"Push-Ups": "A bodyweight exercise that works the chest, triceps, and shoulders. It can be varied in difficulty to match your fitness level.",
+"Bench Press": "A compound exercise that works the chest, triceps, and shoulders. It allows for heavier weight and progressive overload.",
+"Dumbbell Flyes": "An isolation exercise that targets the chest muscles and allows for a greater range of motion than the pec deck.",
+"Cable Crossovers": "A cable machine exercise that provides constant tension on the chest muscles and allows for various angles and positions."
+},
+"tempo": "2011 (2 seconds bringing the pads together, 0 seconds pause at the peak contraction, 1 second returning to the starting position, 1 second pause before the next repetition)"
+}
+}

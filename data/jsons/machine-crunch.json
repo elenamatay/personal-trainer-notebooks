@@ -1,0 +1,32 @@
+{
+"machine-crunch": {
+"form": {
+"steps": "\n1. Adjust the machine's weight and seat height so that the pads rest comfortably on your upper chest and shoulders, just below your collarbone. \n2. Sit down on the machine and grip the handles, placing your feet flat on the footrests. \n3. Inhale and contract your abs to curl your upper body forward, bringing your ribcage towards your pelvis. \n4. Exhale slowly and controlled as you reverse the motion, returning to the starting position without fully extending your back and keeping tension on the abs.",
+"form": {
+"Range of Motion": "Focus on quality over quantity. Don't aim for a full sit-up; instead, focus on contracting your abs to bring your ribcage towards your pelvis.",
+"Head and Neck": "Keep your head and neck relaxed, avoiding pulling on your neck with your hands.",
+"Back": "Avoid arching or rounding your back. Keep a slight natural curve throughout the exercise.",
+"Breathing": "Remember to breathe throughout the exercise. Inhale as you lower and exhale as you crunch."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your body or using momentum instead of controlled abdominal contractions.",
+"Pulling with the Neck": "Straining the neck by pulling on it with your hands instead of using your abs to lift.",
+"Limited Range of Motion": "Not fully contracting the abs or extending too far back, reducing the effectiveness of the exercise.",
+"Holding Breath": "Forgetting to breathe properly, which can lead to dizziness and fatigue."
+},
+"comments": {
+"Isolation Exercise": "The machine crunch is an isolation exercise that primarily targets the rectus abdominis muscle (the 'six-pack' muscle).",
+"Controlled Movement": "The machine provides a controlled range of motion, which can be helpful for beginners or those with back pain.",
+"Progressive Overload": "As you get stronger, you can increase the weight on the machine to continue challenging your abs.",
+"Variation": "Some machines allow for different angles or positions, which can target the abs in slightly different ways."
+},
+"alternativesAndVariations": {
+"Cable Crunch": "Similar to the machine crunch but uses a cable machine for resistance, allowing for more freedom of movement.",
+"Decline Crunch": "Performed on a decline bench, increasing the range of motion and challenge on the abs.",
+"Reverse Crunch": "Targets the lower abs by bringing your knees towards your chest instead of your chest towards your knees.",
+"Plank": "A bodyweight exercise that strengthens the entire core, including the abs, obliques, and lower back."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

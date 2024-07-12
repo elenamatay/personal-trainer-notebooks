@@ -1,0 +1,32 @@
+{
+"standing-glute-kickback-in-machine": {
+"form": {
+"steps": "\n1. Stand facing the machine and adjust the lever pad to fit your height. The pad should rest just below your buttock, against the back of your thigh, just above the knee. \n2. Place your forearms on the upper pads and grip the handles. \n3. Step back with one leg so that you are in a staggered stance, with your weight on the heel of your front foot. \n4. Keeping your core engaged and your back straight, slowly extend your working leg back and up, pressing through your heel, until you feel a strong contraction in your glutes. \n5. Hold for a moment at the top of the movement, then slowly lower the weight back to the starting position. \n6. Repeat for the desired number of repetitions, then switch legs.",
+"form": {
+"Back": "Keep your back straight throughout the exercise, avoiding any rounding or arching.",
+"Core": "Engage your core muscles to stabilize your body and prevent any unwanted movement.",
+"Hips": "Avoid rotating your hips during the exercise. Keep your hips square to the machine.",
+"Controlled Movement": "Perform the exercise with a slow and controlled tempo, both during the concentric (lifting) and eccentric (lowering) phases."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weight up using momentum instead of using the glutes to lift the weight.",
+"Rounding the Back": "Rounding the back during the exercise, which can put stress on the lower back.",
+"Not Engaging the Core": "Not engaging the core muscles, which can lead to instability and potential injury.",
+"Partial Range of Motion": "Not extending the leg fully or lowering the weight all the way down, which reduces the effectiveness of the exercise."
+},
+"comments": {
+"Isolation Exercise": "The standing glute kickback in machine is an isolation exercise that primarily targets the gluteus maximus, the largest muscle in the buttocks.",
+"Alternative to Bodyweight Kickbacks": "This exercise is a good alternative to bodyweight kickbacks, as it allows you to add more resistance and challenge your glutes further.",
+"Suitable for All Levels": "The standing glute kickback in machine is a relatively simple exercise that can be performed by people of all fitness levels.",
+"Progression": "As you get stronger, you can increase the weight or the number of repetitions to continue challenging your muscles."
+},
+"alternativesAndVariations": {
+"Bodyweight Glute Kickback": "A bodyweight variation that can be done without any equipment. To increase difficulty, it can be performed on all fours.",
+"Cable Glute Kickback": "A variation that uses a cable machine for resistance. It allows for a greater range of motion and can be adjusted to different resistance levels.",
+"Hip Thrust": "A compound exercise that works the glutes, hamstrings, and quads. It is a more challenging exercise than the glute kickback but can be more effective for building muscle and strength.",
+"Glute Bridge": "Another compound exercise that works the glutes and hamstrings. It is a good exercise for beginners and can be progressed by adding weight or using a single leg."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

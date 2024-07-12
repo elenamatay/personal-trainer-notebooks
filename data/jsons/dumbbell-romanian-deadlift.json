@@ -1,0 +1,33 @@
+{
+"dumbbell-romanian-deadlift": {
+  "form": {
+    "steps": "\n1. Stand upright with your feet hip-width apart, holding a dumbbell in each hand, palms facing your thighs. \n2. Inhale, brace your core slightly, and initiate the movement by pushing your hips back. \n3. Keeping your back straight and your core engaged, lower the dumbbells towards the ground by hinging at your hips. Keep your knees slightly bent throughout the movement. \n4. Lower the dumbbells as far as your flexibility allows, without rounding your back. You should feel a stretch in your hamstrings. \n5. Once you reach your maximum range of motion, reverse the movement by driving your hips forward and returning to the starting position. Exhale as you stand up.",
+    "form": {
+      "Back": "Keep your back straight throughout the entire movement. Avoid rounding your upper or lower back.",
+      "Core": "Engage your core muscles to maintain stability and protect your lower back.",
+      "Hips": "Initiate the movement by pushing your hips back, not by bending at the waist.",
+      "Knees": "Keep your knees slightly bent throughout the exercise. Do not lock them out.",
+      "Dumbbells": "Keep the dumbbells close to your body throughout the movement, lightly touching your thighs as you lower and raise them."
+    }
+  },
+  "commonMistakes": {
+    "Rounding the back": "This is the most common mistake, which can lead to lower back injury. Make sure to keep your back straight throughout the entire movement.",
+    "Squatting instead of hinging": "The RDL is a hip-hinging movement, not a squat. Focus on pushing your hips back and keeping your back straight, rather than bending your knees too much.",
+    "Using too much weight": "Using a weight that is too heavy will make it difficult to maintain proper form. Start with a lighter weight and gradually increase as you get stronger.",
+    "Not controlling the movement": "The RDL should be performed with control, both on the way down and on the way up. Avoid using momentum to swing the weight."
+  },
+  "comments": {
+    "Muscle activation": "The dumbbell Romanian deadlift (RDL) is a highly effective exercise for strengthening the posterior chain muscles, including the glutes, hamstrings, and lower back. It also engages the core, forearms, and upper back to a lesser extent.",
+    "Range of motion": "Lower the dumbbells until you feel a good stretch in your hamstrings. This may vary depending on your flexibility. You don't need to touch the floor with the dumbbells.",
+    "Progression": "As you get stronger, you can increase the weight of the dumbbells. You can also increase the range of motion by standing on a slightly elevated platform.",
+    "Variations": "The RDL can also be performed with a barbell or resistance bands."
+  },
+  "alternativesAndVariations": {
+    "Barbell Romanian Deadlift": "Uses a barbell instead of dumbbells, allowing for heavier weight and increased muscle activation.",
+    "Single-Leg Romanian Deadlift": "Performed on one leg at a time, challenging balance and stability while targeting the hamstrings and glutes.",
+    "Good Mornings": "Performed with a barbell across the upper back, emphasizing the lower back and hamstrings with a greater range of motion.",
+    "Glute Ham Raise": "Bodyweight exercise that targets the hamstrings and glutes, promoting hip extension and posterior chain strength."
+  },
+  "tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

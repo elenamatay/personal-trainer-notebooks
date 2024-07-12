@@ -1,0 +1,33 @@
+{
+"pin-bench-press": {
+"form": {
+"steps": "\n1. Place a bench in a power rack (or use a combo rack with safety bars). Adjust the safety pins to a height so that the bar will end up just above your chest when lying down in your usual bench press position.\n2. Lie on the bench with your feet flat on the floor, pull your shoulder blades together and down, and slightly arch your back.\n3. Grip the bar with an overhand grip, slightly wider than shoulder-width apart.\n4. Inhale, hold your breath, and unrack the bar by straightening your arms.\n5. Lower the bar with control until it touches the safety bars, keeping your elbows tucked in at about a 45-degree angle.\n6. Push the bar up while exhaling, keeping your elbows slightly bent.\n7. Take another breath in the top position, and repeat for reps.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows tucked in at about a 45-degree angle during the movement.",
+"Back": "Maintain a slight arch in your back, but keep your butt on the bench.",
+"Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+"Safety Bars": "The safety bars should be set at a height where the bar slightly touches them when you are in the bottom position of the lift, ensuring a consistent range of motion and preventing the bar from going too low."
+}
+},
+"commonMistakes": {
+"Flaring Elbows": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints.",
+"Bouncing the Bar": "Bouncing the bar off the safety bars, which can lead to injury.",
+"Not Controlling the Descent": "Lowering the weight too quickly, which can put excessive stress on your muscles and joints.",
+"Lifting your Butt off the Bench": "This usually means you are lifting too heavy and compensating with your lower back, which can lead to injury.",
+"Incorrect Safety Bar Height": "Setting the safety bars too high or too low can affect the effectiveness of the exercise and increase the risk of injury."
+},
+"comments": {
+"Improving Lockout Strength": "The pin press can be effective for improving lockout strength in the bench press, as it allows you to overload the top portion of the movement.",
+"Maintaining Tightness": "It helps to keep tightness in your arching in the bench press, which is crucial for stability and power.",
+"Muscle groups used": "The pin bench press primarily targets the chest muscles (pectoralis major) and the front shoulders (anterior deltoids). It also engages the triceps (back of the arm) as a secondary muscle group.",
+"Progression": "As you get stronger, you can gradually increase the weight on the bar. You can also adjust the height of the safety pins to change the range of motion and target different parts of the lift."
+},
+"alternativesAndVariations": {
+"Floor Press": "Similar to the pin press, but performed on the floor instead of a bench. This variation limits the range of motion and puts more emphasis on the triceps.",
+"Board Press": "Involves using a wooden board or foam pad on the chest to reduce the range of motion. This variation helps to improve lockout strength and power out of the bottom of the bench press.",
+"Spoto Press": "A variation where you pause the bar slightly above your chest for a brief moment before pressing it back up. This variation helps to improve control and stability in the bottom position of the bench press."
+},
+"tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

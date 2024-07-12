@@ -1,0 +1,35 @@
+{
+"power-snatch": {
+"form": {
+"steps": "\n1. Step up close to the bar, with your feet about hip-width apart, so that the bar is positioned over the middle of your foot. \n2. Lean forward and grip the bar with a wide overhand grip, slightly wider than shoulder-width apart, close to the weight plates. \n3. Keeping your back straight and core engaged, lower your hips towards the floor, similar to a deadlift starting position. \n4. In a powerful and explosive movement, lift the bar by extending your legs and hips simultaneously, while keeping the bar close to your body. \n5. As the bar reaches chest height, quickly pull yourself under the bar, rotating your elbows and dropping into a quarter squat position. \n6. Catch the bar overhead with straight arms, stabilizing your core and keeping your back straight. \n7. Stand up fully, with the bar overhead. \n8. Lower the bar to the floor with control, or drop it safely in front of you.",
+"form": {
+"Grip": "Wide overhand grip, slightly wider than shoulder-width apart.",
+"Back": "Keep your back straight throughout the entire movement.",
+"Elbows": "Rotate your elbows quickly under the bar as you pull yourself under.",
+"Catch Position": "Catch the bar overhead with straight arms in a quarter squat position.",
+"Bar Path": "Keep the bar close to your body throughout the lift."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "Maintaining a rounded back during the lift, which can lead to injury.",
+"Not Keeping the Bar Close": "Allowing the bar to drift away from the body, making the lift less efficient and increasing the risk of injury.",
+"Slow Pull": "Not generating enough power from the legs and hips, resulting in a slow and inefficient lift.",
+"Early Arm Bend": "Bending the elbows too early, which reduces power and puts stress on the arms.",
+"Not Pulling Under": "Failing to pull yourself under the bar quickly enough, resulting in a missed lift."
+},
+"comments": {
+"Explosive Strength": "The power snatch is an excellent exercise for developing explosive strength in the lower body, core, and upper body.",
+"Technical Lift": "The power snatch is a highly technical lift that requires practice and proper form. It's recommended to start with light weights and gradually increase the load as your technique improves.",
+"Full Body Exercise": "The power snatch engages multiple muscle groups simultaneously, making it an effective full-body exercise.",
+"Grip Strength": "The snatch grip engages the forearms and improves grip strength.",
+"Power Snatch vs. Snatch": "The power snatch differs from the snatch in the catch position. In the power snatch, the bar is caught in a higher position (quarter squat), while in the snatch, the bar is caught in a full squat position. This makes the power snatch slightly less technical and allows for heavier weights to be lifted."
+},
+"alternativesAndVariations": {
+"Hang Power Snatch": "Performed with the bar starting at knee height, focusing on the second pull phase of the lift.",
+"Muscle Snatch": "Performed with a slower, more controlled movement, emphasizing muscle activation and technique.",
+"Overhead Squat": "A great exercise for improving overhead mobility and stability, which are essential for the power snatch.",
+"Clean Pulls": "Focuses on the first pull of the snatch, helping to develop power and explosiveness."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

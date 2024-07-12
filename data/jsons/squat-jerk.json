@@ -1,0 +1,36 @@
+{
+"squat-jerk": {
+"form": {
+"steps": "\n1. Start by cleaning the bar to your shoulders or lifting it out from a rack. Grip the bar slightly wider than shoulder-width apart, with an overhand grip, and let it rest on the front of your shoulders, across your collarbone. \n2. Stand with your feet shoulder-width apart, toes pointing slightly outwards. \n3. Take a deep breath, brace your core, and slightly bend your knees (this is the dip). \n4. Explosively extend your knees and hips to drive the bar upwards. \n5. As the bar reaches its highest point, quickly drop down into a squat position, receiving the bar overhead with straight arms. \n6. Stand up from the squat position, pressing the bar overhead.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Bar Position": "The bar should rest across your collarbone, with your elbows high and forward.",
+"Dip": "The dip should be a quick and shallow movement, initiated by bending the knees.",
+"Drive": "The drive should be explosive, using your legs and hips to propel the bar upwards.",
+"Catch": "Catch the bar overhead with straight arms, dropping into a squat position to absorb the weight.",
+"Recovery": "Stand up from the squat position, keeping the bar overhead."
+}
+},
+"commonMistakes": {
+"Not Dipping Properly": "Not dipping low enough or dipping too slowly, which can reduce power output.",
+"Not Driving Explosively": "Not driving the bar upwards with enough force, making it difficult to get under the weight.",
+"Catching the Bar with Bent Arms": "Catching the bar with bent arms can put excessive stress on your elbows and shoulders.",
+"Not Keeping the Core Engaged": "Failing to keep your core engaged throughout the movement can lead to poor form and potential injury.",
+"Not squatting low enough": "Not squatting low enough when receiving the bar overhead, which can make it difficult to stand up with the weight."
+},
+"comments": {
+"Muscle groups used": "The squat jerk is a complex, full-body exercise that primarily targets the glutes, quads, and shoulders. It also engages the back, core, and arms.",
+"Olympic Weightlifting": "The squat jerk is one of the two main lifts in Olympic weightlifting, along with the snatch.",
+"Technical Lift": "The squat jerk is a highly technical lift that requires a lot of practice to master. It's important to start with light weights and gradually increase the weight as your technique improves.",
+"Power vs. Squat Jerk": "The squat jerk is often compared to the power jerk. The main difference is the depth of the squat. In the squat jerk, you squat down until your thighs are parallel to the ground, while in the power jerk, you only perform a partial squat.",
+"Fun Fact": "The squat jerk is a great exercise for developing explosive power and strength."
+},
+"alternativesAndVariations": {
+"Power Jerk": "A variation of the jerk where you only perform a partial squat when receiving the bar overhead. This variation is typically used by lifters who are more comfortable with a faster and more explosive movement.",
+"Push Press": "A simpler overhead pressing exercise that can help you develop the strength and power needed for the squat jerk. Unlike the squat jerk, the push press does not involve a dip or a split under the bar.",
+"Overhead Squat": "An exercise that can help improve your mobility and stability for the squat jerk. It involves holding a barbell overhead while performing a squat.",
+"Split Jerk": "The other main type of jerk used in Olympic weightlifting. In the split jerk, you split your legs (one forward, one backward) when receiving the bar overhead, instead of squatting down."
+},
+"tempo": "10X0 (1 second lowering, 0 seconds pause at the bottom, X - As explosive as possible, 0 seconds pause at the top)"
+}
+}

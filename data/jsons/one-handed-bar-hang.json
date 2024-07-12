@@ -1,0 +1,29 @@
+{
+"one-handed-bar-hang": {
+"form": {
+"steps": "\n1. Grab a bar with one hand, overhand grip, slightly wider than shoulder-width. \n2. Hang from it, allowing your body to fully extend.",
+"form": {
+"Shoulder": "Start off by hanging with a tensed and active shoulder, keeping it engaged. As you get stronger, you can gradually experiment with hanging with a more relaxed shoulder.",
+"Body": "Keep your body straight and avoid swinging. You should feel the stretch in your lats and shoulders."
+}
+},
+"commonMistakes": {
+"Swinging": "Swinging the body to make the hang easier. Keep your body still and controlled.",
+"Relaxed Shoulder": "Letting the shoulder completely relax, especially when starting, can lead to injury. Start with an active shoulder and gradually relax as you build strength.",
+"Death Grip": "Squeezing the bar too hard. While a firm grip is important, excessively squeezing can lead to fatigue. Find a balance between a firm and relaxed grip."
+},
+"comments": {
+"Grip Strength": "Hanging from a bar is a great way to train your grip strength, which is important for various activities, including weightlifting, climbing, and everyday tasks.",
+"Shoulder Mobility": "This exercise can improve your shoulder mobility, particularly for holding your arms above your head. This is beneficial for exercises like overhead presses and pull-ups.",
+"Progression": "You can progress this exercise by gradually increasing the hang time or by adding weight to a weight belt.",
+"Variations": "You can vary the grip (overhand, underhand, neutral) to target different muscle groups."
+},
+"alternativesAndVariations": {
+"Two-Handed Bar Hang": "A simpler variation that allows you to build grip strength and shoulder stability before moving to the one-handed version.",
+"Pull-Ups": "A more advanced exercise that involves pulling yourself up to the bar, working your back, biceps, and grip.",
+"Farmer's Carry": "A functional exercise that involves carrying heavy weights in each hand, improving grip strength and core stability.",
+"Plate Pinches": "An isolation exercise that specifically targets the fingers and thumbs, improving pinch strength."
+},
+"tempo": "N/A. This is an isometric exercise, meaning there is no movement involved. The focus is on maintaining a static hold."
+}
+}

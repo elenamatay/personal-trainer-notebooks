@@ -1,0 +1,33 @@
+{
+"snatch-grip-behind-the-neck-press": {
+"form": {
+"steps": "\n1. Stand with your feet shoulder-width apart. Grab a barbell with a snatch grip (wide grip, slightly wider than shoulder-width), and duck under it so that it is resting comfortably across your upper back, just below the base of your neck. \n2. Take a breath, lightly brace your core, and unrack the bar by straightening your arms. Take a step back to ensure you have enough space. \n3. Keeping your core engaged and your back straight, lower the bar by bending your elbows until it reaches the top of your back. \n4. Press the bar back up to the starting position, extending your arms fully while exhaling. \n5. Inhale at the top, and repeat for reps.",
+"form": {
+"Grip": "Use a snatch grip (wide grip, slightly wider than shoulder-width).",
+"Elbows": "Keep your elbows pointing out to the sides throughout the movement.",
+"Back": "Maintain a straight back and avoid arching your lower back.",
+"Core": "Engage your core throughout the exercise to maintain stability.",
+"Head": "Keep your head in a neutral position, looking straight ahead."
+}
+},
+"commonMistakes": {
+"Arching Lower Back": "Arching your lower back excessively can lead to injury. Keep your core engaged and maintain a neutral spine.",
+"Using Too Much Weight": "Using too much weight can compromise form and increase the risk of injury. Start with a lighter weight and gradually increase as you get stronger.",
+"Not Controlling the Movement": "Lowering the bar too quickly or using momentum can put stress on your joints. Control both the eccentric and concentric phases of the movement.",
+"Not Keeping Elbows Out": "Allowing your elbows to flare forward can put stress on your shoulder joints. Keep your elbows pointing out to the sides throughout the exercise."
+},
+"comments": {
+"Muscle Activation": "The snatch-grip behind-the-neck press primarily targets the front and lateral deltoids, but it also engages the trapezius and triceps.",
+"Shoulder Mobility": "This exercise requires a good range of motion in the shoulders. If you have limited shoulder mobility, you may need to modify the exercise or choose an alternative.",
+"Progression": "As you get stronger, you can increase the weight, add reps, or perform the exercise standing on a slightly elevated platform to increase the range of motion.",
+"Alternatives": "If you find this exercise uncomfortable or challenging, you can try alternatives like the overhead press (with a narrower grip) or the dumbbell shoulder press."
+},
+"alternativesAndVariations": {
+"Overhead Press": "A similar exercise that targets the same muscle groups but with a narrower grip, which may be more comfortable for some individuals.",
+"Dumbbell Shoulder Press": "This variation allows for a greater range of motion and can help address muscle imbalances.",
+"Arnold Press": "A variation of the dumbbell shoulder press that involves rotating the dumbbells as you press them overhead, further engaging the shoulder muscles.",
+"Landmine Press": "This variation uses a barbell loaded on one end and provides a fixed path of motion, which can be helpful for those with shoulder issues."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

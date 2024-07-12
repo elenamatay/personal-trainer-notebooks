@@ -1,0 +1,32 @@
+{
+"dumbbell-preacher-curl": {
+"form": {
+"steps": "\n1. Adjust the preacher curl bench to your height, ensuring the pad sits comfortably under your armpits. \n2. Grab a dumbbell with an underhand grip, and sit on the bench with your chest against the pad. \n3. Position your upper arms on the pad, with your elbows slightly in front of your shoulders. \n4. Slowly lower the dumbbell down, extending your arm until you feel a good stretch in your biceps. \n5. Curl the dumbbell back up to the starting position, squeezing your biceps at the top of the movement. \n6. Repeat for the desired number of repetitions.",
+"form": {
+"Elbow Position": "Keep your elbows slightly in front of your shoulders throughout the movement. Don't let them drift back or flare out.",
+"Wrist Alignment": "Maintain a neutral wrist position throughout the exercise. Don't let your wrists bend or extend.",
+"Range of Motion": "Lower the dumbbell until you feel a stretch in your biceps, and curl it up until your biceps are fully contracted.",
+"Back and Shoulders": "Keep your back straight and your shoulders relaxed. Don't hunch your shoulders or arch your back."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weight up using momentum instead of using a controlled movement.",
+"Partial Range of Motion": "Not lowering the dumbbell far enough or not curling it all the way up, which reduces muscle activation.",
+"Incorrect Elbow Placement": "Letting the elbows move behind the plane of the shoulders, which can put stress on the shoulder joint.",
+"Wrist Curling": "Bending the wrists during the exercise, which can lead to wrist pain and injury."
+},
+"comments": {
+"Isolation Exercise": "The preacher curl is an isolation exercise that primarily targets the biceps, making it an effective exercise for building bigger biceps.",
+"Variations": "You can perform this exercise with a barbell, EZ bar, or cable machine instead of dumbbells.",
+"Range of Motion": "If fully extending your arm feels uncomfortable, you can avoid that position by reversing the movement earlier.",
+"Mind-Muscle Connection": "Focus on squeezing your biceps at the top of the movement to maximize muscle activation."
+},
+"alternativesAndVariations": {
+"Barbell Preacher Curl": "Similar to the dumbbell version but uses a barbell, allowing for heavier weight and greater overall muscle stimulation.",
+"EZ Bar Preacher Curl": "Uses an EZ bar, which can be more comfortable on the wrists and elbows for some people.",
+"Concentration Curl": "Another isolation exercise for the biceps, performed one arm at a time with the elbow resting on the inner thigh.",
+"Hammer Curl": "A variation of the bicep curl that targets the biceps as well as the brachialis and brachioradialis muscles in the forearms."
+},
+"tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

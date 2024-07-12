@@ -1,0 +1,32 @@
+{
+"machine-bicep-curl": {
+"form": {
+"steps": "\n1. Adjust the machine so that you are correctly positioned. Your upper arms should rest on the padding, and your elbows should be in line with the machine's joint. \n2. Grab the handles with an underhand grip around shoulder width apart. \n3. Curl the weight up as far as possible, make sure to do the entire movement at a controlled speed. \n4. Slowly revert the movement, and stop just before the weights hit the stacks. \n5. Repeat for reps.",
+"form": {
+"Elbows": "Keep your elbows fixed and in line with the machine's joint throughout the exercise.",
+"Upper Arms": "Maintain contact between your upper arms and the padding at all times.",
+"Grip": "Use an underhand grip, with your hands slightly outside shoulder-width apart.",
+"Range of Motion": "Curl the weight up as far as possible without lifting your elbows or leaning back, and lower it down until you reach a full stretch in your biceps."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weight up using momentum instead of controlled bicep strength.",
+"Lifting Elbows": "Allowing your elbows to move forward or up during the curl, reducing bicep engagement.",
+"Partial Range of Motion": "Not curling the weight all the way up or lowering it all the way down, limiting muscle activation.",
+"Going too Heavy": "Using a weight that compromises form and control."
+},
+"comments": {
+"Beginner Friendly": "Machine Bicep Curls are a good exercise for beginners because the machine helps to maintain proper form and reduces the need for balance and stabilization.",
+"Isolation Exercise": "This exercise isolates the biceps, making it effective for targeting and strengthening this muscle group.",
+"Mind-Muscle Connection": "Focus on squeezing your biceps at the top of the curl to maximize muscle activation.",
+"Variation": "Some machines allow for different grip positions (e.g., close grip, wide grip) to target the biceps from slightly different angles."
+},
+"alternativesAndVariations": {
+"Barbell Curls": "A compound exercise that works the biceps and forearms. It allows for a greater range of motion and requires more stabilization than machine curls.",
+"Dumbbell Curls": "Similar to barbell curls, but using dumbbells allows for independent arm movement and can help address muscle imbalances.",
+"Hammer Curls": "Performed with a neutral grip (palms facing each other), hammer curls target the biceps, brachialis, and brachioradialis.",
+"Concentration Curls": "An isolation exercise that helps to isolate the biceps and focus on the peak contraction."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

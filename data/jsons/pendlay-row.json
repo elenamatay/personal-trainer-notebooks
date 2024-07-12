@@ -1,0 +1,34 @@
+{
+  "pendlay-row": {
+    "form": {
+      "steps": "\n1. Stand with your feet shoulder-width apart, with a barbell on the floor in front of you. \n2. Hinge at your hips and knees to lower yourself down until you can grip the bar with an overhand grip, slightly wider than shoulder-width apart. Your back should be straight, with a natural arch in your lower back, and your shins should be close to touching the bar. \n3. Pull the bar up towards your torso, keeping your elbows close to your body. Pull the bar as high as you can, aiming for your lower chest or upper abdomen. \n4. With control, lower the bar back to the floor, resetting your body position before each repetition.",
+      "form": {
+        "Back": "Keep your back straight with a natural arch throughout the entire movement. Do not round your back.",
+        "Grip": "Use an overhand grip, slightly wider than shoulder-width apart.",
+        "Elbows": "Keep your elbows close to your body as you pull the bar up.",
+        "Bar Path": "The bar should travel in a straight line up and down, close to your torso.",
+        "Feet": "Keep your feet flat on the floor throughout the movement.",
+        "Head": "Keep your head in a neutral position, looking straight ahead or slightly down."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the back": "This is a common mistake that can lead to lower back injury. Make sure to keep your back straight throughout the movement.",
+      "Using too much momentum": "The Pendlay row should be a controlled movement. Avoid using momentum to swing the weight up.",
+      "Not resetting between reps": "It's important to reset your body position between each repetition. This means lowering the bar all the way to the floor and ensuring your back is straight before starting the next rep.",
+      "Not engaging the lats": "Focus on pulling the weight with your back muscles, not your arms."
+    },
+    "comments": {
+      "Muscle activation": "The Pendlay row is a great exercise for building a strong back. It primarily targets the lats, traps, and rear delts, but it also works the biceps, forearms, and core.",
+      "Strength and Power": "Because you reset between each rep, the Pendlay row is a great exercise for building explosive strength and power.",
+      "Grip Strength": "The Pendlay row is also a great exercise for improving grip strength.",
+      "Progression": "As you get stronger, you can increase the weight on the bar. You can also make the exercise more challenging by using a closer grip or by pausing at the top of the movement."
+    },
+    "alternativesAndVariations": {
+      "Barbell Row": "The main difference between the Pendlay row and the barbell row is that the barbell doesn't touch the floor between reps in the barbell row. This makes the barbell row a slightly less demanding exercise on your lower back.",
+      "Chest Supported Row": "This variation is performed with your chest supported on an incline bench. This takes the lower back out of the equation, making it a good option for people with lower back issues.",
+      "T-Bar Row": "This variation is performed with a T-bar machine. It allows you to use a heavier weight and provides a greater range of motion.",
+      "Dumbbell Row": "This variation is performed with dumbbells instead of a barbell. It allows for a greater range of motion and can help to address any muscle imbalances."
+    },
+    "tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}

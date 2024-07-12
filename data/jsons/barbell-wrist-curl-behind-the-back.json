@@ -1,0 +1,31 @@
+{
+"barbell-wrist-curl-behind-the-back": {
+"form": {
+"steps": "\n1. Stand tall with your feet shoulder-width apart. \n2. Grab a barbell with an overhand grip, slightly wider than shoulder-width apart, and hold it behind your back, resting it on your glutes or hamstrings. \n3. With your arms straight, open your hands and let the barbell roll out in your fingers, lowering the barbell as far as possible. \n4. Reverse the motion by closing your grip and bending your wrists upwards, raising the barbell as high as possible. \n5. Hold the contraction at the top for a moment, and then slowly lower the barbell back down to the starting position.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Wrists": "Keep your wrists straight throughout the movement, only allowing them to bend during the curling motion.",
+"Arms": "Keep your arms straight and close to your body throughout the exercise.",
+"Back": "Maintain a neutral spine and avoid rounding your back."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the barbell using momentum from your body instead of using controlled movements.",
+"Bending Elbows": "Bending your elbows during the exercise, which takes the emphasis off of the forearms.",
+"Not Using Full Range of Motion": "Not lowering the barbell far enough down or raising it high enough up, which reduces the effectiveness of the exercise."
+},
+"comments": {
+"Muscle Focus": "Barbell wrist curls behind your back primarily target the forearm flexors, which are responsible for bending the wrist and closing your hand.",
+"Grip Strength": "This exercise is also beneficial for improving grip strength, which is important for various activities such as lifting weights, carrying objects, and playing sports.",
+"Variation": "You can also perform this exercise with dumbbells or a cable machine for variation.",
+"Progression": "As you get stronger, you can increase the weight or the number of repetitions to continue challenging your forearms."
+},
+"alternativesAndVariations": {
+"Barbell Wrist Curl": "Similar movement pattern, but performed with the barbell in front of the body. This variation targets the forearm flexors from a slightly different angle.",
+"Dumbbell Wrist Curl": "Allows for unilateral training, which can help address strength imbalances between the forearms.",
+"Reverse Wrist Curl": "Targets the opposing muscle group, the forearm extensors, which are responsible for extending the wrist.",
+"Farmer's Carry": "A compound exercise that heavily engages the forearms while also working the grip, core, and legs."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

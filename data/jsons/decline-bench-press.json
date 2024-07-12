@@ -1,0 +1,33 @@
+{
+"decline-bench-press": {
+"form": {
+"steps": "\n1. Adjust a weight bench to a decline angle, typically between 15 and 30 degrees. \n2. Lie down on the bench with your head lower than your feet. Secure your feet under the footpads for stability. \n3. Grip the barbell with an overhand grip, slightly wider than shoulder-width apart. \n4. Unrack the bar by straightening your arms, then lower it slowly towards your lower chest while keeping your elbows slightly tucked. \n5. Push the bar back up to the starting position, extending your arms fully. ",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows slightly tucked in, not flared out.",
+"Back": "Maintain a slight arch in your back, but keep your butt on the bench.",
+"Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+"Chest": "Lower the bar to your lower chest, around the nipple line or slightly below."
+}
+},
+"commonMistakes": {
+"Incorrect Decline Angle": "Using too steep of a decline angle can put excessive stress on your shoulders.",
+"Flaring Elbows": "Allowing your elbows to flare out to the sides can strain your shoulder joints.",
+"Bouncing the Bar": "Bouncing the bar off your chest can lead to injury.",
+"Not Controlling the Descent": "Lowering the weight too quickly can put excessive stress on your muscles and joints.",
+"Lifting your Butt off the Bench": "This usually means you are lifting too heavy and compensating with your lower back, which can lead to injury."
+},
+"comments": {
+"Muscle Activation": "The decline bench press primarily targets the lower pectoral muscles, giving the lower chest a more defined look. It also engages the triceps and anterior deltoids.",
+"Safety": "Always use a spotter and safety racks when performing the decline bench press, as it can be difficult to safely re-rack the weight if you fail a rep.",
+"Variation": "You can adjust the decline angle to target different areas of your chest. A steeper decline will emphasize the lower chest more."
+},
+"alternativesAndVariations": {
+"Flat Bench Press": "A classic compound exercise that targets the entire chest, with a slightly greater emphasis on the middle and upper chest compared to the decline bench press.",
+"Incline Bench Press": "Focuses on the upper chest muscles, providing a different angle of resistance compared to the decline bench press.",
+"Dumbbell Decline Press": "Allows for a greater range of motion and independent arm movement, which can help address muscle imbalances.",
+"Chest Dips": "A bodyweight exercise that effectively targets the lower chest, triceps, and anterior deltoids."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

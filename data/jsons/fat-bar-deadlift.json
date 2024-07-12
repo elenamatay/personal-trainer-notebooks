@@ -1,0 +1,33 @@
+{
+  "fat-bar-deadlift": {
+    "form": {
+      "steps": "\n1. Stand with your feet hip-width apart, with the barbell over your mid-foot. \n2. Bend at your hips and knees, keeping your back straight and your shins close to the bar. \n3. Grip the bar slightly wider than shoulder-width, with an overhand grip. \n4. Take a deep breath, brace your core, and lift the bar off the ground by extending your hips and knees simultaneously. \n5. Keep the bar close to your body as you lift it, maintaining a straight back. \n6. Lower the bar back to the ground by reversing the movement, keeping your back straight and core engaged.",
+      "form": {
+        "Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+        "Back": "Keep your back straight and maintain a natural arch in your lower back throughout the movement.",
+        "Core": "Engage your core to keep your body stable and upright.",
+        "Bar Path": "Keep the bar close to your body throughout the movement.",
+        "Head": "Keep your head in a neutral position, looking straight ahead."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the Back": "This is one of the most common mistakes, which can lead to lower back injury. Make sure to keep your back straight throughout the lift.",
+      "Using Too Much Back and Not Enough Legs": "The deadlift is a full-body exercise, but your legs should be doing most of the work. Don't try to lift the weight with your back.",
+      "Lifting the Bar Too Far From the Body": "Keep the bar close to your body throughout the lift to reduce stress on your lower back.",
+      "Not Engaging the Core": "Engage your core before you lift the weight and keep it engaged throughout the movement to protect your lower back."
+    },
+    "comments": {
+      "Muscle Groups": "The fat-bar deadlift works almost every muscle in your body, including your glutes, hamstrings, quads, lower back, upper back, traps, forearms, and core.",
+      "Grip Strength": "The thicker diameter of the fat bar challenges your grip strength more than a standard barbell, which can lead to greater grip strength gains.",
+      "Full-Body Exercise": "The deadlift is a compound exercise that works multiple muscle groups simultaneously, making it a very efficient exercise.",
+      "Progression": "As you get stronger, you can increase the weight, reps, or sets. You can also try different variations of the deadlift, such as the sumo deadlift or the Romanian deadlift."
+    },
+    "alternativesAndVariations": {
+      "Standard Barbell Deadlift": "The standard barbell deadlift is performed with a regular barbell, which has a smaller diameter than a fat bar. This makes the standard deadlift slightly easier on your grip.",
+      "Sumo Deadlift": "The sumo deadlift is performed with a wider stance and a closer grip, which shifts the emphasis to your inner thighs and glutes.",
+      "Romanian Deadlift (RDL)": "The RDL is a deadlift variation that focuses on the hamstrings and glutes. It is performed with a slight bend in the knees and a focus on pushing your hips back.",
+      "Hex Bar Deadlift": "The hex bar deadlift is performed with a specialized bar that has handles on the sides. This can be a good option for people who have trouble with the standard deadlift due to back pain or mobility issues."
+    },
+    "tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}

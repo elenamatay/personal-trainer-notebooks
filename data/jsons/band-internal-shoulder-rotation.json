@@ -1,0 +1,28 @@
+{
+"band-internal-shoulder-rotation": {
+"form": {
+"steps": "\n1. Fasten an elastic band at elbow height to a stable object. \n2. Grab the band with the hand furthest from the attachment point, step away, and stand sideways to the band with your elbow bent to 90 degrees. Your upper arm should be close to your side. \n3. Rotate your upper arm internally (inwards) against the resistance of the band, as far as possible. \n4. Slowly reverse the movement and repeat for reps.",
+"form": {
+"Elbow": "Keep your elbow bent at a consistent 90-degree angle throughout the exercise.",
+"Upper Arm": "Maintain a fixed distance between your upper arm and your torso.",
+"Movement": "Focus on a smooth and controlled rotation, avoiding any jerking or sudden movements."
+}
+},
+"commonMistakes": {
+"Using Too Much Resistance": "Using a band that's too heavy can lead to improper form and potential injury. Start with a lighter band and gradually increase the resistance as you get stronger.",
+"Rotating from the Shoulder": "The movement should originate from the shoulder joint, not the elbow or wrist. Make sure to keep your elbow tucked in and rotate your entire arm as one unit.",
+"Rushing the Movement": "Performing the exercise too quickly reduces its effectiveness and increases the risk of injury. Focus on slow, controlled movements, both during the internal rotation and the return to the starting position."
+},
+"comments": {
+"Muscle Focus": "This exercise primarily targets the subscapularis, one of the four muscles of the rotator cuff. The subscapularis plays a crucial role in shoulder stability and internal rotation.",
+"Injury Prevention": "Strengthening the rotator cuff muscles, including the subscapularis, is essential for preventing shoulder injuries, especially in individuals who engage in overhead activities or sports.",
+"Alternatives": "Alternatives to using a band include using a cable pulley or a dumbbell while lying down. These variations provide a different resistance profile and can be incorporated to add variety to your training."
+},
+"alternativesAndVariations": {
+"Cable Internal Rotation": "Similar to the band version but uses a cable machine for resistance. This variation allows for more precise weight adjustments.",
+"Dumbbell Internal Rotation": "Performed lying on your side with a dumbbell. This variation isolates the internal rotators more effectively.",
+"External Rotation Exercises": "Don't forget to include exercises that target the external rotators of the shoulder (infraspinatus and teres minor) to maintain muscular balance. Examples include band external rotations and cable external rotations."
+},
+"tempo": "2011 (2 seconds rotating inwards, 0 seconds pause, 1 second rotating outwards, 1 second pause)"
+}
+}

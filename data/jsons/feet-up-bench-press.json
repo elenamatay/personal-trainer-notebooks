@@ -1,0 +1,35 @@
+{
+"feet-up-bench-press": {
+"form": {
+"steps": "\n1. Lie on the bench with your shoulder blades together and down. Maintain a slight arch in your back. \n2. Grip the bar slightly wider than shoulder-width apart with an overhand grip. \n3. Lift your feet up and hold them in the air, either crossed or uncrossed. \n4. Take a breath and hold it, and unrack the bar by straightening your arms. \n5. Lower the bar with control, until it touches your chest somewhere close to the sternum, keeping your elbows slightly tucked. \n6. Push the bar up while exhaling, maintaining control throughout the movement. \n7. Take another breath in the top position, and repeat for reps.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows slightly tucked in during the movement, not flared out.",
+"Back": "Maintain a slight arch in your back, but keep your butt on the bench.",
+"Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+"Chest": "Lower the bar to your chest, close to the sternum.",
+"Feet": "Keep your feet elevated throughout the exercise."
+}
+},
+"commonMistakes": {
+"Flaring Elbows": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints.",
+"Bouncing the Bar": "Bouncing the bar off your chest, which can lead to injury.",
+"Not Controlling the Descent": "Lowering the weight too quickly, which can put excessive stress on your muscles and joints.",
+"Lifting your Butt off the Bench": "This usually means you are lifting too heavy and compensating with your lower back, which can lead to injury.",
+"Holding Breath": "Remember to breathe throughout the exercise, inhaling during the eccentric phase and exhaling during the concentric phase."
+},
+"comments": {
+"Muscle groups used": "The feet-up bench press primarily targets the chest muscles (pectoralis major) and the front deltoids. It also engages the triceps to a lesser extent.",
+"Increased Core Activation": "By elevating your feet, you reduce stability, which forces your core muscles to work harder to maintain balance and control during the exercise.",
+"Potential for Greater Range of Motion": "The feet-up position can sometimes allow for a slightly longer range of motion compared to the conventional bench press, as it can reduce the arch in your back.",
+"Not for Beginners": "This variation is not recommended for beginners due to the increased demand for stability and control. It's generally more suitable for intermediate to advanced lifters."
+},
+"alternativesAndVariations": {
+"Regular Bench Press": "The standard bench press variation, performed with feet flat on the floor. It targets similar muscle groups but allows for greater stability.",
+"Incline Bench Press": "Performed on an incline bench, this variation shifts the emphasis to the upper chest muscles.",
+"Decline Bench Press": "Performed on a decline bench, this variation emphasizes the lower chest muscles.",
+"Dumbbell Bench Press": "Using dumbbells allows for a greater range of motion and independent arm movement, which can help address muscle imbalances."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

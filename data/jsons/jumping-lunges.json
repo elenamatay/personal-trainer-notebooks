@@ -1,0 +1,31 @@
+{
+"jumping-lunges": {
+"form": {
+"steps": "\n1. Stand with your feet hip-width apart. \n2. Take a big step forward with your right leg and sink as deep as possible in a lunge position without hitting the knee of the back leg on the floor (this is usually until both knees are bent at 90-degree angles). During descent, keep your front heel flat on the ground and your front knee tracking in line with your toes. \n3. Explosively jump up, switching the position of your legs while in mid-air, bringing your left leg forward and your right leg back. \n4. As you land, make sure to soften the landing and go directly into the lunge position with your left leg forward. Your front knee should be over your ankle and your back knee should be pointing down towards the floor. \n5. Continue alternating legs with each jump.",
+"form": {
+"Torso": "Maintain a straight torso throughout the exercise, engaging your core.",
+"Landing": "Land softly to reduce impact on your joints, with your weight distributed evenly across your foot.",
+"Front Knee": "Ensure your front knee tracks over your toes and doesn't collapse inward.",
+"Back Knee": "Aim to lightly tap the floor with your back knee at the bottom of the movement."
+}
+},
+"commonMistakes": {
+"Not controlling the movement": "Jumping too high and losing control during the landing.",
+"Shallow Lunges": "Not lunging low enough, reducing muscle activation and increasing the risk of injury.",
+"Heels Lifting": "Letting your heels lift off the ground during the lunge, putting extra stress on your knees.",
+"Caving Knees": "Allowing your knees to collapse inward, which can strain your knee joints."
+},
+"comments": {
+"Muscle activation": "Jumping lunges are an alternative to regular lunges. The explosive jumping motion enhances muscle power and agility, targeting more muscle groups than a regular lunge.",
+"Benefits": "It's an excellent way to improve balance and coordination while making it a highly efficient exercise for those looking to elevate their workout intensity.",
+"Progression": "To increase difficulty, consider adding weights (dumbbells or a barbell) or increasing the height of the jump."
+},
+"alternativesAndVariations": {
+"Reverse Lunges": "Instead of stepping forward, step backward into a lunge. This variation can be easier on the knees.",
+"Walking Lunges": "Perform a lunge step with each leg, continuously moving forward. This variation increases the cardiovascular demand.",
+"Lateral Lunges": "Step out to the side instead of forward, targeting the inner and outer thighs.",
+"Weighted Lunges": "Hold dumbbells in each hand or a barbell across your upper back to increase resistance."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

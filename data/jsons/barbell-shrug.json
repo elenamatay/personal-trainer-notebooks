@@ -1,0 +1,32 @@
+{
+"barbell-shrug": {
+"form": {
+"steps": "\n1. Stand upright with your feet hip-width apart, holding a barbell with an overhand grip slightly wider than shoulder-width. Let the barbell hang at arm's length in front of your thighs. Maintain a slight bend in your elbows throughout the exercise. \n2. Keep your back straight, chest up, and head in a neutral position. \n3. Raise your shoulders straight up towards your ears as high as possible, squeezing your traps at the top of the movement. \n4. Hold for a brief pause at the top, then slowly lower the barbell back to the starting position, maintaining control throughout the movement.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Maintain a slight bend in your elbows throughout the exercise.",
+"Back": "Keep your back straight, chest up, and head in a neutral position.",
+"Shoulder Movement": "Raise your shoulders straight up and down, avoiding any rolling or circular motions.",
+"Range of Motion": "Shrug your shoulders as high as possible to maximize muscle activation."
+}
+},
+"commonMistakes": {
+"Using Too Much Weight": "Using excessive weight can lead to improper form and increase the risk of injury. Focus on controlled movements with a weight that allows for a full range of motion.",
+"Rolling Shoulders": "Rolling your shoulders forward or backward during the shrug can put stress on your shoulder joints. Keep your shoulders aligned with your body throughout the exercise.",
+"Using Momentum": "Swinging the weight or using momentum to lift the barbell reduces the effectiveness of the exercise. Focus on using your trapezius muscles to lift and lower the weight in a controlled manner.",
+"Holding Breath": "Remember to breathe throughout the exercise. Exhale as you lift the weight and inhale as you lower it."
+},
+"comments": {
+"Muscle Groups Targeted": "The barbell shrug primarily targets the trapezius muscles, which are responsible for elevating the shoulders. It also engages the upper back muscles to a lesser extent.",
+"Grip Variations": "While an overhand grip is most common, you can also experiment with other grip variations, such as an underhand grip or a neutral grip (palms facing each other). Different grips may slightly alter muscle activation.",
+"Equipment Alternatives": "Dumbbells, kettlebells, and trap bars can be used as alternatives to barbells for shrugs. Each variation offers a slightly different feel and may target the muscles from different angles."
+},
+"alternativesAndVariations": {
+"Dumbbell Shrug": "Similar to the barbell shrug but performed with dumbbells, allowing for a greater range of motion and independent arm movement.",
+"Trap Bar Shrug": "Performed using a trap bar, which allows for a more natural grip and can reduce stress on the wrists and elbows.",
+"Farmer's Walk": "A compound exercise that involves holding heavy weights in each hand and walking for distance or time. It engages the trapezius muscles for grip strength and shoulder stability.",
+"Overhead Press": "A compound exercise that works the shoulders, upper back, and trapezius muscles. The trapezius muscles are involved in stabilizing the weight overhead."
+},
+"tempo": "2020 (2 seconds lifting, 0 seconds pause at the top, 2 seconds lowering, 0 seconds pause at the bottom)"
+}
+}

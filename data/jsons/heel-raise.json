@@ -1,0 +1,32 @@
+{
+"heel-raise": {
+"form": {
+"steps": "\n1. Stand on a solid surface with the balls of your feet on a slightly elevated platform (e.g., a weight plate or a step). You can hold onto a wall or a chair for balance if needed. \n2. Keep your body upright and your core engaged. \n3. Raise your heels off the ground as high as possible, contracting your calves. \n4. Hold the top position for a moment, squeezing your calves. \n5. Slowly lower your heels back down to the starting position, feeling a stretch in your calves.",
+"form": {
+"Body": "Keep your body upright and avoid leaning forward or backward.",
+"Core": "Engage your core muscles to maintain stability.",
+"Movement": "The movement should be controlled and deliberate, focusing on the contraction and stretch of the calf muscles."
+}
+},
+"commonMistakes": {
+"Bouncing": "Bouncing at the bottom of the movement instead of using a controlled motion.",
+"Partial Range of Motion": "Not lowering the heels low enough or raising them high enough, which reduces the effectiveness of the exercise.",
+"Holding Breath": "Remember to breathe throughout the exercise to avoid straining.",
+"Using your toes to lift": "The movement should be generated from your calves, not your toes or ankles."
+},
+"comments": {
+"No Equipment Needed": "The heel raise is a great exercise that can be done anywhere, anytime, without any equipment.",
+"Increased Range of Motion": "Standing on an elevated surface increases the range of motion, leading to a better stretch and contraction of the calf muscles.",
+"Variations": "You can increase the difficulty by holding a dumbbell or weight plate for added resistance. You can also perform single-leg heel raises for an extra challenge.",
+"Calf Muscle Focus": "Heel raises primarily target the gastrocnemius, the larger calf muscle, which is responsible for plantar flexion (pointing your toes).",
+"Unilateral Variation": "An alternative is to use both your legs on the way up, but lower yourself down using only one leg."
+},
+"alternativesAndVariations": {
+"Seated Calf Raise": "This variation targets the soleus muscle, the smaller calf muscle located beneath the gastrocnemius. It's performed with your knees bent, which limits the involvement of the gastrocnemius.",
+"Calf Raise on the Leg Press Machine": "This variation allows you to use heavier weight and provides a greater range of motion compared to bodyweight heel raises.",
+"Donkey Calf Raise": "This variation involves bending at the hips with your torso parallel to the ground, which places a greater stretch on the calves.",
+"Jumping Calf Raise": "This plyometric variation adds an explosive element to the exercise, improving power and athleticism."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

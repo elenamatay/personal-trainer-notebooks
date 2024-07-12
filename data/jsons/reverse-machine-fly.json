@@ -1,0 +1,32 @@
+{
+"reverse-machine-fly": {
+"form": {
+"steps": "\n1. Sit facing the machine and adjust the chest support and handles so that you can grip the handles at shoulder height and get a long range of motion, with your chest pressed against the pad. \n2. With a slight bend in the elbows (maintain this throughout the exercise), pull the handles backward by bringing your arms out to the sides in a wide arc, until you feel a stretch in your rear deltoids. \n3. Slowly reverse the movement and let the handles go back to the starting position, avoiding any jerking or sudden movements.",
+"form": {
+"Elbows": "Maintain a slight bend in your elbows throughout the exercise.",
+"Shoulders": "Keep your shoulders down and away from your ears.",
+"Chest": "Keep your chest pressed against the pad throughout the exercise.",
+"Movement": "Focus on using your rear deltoids to pull the weight, rather than relying on momentum or swinging your arms."
+}
+},
+"commonMistakes": {
+"Using Too Much Weight": "Using a weight that is too heavy can lead to poor form and increase the risk of injury. Start with a lighter weight and gradually increase as you get stronger.",
+"Swinging the Arms": "Avoid swinging your arms or using momentum to move the weight. Focus on using a controlled movement and squeezing your rear deltoids at the top of the exercise.",
+"Not Keeping Elbows Bent": "Locking out your elbows can put stress on your joints. Maintain a slight bend in your elbows throughout the exercise.",
+"Rounding Shoulders Forward": "Keep your shoulders down and back throughout the exercise. Rounding your shoulders forward can lead to poor posture and increase the risk of injury."
+},
+"comments": {
+"Isolation Exercise": "Reverse machine flyes are an isolation exercise that primarily targets the rear deltoids, which are often underdeveloped in people who focus heavily on chest and front shoulder exercises.",
+"Horizontal Extension": "This exercise focuses on horizontal extension, which is the opposite movement of horizontal flexion (bringing your arms together in front of your body, as in a bench press).",
+"Postural Improvement": "Strengthening the rear deltoids can help improve posture by pulling the shoulders back and down.",
+"Injury Prevention": "Balanced shoulder development, including strong rear deltoids, can help prevent injuries by providing stability to the shoulder joint."
+},
+"alternativesAndVariations": {
+"Bent-Over Dumbbell Reverse Fly": "A free-weight variation that allows for a greater range of motion and challenges your core stability.",
+"Cable Reverse Fly": "Similar to the dumbbell variation but uses a cable machine for constant tension throughout the exercise.",
+"Face Pulls": "A compound exercise that works the rear deltoids, traps, and biceps. It involves pulling a rope or cable towards your face while keeping your elbows high.",
+"Rear Delt Raises": "An isolation exercise that can be performed with dumbbells or cables. It involves raising your arms out to the sides while keeping your elbows slightly bent."
+},
+"tempo": "2011 (2 seconds pulling, 0 seconds pause at the contracted position, 1 second returning to starting position, 1 second pause at the stretched position)"
+}
+}

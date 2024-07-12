@@ -1,0 +1,31 @@
+{
+"dumbbell-front-raise": {
+"form": {
+"steps": "\n1. Stand tall with your feet shoulder-width apart, holding a dumbbell in each hand in front of your hips, with your palms facing your thighs. \n2. Keeping your elbows slightly bent and your core engaged, raise the dumbbells forward and upward in a controlled motion. \n3. Continue lifting until your arms are parallel to the floor (dumbbells at shoulder height). \n4. Pause briefly at the top of the movement, then slowly lower the dumbbells back to the starting position, following the same controlled path.",
+"form": {
+"Elbows": "Maintain a slight bend in your elbows throughout the exercise.",
+"Wrists": "Keep your wrists straight and firm, not allowing them to bend backward.",
+"Back": "Avoid arching your back or using momentum to swing the weights up. Keep your back straight and core engaged.",
+"Range of Motion": "Raise the dumbbells to shoulder height or slightly below. Avoid going too high, as this can put stress on your shoulder joints."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weights up using momentum instead of using controlled movements.",
+"Arching Back": "Arching your lower back to help lift the weight, which can lead to injury.",
+"Going Too Heavy": "Lifting weights that are too heavy, resulting in poor form and potential injury.",
+"Not Engaging Core": "Failing to engage the core, which can lead to instability and reduced effectiveness."
+},
+"comments": {
+"Muscle Focus": "The dumbbell front raise primarily targets the anterior deltoids (front shoulders).",
+"Weight Selection": "This is an exercise where it is easy to pick a weight that is too heavy. Rather err on the lighter side, and strive for a strict form where you focus on getting good contact with your delts.",
+"Variations": "You can perform this exercise with a variety of grips, such as a hammer grip (palms facing each other) or an overhand grip (palms facing down). Experiment to find what feels most comfortable for you."
+},
+"alternativesAndVariations": {
+"Barbell Front Raise": "Similar movement pattern to the dumbbell front raise, but using a barbell instead of dumbbells. Allows for heavier weight but may feel less natural for some individuals.",
+"Plate Front Raise": "Using a weight plate instead of dumbbells can provide a different feel and challenge your grip strength.",
+"Arnold Press": "A compound exercise that combines a front raise with a shoulder press, working the front, side, and rear deltoids.",
+"Lateral Raises": "Targets the lateral deltoids (side shoulders) more directly than front raises, helping to create a wider, more balanced physique."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

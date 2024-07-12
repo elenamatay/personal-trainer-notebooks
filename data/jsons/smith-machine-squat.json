@@ -1,0 +1,34 @@
+{
+  "smith-machine-squat": {
+    "form": {
+      "steps": "\n1. Step into the Smith machine and position yourself under the bar, with your feet slightly wider than shoulder-width apart and toes pointing slightly outward. \n2. Place the bar across your upper back, resting on your trapezius muscles, not your neck. \n3. Stand up to unrack the bar, taking a step back if needed to ensure a stable base. \n4. Inhale, brace your core, and initiate the squat by pushing your hips back and bending your knees. \n5. Lower yourself until your thighs are at least parallel to the ground, maintaining an upright torso and keeping your back straight. \n6. Drive through your heels to return to the starting position, exhaling as you extend your legs.",
+      "form": {
+        "Feet": "Slightly wider than shoulder-width apart, toes pointing slightly outward.",
+        "Back": "Keep your back straight and maintain a natural arch in your lower back throughout the movement.",
+        "Core": "Engage your core to keep your body stable and upright.",
+        "Knees": "Keep your knees in line with your toes, preventing them from caving inward.",
+        "Head": "Look straight ahead or slightly upward to maintain a neutral spine.",
+        "Bar Path": "The Smith machine guides the bar in a fixed vertical path."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the Back": "This can put excessive stress on your spine, increasing the risk of injury.",
+      "Knee Valgus": "Letting your knees cave inward, which can strain the knee joints.",
+      "Not Squatting Low Enough": "Failing to reach proper depth reduces muscle activation and limits overall benefits.",
+      "Lifting Heels off the Ground": "This shifts the weight forward, potentially leading to knee pain or injury."
+    },
+    "comments": {
+      "Muscle Groups": "Smith machine squats primarily target the quadriceps, glutes, hamstrings, and adductors. They also engage the core and lower back for stability.",
+      "Fixed Bar Path": "The fixed bar path of the Smith machine provides stability and reduces the need for balance, making it suitable for beginners or those recovering from injuries.",
+      "Focus on Form": "While the Smith machine offers stability, it's crucial to maintain proper form to avoid injuries and maximize muscle activation.",
+      "Progression": "As you get stronger, you can increase the weight or try variations like narrow stance squats or front squats."
+    },
+    "alternativesAndVariations": {
+      "Barbell Squat": "A compound exercise that engages multiple muscle groups. The main difference is the free weight movement, requiring more balance and stability.",
+      "Goblet Squat": "A variation where you hold a weight (dumbbell or kettlebell) close to your chest, promoting an upright torso and good squat mechanics.",
+      "Leg Press": "A machine-based exercise that targets similar muscle groups as squats, but with less stress on the lower back.",
+      "Bulgarian Split Squat": "A unilateral exercise that challenges balance and strengthens each leg individually."
+    },
+    "tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}

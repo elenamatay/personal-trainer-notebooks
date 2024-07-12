@@ -1,0 +1,32 @@
+{
+"reverse-barbell-lunge": {
+"form": {
+"steps": "\n1. Stand tall with your feet hip-width apart, holding a barbell across your upper back. \n2. Engage your core, and take a big step backward with one leg. \n3. Lower your hips down until your front thigh is almost parallel to the floor and your back knee is just above the ground. \n4. Push through your front heel to return to the starting position.",
+"form": {
+"Torso": "Keep your torso upright and your core engaged throughout the exercise.",
+"Front Knee": "Ensure your front knee tracks over your toes and doesn't collapse inward.",
+"Back Knee": "Lower your body until your back knee hovers just above the ground.",
+"Weight Distribution": "Distribute your weight evenly between your front and back foot."
+}
+},
+"commonMistakes": {
+"Leaning Forward": "Avoid leaning forward excessively, which can strain your lower back. Keep your torso upright.",
+"Limited Range of Motion": "Performing shallow lunges reduces muscle activation. Aim for a deep lunge with your front thigh close to parallel to the floor.",
+"Knee Valgus": "Prevent your front knee from collapsing inward, which can stress the knee joint. Keep it aligned with your toes.",
+"Heels Lifting": "Keep both heels flat on the ground throughout the movement. If your heels rise, it may indicate tight ankles or limited mobility."
+},
+"comments": {
+"Muscle Activation": "The reverse barbell lunge primarily targets the quads, glutes, and adductors. It also engages the hamstrings and core for stability.",
+"Balance and Coordination": "This exercise challenges your balance and coordination. As you step back and lower into the lunge, your body needs to stabilize and control the movement.",
+"Knee Control": "The reverse lunge can be beneficial for improving knee control and stability, which is essential for various athletic movements.",
+"Variations": "You can modify the exercise by holding dumbbells at your sides instead of using a barbell. This variation can be more accessible for beginners."
+},
+"alternativesAndVariations": {
+"Forward Lunge": "The forward lunge is a variation where you step forward instead of backward. It places slightly different emphasis on the leg muscles.",
+"Dumbbell Lunges": "Holding dumbbells instead of a barbell allows for a greater range of motion and can improve balance.",
+"Walking Lunges": "Walking lunges add a dynamic element to the exercise, challenging your stability and coordination.",
+"Bulgarian Split Squats": "This variation involves elevating your back foot on a bench, increasing the challenge on the front leg."
+},
+"tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

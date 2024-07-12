@@ -1,0 +1,33 @@
+{
+"lateral-walk-with-band": {
+"form": {
+"steps": "\n1. Place an elastic band around your ankles. The band should be taut but not overly tight. \n2. Stand with your feet hip-width apart, toes pointing forward, and knees slightly bent. \n3. Engage your core and maintain a neutral spine. \n4. Take a step to the side with one leg, keeping your toes pointed forward and your feet parallel. \n5. Lower your hips slightly as you step, feeling the resistance of the band. \n6. Push off with your trailing leg to return to the starting position. \n7. Continue stepping sideways for the desired distance or repetitions.",
+"form": {
+"Feet": "Keep your feet parallel and hip-width apart throughout the exercise.",
+"Knees": "Maintain a slight bend in your knees throughout the movement.",
+"Hips": "Keep your hips level and avoid tilting them from side to side.",
+"Core": "Engage your core muscles to stabilize your body and maintain proper posture.",
+"Band Tension": "The band should provide resistance throughout the movement, but it should not be so tight that it causes pain or discomfort."
+}
+},
+"commonMistakes": {
+"Not engaging the core": "Failing to engage your core can lead to poor posture and increase the risk of injury.",
+"Letting the knees cave inward": "Allowing your knees to collapse inward can put stress on your joints.",
+"Taking too large of a step": "Stepping too far to the side can reduce the effectiveness of the exercise and put strain on your hips.",
+"Not controlling the movement": "Moving too quickly or erratically can compromise form and increase the risk of injury."
+},
+"comments": {
+"Muscle activation": "Lateral walk with band primarily trains the hip abductors, including the gluteus medius and parts of the gluteus maximus. These muscles are essential for stabilizing the hips and pelvis, which is crucial for maintaining proper alignment and preventing injuries, especially during activities like running and jumping.",
+"Warm-up exercise": "This exercise is often used as a warm-up or activation exercise for the hips and glutes before more demanding lower body exercises.",
+"Injury prevention": "Strengthening the hip abductors can help prevent and alleviate various lower body injuries, such as iliotibial (IT) band syndrome, patellofemoral pain syndrome, and hip bursitis.",
+"Progression": "To increase the difficulty of the exercise, you can use a heavier resistance band or increase the distance of each step."
+},
+"alternativesAndVariations": {
+"Banded Clamshells": "An isolation exercise that targets the gluteus medius. Lie on your side with your knees bent and a resistance band around your thighs, then raise your top knee while keeping your feet together.",
+"Side-Lying Hip Abduction": "A bodyweight exercise that isolates the hip abductors. Lie on your side with your legs straight and lift your top leg up towards the ceiling.",
+"Monster Walks": "Similar to lateral walks but performed with a wider stance and a greater emphasis on squatting down.",
+"Hip Abductor Machine": "A machine-based exercise that provides resistance for hip abduction."
+},
+"tempo": "1010 (1 second stepping to the side, 0 seconds pause, 1 second stepping back to the starting position, 0 seconds pause)"
+}
+}

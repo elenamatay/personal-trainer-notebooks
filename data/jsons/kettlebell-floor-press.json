@@ -1,0 +1,33 @@
+{
+"kettlebell-floor-press": {
+    "form": {
+      "steps": "\n1. Sit on the floor with your legs straight and a pair of kettlebells beside you. \n2. Pick the kettlebells up and place them in your hip crease, with your wrists straight and your palms facing each other. \n3. Slowly lie down on your back while you bring the kettlebells up to your chest, keeping your elbows slightly bent. \n4. Bend your knees and place your feet flat on the floor. \n5. Lower the kettlebells slowly until your upper arms make contact with the floor. \n6. Reverse the motion and push the kettlebells up to straight arms again. \n7. Gently drop the kettlebells to the floor to finish the set.",
+      "form": {
+        "Back": "Maintain a neutral spine throughout the exercise, with a slight natural arch in your lower back.",
+        "Elbows": "Keep your elbows slightly bent throughout the movement, don't lock them out at the top.",
+        "Wrists": "Keep your wrists straight and in line with your forearms.",
+        "Feet": "Keep your feet flat on the floor to maintain stability.",
+        "Range of Motion": "Lower the kettlebells until your upper arms touch the floor, but don't bounce them off the floor."
+      }
+    },
+    "commonMistakes": {
+      "Flaring Elbows": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints.",
+      "Bouncing the Kettlebells": "Bouncing the kettlebells off your chest or the floor, which can lead to injury.",
+      "Not Controlling the Descent": "Lowering the weight too quickly, which can put excessive stress on your muscles and joints.",
+      "Arching your Back": "Excessive arching of your back can lead to lower back pain. Maintain a neutral spine throughout the exercise."
+    },
+    "comments": {
+      "Muscle groups used": "The kettlebell floor press primarily targets the chest, triceps, and front deltoids.",
+      "Home Workout Friendly": "It's a great alternative to the dumbbell chest press if you train at home and don't have a weight bench.",
+      "Limited Range of Motion": "The kettlebell floor press has a shorter range of motion compared to the bench press due to the floor limiting the descent of the kettlebells.",
+      "Shoulder Friendly": "The floor press can be a good option for people with shoulder pain as it puts less stress on the shoulder joint compared to the bench press."
+    },
+    "alternativesAndVariations": {
+      "Dumbbell Chest Press": "A similar exercise that is performed on a bench, allowing for a greater range of motion.",
+      "Barbell Bench Press": "A compound exercise that works the chest, triceps, and shoulders, but requires a barbell and bench.",
+      "Push-Ups": "A bodyweight exercise that works similar muscle groups as the floor press and can be done anywhere without equipment.",
+      "Chest Flyes": "An isolation exercise that targets the chest muscles more directly, can be done with dumbbells or cables."
+    },
+    "tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

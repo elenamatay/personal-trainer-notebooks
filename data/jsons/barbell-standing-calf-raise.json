@@ -1,0 +1,32 @@
+{
+"barbell-standing-calf-raise": {
+"form": {
+"steps": "\n1. Place a weight plate on the ground to stand on. \n2. Stand with the balls of your feet on the edge of the weight plate, with your heels hanging off. Ensure your toes are pointing straight ahead or slightly outwards. \n3. Place a barbell across your upper back, similar to a back squat position. \n4. Keeping your back straight and core engaged, lower your heels towards the ground by bending your ankles. Go as low as your flexibility allows to maximize the stretch in your calves. \n5. Pause briefly at the bottom of the movement. \n6. Push through the balls of your feet to raise your heels as high as possible, contracting your calves. \n7. Hold the contraction briefly at the top of the movement. \n8. Slowly lower back down to the starting position, and repeat for the desired number of repetitions.",
+"form": {
+"Feet": "Place the balls of your feet on the edge of the weight plate, with your heels hanging off. Ensure your toes are pointing straight ahead or slightly outwards.",
+"Back": "Keep your back straight and maintain a natural arch in your lower back throughout the movement.",
+"Core": "Engage your core to keep your body stable and upright.",
+"Weight Distribution": "Distribute your weight evenly across the balls of your feet.",
+"Barbell Position": "Rest the barbell comfortably across your upper back, traps engaged and shoulder blades squeezed together."
+}
+},
+"commonMistakes": {
+"Using too much weight": "Using excessive weight can lead to poor form and increase the risk of injury. It's important to choose a weight that allows you to perform the exercise with proper technique and a full range of motion.",
+"Bouncing at the bottom": "Bouncing at the bottom of the movement can put stress on your Achilles tendon and reduce the effectiveness of the exercise. Instead, control the descent and pause briefly at the bottom before pushing back up.",
+"Not getting a full range of motion": "Failing to lower your heels down as far as possible or not raising them high enough will limit the effectiveness of the exercise. Focus on achieving a full stretch and contraction in your calves.",
+"Shortening the movement": "Performing the exercise with a partial range of motion will reduce its effectiveness. Ensure you are lowering your heels as far as possible and raising them as high as possible to maximize muscle activation."
+},
+"comments": {
+"Muscle Activation": "Standing calf raises primarily target the gastrocnemius, the larger calf muscle. They also engage the soleus, a smaller muscle located beneath the gastrocnemius.",
+"Importance of Calf Training": "Strong calf muscles are essential for various activities, including running, jumping, and walking. They also contribute to ankle stability and overall lower body strength.",
+"Progression": "As you get stronger, you can increase the weight, use a Smith machine for added stability, or perform single-leg calf raises for an extra challenge."
+},
+"alternativesAndVariations": {
+"Seated Calf Raise": "This variation emphasizes the soleus muscle more than the standing calf raise. By keeping the knee bent, the gastrocnemius is put at a mechanical disadvantage, allowing the soleus to take on more of the workload.",
+"Donkey Calf Raise": "This variation involves bending at the hips and having a partner or weight placed on your lower back. This position increases the stretch on the calves and can lead to greater muscle activation.",
+"Leg Press Calf Raise": "This variation allows you to use heavier weight than bodyweight calf raises. By performing calf raises on a leg press machine, you can overload the muscles and stimulate growth.",
+"Single-Leg Calf Raise": "Performing calf raises on one leg increases the intensity and challenges your balance and stability."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

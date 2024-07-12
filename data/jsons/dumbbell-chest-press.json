@@ -1,0 +1,33 @@
+{
+"dumbbell-chest-press": {
+"form": {
+"steps": "\n1. Lie on a bench with your feet flat on the floor. Hold a dumbbell in each hand, with your palms facing each other. \n2. Lower the dumbbells down to your chest, keeping your elbows slightly bent and at a 45-degree angle to your body. \n3. Press the dumbbells back up to the starting position, squeezing your chest muscles at the top of the movement.",
+"form": {
+"Grip": "Neutral grip, with your palms facing each other.",
+"Elbows": "Keep your elbows slightly bent and at a 45-degree angle to your body throughout the movement.",
+"Back": "Maintain a slight arch in your back, but keep your butt on the bench.",
+"Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+"Chest": "Lower the dumbbells until they are slightly above your chest, feeling a stretch in your chest muscles."
+}
+},
+"commonMistakes": {
+"Flaring Elbows": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints.",
+"Bouncing the Dumbbells": "Bouncing the dumbbells off your chest, which can lead to injury.",
+"Not Controlling the Descent": "Lowering the weight too quickly, which can put excessive stress on your muscles and joints.",
+"Lifting your Butt off the Bench": "This usually means you are lifting too heavy and compensating with your lower back, which can lead to injury."
+},
+"comments": {
+"Muscle groups used": "The dumbbell chest press primarily targets the chest muscles, but it also works the front deltoids and triceps.",
+"Stabilization": "Using dumbbells requires more stabilization from the shoulder muscles compared to using a barbell.",
+"Range of Motion": "Dumbbells allow for a greater range of motion compared to a barbell, which can lead to greater muscle activation.",
+"Variation": "The dumbbell chest press can be varied by changing the angle of the bench. For example, an incline dumbbell chest press will target the upper chest muscles more, while a decline dumbbell chest press will target the lower chest muscles more."
+},
+"alternativesAndVariations": {
+"Barbell Bench Press": "A compound exercise that works the chest, triceps, and shoulders. The main difference is that it uses a barbell, which provides more stability but less range of motion.",
+"Push-Ups": "A bodyweight exercise that works the chest, triceps, and shoulders. It can be made more challenging by elevating your feet or wearing a weighted vest.",
+"Chest Flyes": "An isolation exercise that specifically targets the chest muscles. It involves bringing the dumbbells together in a hugging motion.",
+"Cable Crossovers": "Another isolation exercise for the chest, performed on a cable machine. It involves bringing the cables together in front of your chest."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

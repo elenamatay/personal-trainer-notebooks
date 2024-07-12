@@ -1,0 +1,33 @@
+{
+"push-press": {
+"form": {
+"steps": "\n1. Clean a bar to your shoulders, or lift it out from a rack, with your grip slightly outside your shoulders. \n2. Let the bar rest against the front of your shoulders, with your elbows slightly in front of the bar and pointing down. \n3. Inhale and lightly brace your core. \n4. Initiate a slight dip by bending your knees, and then forcefully push yourself and the bar upwards using your legs, extending your hips and knees. \n5. When your legs are extended, immediately start pressing the bar with your arms, until your arms are fully extended overhead. \n6. With control, lower the bar back to your shoulders.",
+"form": {
+"Grip": "Slightly wider than shoulder-width, overhand grip.",
+"Elbows": "Keep your elbows slightly in front of the bar and pointing down when at the starting position.",
+"Back": "Keep your back straight and maintain a natural arch in your lower back throughout the movement.",
+"Head": "Keep your head neutral and looking forward.",
+"Bar Path": "The bar should move in a straight line vertically over your head."
+}
+},
+"commonMistakes": {
+"Not using legs": "The push press is not a strict shoulder press. Not using your legs to initiate the movement will limit the weight you can lift.",
+"Bending your back": "Keep your back straight. Bending your back can lead to injury.",
+"Not bracing your core": "Engage your core throughout the movement to protect your lower back and maintain stability.",
+"Pressing forward": "The bar should move in a straight line vertically over your head. Pressing forward indicates you are not keeping your core engaged."
+},
+"comments": {
+"Muscle groups used": "The push press is a compound exercise that primarily targets the shoulders (front deltoids), but it also involves the triceps, trapezius, core, quads, glutes, and adductors.",
+"Overhead Pressing": "The push press is a variation of the overhead press that allows you to lift heavier weights by using leg drive.",
+"Power Exercise": "The push press is considered a power exercise, which means it requires both strength and speed.",
+"Olympic Weightlifting": "The push press is often used as an accessory exercise in Olympic weightlifting to improve upper body power."
+},
+"alternativesAndVariations": {
+"Overhead Press": "A strict shoulder press that doesn't involve leg drive. It targets the same muscle groups as the push press, but to a lesser extent.",
+"Dumbbell Push Press": "A variation of the push press that uses dumbbells instead of a barbell. It allows for a greater range of motion and can help address muscle imbalances.",
+"Jerk": "An Olympic weightlifting movement that also involves using leg drive to lift the weight overhead. However, in the jerk, the lifter dips under the bar to catch it in a split stance.",
+"Behind-the-Neck Push Press": "A variation of the push press where the bar is lowered behind the head instead of in front. This variation can put more stress on the shoulder joints and should be performed with caution."
+},
+"tempo": "1011 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

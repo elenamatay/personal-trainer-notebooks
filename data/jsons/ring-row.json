@@ -1,0 +1,32 @@
+{
+"ring-row": {
+    "form": {
+      "steps": "\n1. Adjust the gymnastic rings to your desired height, ensuring they are at equal heights. \n2. Grip the rings with an overhand grip, slightly wider than shoulder-width apart, while facing the anchor point. \n3. Walk your feet forward until your body is at an angle, forming a straight line from head to heels, with your arms fully extended. \n4. Initiate the movement by pulling your chest towards the rings, driving your elbows back and keeping them close to your body. \n5. Maintain a straight body and engaged core throughout the movement. \n6. Slowly extend your arms to lower yourself back to the starting position in a controlled manner. \n7. Repeat for reps.",
+      "form": {
+        "Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+        "Body Position": "Maintain a straight line from head to heels throughout the movement.",
+        "Elbow Path": "Keep your elbows close to your body as you pull yourself up.",
+        "Shoulder Blades": "Retract your shoulder blades as you pull yourself up.",
+        "Core": "Engage your core throughout the movement to maintain stability."
+      }
+    },
+    "commonMistakes": {
+      "Piking at the Hips": "Allowing your hips to sag towards the ground, indicating a lack of core strength.",
+      "Shrugging Shoulders": "Raising your shoulders towards your ears during the pull, indicating overactive upper traps and potentially leading to neck strain.",
+      "Using Momentum": "Swinging your body to generate momentum instead of using controlled muscle activation.",
+      "Partial Range of Motion": "Not pulling your chest close enough to the rings or not fully extending your arms at the bottom of the movement."
+    },
+    "comments": {
+      "Scalability": "The ring row is a highly scalable exercise, making it suitable for a wide range of fitness levels. By adjusting the angle of your body, you can increase or decrease the difficulty of the exercise.",
+      "Progression": "As you get stronger, you can progress to more challenging variations of the ring row, such as the feet-elevated ring row or the one-arm ring row.",
+      "Muscle Groups Worked": "The ring row primarily targets the lats, traps, and rear deltoids, but it also engages the biceps, forearms, and core.",
+      "Preparation for Muscle-Up": "The ring row is an excellent exercise for developing the pulling strength and stability required for the muscle-up."
+    },
+    "alternativesAndVariations": {
+      "Inverted Row": "A similar exercise that can be performed using a barbell or Smith machine. The main difference is that the inverted row is performed with your feet on the ground, while the ring row is performed with your feet suspended.",
+      "Pull-Ups": "A more challenging exercise that also targets the pulling muscles. The main difference is that pull-ups require you to lift your entire body weight, while ring rows allow you to adjust the resistance by changing the angle of your body.",
+      "Barbell Rows": "A compound exercise that primarily targets the lats and traps. The main difference is that barbell rows are performed with your feet on the ground, providing more stability than ring rows."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

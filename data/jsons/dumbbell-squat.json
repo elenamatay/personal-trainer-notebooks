@@ -1,0 +1,33 @@
+{
+  "dumbbell-squat": {
+    "form": {
+      "steps": "\n1. Hold a dumbbell in each hand and stand with your feet slightly wider than shoulder-width apart, toes pointing slightly outwards. \n2. Keeping your back straight and core engaged, initiate the movement by pushing your hips back and down as if you were sitting back into a chair. \n3. Descend until your thighs are at least parallel to the ground, or lower if your mobility allows. Keep your chest up and maintain a neutral spine throughout the movement. \n4. Drive through your heels to return to the starting position, extending your hips and knees simultaneously.",
+      "form": {
+        "Feet": "Slightly wider than shoulder-width apart, toes pointing slightly outwards (around 15 degrees).",
+        "Back": "Keep your back straight, maintaining a neutral spine throughout the movement.",
+        "Core": "Engage your core muscles to stabilize your spine and prevent injury.",
+        "Head": "Look straight ahead or slightly upward. Avoid looking down as it can round your upper back.",
+        "Dumbbell Position": "Hold the dumbbells at your sides, close to your body, with your palms facing your body."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the Back": "This is a common mistake that can lead to lower back pain. Make sure to keep your back straight and core engaged throughout the movement.",
+      "Knee Valgus": "This refers to the knees collapsing inwards, which can put stress on the knee joints. Ensure your knees track in line with your toes.",
+      "Not Squatting Low Enough": "To get the full benefits of the exercise, aim to squat down until your thighs are at least parallel to the ground.",
+      "Lifting Heels off the Ground": "Keep your feet flat on the ground throughout the movement. Lifting your heels can put stress on your knees."
+    },
+    "comments": {
+      "Muscle groups used": "The dumbbell squat is a compound exercise that primarily targets the quadriceps, glutes, and hamstrings. It also engages the core, lower back, and calves.",
+      "Beginner Friendly": "The dumbbell squat is a great exercise for beginners because it's less technical than the barbell squat and allows for a greater range of motion.",
+      "Grip Variations": "You can experiment with different dumbbell positions to target different muscle groups. For example, holding the dumbbells in front of your shoulders (goblet squat) can increase core activation.",
+      "Progression": "As you get stronger, you can increase the weight of the dumbbells or increase the number of repetitions."
+    },
+    "alternativesAndVariations": {
+      "Barbell Squat": "A compound exercise that also targets the quads, glutes, and hamstrings. The main difference is that the barbell squat allows you to lift heavier weights.",
+      "Goblet Squat": "A variation of the dumbbell squat where you hold a single dumbbell or kettlebell in front of your chest. This variation can help improve squat form and core engagement.",
+      "Bulgarian Split Squat": "A single-leg exercise that targets the quads, glutes, and hamstrings. It's a great exercise for improving balance and stability.",
+      "Leg Press": "A machine-based exercise that works the quads, glutes, and hamstrings. It's a good alternative for people who have difficulty performing squats with proper form."
+    },
+    "tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}

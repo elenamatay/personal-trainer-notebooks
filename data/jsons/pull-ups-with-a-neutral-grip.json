@@ -1,0 +1,32 @@
+{
+  "pull-ups-with-a-neutral-grip": {
+    "form": {
+      "steps": "\n1. Grip a pull-up bar with a neutral grip (palms facing each other), about shoulder-width apart. \n2. Hang freely from the bar with your arms fully extended. Keep your chest up, and look straight ahead. \n3. Inhale and pull yourself up by pulling your elbows down towards your ribs, until your chin is over the bar or the bar touches your upper chest. \n4. Exhale and lower yourself with control until your arms are fully extended.",
+      "form": {
+        "Grip": "Neutral grip (palms facing each other), about shoulder-width apart.",
+        "Elbows": "Pull your elbows down towards your ribs during the upward movement.",
+        "Chest": "Keep your chest up and look straight ahead throughout the exercise.",
+        "Shoulder Blades": "Focus on retracting your shoulder blades as you pull yourself up.",
+        "Full Range of Motion": "Ensure a full range of motion by fully extending your arms at the bottom and pulling your chin over the bar at the top."
+      }
+    },
+    "commonMistakes": {
+      "Using Momentum": "Swinging your body or using momentum to help you get over the bar.",
+      "Partial Range of Motion": "Not fully extending your arms at the bottom or not pulling your chin over the bar at the top.",
+      "Shrugging your Shoulders": "Letting your shoulders rise up towards your ears during the exercise.",
+      "Not Engaging your Core": "Failing to engage your core muscles to stabilize your body."
+    },
+    "comments": {
+      "Muscle Activation": "Pull-ups with a neutral grip effectively train both your lats and arm flexors (biceps and brachialis). The neutral grip can be more comfortable for your wrists and elbows compared to overhand or underhand grips.",
+      "Progression": "You can make the exercise heavier by adding extra weight, i.e. in a weight belt, or make it easier by slinging a resistance band around the bar and under your feet.",
+      "Variations": "You can vary the width of your grip to target different muscle groups. A closer grip will emphasize the biceps more, while a wider grip will target the lats more."
+    },
+    "alternativesAndVariations": {
+      "Chin-Ups": "Performed with an underhand grip (palms facing you), which places more emphasis on the biceps.",
+      "Pull-Ups": "Performed with an overhand grip (palms facing away from you), which places more emphasis on the lats.",
+      "Lat Pulldowns": "A machine-based exercise that mimics the movement of a pull-up and can be a good alternative for beginners.",
+      "Inverted Rows": "A bodyweight exercise that can be performed using a barbell or suspension trainer. It works similar muscle groups as pull-ups but is easier to perform."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

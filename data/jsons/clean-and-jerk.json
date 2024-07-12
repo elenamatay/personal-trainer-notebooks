@@ -1,0 +1,36 @@
+{
+  "clean-and-jerk": {
+    "form": {
+      "steps": "\n1. **Starting position:** Stand with your feet hip-width apart, with the barbell over your feet. \n2. **The Clean:** \n\t2.1 Bend at your hips and knees to grasp the barbell with an overhand grip, slightly wider than shoulder-width apart. Keep your back straight, your core engaged, and your shoulders over the barbell. \n\t2.2 Explosively lift the barbell off the ground, keeping it close to your body. As the barbell passes your knees, extend your hips and knees powerfully, while simultaneously shrugging your shoulders upwards. \n\t2.3 Quickly rotate your elbows forward and under the barbell, dropping into a squat position to catch the barbell across the front of your shoulders. \n\t2.4 Stand up from the squat position, keeping the barbell stable on your shoulders. \n3. **The Jerk:** \n\t3.1 Slightly bend your knees to initiate the jerk. \n\t3.2 Explosively extend your legs and drive the barbell upwards. As the barbell reaches its highest point, quickly dip under the barbell by splitting your legs, one forward and one backward. \n\t3.3 Catch the barbell overhead with your arms fully extended, locking your elbows. \n\t3.4 Step forward with your back leg to bring your feet back to hip-width apart, standing tall with the barbell overhead. \n4. **Lowering the Barbell:** \n\t4.1 Reverse the movement by slowly lowering the barbell to your shoulders and then to the ground in a controlled manner.",
+      "form": {
+        "Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+        "Back": "Keep your back straight throughout the entire movement.",
+        "Core": "Engage your core to maintain stability and power.",
+        "Elbows": "Rotate your elbows forward and under the barbell during the clean, and lock them out during the jerk.",
+        "Legs": "Use explosive power from your legs to lift the barbell.",
+        "Breathing": "Inhale before the lift, hold your breath during the most challenging part of the lift, and exhale as you complete the lift."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the Back": "Maintaining a rounded back during the lift can lead to lower back injury. Keep your back straight throughout the movement.",
+      "Not Keeping the Barbell Close to the Body": "Allowing the barbell to drift away from your body during the lift reduces efficiency and increases the risk of injury. Keep the barbell as close to your body as possible.",
+      "Not Using Leg Drive": "Relying too much on your arms and shoulders to lift the weight can lead to injury. Use explosive power from your legs to drive the barbell upwards.",
+      "Incorrect Foot Placement During the Jerk": "Improper foot placement during the jerk can affect balance and stability. Ensure your feet are in the correct position when you split your legs.",
+      "Not Controlling the Descent": "Dropping the barbell rapidly after completing the lift can increase the risk of injury. Lower the barbell in a controlled manner."
+    },
+    "comments": {
+      "Full-Body Exercise": "The clean and jerk is a highly effective compound exercise that engages multiple muscle groups simultaneously, making it an excellent choice for improving overall strength and power.",
+      "Technical Skill": "Mastering the clean and jerk requires practice and proper technique. It's recommended to seek guidance from a qualified weightlifting coach to learn the correct form and progressions.",
+      "Progression": "Start with lighter weights to focus on technique before gradually increasing the load as you become more proficient.",
+      "Olympic Lift": "The clean and jerk is one of the two main lifts performed in Olympic weightlifting competitions, showcasing explosive power and technical proficiency."
+    },
+    "alternativesAndVariations": {
+      "Clean Pull": "Focuses on the first part of the clean, emphasizing the pull from the ground to the hip.",
+      "Hang Clean": "Performed from a standing position with the barbell at hip level, eliminating the initial pull from the ground.",
+      "Push Press": "A simpler overhead pressing movement that can help develop strength for the jerk.",
+      "Power Jerk": "A variation of the jerk where the lifter catches the barbell with slightly bent knees, reducing the range of motion.",
+      "Split Jerk": "An alternative leg position for the jerk, where the lifter's feet are in a split stance instead of a lunge position."
+    },
+    "tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top). The clean and jerk is an explosive movement, so the ideal tempo is fast and powerful, focusing on generating maximum force."
+  }
+}

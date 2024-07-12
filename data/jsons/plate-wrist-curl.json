@@ -1,0 +1,30 @@
+{
+"plate-wrist-curl": {
+"form": {
+"steps": "\n1. Grab a weight plate with a pinching underhand grip, placing your thumb on one side of the plate and your fingers on the other. \n2. Rest your forearm against your thigh, with your hand extended beyond your knee, or alternatively against a bench, ensuring your wrist is free to move. \n3. Lower your hand towards the floor, letting the plate roll down your fingers, until you feel a stretch in your forearm flexors. \n4. Reverse the motion by bending your wrist upwards, curling the plate back up towards your forearm.",
+"form": {
+"Grip": "Maintain a secure pinching grip on the plate throughout the exercise.",
+"Wrist Movement": "Focus on isolating the movement to your wrist joint, keeping your forearm as still as possible.",
+"Range of Motion": "Lower the plate until you feel a stretch in your forearms, and curl it up as high as you can.",
+"Elbow Position": "Keep your elbow tucked in to your side, whether resting on your thigh or a bench."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weight up using momentum instead of controlled muscle action.",
+"Limited Range of Motion": "Not lowering the plate far enough or curling it up high enough, reducing muscle activation.",
+"Moving the Forearm": "Allowing your forearm to move during the exercise, reducing the isolation on the wrist flexors."
+},
+"comments": {
+"Muscle Activation": "Plate wrist curls primarily target the forearm flexors, which are responsible for bending the wrist, and also engage the muscles in your hand responsible for grip strength.",
+"Alternative Position": "You can perform this exercise with your forearm resting on your thigh or a bench. Choose the position that feels most stable and allows for a full range of motion.",
+"Grip Strength": "This exercise not only strengthens the forearm flexors but also improves grip strength, which is beneficial for various activities like weightlifting, climbing, and carrying objects."
+},
+"alternativesAndVariations": {
+"Dumbbell Wrist Curl": "Similar to the plate wrist curl but uses a dumbbell instead of a plate. The dumbbell provides a different grip and weight distribution.",
+"Barbell Wrist Curl": "Performed with a barbell, allowing for heavier weight and a greater challenge for the forearm flexors.",
+"Reverse Wrist Curl": "Targets the opposing muscle group, the forearm extensors, by performing the exercise with an overhand grip.",
+"Farmer's Carry": "A compound exercise that heavily engages the forearms and grip strength by carrying heavy weights in each hand."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

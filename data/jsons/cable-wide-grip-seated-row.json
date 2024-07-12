@@ -1,0 +1,33 @@
+{
+"cable-wide-grip-seated-row": {
+    "form": {
+      "steps": "\n1. Sit down on the cable machine and place your feet on the footrests, ensuring your knees are slightly bent. \n2. Grip a wide bar (slightly wider than shoulder-width) with an overhand grip. \n3. Straighten your back, keeping a slight natural arch in your lower back. \n4. Pull the handle towards your abdomen, slightly below your chest, while keeping your elbows close to your body and pulling your shoulder blades together. \n5. Hold for a moment at the top of the movement, feeling the contraction in your back muscles. \n6. Slowly return to the starting position by extending your arms and feeling a stretch in your back muscles.",
+      "form": {
+        "Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+        "Back": "Keep your back straight with a slight natural arch in your lower back. Avoid rounding your back.",
+        "Elbows": "Keep your elbows close to your body during the pulling motion.",
+        "Shoulders": "Pull your shoulder blades together as you pull the weight towards you.",
+        "Chest": "Keep your chest up and out throughout the movement."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the Back": "Rounding your back during the exercise can lead to lower back pain and injury.",
+      "Using Too Much Momentum": "Swinging your body or using momentum to pull the weight reduces the effectiveness of the exercise and increases the risk of injury.",
+      "Pulling with your arms instead of your back": "Focus on initiating the movement from your back muscles, not your arms. Imagine your arms are just hooks.",
+      "Not Maintaining Proper Form": "Ensure you maintain proper form throughout the entire exercise, from start to finish."
+    },
+    "comments": {
+      "Muscle groups used": "The cable wide-grip seated row primarily targets the latissimus dorsi (lats), but it also works the trapezius, rhomboids, rear deltoids, biceps, and forearms.",
+      "Grip Variations": "Cable rows can be done with a wide or close grip. A wide grip emphasizes the lats more, while a close grip puts more emphasis on the biceps.",
+      "Back Strength and Posture": "This exercise is great for building back strength and improving posture.",
+      "Mind-Muscle Connection": "Focus on squeezing your back muscles at the top of the movement to maximize muscle activation."
+    },
+    "alternativesAndVariations": {
+      "Barbell Rows": "A compound exercise that works similar muscle groups as the cable row. Barbell rows allow for heavier weight but require more stabilization and core engagement.",
+      "Pull-Ups": "A challenging bodyweight exercise that primarily targets the lats and biceps. Pull-ups are a great way to build upper body strength and muscle mass.",
+      "T-Bar Rows": "A variation of the barbell row that allows for a greater range of motion and can be easier on the lower back.",
+      "Dumbbell Rows": "A unilateral exercise that allows you to work each side of your back independently, helping to address any strength imbalances."
+    },
+    "tempo": "2011 (2 seconds pulling, 0 seconds pause at the contracted position, 1 second returning to starting position, 1 second pause at the starting position)"
+  }
+}

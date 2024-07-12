@@ -1,0 +1,33 @@
+{
+"dumbbell-deadlift": {
+    "form": {
+      "steps": "\n1. Stand with your feet hip-width apart, with a dumbbell in front of each foot. \n2. Hinge at your hips and knees simultaneously to lower yourself down to the dumbbells, keeping your back straight and core engaged. Grip the dumbbells with an overhand grip, slightly wider than your feet. \n3. Lift the dumbbells off the ground by extending your hips and knees at the same time, keeping the dumbbells close to your body. \n4. Lower the dumbbells back to the ground with control, reversing the movement by hinging at your hips and knees.",
+      "form": {
+        "Back": "Keep your back straight throughout the entire movement, maintaining a neutral spine. Avoid rounding your back.",
+        "Core": "Engage your core muscles to stabilize your spine and prevent injury.",
+        "Head and Neck": "Keep your head in line with your spine, looking straight ahead. Avoid looking up or down.",
+        "Grip": "Use an overhand grip, slightly wider than shoulder-width, with your hands just outside your legs.",
+        "Dumbbell Path": "Keep the dumbbells close to your body throughout the entire movement, as if they're sliding up and down your legs."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the Back": "One of the most common mistakes is rounding the back during the lift. This puts excessive stress on the lower back and can lead to injury. Keep your back straight throughout the movement.",
+      "Squatting Instead of Hinging": "Another common mistake is squatting instead of hinging at the hips. The dumbbell deadlift should primarily work the glutes and hamstrings, not the quads. Focus on pushing your hips back and keeping your back straight as you lower the dumbbells.",
+      "Using Too Heavy Weight": "Using a weight that is too heavy can also lead to poor form and increase the risk of injury. Start with a weight that you can lift with proper form and gradually increase the weight as you get stronger.",
+      "Not Controlling the Descent": "Lowering the dumbbells too quickly can also put stress on your lower back. Control the descent and lower the dumbbells slowly and with control."
+    },
+    "comments": {
+      "Muscle groups used": "The dumbbell deadlift is a compound exercise that primarily targets the glutes and lower back, but it also works the hamstrings, quads, forearms, and core.",
+      "Beginners": "The dumbbell deadlift is a great exercise for beginners because it's easier to learn than the barbell deadlift and allows for a greater range of motion.",
+      "Grip Strength": "The dumbbell deadlift is also a great exercise for improving grip strength, as you're holding onto two separate weights.",
+      "Progression": "As you get stronger, you can increase the weight of the dumbbells or try variations like the Romanian dumbbell deadlift or the sumo dumbbell deadlift."
+    },
+    "alternativesAndVariations": {
+      "Barbell Deadlift": "The barbell deadlift is the most common variation of the deadlift and is typically performed with heavier weight. It's a great exercise for building overall strength and muscle mass.",
+      "Romanian Deadlift": "The Romanian deadlift (RDL) is a variation of the deadlift that emphasizes the glutes and hamstrings. It's performed with a slight bend in the knees and a focus on pushing the hips back.",
+      "Sumo Deadlift": "The sumo deadlift is a variation of the deadlift that is performed with a wider stance and a more upright torso. It targets the inner thighs and glutes more than the traditional deadlift.",
+      "Hex Bar Deadlift": "The hex bar deadlift is a variation of the deadlift that is performed using a hex bar. The hex bar allows for a more neutral grip and can be easier on the lower back."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

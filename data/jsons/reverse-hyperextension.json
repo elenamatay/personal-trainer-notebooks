@@ -1,0 +1,32 @@
+{
+"reverse-hyperextension": {
+"form": {
+"steps": "\n1. Position yourself on a reverse hyperextension machine, lying face down with your hips at the edge of the pad and your legs hanging down. Hold on to the handles or sides for stability. \n2. Keep your legs hanging down towards the floor, straight and relaxed. Your feet should be together. \n3. Brace your core, and maintain a neutral back throughout the movement. \n4. Lift your legs upward until they are in line with your body or slightly above by using your glutes and lower back muscles. Do the movement slowly and controlled. \n5. At the top of the movement, squeeze your glutes and hold for a moment. \n6. Slowly reverse the movement back to the starting position while maintaining control and keeping tension in your muscles. \n7. Repeat for reps.",
+"form": {
+"Back": "Maintain a neutral spine throughout the exercise. Avoid rounding or arching your back.",
+"Core": "Keep your core engaged to stabilize your body and protect your lower back.",
+"Hips": "Your hips should be the pivot point of the movement, acting as a hinge.",
+"Legs": "Keep your legs straight or slightly bent, depending on your flexibility and comfort level."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your legs instead of using a controlled movement, which reduces muscle activation and increases the risk of injury.",
+"Hyperextending the Spine": "Arching your back at the top of the movement, which can put stress on your spine.",
+"Not Engaging the Core": "Failing to engage your core, which can lead to lower back pain or injury.",
+"Going Too Heavy": "Using a weight that is too heavy, which can compromise form and increase the risk of injury."
+},
+"comments": {
+"Muscle groups used": "Reverse hyperextensions primarily target the glutes, hamstrings, and lower back muscles.",
+"Spinal Decompression": "This exercise can help decompress the spine, which can be beneficial for people who experience lower back pain or stiffness.",
+"Rehabilitation": "Reverse hyperextensions are often used in rehabilitation settings to help strengthen the lower back and improve spinal stability.",
+"Progression": "As you get stronger, you can increase the weight by holding a weight plate or dumbbell between your feet, or by using a resistance band."
+},
+"alternativesAndVariations": {
+"Glute Ham Raise (GHR)": "A more challenging bodyweight exercise that targets the same muscle groups as the reverse hyperextension.",
+"Back Extensions": "Performed on a 45-degree back extension machine, this exercise also targets the glutes, hamstrings, and lower back.",
+"Good Mornings": "A compound exercise that primarily targets the hamstrings and lower back, but also engages the glutes.",
+"Deadlifts": "A compound exercise that works multiple muscle groups, including the glutes, hamstrings, and lower back."
+},
+"tempo": "2020 (2 seconds lifting, 0 seconds pause at the top, 2 seconds lowering, 0 seconds pause at the bottom)"
+}
+}

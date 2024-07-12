@@ -1,0 +1,30 @@
+{
+"bodyweight-leg-curl": {
+"form": {
+"steps": "\n1. Lie on your back with your knees bent and your feet flat on the floor. Place a towel or wear socks on a smooth, hard surface, such as a hardwood floor, to allow your feet to slide easily. \n2. Engage your core and press your lower back into the floor, maintaining this position throughout the exercise. \n3. Using your hamstrings, pull your heels back in towards your butt, sliding your feet along the floor. \n4. Continue pulling until your heels are as close to your glutes as possible, or until you feel a strong contraction in your hamstrings. \n5. Slowly extend your heels away from your body, straightening out your knees. Try to extend your legs out as far as possible while maintaining tension in your hamstrings to control the movement. \n6. Repeat for reps.",
+"form": {
+"Back": "Keep your lower back pressed into the floor throughout the exercise to protect your spine and ensure hamstring engagement.",
+"Core": "Engage your core muscles to stabilize your body and prevent any unwanted movement.",
+"Hips": "Keep your hips slightly elevated throughout the exercise to maintain tension on the hamstrings.",
+"Movement": "The movement should be slow and controlled, both during the concentric (pulling) and eccentric (extending) phases."
+}
+},
+"commonMistakes": {
+"Arching Lower Back": "This can lead to lower back pain and reduce hamstring engagement.",
+"Using Momentum": "Swinging your legs instead of using controlled movements reduces the effectiveness of the exercise.",
+"Limited Range of Motion": "Not fully extending or flexing the knees limits hamstring activation."
+},
+"comments": {
+"Accessibility": "This exercise is a great alternative to strengthen your hamstrings even if you can't access a gym or traditional weights.",
+"Progression": "To increase the difficulty, you can try single-leg bodyweight leg curls or place a weight plate on your hips.",
+"Surface": "Ensure the surface you are using is smooth enough to allow your feet to slide easily. Using socks or a towel can help with this."
+},
+"alternativesAndVariations": {
+"Glute Ham Raise (GHR)": "A more advanced exercise that targets the hamstrings and glutes. It requires a GHR machine or a similar setup.",
+"Hamstring Curls on Machine": "A machine-based exercise that isolates the hamstrings. It allows for progressive overload by adjusting the weight.",
+"Nordic Hamstring Curl": "A challenging bodyweight exercise that targets the eccentric phase of hamstring contraction. It requires a partner or a sturdy object to anchor your feet.",
+"Sliding Leg Curls": "Similar to the bodyweight leg curl but performed with sliders or furniture sliders under your feet for a smoother range of motion."
+},
+"tempo": "3010 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

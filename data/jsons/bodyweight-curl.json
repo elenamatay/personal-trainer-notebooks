@@ -1,0 +1,32 @@
+{
+"bodyweight-curl": {
+"form": {
+"steps": "\n1. Grab the handles of your TRX (or your rings) with an underhand grip. \n2. Stand with your body facing the anchor point. \n3. Walk your feet forward until your body is at an angle, leaning back with the cables tensioned. Your body should form a straight line from head to heels. \n4. In the starting position, keep your arms straight and the palms facing toward your face. At this point, the elbows should be higher up than the shoulders. \n5. Slowly bend your arms with control and curl yourself towards the handles, keeping your elbows high and tight to your body. \n6. Reverse the movement and slowly lower yourself back to the starting position, maintaining tension in the TRX throughout. \n7. Repeat for reps.",
+"form": {
+"Body Angle": "Maintain a straight line from head to heels throughout the exercise. The more horizontal your body, the harder the exercise becomes.",
+"Elbows": "Keep your elbows high and tight to your body throughout the movement. Don't let them drop as you curl.",
+"Grip": "Use an underhand grip (palms facing up) on the TRX handles.",
+"Shoulders": "Keep your shoulders stabilized and pulled down away from your ears.",
+"Core": "Keep your core engaged throughout the exercise to maintain stability."
+}
+},
+"commonMistakes": {
+"Swinging": "Using momentum to swing your body instead of using your biceps strength to pull yourself up.",
+"Dropping Elbows": "Letting your elbows drop down as you curl, which reduces biceps activation and can strain your shoulders.",
+"Not Controlling the Movement": "Curling or lowering yourself too quickly, which can increase the risk of injury.",
+"Arching Back": "Arching your back to compensate for lack of strength, which can lead to lower back pain."
+},
+"comments": {
+"Accessibility": "The bodyweight curl is an excellent alternative way to build arm strength if you don't have access to any free weights. All you need is a TRX or a pair of gymnastic rings.",
+"Progression": "You can adjust the difficulty of the exercise by changing the angle of your body. Walking your feet forward will make the exercise harder, while walking them backward will make it easier.",
+"Variations": "You can also try variations of the bodyweight curl, such as close-grip curls (hands closer together) or hammer curls (palms facing each other)."
+},
+"alternativesAndVariations": {
+"Barbell Curls": "A classic biceps exercise that allows you to lift heavier weight. The main difference is that barbell curls are performed with a barbell and require more stabilization.",
+"Dumbbell Curls": "Similar to barbell curls, but performed with dumbbells, which allows for more freedom of movement and can help address muscle imbalances.",
+"Hammer Curls": "A variation of curls that targets the biceps, brachialis, and brachioradialis muscles. The main difference is the grip, which is neutral (palms facing each other) in hammer curls.",
+"Chin-Ups": "A compound exercise that works the biceps, back, and shoulders. Chin-ups are generally more challenging than bodyweight curls but offer a greater overall muscle activation."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

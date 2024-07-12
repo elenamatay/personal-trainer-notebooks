@@ -1,0 +1,34 @@
+{
+"landmine-squat": {
+    "form": {
+      "steps": "\n1. Place one end of a barbell securely into a landmine attachment or a corner. \n2. Stand facing the barbell, feet slightly wider than shoulder-width apart, toes slightly pointed out. \n3. Grip the other end of the barbell with both hands, resting it against your upper chest, just below your collarbone. Your elbows should be pointing forward. \n4. Inhale, brace your core, and keep your back straight. \n5. Initiate the squat by pushing your hips back and bending your knees. \n6. Squat down as deep as possible while maintaining good form. Your back should remain straight, and your heels should stay flat on the floor. \n7. With control, reverse the movement by extending your hips and legs until you return to a standing position.",
+      "form": {
+        "Back": "Keep your back straight throughout the entire movement. Avoid rounding or arching your back excessively.",
+        "Core": "Engage your core muscles to maintain stability and protect your spine.",
+        "Head": "Maintain a neutral head position, looking straight ahead. Avoid looking up or down.",
+        "Feet": "Keep your feet flat on the floor throughout the exercise. Your weight should be evenly distributed between your heels and toes.",
+        "Elbows": "Keep your elbows pointing forward throughout the movement. This helps to engage your core and maintain proper form."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the back": "This is a common mistake when squatting, especially with heavier weights. It puts excessive stress on the lower back and can lead to injury. Make sure to keep your back straight throughout the movement.",
+      "Not squatting low enough": "To get the full benefits of the exercise, make sure to squat down until your thighs are at least parallel to the floor. If you have mobility issues, you can place a small plate under your heels to increase your range of motion.",
+      "Lifting heels off the floor": "This usually indicates that your weight is shifting forward, putting more stress on your knees. Focus on keeping your weight evenly distributed between your heels and toes.",
+      "Not controlling the movement": "Control both the eccentric (downward) and concentric (upward) phases of the movement. Avoid bouncing at the bottom of the squat or using momentum to lift the weight."
+    },
+    "comments": {
+      "Muscle activation": "The landmine squat is a compound exercise that primarily targets the quadriceps, glutes, and adductors. It also engages the core, hamstrings, and calves to a lesser extent.",
+      "Stability and balance": "The landmine setup provides a counterbalance, making it a more stable squatting variation compared to a traditional barbell back squat. This can be beneficial for individuals with balance issues or those new to squatting.",
+      "Reduced spinal compression": "The angled resistance of the landmine squat places less stress on the lower back compared to a traditional back squat. This makes it a suitable option for individuals with lower back pain or those looking to reduce spinal loading.",
+      "Versatility": "The landmine squat is a versatile exercise that can be modified in various ways. You can adjust your foot placement (wider or narrower stance) or add variations like the landmine hack squat to target different muscle groups."
+    },
+    "alternativesAndVariations": {
+      "Goblet Squat": "Similar movement pattern to the landmine squat, but you hold a weight (dumbbell or kettlebell) close to your chest. This variation emphasizes core engagement.",
+      "Front Squat": "Another squat variation that places the weight in front of the body, but with a barbell across the upper chest and shoulders. It requires more mobility and stability compared to the landmine squat.",
+      "Leg Press": "A machine-based exercise that works similar muscle groups as the landmine squat. It provides more support and stability, making it a good option for beginners or those with injuries.",
+      "Hack Squat Machine": "Another machine-based exercise that targets the quads, glutes, and hamstrings. It provides a guided range of motion and can be a good alternative for those who find squats challenging.",
+      "Landmine Hack Squat": "A variation of the landmine squat where you stand in a staggered stance with your back foot elevated on a platform. This variation increases the range of motion and emphasizes the quads."
+    },
+    "tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "good-morning": {
+    "form": {
+      "steps": "\n1. Stand with your feet slightly wider than hip-width apart. \n2. Place a barbell across your upper back, resting on your traps, not your neck. \n3. Inhale and brace your core slightly, maintaining a neutral spine. \n4. Keeping your back straight, initiate the movement by pushing your hips back, like you're about to sit in a chair. \n5. Lower the weight by hinging at your hips until your torso is roughly parallel to the floor, or as far as your flexibility allows while maintaining a flat back. \n6. Drive through your hips to return to the starting position, squeezing your glutes at the top.",
+      "form": {
+        "Back": "Keep your back straight throughout the entire movement. Avoid rounding your back, especially in the bottom position.",
+        "Core": "Engage your core muscles to stabilize your spine and prevent injury.",
+        "Hips": "The movement should primarily come from the hip joint, not the lower back.",
+        "Knees": "Keep a slight bend in your knees throughout the exercise.",
+        "Head and Neck": "Maintain a neutral head position, looking straight ahead. Avoid looking up or down."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the Back": "This is the most common mistake, which can lead to lower back injury. Ensure to keep a neutral spine throughout the movement.",
+      "Using Too Much Weight": "Start with light weight and gradually increase as you get stronger and more comfortable with the movement.",
+      "Not Engaging the Core": "Engage your core muscles throughout the exercise to protect your spine.",
+      "Going Too Deep": "Only lower as far as your flexibility allows while maintaining a flat back. Going too deep can strain your lower back."
+    },
+    "comments": {
+      "Muscle Activation": "The good morning primarily targets the glutes, hamstrings, and lower back muscles. It also engages the core muscles for stability.",
+      "Assistance Exercise": "This exercise is often used as an assistance exercise for squats and deadlifts, as it strengthens the posterior chain muscles.",
+      "Variations": "Good mornings can be performed with a barbell, dumbbells, or a resistance band. Each variation slightly alters the muscle activation.",
+      "Foot Position": "Experiment with different foot positions to find what feels most comfortable and stable for you."
+    },
+    "alternativesAndVariations": {
+      "Romanian Deadlift (RDL)": "Similar movement pattern to the good morning, but with a focus on maintaining straight legs throughout the exercise.",
+      "Hip Thrusts": "Targets the glutes and hamstrings, but with less emphasis on the lower back.",
+      "Back Extensions": "Focuses on strengthening the lower back muscles specifically.",
+      "Kettlebell Swings": "A dynamic exercise that engages the posterior chain, including the glutes, hamstrings, and lower back."
+    },
+    "tempo": "3010 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}

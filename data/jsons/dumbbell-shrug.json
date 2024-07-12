@@ -1,0 +1,19 @@
+{
+"dumbbell_shrug": {
+"form": {
+"Steps": "\n1. Hold a pair of dumbbells at your sides. \n2. Lift your shoulders straight up as high as possible. \n3. Lower your shoulders again.",
+"Form": "Stand with the dumbbells in your hands, and make sure to keep a good posture and tension in your core during the entire movement. The movement should come from your shoulders, not your arms or wrists. Your arms should remain straight while you lift your shoulders up towards your ears. The range of motion in this exercise is quite short, so do the movement slow and controlled, preferably with a short pause in the top position to get a longer time under tension."
+},
+"tempo": "2111: 2 seconds concentric, 1 second pause at the top, 1 second eccentric, 1 second pause at the bottom. Why? The shrug is all about maximizing the contraction of the trapezius muscles. A 2-second concentric phase ensures a full and powerful squeeze at the top. The brief pauses at the top and bottom help maintain tension and prevent momentum from taking over.",
+"commonMistakes": {
+"1. Not maintaining correct form.": "Your arms should be straight and passive; the lifting motion should come entirely from your shoulders and traps. The shoulders should go straight up and down and not move forward/backward.",
+"2. Picking the wrong weight.": "This is an exercise where it’s easy to pick both a weight that’s too heavy, which can lead to difficulties with keeping a proper form, and a weight that is too light. If you feel like the grip strength is what’s holding you back from picking a heavier weight, don’t hesitate to use lifting straps."
+},
+"comments": "The dumbbell shrug is a trapezius exercise that involves shrugging your shoulders while holding a pair of dumbbells. The exercise can also be performed with a barbell, in which case it is called a barbell shrug. The differences between dumbbell and barbell shrugs are quite small, and both are effective exercises for strengthening the trapezius muscle. The choice between the two comes down to personal preference, comfort, and available equipment. The dumbbell version allows for a slighter longer range of motion, while most lifters find it easier to lift heavier in the barbell version.",
+"alternativesAndVariations": {
+"Barbell shrug": "The barbell shrug is a very similar exercise, but using a barbell instead of dumbbells. Most people find it easier to lift heavier weights with a barbell, but the range of motion might be a bit shorter.",
+"Upright row": "The upright row is another exercise that works your traps, but it also works your shoulders to a greater extent. It is a more complex exercise than the shrug, and the risk of injury is higher.",
+"Face pull": "The face pull is a great exercise for your upper back and rear delts, and it also works your traps. It is a good exercise to do in addition to shrugs, as it helps to balance out your shoulder development."
+}
+}
+}

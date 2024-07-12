@@ -1,0 +1,30 @@
+{
+"dumbbell-horizontal-internal-shoulder-rotation": {
+"form": {
+"steps": "\n1. Lie face up on a bench or the floor, with your feet flat on the ground. \n2. Hold a dumbbell in one hand and raise your arm to the side, so your upper arm is parallel to the ground and your elbow is bent at a 90-degree angle. Your forearm should be pointing towards the ceiling. \n3. Keeping your upper arm still, slowly rotate your arm inwards, lowering the dumbbell towards the floor. \n4. Once you feel a stretch in your shoulder or your hand touches the floor, reverse the movement and rotate your arm back to the starting position.",
+"form": {
+"Upper Arm": "Keep your upper arm parallel to the ground throughout the exercise.",
+"Elbow": "Maintain a 90-degree angle at your elbow throughout the movement.",
+"Shoulder": "Avoid shrugging your shoulder towards your ear. Keep your shoulder blade pulled down and back.",
+"Movement": "The movement should only occur at the shoulder joint. Avoid using momentum or swinging the weight."
+}
+},
+"commonMistakes": {
+"Moving the Upper Arm": "One common mistake is allowing the upper arm to move away from the body during the rotation. This reduces the activation of the target muscles.",
+"Using Momentum": "Swinging the weight or using momentum instead of controlled movements is another common mistake. Focus on using the muscles to control the weight throughout the exercise.",
+"Not Controlling the Movement": "Failing to control the weight during both the lowering and lifting phases can increase the risk of injury. Ensure a smooth and controlled movement throughout the exercise."
+},
+"comments": {
+"Muscle Focus": "This exercise primarily targets the subscapularis, one of the four muscles of the rotator cuff. The subscapularis plays a crucial role in shoulder stability and internal rotation.",
+"Injury Prevention": "Strengthening the internal rotators of the shoulder, like the subscapularis, is essential for maintaining shoulder health and preventing imbalances that can lead to injuries.",
+"Alternative Position": "By positioning your upper arm out to your side, you train the subscapularis at a slightly longer muscle length compared to when you keep your upper arm close to your side. This variation can be beneficial for targeting different parts of the muscle.",
+"Progression": "As you get stronger, you can increase the weight of the dumbbell to continue challenging your muscles."
+},
+"alternativesAndVariations": {
+"Cable Internal Rotation": "This variation uses a cable machine to provide resistance. It allows for a more consistent resistance throughout the range of motion.",
+"Band Internal Rotation": "This variation uses a resistance band to provide resistance. It's a convenient option that can be done at home or on the go.",
+"Wall Slides": "This exercise, while not directly targeting internal rotation, can help improve shoulder mobility and stability, which are important for overall shoulder health."
+},
+"tempo": "2011 (2 seconds lowering the weight, 0 seconds pause at the bottom, 1 second lifting the weight, 1 second pause at the top)"
+}
+}

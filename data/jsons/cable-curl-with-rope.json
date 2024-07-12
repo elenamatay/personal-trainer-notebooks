@@ -1,0 +1,31 @@
+{
+"cable-curl-with-rope": {
+"form": {
+"steps": "\n1. Fasten a rope to the lower position of a cable cross. \n2. Grip the rope with a neutral grip (palms facing each other) and take a step back, so there is tension on the cable. \n3. Keeping your upper arms still or slightly forward, lift the rope with control by flexing your elbows. \n4. Slowly reverse the movement and lower the rope back to the starting position, resisting the weight as you go.",
+"form": {
+"Elbows": "Keep your elbows tucked in at your sides throughout the movement. Don't let them move forward or backward.",
+"Upper Arms": "Maintain a fixed position with your upper arms, either vertical or slightly forward. They should not move during the exercise.",
+"Grip": "Use a neutral grip, with your palms facing each other. This helps to target the biceps and brachialis muscles more effectively.",
+"Range of Motion": "Curl the rope up as high as you can, feeling a strong contraction in your biceps. Lower the weight slowly and controlled until your arms are fully extended."
+}
+},
+"commonMistakes": {
+"Swinging": "Using momentum to swing the weight up, instead of using controlled movements.",
+"Elbow Movement": "Allowing your elbows to move forward or backward during the exercise.",
+"Partial Range of Motion": "Not curling the weight all the way up or lowering it all the way down, which reduces the effectiveness of the exercise."
+},
+"comments": {
+"Constant Tension": "The cable curl provides more constant tension on the muscles compared to free-weight curls, which can be beneficial for muscle growth.",
+"Muscle Activation": "Using a rope with a neutral grip can help to better isolate the biceps brachii, brachialis, and brachioradialis muscles.",
+"Variation": "Cable curls can also be performed with a straight bar or EZ bar attachment for variation.",
+"Grip Strength": "The rope attachment also challenges your grip strength, which can be beneficial for overall forearm development."
+},
+"alternativesAndVariations": {
+"Barbell Curl": "A classic biceps exercise that uses a barbell. The main difference is that the barbell curl doesn't provide constant tension like the cable curl.",
+"Dumbbell Curl": "Similar to the barbell curl, but uses dumbbells instead. This allows for a greater range of motion and independent arm movement.",
+"Hammer Curl": "Performed with a neutral grip, like the rope cable curl, but uses dumbbells. This variation places more emphasis on the brachialis and brachioradialis muscles.",
+"Concentration Curl": "An isolation exercise that focuses on one arm at a time, providing a strong peak contraction for the biceps."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

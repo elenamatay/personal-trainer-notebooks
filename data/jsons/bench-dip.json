@@ -1,0 +1,32 @@
+{
+"bench-dip": {
+"form": {
+"steps": "\n1. Stand facing away from a bench, placing your hands shoulder-width apart on the edge of the bench with your fingertips pointing forward. \n2. Extend your legs out in front of you, with your heels on the floor and your toes pointing up. \n3. Lower your body by bending your elbows until they reach a 90-degree angle, keeping your back close to the bench. \n4. Push yourself back up to the starting position by straightening your arms, engaging your triceps.",
+"form": {
+"Elbows": "Keep your elbows slightly tucked in, not flared out to the sides.",
+"Back": "Maintain a straight line from your head to your heels, keeping your back close to the bench.",
+"Shoulders": "Avoid shrugging your shoulders up towards your ears. Keep them relaxed and down.",
+"Range of Motion": "Lower yourself down until your elbows reach a 90-degree angle, or slightly lower if comfortable."
+}
+},
+"commonMistakes": {
+"Flaring Elbows": "Allowing your elbows to flare out to the sides, which can put stress on your shoulder joints.",
+"Shrugging Shoulders": "Raising your shoulders towards your ears during the exercise, which can lead to neck strain.",
+"Incomplete Range of Motion": "Not lowering your body down far enough, which reduces triceps activation.",
+"Locking Elbows": "Fully extending your elbows at the top of the movement, which can put stress on your joints."
+},
+"comments": {
+"Muscle Activation": "The bench dip primarily targets the triceps muscles, but it also engages the chest and front deltoids to a lesser extent.",
+"Progression": "To increase the difficulty, you can elevate your feet on a platform or use a weighted vest.",
+"Regression": "If you're new to bench dips, you can make the exercise easier by bending your knees and keeping your feet flat on the floor.",
+"Comparison to Bar Dips": "Compared to bar dips, bench dips place more emphasis on the triceps and less on the chest and shoulders."
+},
+"alternativesAndVariations": {
+"Bar Dips": "A more challenging variation that uses parallel bars instead of a bench, placing more emphasis on the chest and shoulders.",
+"Close-Grip Bench Press": "A compound exercise that also targets the triceps, chest, and shoulders, but with a barbell.",
+"Triceps Pushdowns": "An isolation exercise that specifically targets the triceps, performed on a cable machine.",
+"Overhead Triceps Extensions": "Another isolation exercise for the triceps, performed with dumbbells or a cable machine."
+},
+"tempo": "3010 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

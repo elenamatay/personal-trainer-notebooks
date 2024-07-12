@@ -1,0 +1,33 @@
+{
+"resistance-band-chest-fly": {
+"form": {
+"steps": "\n1. Attach the band to a door or something similarly stable around chest level.\n2. In a standing position, grab the band with one hand and move away from the anchor point until you feel a stretch and resistance in your chest muscles.\n3. Pull the band in front of your body at chest height with a slight bend at the elbow, keeping your chest up and shoulders down.\n4. Slowly control the band back to the starting position, feeling the resistance in your chest muscles.\n5. Repeat for the desired number of repetitions, then switch to the other side of your body and perform the same steps.",
+"form": {
+"Elbows": "Maintain a slight bend in your elbows throughout the exercise. Don't fully extend your arms.",
+"Chest": "Keep your chest up and push it forward as you bring the band together. This helps to engage your chest muscles more effectively.",
+"Shoulders": "Keep your shoulders down and relaxed. Don't shrug them up towards your ears.",
+"Back": "Maintain a neutral spine and avoid arching your back.",
+"Movement": "The movement should be slow and controlled, both when bringing the band together and when returning to the starting position."
+}
+},
+"commonMistakes": {
+"Using too much resistance": "Using a band that's too heavy can compromise form and put excessive stress on your shoulder joints. Start with a lighter band and gradually increase the resistance as you get stronger.",
+"Not controlling the movement": "Rushing through the exercise or letting the band snap back can increase the risk of injury and reduce muscle engagement. Focus on slow, controlled movements throughout.",
+"Arching your back": "Arching your back can put stress on your spine. Keep your core engaged and maintain a neutral spine throughout the exercise.",
+"Shrugging your shoulders": "Shrugging your shoulders during the exercise can lead to neck and shoulder pain. Keep your shoulders down and relaxed throughout the movement."
+},
+"comments": {
+"Resistance Curve": "Compared to dumbbell chest flyes, the resistance curve in band chest flyes is more evenly distributed, and you have more of a constant load on your chest muscles throughout the whole range of motion.",
+"Isolation Exercise": "The resistance band chest fly is an isolation exercise, meaning it primarily targets a single muscle group (the chest) and helps to isolate and strengthen it.",
+"Versatile Exercise": "This exercise can be easily modified to adjust the resistance level by simply moving closer or farther away from the anchor point.",
+"Warm-up": "Resistance band chest flyes are a great exercise to include in your warm-up routine for chest workouts. They help to activate and prepare the chest muscles for heavier lifts."
+},
+"alternativesAndVariations": {
+"Cable Chest Fly": "A similar exercise that provides a more consistent resistance throughout the movement. It requires access to a cable machine.",
+"Dumbbell Chest Fly": "A classic chest exercise that allows for a greater range of motion. It can be performed on a bench or on the floor.",
+"Pec Deck Fly": "A machine-based exercise that provides a fixed range of motion and can be a good option for beginners.",
+"Push-Ups": "A bodyweight exercise that works the chest, triceps, and shoulders. It can be modified to target different areas of the chest."
+},
+"tempo": "2011 (2 seconds pulling, 0 seconds pause at the contraction, 1 second returning, 1 second pause at the starting position)"
+}
+}

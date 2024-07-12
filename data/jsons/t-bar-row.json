@@ -1,0 +1,33 @@
+{
+"t-bar-row": {
+    "form": {
+      "steps": "\n1. Load the desired weight on the T-bar row machine. \n2. Stand on the platform with your feet shoulder-width apart, slightly bend your knees, and lean forward at the hips, keeping your back straight. \n3. Grasp the bar with an overhand grip, slightly wider than shoulder-width apart. \n4. Inhale and pull the bar towards your torso, keeping your elbows close to your body. \n5. Squeeze your back muscles at the top of the movement. \n6. With control, lower the bar back to the starting position, fully extending your arms.",
+      "form": {
+        "Back": "Keep your back straight throughout the exercise, maintaining a neutral spine. Avoid rounding or arching your back.",
+        "Elbows": "Keep your elbows close to your body during the pulling motion. This ensures that you are primarily using your back muscles and not your biceps.",
+        "Grip": "Use an overhand grip, slightly wider than shoulder-width apart. This grip position helps target the lats and upper back muscles effectively.",
+        "Range of Motion": "Pull the bar up as high as possible, aiming for your upper abdomen. Lower the weight slowly and controlled until your arms are fully extended.",
+        "Head and Neck": "Keep your head in line with your spine. Avoid looking up or down, as this can strain your neck."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the Back": "This is a common mistake that can lead to lower back pain. Make sure to keep your back straight throughout the exercise.",
+      "Using Too Much Weight": "Using too much weight can compromise form and increase the risk of injury. Choose a weight that allows you to maintain proper form for all reps.",
+      "Jerking the Weight": "Avoid using momentum to lift the weight. The movement should be slow and controlled, focusing on squeezing your back muscles.",
+      "Not Using Full Range of Motion": "Not pulling the weight all the way up or lowering it all the way down reduces the effectiveness of the exercise. Ensure a full range of motion for optimal muscle activation."
+    },
+    "comments": {
+      "Muscle Activation": "T-bar rows primarily target the lats, traps, and rhomboids, which are essential for a strong and muscular back. They also engage the biceps, forearms, and core muscles.",
+      "Variation in Grip": "You can vary your grip (e.g., close grip, wide grip, neutral grip) to target different muscle groups in your back.",
+      "Fixed Plane of Motion": "The T-bar row machine provides a fixed plane of motion, which can be beneficial for those who have difficulty maintaining proper form with free weight rows.",
+      "Progression": "As you get stronger, you can increase the weight, reps, or sets to continue challenging your back muscles."
+    },
+    "alternativesAndVariations": {
+      "Bent-Over Row": "A classic back exercise that allows for a greater range of motion and core engagement. The main difference is that it's a free weight exercise, requiring more balance and stability.",
+      "Seated Cable Row": "Another great back exercise that provides a similar movement pattern to the T-bar row. It allows for adjustable resistance and different grip options.",
+      "Pull-Ups": "A challenging bodyweight exercise that targets the back, biceps, and forearms. It's a great exercise for building upper body strength and muscle mass.",
+      "Lat Pulldowns": "A machine-based exercise that primarily targets the lats. It's a good alternative for those who are unable to perform pull-ups."
+    },
+    "tempo": "2011 (2 seconds pulling, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+  }
+}

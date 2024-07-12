@@ -1,0 +1,33 @@
+{
+"ring-pull-up": {
+"form": {
+"steps": "\n1. Adjust the rings so they hang about waist-high. Grab the rings with an overhand grip, slightly wider than shoulder-width apart. \n2. Hang from the rings with your arms fully extended, feet off the ground, and your body forming a straight line from head to heels. \n3. Initiate the pull by pulling your shoulder blades down and back, as if you were trying to put them in your back pockets. \n4. Continue pulling yourself up by driving your elbows down and back, bringing your chest towards the rings. \n5. Once your chest touches or slightly passes the rings, slowly lower yourself back down to the starting position, maintaining control and a straight body throughout the descent. \n6. Repeat for reps.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows close to your body during the upward movement.",
+"Shoulders": "Initiate the pull by retracting your shoulder blades (pulling them down and back).",
+"Core": "Engage your core throughout the exercise to maintain a straight body line and prevent swinging.",
+"Full Range of Motion": "Lower yourself down until your arms are fully extended, and pull yourself up until your chest reaches the rings."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your body to generate momentum instead of using your muscles to pull yourself up.",
+"Partial Range of Motion": "Not lowering yourself down all the way or not pulling yourself up high enough.",
+"Elbows Flaring Out": "Allowing your elbows to flare out to the sides, which can put stress on your shoulder joints.",
+"Lack of Core Engagement": "Not engaging your core, leading to a loose and unstable body position."
+},
+"comments": {
+"Muscle Groups Worked": "The ring pull-up is a compound exercise that primarily targets the latissimus dorsi (lats) muscles in your back. It also works the biceps, rear deltoids, forearms, and core muscles.",
+"Progression": "If you're new to ring pull-ups, start with assisted variations like band-assisted ring pull-ups or negative ring pull-ups. As you get stronger, you can gradually progress to unassisted ring pull-ups.",
+"Benefits of Ring Pull-Ups": "The instability of the rings adds an extra challenge to the exercise, engaging more stabilizing muscles and improving grip strength. This can be beneficial for overall upper body strength and functional fitness.",
+"Muscle-Up Preparation": "Ring pull-ups are an excellent exercise for building the strength and stability required for muscle-ups."
+},
+"alternativesAndVariations": {
+"Pull-Ups": "A similar exercise that can be performed on a fixed bar. Pull-ups typically target the biceps slightly more than ring pull-ups.",
+"Chin-Ups": "Another variation performed on a fixed bar, but with an underhand grip. Chin-ups emphasize the biceps more than pull-ups or ring pull-ups.",
+"Lat Pulldowns": "A machine-based exercise that targets the lats. It can be a good alternative for beginners who are not yet strong enough for pull-ups or ring pull-ups.",
+"Inverted Rows": "A bodyweight exercise that can be performed using rings, a bar, or suspension trainers. It works similar muscles as pull-ups but is generally less challenging."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

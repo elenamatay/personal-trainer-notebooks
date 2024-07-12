@@ -1,0 +1,29 @@
+{
+"banded-side-kick": {
+"form": {
+"steps": "\n1. Place an elastic band around your ankles. \n2. Hold on to something with your hands for balance. \n3. Stand on one leg, keeping your core engaged and your standing leg slightly bent. \n4. While maintaining tension on the band, bring your other leg as far out to the side as possible, feeling the contraction in your outer hip. \n5. Slowly bring the leg back in, resisting the band's pull, until you reach the starting position.",
+"form": {
+"Torso": "Keep your torso upright and avoid leaning to the side.",
+"Hips": "Avoid rotating your hips; keep them facing forward.",
+"Standing Leg": "Maintain a slight bend in your standing leg throughout the exercise.",
+"Controlled Movement": "Perform the exercise with slow and controlled movements, both during abduction and adduction."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the leg instead of using controlled movements, reducing muscle activation.",
+"Leaning to the Side": "Not keeping the torso upright, which can strain the lower back and reduce effectiveness.",
+"Rotating the Hips": "Allowing the hips to rotate outward during the movement, which can lead to hip pain and reduce glute activation."
+},
+"comments": {
+"Muscle Activation": "Banded side kicks primarily train the hip abductor muscles, including the gluteus medius and parts of the gluteus maximus. These muscles are important for stabilizing the pelvis and controlling leg movement.",
+"Importance of Hip Abductors": "Strong hip abductors are crucial for proper lower body mechanics, especially in activities like running and jumping. They help prevent knee injuries and improve overall stability.",
+"Progression": "You can increase the resistance of the band or perform more repetitions as you get stronger."
+},
+"alternativesAndVariations": {
+"Side-Lying Hip Abduction": "A bodyweight exercise that targets the hip abductors. Lie on your side with your legs straight and lift your top leg upwards.",
+"Cable Hip Abduction": "A machine-based exercise that provides resistance through a cable. Stand with the cable attached to your ankle and move your leg out to the side.",
+"Hip Abductor Machine": "A machine specifically designed to target the hip abductors. Sit on the machine and press your legs outward against resistance."
+},
+"tempo": "2011 (2 seconds abduction, 0 seconds hold at the top, 1 second adduction, 1 second hold at the bottom)"
+}
+}

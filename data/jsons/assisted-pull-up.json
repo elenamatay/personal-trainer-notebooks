@@ -1,0 +1,33 @@
+{
+  "assisted-pull-up": {
+    "form": {
+      "steps": "\n1. Stand on the platform of the assisted pull-up machine and grab the bar with an overhand grip, slightly wider than shoulder-width apart. \n2. Step off the platform and let your body hang freely, arms fully extended. \n3. Pull yourself up by driving your elbows towards your ribcage, keeping your chest up and looking straight ahead. \n4. Continue pulling until your chin clears the bar. \n5. Slowly lower yourself back down to the starting position, allowing the platform to support your weight.",
+      "form": {
+        "Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+        "Elbows": "Drive your elbows towards your ribcage during the pulling motion.",
+        "Chest": "Keep your chest up and look straight ahead throughout the exercise.",
+        "Shoulder Blades": "Retract your shoulder blades (pull them together) as you pull yourself up.",
+        "Full Range of Motion": "Lower yourself down until your arms are fully extended, and pull yourself up until your chin clears the bar."
+      }
+    },
+    "commonMistakes": {
+      "Using Momentum": "Swinging your body or using momentum to help you lift yourself up.",
+      "Not Using Full Range of Motion": "Not lowering yourself down completely or not pulling yourself up high enough.",
+      "Shrugging Your Shoulders": "Raising your shoulders towards your ears during the exercise, which can lead to neck pain.",
+      "Not Engaging Your Core": "Allowing your body to lean back too far, which can put stress on your lower back."
+    },
+    "comments": {
+      "Muscle Groups": "Assisted pull-ups primarily target the latissimus dorsi (lats), biceps, and rear deltoids. They also engage the forearms, core, and upper back muscles.",
+      "Progression": "As you get stronger, you can gradually decrease the amount of assistance provided by the machine until you are able to perform unassisted pull-ups.",
+      "Alternative Grip": "You can also perform assisted pull-ups with an underhand grip (chin-ups), which will place more emphasis on the biceps.",
+      "Benefits": "Assisted pull-ups are a great exercise for building upper body strength and improving your ability to perform pull-ups."
+    },
+    "alternativesAndVariations": {
+      "Lat Pulldown": "A similar exercise that targets the same muscle groups as assisted pull-ups, but with a fixed range of motion.",
+      "Negative Pull-Ups": "Focus on the eccentric (lowering) portion of the pull-up. Jump or use a step to get to the top position, then slowly lower yourself down.",
+      "Band-Assisted Pull-Ups": "Use a resistance band to provide assistance during the exercise. As you get stronger, you can use lighter bands.",
+      "Inverted Rows": "Performed with your body at an incline, using a barbell or suspension straps. This exercise targets similar muscle groups as pull-ups but is easier to perform."
+    },
+    "tempo": "2012 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 2 seconds pause at the top)"
+  }
+}

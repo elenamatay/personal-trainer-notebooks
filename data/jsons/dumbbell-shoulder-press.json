@@ -1,0 +1,33 @@
+{
+"dumbbell-shoulder-press": {
+"form": {
+"steps": "\n1. Grab a pair of dumbbells and stand with your feet shoulder-width apart, holding the dumbbells at shoulder height with your palms facing forward. \n2. Inhale and lightly brace your core, keeping your back straight and your elbows slightly bent. \n3. Press the dumbbells up above your head by extending your arms, while exhaling. \n4. Inhale at the top of the movement, or while lowering the dumbbells with control back to the starting position at your shoulders. \n5. Repeat for reps.",
+"form": {
+"Elbows": "Keep your elbows slightly bent throughout the movement, don't lock them out at the top.",
+"Back": "Maintain a straight back and avoid arching your lower back.",
+"Core": "Engage your core to keep your body stable and upright.",
+"Head": "Keep your head in a neutral position, looking straight ahead. Avoid tilting your head forward or backward.",
+"Range of Motion": "Press the dumbbells up until your arms are almost fully extended, but avoid locking out your elbows. Lower the dumbbells down to at least shoulder level, or slightly lower if your mobility allows."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weights up using momentum from your legs or back instead of using your shoulder muscles.",
+"Locking Out Elbows": "Locking out your elbows at the top of the movement, which can put stress on your joints.",
+"Arching Your Back": "Arching your lower back excessively, which can lead to injury.",
+"Not Controlling the Descent": "Lowering the weights too quickly or without control, which can also increase the risk of injury."
+},
+"comments": {
+"Muscle groups used": "The dumbbell shoulder press primarily targets the front deltoids, but it also works the triceps and lateral deltoids.",
+"Dumbbells vs. Barbell": "Compared to the barbell overhead press, the dumbbell shoulder press increases the demand for shoulder stability and allows for a longer range of motion. With dumbbells, you might also be able to move your arms more to your sides, which can emphasize the training effect on the medial deltoids.",
+"Variations": "This exercise can be done both standing and sitting, with one or two arms at a time. By standing up and using one arm at a time, you can increase the muscle activation of the obliques.",
+"Progression": "As you get stronger, you can increase the weight of the dumbbells or increase the number of reps and sets."
+},
+"alternativesAndVariations": {
+"Barbell Overhead Press": "A compound exercise that works the shoulders, triceps, and upper back. The main difference is that it uses a barbell instead of dumbbells, which can allow for heavier weight but less range of motion.",
+"Arnold Press": "A variation of the dumbbell shoulder press that involves rotating the dumbbells as you press them up, which engages the lateral deltoids more.",
+"Lateral Raises": "An isolation exercise that specifically targets the lateral deltoids. It involves raising the dumbbells out to the sides with your elbows slightly bent.",
+"Front Raises": "An isolation exercise that targets the front deltoids. It involves raising the dumbbells in front of you with your elbows slightly bent."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

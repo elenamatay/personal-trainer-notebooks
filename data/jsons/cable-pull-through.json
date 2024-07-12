@@ -1,0 +1,34 @@
+{
+"cable-pull-through": {
+"form": {
+"steps": "\n1. Fasten a rope handle to the lower position on a cable pulley machine. \n2. Turn your back against the pulley, with the cable running between your legs. \n3. Stand a couple of feet in front of the cable machine, with your feet slightly wider than shoulder-width apart. \n4. Bend forward by hinging at your hips, ensuring to keep your back straight and core engaged. Allow the rope handle to move backwards, passing between your thighs. \n5. Once you feel a stretch in your hamstrings and glutes, reverse the movement by extending your hips and pulling the rope through your legs until you reach a standing position. \n6. Squeeze your glutes at the top of the movement for maximum activation. \n7. Slowly lower the weight back to the starting position, maintaining control and tension in the cable throughout the exercise.",
+"form": {
+"Back": "Maintain a neutral spine throughout the exercise. Avoid rounding or arching your back.",
+"Core": "Keep your core engaged throughout the movement to protect your lower back and ensure stability.",
+"Hips": "Initiate the movement by hinging at your hips, not by bending your back.",
+"Knees": "Maintain a slight bend in your knees throughout the exercise. Avoid locking out your knees.",
+"Arms": "Your arms should be straight throughout the exercise, acting as ropes. Avoid pulling the weight with your arms.",
+"Movement": "The movement should be driven by your hips, not your lower back or arms."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This is a common mistake that can lead to lower back pain. Ensure to keep your back straight throughout the exercise.",
+"Squatting Instead of Hinging": "The cable pull-through is a hip hinge movement, not a squat. Focus on hinging at your hips while keeping your back straight.",
+"Using Too Much Weight": "Using too much weight can compromise form and increase the risk of injury. Start with a lighter weight and gradually increase as you get stronger.",
+"Pulling with Arms": "Your arms should only act as ropes. Avoid pulling the weight with your arms, as this reduces the activation of the glutes and hamstrings."
+},
+"comments": {
+"Muscle Activation": "The cable pull-through is a highly effective exercise for targeting the posterior chain, particularly the glutes and hamstrings. It also engages the lower back, core, and adductors.",
+"Constant Tension": "Unlike exercises with free weights, the cable pull-through provides constant tension on the muscles throughout the entire range of motion, leading to greater muscle activation and growth.",
+"Suitable for All Levels": "This exercise can be modified to suit all fitness levels by adjusting the weight used. It's a great exercise for both beginners and experienced lifters.",
+"Versatile Exercise": "The cable pull-through can be incorporated into various workout routines, such as leg day, back day, or as part of a full-body workout."
+},
+"alternativesAndVariations": {
+"Barbell Hip Thrust": "A popular compound exercise that primarily targets the glutes. The main difference is that the barbell hip thrust is performed with the upper back supported on a bench, while the cable pull-through is performed standing.",
+"Glute Bridge": "A bodyweight exercise that targets the glutes and hamstrings. It's a simpler exercise than the cable pull-through and can be used as a regression or warm-up exercise.",
+"Single-Leg Cable Pull-Through": "A more challenging variation that increases the demand on balance and stability. It also targets each leg individually, helping to identify and address any strength imbalances.",
+"Hip Extension Machine": "A machine-based exercise that isolates the glutes and hamstrings. It provides a fixed range of motion and can be a good option for those with limited mobility or who find it difficult to maintain proper form with free weights."
+},
+"tempo": "2011 (2 seconds pulling, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

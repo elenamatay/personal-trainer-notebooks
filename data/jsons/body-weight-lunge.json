@@ -1,0 +1,31 @@
+{
+"body-weight-lunge": {
+"form": {
+"steps": "\n1. Stand tall with your feet hip-width apart, engaging your core, and maintaining a neutral spine. \n2. Take a big step forward with one leg. \n3. Lower your body until your front knee is bent at a 90-degree angle and your back knee is close to the floor. \n4. Push off with your front foot to return to the starting position.",
+"form": {
+"Torso": "Keep your torso upright and your core engaged throughout the exercise.",
+"Front Knee": "Ensure your front knee tracks over your toes and doesn't collapse inward.",
+"Back Knee": "Lower your body until your back knee is close to the floor, but don't let it touch.",
+"Weight Distribution": "Distribute your weight evenly between your front and back foot."
+}
+},
+"commonMistakes": {
+"Leaning Forward": "Avoid leaning forward excessively, which can strain your lower back. Keep your torso upright.",
+"Limited Range of Motion": "Performing shallow lunges reduces muscle activation. Aim for a full range of motion, lowering your body until your front thigh is parallel to the ground.",
+"Knee Valgus": "Prevent your front knee from collapsing inward, which can stress the knee joint. Keep your knee aligned with your toes."
+},
+"comments": {
+"Progression": "You can progress this exercise by adding weight, such as dumbbells or a barbell, or by performing variations like walking lunges or reverse lunges.",
+"Balance and Coordination": "Bodyweight lunges are excellent for improving balance and coordination.",
+"Unilateral Exercise": "As a unilateral exercise (working one leg at a time), lunges can help address strength imbalances between legs."
+},
+"alternativesAndVariations": {
+"Barbell Lunge": "Performing the lunge with a barbell across your upper back increases the resistance and builds greater lower body strength.",
+"Dumbbell Lunge": "Holding dumbbells in each hand during the lunge provides a balance challenge and allows for variations like a bicep curl at the top of the movement.",
+"Reverse Lunge": "Instead of stepping forward, step backward into the lunge. This variation can be easier on the knees for some individuals.",
+"Walking Lunge": "Adding a forward movement to the lunge, alternating legs with each step, creates a dynamic exercise that challenges stability and coordination.",
+"Bulgarian Split Squat": "Elevating your back foot on a bench during a lunge increases the stretch in the hip flexor and the activation of the quads and glutes in the front leg."
+},
+"tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

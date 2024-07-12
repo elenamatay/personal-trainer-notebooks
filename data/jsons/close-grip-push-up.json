@@ -1,0 +1,32 @@
+{
+"close-grip-push-up": {
+"form": {
+"steps": "\n1. Assume the starting position in a high plank position, with your hands placed slightly closer than shoulder-width apart on the floor, directly beneath your chest. \n2. Try to form a straight line from head to heels, engaging your core and glutes to maintain a rigid bodyline. \n3. Lower yourself down by bending your elbows, keeping them tucked in close to your body, until your chest touches the floor. Inhale as you lower down. \n4. Push yourself back up to the starting position by extending your arms, exhaling as you push up. \n5. Repeat for reps.",
+"form": {
+"Hand Placement": "Hands slightly closer than shoulder-width apart, directly beneath your chest.",
+"Elbows": "Keep your elbows tucked in close to your body during the movement.",
+"Bodyline": "Maintain a straight line from head to heels throughout the exercise, engaging your core and glutes.",
+"Range of Motion": "Lower your chest all the way down to the floor and push back up until your arms are fully extended."
+}
+},
+"commonMistakes": {
+"Flaring Elbows": "Letting your elbows flare out to the sides, which can put stress on your shoulder joints.",
+"Sagging Hips": "Letting your hips sag towards the floor, which indicates a weak core and can lead to lower back pain.",
+"Partial Range of Motion": "Not lowering your chest all the way down to the floor or not pushing all the way back up.",
+"Head Position": "Letting your head drop or crane forward, which can strain your neck. Keep your head in line with your spine."
+},
+"comments": {
+"Muscle groups used": "The close-grip push-up is a compound exercise that primarily targets the triceps, but it also works the chest, shoulders, and core.",
+"Bodyweight Exercise": "The push-up is a classic bodyweight exercise that can be done anywhere without any equipment.",
+"Progression": "If you find regular close-grip push-ups too challenging, you can modify them by performing them on your knees or against a wall. As you get stronger, you can progress to regular close-grip push-ups and then to more challenging variations.",
+"Variations": "There are many variations of push-ups, such as incline push-ups, decline push-ups, and diamond push-ups, that you can try to target different muscle groups or increase the difficulty."
+},
+"alternativesAndVariations": {
+"Regular Push-up": "A compound exercise that works the chest, triceps, and shoulders. The main difference is the hand placement, which is shoulder-width apart in the regular push-up.",
+"Triceps Dips": "Another bodyweight exercise that targets the triceps. It can be performed using parallel bars or a sturdy surface like a chair.",
+"Overhead Triceps Extensions": "An isolation exercise that specifically targets the triceps. It can be performed with dumbbells, a barbell, or a resistance band.",
+"Close-Grip Bench Press": "A compound exercise that primarily targets the triceps, but also works the chest and shoulders. It's a good alternative for those who can't perform close-grip push-ups."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

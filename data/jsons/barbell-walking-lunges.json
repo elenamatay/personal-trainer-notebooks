@@ -1,0 +1,33 @@
+{
+"barbell-walking-lunges": {
+"form": {
+"steps": "\n1. Stand tall with your feet hip-width apart, holding a barbell across your upper back. \n2. Engage your core, and take a big step forward with one leg, bending both knees at the same time. \n3. Lower your body until your front thigh is parallel to the floor, and your back knee is just above the ground (both knees bent at a 90-degree angle). During descent, keep your front heel flat on the ground and your front knee tracking in line with your toes. \n4. Push through your front heel to step forward with your back leg, bringing your feet together. \n5. Repeat the movement on the other side, continuing to walk forward with each lunge.",
+"form": {
+"Back": "Keep your back straight and maintain a natural arch in your lower back throughout the movement.",
+"Core": "Engage your core to keep your body stable and upright.",
+"Front Knee": "Don't let your front knee cave inward; keep it tracking in line with your toes.",
+"Weight": "Distribute the weight evenly between your front and back heel.",
+"Barbell Position": "Rest the barbell comfortably across your upper back, traps engaged and shoulder blades squeezed together."
+}
+},
+"commonMistakes": {
+"Round back": "Letting your back round during the lunge.",
+"Shallow lunge": "Not lowering yourself down far enough, resulting in a shallow lunge.",
+"Caving knees": "Letting your front knee cave inward.",
+"Fluffy core": "Not engaging your core throughout the movement.",
+"Too short of a stride": "Taking short steps can make it difficult to maintain balance and can put extra stress on your knees."
+},
+"comments": {
+"Muscle Groups": "Barbell walking lunges primarily target the quadriceps (front thighs), glutes, and adductors, but it also involves the hamstrings (back thighs) calves, and core.",
+"Balance": "The lunge is an exercise that not only strengthens your leg muscles, but it can also be used to train your balance, coordination and control.",
+"Progression": "As you get stronger, you can increase the weight of the barbell or perform weighted walking lunges for a longer distance."
+},
+"alternativesAndVariations": {
+"Change external load used": "An alternative to using a barbell for external load, is to hold weights (i.e. dumbbells or kettlebells) in your hands.",
+"Stationary Lunges": "An alternative to the walking lunges is to stay in one place, performing all reps for one leg first before switching to the other.",
+"Reverse Lunges": "Instead of stepping forward, step backward with each lunge. This variation can be easier on the knees for some people.",
+"Lateral Lunges": "Step out to the side instead of forward, emphasizing the inner and outer thighs."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

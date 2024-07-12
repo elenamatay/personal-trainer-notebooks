@@ -1,0 +1,32 @@
+{
+"floor-back-extension": {
+"form": {
+"steps": "\n1. Lie face down on the ground with your feet together and arms at your sides, bent at a 90-degree angle so your forearms are flat on the floor. \n2. Fix your eyes on the ground to keep the neck in a neutral position. \n3. Engage your core and glutes, and lift your upper body off the ground by extending your spine. \n4. Pause at the top of the movement, feeling the contraction in your lower back muscles.  \n5. Lower your upper body back to the starting position in a slow and controlled motion. \n6. Repeat for reps.",
+"form": {
+"Neck": "Keep your neck neutral throughout the movement, avoiding any excessive extension or flexion.",
+"Core": "Engage your core muscles to stabilize your spine and prevent any unwanted movement.",
+"Glutes": "Keep your glutes engaged throughout the movement to support your lower back.",
+"Range of Motion": "Lift your upper body until you feel a contraction in your lower back, but avoid hyperextending your spine."
+}
+},
+"commonMistakes": {
+"Hyperextension": "Arching your back too much, which can put excessive stress on your spine.",
+"Using Momentum": "Swinging your body up instead of using a controlled movement.",
+"Not Engaging Core": "Failing to engage your core muscles, which can lead to lower back pain.",
+"Neck Strain": "Craning your neck up instead of keeping it in a neutral position."
+},
+"comments": {
+"No Equipment Needed": "Floor back extensions are a great exercise to do at home since it does not require any equipment.",
+"Warm-up Exercise": "This exercise can serve as a warm-up exercise to activate your lower back before heavier compound lifts.",
+"Lower Back Strength": "Floor back extensions primarily target the erector spinae muscles, which are responsible for extending and stabilizing the spine.",
+"Posture Improvement": "Strengthening the lower back muscles can help improve posture and reduce the risk of back pain."
+},
+"alternativesAndVariations": {
+"Back Extension Machine": "This machine provides resistance and allows for a greater range of motion.",
+"Reverse Hyperextension": "This variation targets the glutes and hamstrings in addition to the lower back.",
+"Superman": "A bodyweight exercise that targets the entire posterior chain, including the lower back, glutes, and hamstrings.",
+"Good Mornings": "A compound exercise that primarily targets the hamstrings and glutes, but also engages the lower back."
+},
+"tempo": "2020 (2 seconds lifting, 0 seconds pause at the top, 2 seconds lowering, 0 seconds pause at the bottom)"
+}
+}

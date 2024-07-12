@@ -1,0 +1,34 @@
+{
+"standing-calf-raise": {
+"form": {
+"steps": "\n1. Stand upright on the balls of your feet with your toes and the balls of your feet on the foot support of the calf raise machine. \n2. Place the shoulder pads against your shoulders, ensuring they are snug but not uncomfortable. \n3. Maintain a straight back and engage your core throughout the exercise. \n4. Lower yourself down by bending your ankles in a controlled movement, allowing your heels to drop below the level of the foot platform. \n5. Push yourself up by extending your ankles, contracting your calves to lift your body upwards. \n6. Pause for a brief moment at the top of the movement, squeezing your calves, before slowly lowering back down.",
+"form": {
+"Feet": "Position your toes and the balls of your feet on the foot support, ensuring your heels have room to move freely.",
+"Shoulders": "Adjust the shoulder pads so that they rest comfortably on your shoulders, providing support without restricting your range of motion.",
+"Back": "Maintain a straight back throughout the exercise, avoiding any rounding or arching.",
+"Core": "Engage your core muscles to stabilize your body and maintain proper posture.",
+"Ankles": "Lower your heels down as far as comfortable, feeling a stretch in your calves, then raise up onto your toes, maximizing the contraction."
+}
+},
+"commonMistakes": {
+"Partial Range of Motion": "Not lowering your heels low enough or raising your toes high enough, limiting the effectiveness of the exercise.",
+"Bouncing at the Bottom": "Using momentum to bounce out of the bottom position instead of controlling the movement with your calves.",
+"Rounding the Back": "Failing to maintain a straight back, which can put stress on your spine.",
+"Holding Breath": "Remember to breathe throughout the exercise, exhaling during the exertion phase (raising up).",
+"Using Too Much Weight": "Using a weight that is too heavy can compromise form and increase the risk of injury."
+},
+"comments": {
+"Muscle Activation": "Standing calf raises primarily target both the gastrocnemius and soleus muscles of the calves. The gastrocnemius, the larger of the two muscles, is more superficial and contributes significantly to the visible size of the calf. The soleus, located underneath the gastrocnemius, plays a crucial role in ankle stability and endurance.",
+"Foot Positioning": "Slightly pointing your toes inwards or outwards can shift the emphasis of the exercise on different parts of the calf muscles. Experiment with different foot positions to find what works best for you.",
+"Importance of Calf Strength": "Strong calf muscles are essential for various activities, including running, jumping, and walking. They also contribute to ankle stability and overall lower body strength.",
+"Progression": "As you get stronger, you can increase the weight, reps, or sets to continue challenging your calves."
+},
+"alternativesAndVariations": {
+"Seated Calf Raise": "This variation primarily targets the soleus muscle, as the seated position keeps the gastrocnemius in a shortened state. It's a good complement to standing calf raises for overall calf development.",
+"Donkey Calf Raise": "This variation involves bending at the hips with your torso parallel to the floor, often with a partner or weight plates on your lower back. It provides a deep stretch and strong contraction in the calves.",
+"Calf Raises on Leg Press Machine": "This variation allows you to use heavier weight and provides a stable platform for the exercise.",
+"Jump Rope": "Jumping rope is a plyometric exercise that engages the calves dynamically, improving explosiveness and power."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

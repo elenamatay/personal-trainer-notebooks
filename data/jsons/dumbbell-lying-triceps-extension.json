@@ -1,0 +1,31 @@
+{
+"dumbbell-lying-triceps-extension": {
+"form": {
+"steps": "\n1. Lie down on a bench with your head close to the edge, ensuring your feet are flat on the floor. Hold a dumbbell in each hand with your arms extended straight up towards the ceiling, palms facing each other. \n2. Keeping your upper arms stationary and elbows tucked in, slowly lower the dumbbells by bending your elbows until the dumbbells are close to your ears or the sides of your head. \n3. Reverse the motion by extending your arms back to the starting position, squeezing your triceps at the top.",
+"form": {
+"Elbows": "Keep your elbows tucked in close to your head throughout the exercise. Don't let them flare out to the sides.",
+"Upper Arms": "Your upper arms should remain stationary throughout the exercise. Only your forearms should move.",
+"Wrist Position": "Maintain a neutral wrist position throughout the exercise. Don't let your wrists bend back.",
+"Range of Motion": "Lower the dumbbells until they are close to your ears or the sides of your head. Don't go too far down, as this can put stress on your shoulder joints."
+}
+},
+"commonMistakes": {
+"Flaring Elbows": "Allowing your elbows to flare out to the sides during the exercise, which can put stress on your shoulder joints and reduce triceps activation.",
+"Lowering the Weight Too Far": "Lowering the dumbbells too far behind your head, which can also strain your shoulders.",
+"Using Momentum": "Swinging the dumbbells up instead of using a controlled motion, which reduces the effectiveness of the exercise.",
+"Arching Your Back": "Arching your lower back off the bench, which can lead to lower back pain."
+},
+"comments": {
+"Muscle Activation": "The lying triceps extension is an isolation exercise that primarily targets the triceps muscles, which are located on the back of the upper arm. It's effective for building triceps size and strength.",
+"Variation": "You can also perform the dumbbell lying triceps extension on the floor if you work out at home and don't have a weight bench.",
+"Grip": "While a neutral grip (palms facing each other) is common, you can also use a pronated grip (palms facing down) or a supinated grip (palms facing up) to slightly alter muscle activation."
+},
+"alternativesAndVariations": {
+"Close-Grip Bench Press": "A compound exercise that works the triceps, chest, and shoulders. It involves lowering a barbell to your chest with a narrow grip.",
+"Skull Crushers": "Similar to lying triceps extensions but performed with a barbell or EZ-bar. It also targets the triceps effectively.",
+"Overhead Triceps Extensions": "Performed standing or seated, this exercise involves extending the weight overhead, targeting the long head of the triceps.",
+"Triceps Pushdowns": "A cable machine exercise that isolates the triceps. It involves pushing a bar or rope down towards the floor using only the triceps."
+},
+"tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

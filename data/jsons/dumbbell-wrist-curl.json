@@ -1,0 +1,29 @@
+{
+"dumbbell-wrist-curl": {
+"form": {
+"steps": "\n1. Grab a dumbbell with an underhand grip. \n2. Rest your forearm against your thigh, with your hand extended beyond your knee, or alternatively against a bench, with your wrist positioned just off the edge. \n3. Lower your hand towards the floor, letting the dumbbell roll down your fingers and stretching your forearm. \n4. Reverse the motion by closing your grip and bending your wrist upwards, until your palm is facing towards you.",
+"form": {
+"Wrist": "Keep your wrist aligned with your forearm throughout the exercise.",
+"Movement": "The movement should only occur at the wrist joint. Keep your forearm still and avoid using momentum from your body.",
+"Range of Motion": "Lower the dumbbell as far as possible to fully stretch your forearm, and curl it up as high as you can to achieve a full contraction."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the dumbbell instead of using controlled movements.",
+"Partial Range of Motion": "Not lowering the dumbbell far enough or not curling it up high enough.",
+"Moving the Forearm": "Moving your forearm instead of isolating the wrist joint."
+},
+"comments": {
+"Muscle Focus": "Dumbbell wrist curls specifically target the forearm flexors, which are responsible for bending the wrist and closing the hand.",
+"Grip Strength": "Strengthening your forearm flexors can improve your grip strength, which is beneficial for various activities such as weightlifting, climbing, and martial arts.",
+"Alternative Execution": "As an alternative, you can perform the exercise with a barbell, or rest your forearm against a bench instead of your legs."
+},
+"alternativesAndVariations": {
+"Barbell Wrist Curl": "This variation uses a barbell instead of dumbbells, allowing you to lift heavier weight.",
+"Reverse Wrist Curl": "This variation targets the opposing muscle group, the forearm extensors, by performing the exercise with an overhand grip.",
+"Plate Pinch": "This exercise involves holding weight plates together with your fingertips to strengthen your grip and forearm muscles.",
+"Farmer's Carry": "This functional exercise involves holding heavy weights in each hand and walking for distance or time, challenging your grip strength and forearm endurance."
+},
+"tempo": "2011 (2 seconds lowering the dumbbell, 0 seconds pause at the bottom, 1 second lifting the dumbbell, 1 second pause at the top)"
+}
+}

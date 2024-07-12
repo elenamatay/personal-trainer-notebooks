@@ -1,0 +1,28 @@
+{
+"hip-adduction-machine": {
+"form": {
+"steps": "\n1. Adjust the machine to the appropriate weight and settings, ensuring the pads are positioned to comfortably contact the inner thighs. \n2. Sit on the machine with your back flat against the backrest and your feet flat on the platform. \n3. Place your inner thighs against the pads, grasping the handles for support. \n4. Exhale and powerfully press your thighs against the pads, bringing your legs together. \n5. Hold the contraction briefly at the peak of the movement. \n6. Inhale and slowly return to the starting position, controlling the weight and maintaining tension on the adductors.",
+"form": {
+"Back": "Maintain a straight back throughout the exercise, ensuring your core is engaged.",
+"Feet": "Keep your feet flat on the platform, providing a stable base.",
+"Movement": "The movement should be controlled and deliberate, focusing on squeezing the adductors at the peak of the contraction."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the legs instead of using a controlled movement, reducing muscle activation and increasing the risk of injury.",
+"Excessive Weight": "Lifting too heavy, compromising form and potentially straining the adductors.",
+"Limited Range of Motion": "Not fully extending the legs or squeezing the adductors at the peak of the contraction, reducing the effectiveness of the exercise."
+},
+"comments": {
+"Muscle Focus": "The hip adduction machine primarily targets the adductor muscles, located on the inner thighs. These muscles play a crucial role in bringing the legs together.",
+"Supporting Muscles": "While the adductors are the primary focus, the hip adduction machine also engages supporting muscles such as the gracilis, pectineus, and obturator externus.",
+"Importance of Adductor Strength": "Strong adductors are essential for stability, balance, and preventing injuries, particularly in activities involving lateral movements like running and changing direction."
+},
+"alternativesAndVariations": {
+"Standing Hip Adduction": "A bodyweight alternative that can be performed without equipment. Stand with your feet wider than shoulder-width apart and toes pointed slightly outward. Step to the side with one leg, keeping the other leg straight. Repeat on the other side.",
+"Banded Hip Adduction": "Loop a resistance band around your legs, just above your knees. Stand with your feet hip-width apart and step sideways against the resistance of the band. Repeat on the other side.",
+"Cable Hip Adduction": "Attach a cable pulley to your ankle and stand sideways to the machine. Pull your leg across your body, engaging the adductors. Repeat on the other side."
+},
+"tempo": "2011 (2 seconds pushing out, 0 seconds pause at the bottom, 1 second bringing legs together, 1 second pause at the top)"
+}
+}

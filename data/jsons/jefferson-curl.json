@@ -1,0 +1,31 @@
+{
+"jefferson-curl": {
+"form": {
+"steps": "\n1. Stand tall with your feet shoulder-width apart. For extra range of motion, you might want to stand on a small block or weight plates. Hold a light barbell or other weight in your hands, in front of your thighs, with an overhand grip, slightly wider than shoulder-width apart. \n2. Bend forward by tucking your chin into your chest and then slowly and deliberately start to round your spine, vertebrae by vertebrae, starting from the neck and moving down towards the lower back. \n3. As you round your spine, allow the barbell to lower towards the ground, keeping it close to your body. Go as low as your flexibility allows, but don’t force it. You should feel a stretch but not pain. \n4. Once you’ve reached the lowest point that you can comfortably go, pause for a moment. \n5. Start uncurling your spine, beginning from the lower back and working your way up to your neck until you have returned to the starting position.",
+"form": {
+"Head": "Start with your head tucked in, chin to chest, and gradually look up as you approach the bottom of the movement.",
+"Spine": "Focus on rounding your spine one vertebra at a time, starting from the neck and moving down towards the lower back.",
+"Bar Path": "Keep the barbell close to your body throughout the entire movement.",
+"Weight": "Start with a very light weight or no weight at all, gradually increasing the weight as your mobility and strength improve."
+}
+},
+"commonMistakes": {
+"Rushing the Movement": "Performing the Jefferson Curl too quickly can increase the risk of injury. It's crucial to move slowly and with control.",
+"Excessive Weight": "Using a weight that is too heavy can put excessive stress on your spine. Start light and gradually increase the weight as you get stronger and more mobile.",
+"Not Controlling the Descent": "Allowing your back to just \"flop\" down instead of maintaining control throughout the movement can lead to injury. Focus on a slow and controlled descent.",
+"Holding Your Breath": "Remember to breathe throughout the exercise. Holding your breath can increase intra-abdominal pressure and make the movement more difficult."
+},
+"comments": {
+"Mobility over Strength": "The Jefferson Curl is primarily a mobility exercise for the spine, rather than a strength exercise. It can help improve spinal flexibility and range of motion.",
+"Gradual Progression": "Start with a very light weight or no weight at all, and gradually increase the weight as your mobility and strength improve. Don't rush the progression.",
+"Listen to Your Body": "Pay attention to your body and stop if you feel any pain. The Jefferson Curl should produce a stretch in your back, but it should not be painful."
+},
+"alternativesAndVariations": {
+"Romanian Deadlift (RDL)": "A compound exercise that targets the hamstrings, glutes, and lower back. Unlike the Jefferson Curl, the RDL maintains a neutral spine throughout the movement.",
+"Good Mornings": "Another exercise that targets the posterior chain, but with the weight on your upper back. Similar to the RDL, good mornings require a neutral spine.",
+"Cat-Cow Stretch": "A bodyweight mobility exercise that can help improve spinal flexibility. It involves alternating between arching and rounding your back.",
+"Superman Stretch": "A bodyweight exercise that strengthens the lower back muscles. It involves lying on your stomach and lifting your arms and legs off the ground."
+},
+"tempo": "3030 (3 seconds lowering, 0 seconds pause at the bottom, 3 seconds lifting, 0 seconds pause at the top)"
+}
+}

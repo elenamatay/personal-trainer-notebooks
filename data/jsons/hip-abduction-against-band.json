@@ -1,0 +1,30 @@
+{
+"hip-abduction-against-band": {
+"form": {
+"steps": "\n1. Sit down on a bench with your feet flat on the floor, slightly wider than hip-width apart. \n2. Place an elastic band around your legs, just above your knees. \n3. Keeping your back straight and core engaged, push your knees outwards against the resistance of the band. \n4. Pause for a moment at the point of maximum abduction (knees apart). \n5. Slowly return to the starting position, controlling the movement and maintaining tension on the band.",
+"form": {
+"Back": "Maintain a neutral spine and avoid rounding your back.",
+"Core": "Engage your core muscles to stabilize your upper body.",
+"Hips": "Keep your hips facing forward and avoid rotating them during the exercise.",
+"Movement": "The movement should be slow and controlled, focusing on squeezing the glutes at the top of the movement."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your legs instead of using controlled movements, reducing muscle activation.",
+"Rounding the Back": "Failing to maintain a neutral spine, which can lead to lower back pain.",
+"Not Controlling the Movement": "Letting the band snap back quickly, which can strain muscles and reduce effectiveness."
+},
+"comments": {
+"Muscle Activation": "Hip abduction against band primarily targets the hip abductors, including the gluteus medius, gluteus minimus, and tensor fasciae latae. These muscles are essential for hip stability, balance, and preventing knee valgus (knees caving in).",
+"Benefits": "Strengthening the hip abductors can improve athletic performance, reduce the risk of lower limb injuries, and enhance overall lower body strength and stability.",
+"Progression": "To increase the difficulty, use a stronger resistance band or perform more repetitions."
+},
+"alternativesAndVariations": {
+"Standing Hip Abduction with Band": "This variation targets the same muscle groups but is performed standing, providing a different challenge to balance and coordination.",
+"Machine Hip Abduction": "This exercise uses a dedicated machine to provide resistance, allowing for heavier loads and progressive overload.",
+"Side-Lying Hip Abduction": "This bodyweight exercise isolates the hip abductors and can be modified with ankle weights for added resistance.",
+"Clamshells": "This exercise targets the external rotators of the hip, which work in conjunction with the hip abductors for optimal hip function."
+},
+"tempo": "2012 (2 seconds pushing knees out, 0 seconds pause at the top, 1 second returning to starting position, 2 seconds pause at the bottom)"
+}
+}

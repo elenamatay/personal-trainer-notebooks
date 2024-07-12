@@ -1,0 +1,33 @@
+{
+"power-clean": {
+"form": {
+"steps": "\n1. Step up close to the bar, so that it is about over the middle of your foot. \n2. Lean forward and grip the bar with an overhand grip, slightly wider than shoulder-width apart, with your arms fully extended. \n3. With your back straight, lower yourself down by bending at the knees, keeping the barbell close to your shins. \n4. Hold your breath, and brace your core. \n5. Lift the bar in a smooth but fast and powerful motion, extending your hips and knees explosively. \n6. As the bar reaches chest height, shrug your shoulders upwards to help lift the bar higher. \n7. Quickly rotate your elbows forward and under the bar, while dropping into a quarter squat position. \n8. Receive the bar on the front of your shoulders, with your fingertips under the bar and your elbows high. \n9. Stand up on straight legs again. \n10. Lower the bar in front of you, with control.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Back": "Keep your back straight throughout the entire movement.",
+"Elbows": "Keep your elbows high and pointing forward when receiving the bar.",
+"Bar Path": "The bar should travel in a straight line close to your body throughout the lift.",
+"Foot Position": "Feet should be hip-width apart, with toes pointing slightly outwards."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This is a common mistake that can lead to lower back injury. Make sure to keep your back straight throughout the lift.",
+"Not Exploding Upwards": "The power clean requires a powerful and explosive movement. Don't try to lift the weight slowly.",
+"Catching the Bar Too High": "If you catch the bar too high, you'll need to use your arms more than your legs, which reduces the effectiveness of the exercise.",
+"Not Keeping the Bar Close to the Body": "Keep the bar as close to your body as possible throughout the lift. This will help you maintain control and prevent injury."
+},
+"comments": {
+"Explosive Strength": "The power clean is an excellent exercise to develop explosive strength in the lower body, which is essential for many sports and activities.",
+"Full Body Exercise": "Although it primarily targets the lower body, the power clean is a full-body exercise that also works the back, shoulders, and arms.",
+"Technical Lift": "The power clean is a technical lift that requires practice to master. Start with light weights and focus on proper form before increasing the weight.",
+"Powerlifting": "The power clean is one of the three main lifts in the sport of Olympic weightlifting, along with the snatch and the clean and jerk."
+},
+"alternativesAndVariations": {
+"Hang Power Clean": "This variation starts with the bar at hip height, rather than the floor, and focuses on the second pull of the lift.",
+"Clean Pull": "This variation is similar to the power clean, but you don't catch the bar on your shoulders. Instead, you lower it back to the ground after pulling it up to your chest.",
+"Deadlift": "A compound exercise that works many of the same muscle groups as the power clean, but with a slower and more controlled movement.",
+"Kettlebell Swings": "A dynamic exercise that can help develop explosive power in the hips and glutes."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

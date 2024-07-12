@@ -1,0 +1,33 @@
+{
+"machine-shoulder-press": {
+"form": {
+"steps": "\n1. Adjust the seat height of the machine so that the handles are at about shoulder level when you are seated. \n2. Sit down on the machine and place your back firmly against the backrest. Your feet should be flat on the floor, shoulder-width apart. \n3. Grip the handles with an overhand grip, slightly wider than shoulder-width apart. Your elbows should be slightly below your shoulders. \n4. Press the handles upwards in a vertical line until your arms are almost fully extended. Do not lock out your elbows. \n5. Lower the handles with control back to the starting position, stopping before the weights touch down to maintain tension on the muscles.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows slightly below your shoulders and avoid flaring them out during the movement.",
+"Back": "Maintain a neutral spine and keep your back flat against the backrest throughout the exercise.",
+"Head": "Keep your head in a neutral position, looking straight ahead. Avoid tilting your head forward or backward.",
+"Range of Motion": "Press the weight up until your arms are almost fully extended, but avoid locking out your elbows. Lower the weight until your elbows are slightly below your shoulders, maintaining constant tension on the muscles."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weight up using momentum instead of controlling the movement with your shoulder muscles.",
+"Partial Range of Motion": "Not lowering the weight far enough or not pressing it all the way up, which reduces muscle activation.",
+"Incorrect Grip Width": "Using a grip that is too wide or too narrow, which can put stress on your shoulder joints.",
+"Rounding your Back": "Lifting your chest up or rounding your back, which can lead to lower back pain."
+},
+"comments": {
+"Muscle groups used": "The machine shoulder press primarily targets the front deltoids, but it also works the lateral deltoids and triceps.",
+"Stability and Focus": "The machine shoulder press offers more stability and requires less balance and coordination than free weight shoulder presses (e.g., with dumbbells or a barbell). This can allow for a greater focus on the target muscles and make it a good option for beginners.",
+"Progressive Overload": "To continue challenging your muscles and promoting growth, gradually increase the weight you lift over time.",
+"Variation": "Some machines allow for different hand positions, which can slightly alter muscle activation. Experiment with different grips to find what works best for you."
+},
+"alternativesAndVariations": {
+"Dumbbell Shoulder Press": "A free weight variation that allows for a greater range of motion and challenges your core stability.",
+"Barbell Shoulder Press": "Another free weight variation that allows you to lift heavier weights but requires more balance and coordination.",
+"Arnold Press": "A variation of the dumbbell shoulder press that involves rotating the dumbbells as you press them up, engaging more of the shoulder muscles.",
+"Lateral Raises": "An isolation exercise that targets the lateral deltoids, helping to create wider-looking shoulders."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

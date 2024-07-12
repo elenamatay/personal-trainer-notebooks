@@ -1,0 +1,31 @@
+{
+"dumbbell-horizontal-external-shoulder-rotation": {
+"form": {
+"steps": "\n1. Stand sideways to a bench, placing your outside hand on it for support. Adjust the bench height so that your upper arm can rest horizontally on it. \n2. Hold a dumbbell in your other hand, bend your elbow to 90 degrees, and rest your upper arm on the bench. \n3. Keeping your elbow tucked in, rotate your arm externally (upwards) against the direction of resistance, as far as comfortable. \n4. Slowly reverse the movement, returning to the starting position. \n5. Repeat for the desired number of repetitions.",
+"form": {
+"Elbow": "Keep your elbow tucked in close to your side throughout the entire movement.",
+"Shoulder": "Avoid shrugging your shoulder up towards your ear during the rotation.",
+"Range of Motion": "Rotate your arm only as far as comfortable. You should feel a stretch in the back of your shoulder, but not pain.",
+"Tempo": "Controlled and deliberate, focusing on the muscles being worked."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weight up instead of using controlled movements.",
+"Not Keeping Elbow Tucked": "Allowing the elbow to flare out away from the body, which can reduce muscle activation and potentially lead to injury.",
+"Going Too Heavy": "Using a weight that is too heavy, sacrificing form and increasing the risk of injury."
+},
+"comments": {
+"Muscle Focus": "This exercise primarily targets the posterior rotator cuff muscles, mainly the infraspinatus and teres minor, which are important for shoulder stability and preventing injuries.",
+"Longer Muscle Length": "By placing your upper arm out to your side, you train the teres minor and infraspinatus at a slightly longer muscle length compared to lying external rotations, potentially leading to greater muscle growth.",
+"Injury Prevention": "Strengthening the external rotators is crucial for maintaining shoulder health, especially for athletes involved in overhead sports like baseball, tennis, and volleyball.",
+"Warm-up": "This exercise is often used as a warm-up or as part of a shoulder prehab routine to activate and strengthen the rotator cuff muscles."
+},
+"alternativesAndVariations": {
+"Lying Dumbbell External Rotation": "Performed lying on your side, this variation provides a greater stretch at the bottom of the movement.",
+"Cable External Rotation": "Using a cable machine provides constant tension throughout the exercise.",
+"Band External Rotation": "Using a resistance band offers a variable resistance challenge.",
+"Reverse External Rotation": "This variation targets the anterior shoulder muscles and can be used as a counterbalance to external rotation exercises."
+},
+"tempo": "3011 (3 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

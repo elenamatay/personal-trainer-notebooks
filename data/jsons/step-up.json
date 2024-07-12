@@ -1,0 +1,32 @@
+{
+"step-up": {
+"form": {
+"steps": "\n1. Stand in front of a chair, bench or something else that you can step up on, placing your entire foot on the elevated platform. \n2. Lightly brace your core, and step up by extending your front leg, driving through your heel until your leg is straight and you are standing on top of the platform. \n3. Lower yourself in a controlled motion by bending your front knee and reversing the motion until your trailing foot touches the ground. \n4. You can keep your foot at the chair, and repeat for reps.",
+"form": {
+"Foot Placement": "Place your entire foot on the elevated platform, ensuring your weight is distributed evenly.",
+"Knee Tracking": "Keep your front knee aligned with your toes throughout the movement, preventing it from caving inward.",
+"Core Engagement": "Maintain a braced core throughout the exercise to stabilize your body and protect your lower back.",
+"Controlled Movement": "Avoid jerking or using momentum; instead, focus on controlled and deliberate movements.",
+"Breathing": "Exhale as you step up and inhale as you lower yourself down."
+}
+},
+"commonMistakes": {
+"Partial Range of Motion": "Not stepping up high enough or lowering down completely, reducing muscle activation.",
+"Pushing Off with the Trailing Leg": "Using the trailing leg for momentum instead of focusing on the working leg.",
+"Heel Lifting": "Allowing your heel to lift off the platform during the step up, putting stress on your knee joint.",
+"Rounded Back": "Not maintaining a neutral spine, which can lead to lower back pain."
+},
+"comments": {
+"Glute Activation": "Step-ups have been shown to activate the gluteus maximus even more than squats and hip thrusts, making it an effective exercise for building lower body strength and power.",
+"Home Workout Friendly": "Step-ups are a great exercise to do at home, since it is challenging even without weights. You can use a variety of household items as a platform, such as a chair, a stair step, or a bench.",
+"Progression": "As you get stronger, you can increase the challenge by holding dumbbells, a barbell, or wearing a weighted vest. You can also increase the height of the platform."
+},
+"alternativesAndVariations": {
+"Box Jumps": "A plyometric exercise that involves jumping explosively onto a box. Box jumps are more demanding on power and explosiveness than step-ups.",
+"Lunges": "Another great exercise for targeting the quads, glutes, and hamstrings. Lunges can be performed with or without weights and offer a variety of variations.",
+"Bulgarian Split Squats": "A challenging single-leg exercise that emphasizes the quads and glutes. Bulgarian split squats require balance and stability.",
+"Hip Thrusts": "An effective exercise for isolating and strengthening the glutes. Hip thrusts can be loaded with barbells, dumbbells, or resistance bands."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

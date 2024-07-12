@@ -1,0 +1,33 @@
+{
+"hanging-leg-raise": {
+"form": {
+"steps": "\n1. Jump up and grab a pull-up bar with an overhand grip, slightly wider than shoulder-width apart. Your body should hang freely with your arms fully extended. \n2. Engage your core and keep your legs straight or slightly bent (beginners). \n3. Raise your legs upward in a controlled manner, keeping them together. Continue raising them until your thighs are at least parallel to the floor. \n4. Hold the top position for a moment, squeezing your abs. \n5. Slowly lower your legs back down to the starting position in a controlled manner, avoiding swinging.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Legs": "Keep your legs straight or slightly bent (for beginners).",
+"Core": "Engage your core throughout the entire exercise to prevent swinging and to maximize muscle activation.",
+"Breathing": "Exhale as you raise your legs and inhale as you lower them.",
+"Swinging": "Avoid swinging your legs. The movement should be controlled and deliberate."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your legs instead of using your abs to lift them.",
+"Not Engaging the Core": "Allowing your body to lean back, which takes the tension off the abs.",
+"Not Raising Legs High Enough": "Not raising your legs at least parallel to the floor, which reduces the effectiveness of the exercise.",
+"Arching Your Back": "This can lead to lower back pain. Keep your core engaged and your back straight.",
+"Holding Your Breath": "Remember to breathe throughout the exercise."
+},
+"comments": {
+"Progression": "You can make this exercise more challenging by adding weight between your feet or wearing ankle weights.",
+"Variations": "Hanging knee raises are an easier variation that can help you build up strength before attempting full hanging leg raises. To perform hanging knee raises, simply bend your knees and bring them towards your chest instead of keeping your legs straight.",
+"Muscle Groups": "Hanging leg raises primarily target the abs, specifically the lower abs. They also engage the hip flexors, obliques, and forearms."
+},
+"alternativesAndVariations": {
+"Captain's Chair Leg Raise": "This variation provides back support and can be easier for beginners. The movement pattern is similar to hanging leg raises.",
+"Reverse Crunch": "Performed lying on your back, this exercise targets similar muscle groups as hanging leg raises.",
+"Decline Leg Raises": "Performed on a decline bench, this variation increases the resistance and difficulty compared to flat leg raises.",
+"Ab Wheel Rollouts": "A challenging but effective exercise that targets the entire core, including the abs and obliques."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

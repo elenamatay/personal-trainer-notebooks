@@ -1,0 +1,31 @@
+{
+"lying-dumbbell-external-shoulder-rotation": {
+"form": {
+"steps": "\n1. Lie down on your side on a bench or on the floor, with your upper arm close to your side, your elbow bent to 90 degrees, and your forearm resting across your abdomen.\n2. Hold a dumbbell in the hand of your upper arm, with your palm facing your abdomen.\n3. Keeping your upper arm close to your side, slowly rotate your arm externally (upwards), against the direction of resistance, as far as comfortable without pain. \n4. Hold the top position for a moment, then slowly reverse the movement, lowering the dumbbell back to the starting position.\n5. Repeat for the desired number of repetitions.",
+"form": {
+"Upper Arm": "Keep your upper arm close to your side throughout the entire exercise.",
+"Elbow": "Maintain a 90-degree angle at your elbow throughout the movement.",
+"Shoulder": "Initiate the rotation from your shoulder, not your elbow or forearm.",
+"Range of Motion": "Rotate your arm only as far as comfortable without pain. Do not force the movement.",
+"Control": "Perform the exercise slowly and with control, both during the lifting and lowering phases."
+}
+},
+"commonMistakes": {
+"Lifting the Upper Arm": "One common mistake is lifting the upper arm away from the body during the rotation. This reduces the engagement of the rotator cuff muscles and can put stress on the shoulder joint.",
+"Using Momentum": "Another mistake is using momentum to swing the weight up instead of using a controlled movement. This also reduces the effectiveness of the exercise.",
+"Going Too Heavy": "Using a weight that is too heavy can lead to poor form and increase the risk of injury. It's important to choose a weight that allows you to maintain proper form throughout the exercise."
+},
+"comments": {
+"Muscle Focus": "Lying dumbbell external shoulder rotations primarily target the posterior rotator cuff muscles, mainly the infraspinatus and teres minor. These muscles are important for stabilizing the shoulder joint and externally rotating the arm.",
+"Injury Prevention": "This exercise is often used in rehabilitation programs for shoulder injuries and to help prevent future injuries. Strengthening the rotator cuff muscles can improve shoulder stability and reduce the risk of dislocations, subluxations, and rotator cuff tears.",
+"Towel for Comfort": "You can put your arm in a better position for this exercise if you use a small folded towel or something similar, to place between your elbow and your side.",
+"Progression": "As the exercise becomes easier, you can increase the weight of the dumbbell or increase the number of repetitions to continue challenging your muscles."
+},
+"alternativesAndVariations": {
+"Cable External Rotation": "This variation uses a cable machine instead of dumbbells. It provides a more consistent resistance throughout the exercise.",
+"Band External Rotation": "This variation uses resistance bands instead of dumbbells. It's a convenient option that can be done at home or on the go.",
+"Side-Lying External Rotation": "This variation is similar to the lying dumbbell external rotation, but it's performed with your body in a straight line, rather than with your knees bent. This variation can increase the activation of the core muscles."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

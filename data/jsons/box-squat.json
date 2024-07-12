@@ -1,0 +1,36 @@
+{
+"box-squat": {
+"form": {
+"steps": "\n1. Stand in front of a box with your feet slightly wider than shoulder-width apart, toes slightly pointed out. The box height should allow you to squat down until your thighs are roughly parallel to the ground. \n2. Place a barbell across your upper back, actively pulling it down onto your traps. \n3. Inhale, brace your core, and lift the barbell off the rack by straightening your legs. Take a couple of steps back to clear the rack. \n4. Keeping your back straight and core engaged, slowly lower yourself down by pushing your hips back and bending your knees. Maintain a controlled descent. \n5. Sit back onto the box, ensuring you maintain a neutral spine and don't relax your muscles. Pause briefly on the box. \n6. Drive through your heels and extend your hips and knees to return to a standing position. Exhale as you complete the movement.",
+"form": {
+"Foot Placement": "Feet slightly wider than shoulder-width apart, toes slightly pointed out.",
+"Back": "Keep your back straight and maintain a neutral spine throughout the movement.",
+"Core": "Engage your core to stabilize your spine and prevent injury.",
+"Hips": "Initiate the descent by pushing your hips back, as if you were sitting down in a chair.",
+"Knees": "Keep your knees in line with your toes, preventing them from caving inwards.",
+"Weight Distribution": "Distribute your weight evenly across your feet, focusing on pushing through your heels.",
+"Head": "Maintain a neutral head position, looking straight ahead."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This is a common mistake that can lead to lower back pain. Ensure you maintain a neutral spine throughout the movement.",
+"Knee Cave-In": "Allowing your knees to collapse inwards can strain your knee joints. Focus on pushing your knees outwards, in line with your toes.",
+"Not Sitting Back": "Squatting straight down instead of pushing your hips back can put excessive stress on your knees. Remember to initiate the movement by pushing your hips back.",
+"Bouncing Off the Box": "Avoid bouncing off the box at the bottom of the movement. This can lead to a loss of control and increase the risk of injury. Instead, control the descent and pause briefly on the box.",
+"Heels Lifting Off the Ground": "This indicates that your weight is shifting forward, putting more stress on your knees. Focus on keeping your weight evenly distributed and pushing through your heels."
+},
+"comments": {
+"Purpose": "The box squat is a variation of the traditional squat that can be beneficial for improving strength, power, and technique. It can also be helpful for lifters with mobility restrictions.",
+"Box Height": "The height of the box can be adjusted based on your individual needs and goals. A lower box will generally be more challenging, while a higher box can be used to focus on specific areas of the movement.",
+"Pause on the Box": "The pause on the box can vary in duration. A shorter pause is typically used for developing power, while a longer pause can help improve positional awareness and force production from the bottom of the squat.",
+"Safety": "As with any exercise, proper form and technique are crucial for preventing injuries. Start with a lighter weight and gradually increase the load as you become more comfortable with the movement."
+},
+"alternativesAndVariations": {
+"Regular Squat": "The traditional squat is a great alternative that works for the same muscle groups. The main difference is that it doesn't involve a pause at the bottom of the movement.",
+"Front Squat": "The front squat places the barbell across the front of your shoulders, emphasizing the quads more than the box squat.",
+"Goblet Squat": "This variation involves holding a weight (dumbbell or kettlebell) close to your chest, which can help improve core stability and squat mechanics.",
+"Bulgarian Split Squat": "This single-leg exercise can be a challenging alternative that targets the quads, glutes, and hamstrings."
+},
+"tempo": "31X0 (3 seconds lowering, 1 second pause at the bottom, Explosive lifting, 0 seconds pause at the top)"
+}
+}

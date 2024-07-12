@@ -1,0 +1,34 @@
+{
+"hang-power-snatch": {
+"form": {
+"steps": "\n1. Stand with your feet hip-width apart, with a barbell in front of you. \n2. Grip the bar with a wide, overhand grip (slightly wider than shoulder-width), and lift it up to get into the starting position, with the bar resting in the hip crease. \n3. Hold your breath, and brace your core slightly. \n4. Lower the bar along your thighs, down to about knee-level, by bending your hips and knees. Keep your back straight and your core engaged. \n5. Reverse the movement explosively, and lift the bar in a smooth but fast motion, by extending your legs and knees simultaneously. \n6. Once the bar has reached maximum speed (at about hip height), shrug your shoulders powerfully and bend your knees slightly to catch the bar on straight arms over your head. \n7. Stand up straight, with the bar overhead and your arms locked out. \n8. Lower the bar in front of you, with control.",
+"form": {
+"Grip": "Wide, overhand grip, slightly wider than shoulder-width.",
+"Back": "Keep your back straight throughout the entire movement.",
+"Core": "Engage your core to maintain stability and power.",
+"Elbows": "Keep your elbows high and wide as you pull the bar up.",
+"Catch": "Catch the bar with your arms locked out overhead.",
+"Feet": "Keep your feet flat on the floor throughout the movement."
+}
+},
+"commonMistakes": {
+"Not keeping the bar close to the body": "This can cause the bar to swing away from you, making the lift more difficult and increasing the risk of injury.",
+"Bending the arms too early": "This will reduce the power of your lift and make it harder to get under the bar.",
+"Not extending the hips fully": "You need to fully extend your hips to generate enough power to lift the bar overhead.",
+"Not catching the bar in a squat position": "Catching the bar in a squat position helps to absorb the force of the weight and prevents injury."
+},
+"comments": {
+"Muscle groups used": "The hang power snatch is a full-body exercise that primarily targets the glutes, hamstrings, lower back, trapezius, and forearms. It also works the quads, core, and shoulders.",
+"Explosive movement": "The hang power snatch is an explosive movement that requires a lot of power and coordination. It's a great exercise for improving athleticism and explosiveness.",
+"Progression": "The hang power snatch can be progressed by increasing the weight, increasing the height of the hang position, or by moving to a full snatch.",
+"Easier variant of the snatch": "The hang power snatch is a variant of the snatch exercise, in which you have removed the first pull from the floor, and you also don’t catch the bar in as deep of a squat position. This makes the hang power snatch a potentially easier variant to begin with for learning the snatch, since you don’t have to focus on as many steps, and also the mobility demands are not as high."
+},
+"alternativesAndVariations": {
+"Power Snatch": "The power snatch is similar to the hang power snatch, but it starts from the floor. This makes it a more challenging exercise, as it requires more strength and power to lift the bar from the ground.",
+"Hang Snatch": "The hang snatch is also similar to the hang power snatch, but it requires you to catch the bar in a lower squat position. This makes it a more technical exercise, as it requires more mobility and coordination.",
+"Clean and Jerk": "The clean and jerk is another Olympic weightlifting exercise that is similar to the snatch. However, it involves two distinct movements: the clean and the jerk. The clean is similar to the snatch, but the bar is caught in a front rack position. The jerk then involves lifting the bar overhead from the front rack position.",
+"Kettlebell Swings": "Kettlebell swings are a great exercise for developing explosive power in the hips. They can be used as a progression to the hang power snatch, or as an alternative exercise for working similar muscle groups."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, explosive lifting, 0 seconds pause at the top)"
+}
+}

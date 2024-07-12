@@ -1,0 +1,33 @@
+{
+"smith-machine-bench-press": {
+"form": {
+"steps": "\n1. Adjust the bench so that the bar is positioned slightly above your chest when lying down. \n2. Lie on the bench with your feet flat on the floor, shoulder-width apart. \n3. Grip the bar with an overhand grip, slightly wider than shoulder-width apart. \n4. Pull your shoulder blades together and down, and hold your chest up. \n5. Take a breath and hold it, and unrack the bar by rotating it slightly. \n6. Lower the bar with control, until it touches your chest around the nipple line. \n7. Push the bar up while exhaling, keeping your elbows slightly bent. \n8. Take another breath in the top position, and repeat for reps.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows slightly bent throughout the movement.",
+"Back": "Maintain a slight arch in your back, but keep your butt on the bench.",
+"Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+"Chest": "Lower the bar to your chest around the nipple line."
+}
+},
+"commonMistakes": {
+"Not Controlling the Bar Path": "The fixed bar path of the Smith machine can tempt lifters to let the bar drift too far forward or backward, which can put stress on the shoulder joints. It's important to maintain control of the bar path and keep it in line with your chest.",
+"Lifting your Butt off the Bench": "This usually means you are lifting too heavy and compensating with your lower back, which can lead to injury.",
+"Not Engaging the Chest Muscles": "Because the Smith machine provides stability, some lifters may not fully engage their chest muscles during the exercise. It's important to focus on pushing through your chest and not just relying on your triceps and shoulders.",
+"Using Too Much Weight": "While the Smith machine can make it feel like you can lift heavier weights, it's important to choose a weight that allows you to maintain proper form and control throughout the exercise."
+},
+"comments": {
+"Muscle groups used": "The Smith machine bench press primarily targets the chest muscles, but it also works the triceps and front deltoids.",
+"Stabilization and Balance": "The Smith machine bench press has lower requirements for stabilization and balance compared to the barbell bench press, as the bar moves along a fixed path. This can make it a good option for beginners who are still developing their technique, or for lifters who are recovering from an injury.",
+"Focus on the Muscles Trained": "The reduced need for stabilization can also allow experienced lifters to focus more on the muscles being trained and potentially lift heavier weights.",
+"Variation for Progressive Overload": "The Smith machine bench press can be a useful variation to include in a chest training program, providing a slightly different stimulus compared to the barbell bench press and allowing for continued progress over time."
+},
+"alternativesAndVariations": {
+"Barbell Bench Press": "A compound exercise that works the chest, triceps, and shoulders. The main difference is that the barbell bench press allows for a free range of motion, which requires more stabilization and balance.",
+"Dumbbell Bench Press": "Another variation of the bench press that allows for a greater range of motion and increased muscle activation. It also allows for unilateral work, which can help address strength imbalances.",
+"Push-Ups": "A bodyweight exercise that works the chest, triceps, and shoulders. It can be performed with varying hand placements to target different muscle groups.",
+"Chest Dips": "A bodyweight exercise that primarily targets the chest and triceps. It can be performed on parallel bars or on a dip station."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

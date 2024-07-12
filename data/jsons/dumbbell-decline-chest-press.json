@@ -1,0 +1,34 @@
+{
+"dumbbell-decline-chest-press": {
+"form": {
+"steps": "\n1. Adjust a weight bench to a decline angle, typically between 15-30 degrees. \n2. Lie down on the bench with your feet flat on the floor or secured under the foot pads. \n3. Hold a dumbbell in each hand, with an overhand grip, slightly wider than shoulder-width apart. \n4. Lower the dumbbells slowly towards your chest, keeping your elbows slightly bent and tucked in at a 45-degree angle. \n5. Once the dumbbells reach chest level, pause for a moment. \n6. Press the dumbbells back up to the starting position, extending your arms fully without locking your elbows. ",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows slightly bent and tucked in at a 45-degree angle.",
+"Back": "Maintain a slight arch in your back throughout the exercise.",
+"Feet": "Keep your feet flat on the floor or secured under the foot pads.",
+"Chest": "Lower the dumbbells until they touch your lower chest, slightly below your nipples."
+}
+},
+"commonMistakes": {
+"Lowering dumbbells too quickly": "Lowering the dumbbells too quickly can put excessive stress on your shoulder joints.",
+"Bouncing the dumbbells off your chest": "This can lead to injury and reduces muscle activation.",
+"Flaring elbows": "Flaring your elbows outwards can strain your shoulder joints. Keep them slightly tucked in.",
+"Lifting your hips": "Keep your hips down on the bench throughout the exercise. Lifting them indicates improper form and reduces effectiveness.",
+"Holding your breath": "Remember to breathe throughout the exercise. Inhale as you lower the dumbbells and exhale as you press them up."
+},
+"comments": {
+"Muscle activation": "The decline dumbbell chest press primarily targets the lower chest muscles, more than the flat or incline variations. It also engages the anterior deltoids and triceps.",
+"Range of motion": "Using dumbbells allows for a greater range of motion compared to using a barbell, potentially leading to increased muscle activation.",
+"Stabilization": "The use of dumbbells requires more stabilization from the shoulder and core muscles, which can be beneficial for overall upper body strength and stability.",
+"Progressive overload": "As you get stronger, gradually increase the weight of the dumbbells to continue challenging your muscles."
+},
+"alternativesAndVariations": {
+"Barbell decline chest press": "This variation uses a barbell instead of dumbbells, which can allow for heavier weight but reduces the range of motion.",
+"Decline dumbbell flyes": "This exercise focuses more on the pecs and provides a greater stretch at the bottom of the movement.",
+"Decline push-ups": "A bodyweight alternative that can be done with your feet elevated on a bench.",
+"Cable crossovers (low-to-high)": "This variation targets the lower chest from a different angle, providing a unique stimulus."
+},
+"tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

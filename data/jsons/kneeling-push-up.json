@@ -1,0 +1,34 @@
+{
+"kneeling-push-up": {
+"form": {
+"steps": "\n1. Kneel on the floor with your knees hip-width apart and your shins flat on the ground. \n2. Place your hands shoulder-width apart or slightly wider, with your fingers pointing forward or slightly outward. \n3. Engage your core and glutes to maintain a straight line from your head to your knees. \n4. Lower your body towards the floor by bending your elbows until your chest touches the floor or reaches a comfortable depth. \n5. Push yourself back up to the starting position by extending your arms, maintaining a straight line from head to knees.",
+"form": {
+"Hand Placement": "Place your hands slightly wider than shoulder-width apart, with your fingers pointing forward or slightly outward.",
+"Elbow Position": "Keep your elbows slightly tucked in towards your body during the movement, not flared out to the sides.",
+"Body Alignment": "Maintain a straight line from your head to your knees throughout the exercise. Don't let your hips sag or your back arch.",
+"Core Engagement": "Engage your core muscles (abs and lower back) to stabilize your body and prevent your hips from sagging.",
+"Breathing": "Inhale as you lower your body towards the floor and exhale as you push yourself back up."
+}
+},
+"commonMistakes": {
+"Sagging Hips": "Letting your hips sag towards the floor, which indicates weak core engagement.",
+"Arching Back": "Arching your back excessively, which can put stress on your lower back.",
+"Flaring Elbows": "Allowing your elbows to flare out to the sides, which can put stress on your shoulder joints.",
+"Partial Range of Motion": "Not lowering your chest close enough to the floor or not fully extending your arms at the top of the movement.",
+"Head Position": "Letting your head drop or jut forward, which can strain your neck. Keep your head in line with your spine."
+},
+"comments": {
+"Easier Variation": "This is an easier variation of the classic push-up. In regular push-ups on your feet, you lift about 70% of your own body weight, but in kneeling push-ups, you only lift about 55% of your body weight.",
+"Progression": "Therefore, this exercise variation can serve as a useful training tool to increase your strength until you can do regular push-ups.",
+"Muscle Groups Worked": "Kneeling push-ups primarily work the chest, triceps, and front deltoids. They also engage the core muscles for stability."
+},
+"alternativesAndVariations": {
+"Regular Push-Ups": "A more challenging variation where you support your body weight on your toes instead of your knees.",
+"Incline Push-Ups": "An easier variation performed with your hands elevated on a bench or step, reducing the amount of body weight you lift.",
+"Decline Push-Ups": "A more challenging variation performed with your feet elevated on a bench or step, increasing the amount of body weight you lift.",
+"Wall Push-Ups": "The easiest variation, performed standing upright and pushing against a wall. This is a good starting point for beginners.",
+"Diamond Push-Ups": "A variation that places more emphasis on the triceps, performed with your hands close together forming a diamond shape with your index fingers and thumbs."
+},
+"tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

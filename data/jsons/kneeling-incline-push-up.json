@@ -1,0 +1,33 @@
+{
+"kneeling-incline-push-up": {
+    "form": {
+      "steps": "\n1. Place your hands on an elevated surface, such as a bench or a box, slightly wider than shoulder-width apart. \n2. Kneel down, keeping your back straight and your core engaged. Your body should form a straight line from your knees to your head. \n3. Lower your chest towards the elevated surface by bending your elbows until your chest touches the edge of the surface. Inhale as you lower down. \n4. Push yourself back up to the starting position, straightening your arms. Exhale as you push up.",
+      "form": {
+        "Hand Placement": "Place your hands slightly wider than shoulder-width apart on the elevated surface, with your fingers pointing forward.",
+        "Elbow Positioning": "Keep your elbows slightly tucked in towards your body, not flared out to the sides.",
+        "Body Alignment": "Maintain a straight line from your knees to your head throughout the exercise. Don't let your hips sag or your back arch.",
+        "Range of Motion": "Lower your chest as close to the elevated surface as possible without losing proper form.",
+        "Breathing": "Inhale as you lower down and exhale as you push back up."
+      }
+    },
+    "commonMistakes": {
+      "Elbow Flare": "Flaring elbows out to the sides, which can put stress on your shoulder joints.",
+      "Sagging Hips": "Letting your hips sag towards the ground, which indicates a weak core and can lead to lower back pain.",
+      "Partial Range of Motion": "Not lowering your chest close enough to the elevated surface, which reduces muscle activation.",
+      "Head Position": "Looking up or down instead of straight ahead, which can strain your neck. Keep your head in line with your spine."
+    },
+    "comments": {
+      "Progression": "Kneeling incline push-ups are a great way to build strength before moving on to more challenging variations like regular push-ups or decline push-ups. As you get stronger, you can gradually decrease the height of the elevated surface to increase the difficulty.",
+      "Muscle Activation": "This exercise primarily targets the chest, front deltoids, and triceps. It also engages the core muscles to maintain stability.",
+      "Bodyweight Exercise": "As a bodyweight exercise, it can be done anywhere without the need for any equipment.",
+      "Scalability": "The exercise can be easily modified to fit different fitness levels by adjusting the height of the elevated surface."
+    },
+    "alternativesAndVariations": {
+      "Push-ups": "A more challenging variation performed with your hands on the ground instead of an elevated surface.",
+      "Incline Push-ups": "Performed with your hands on an elevated surface, but with your feet flat on the ground instead of kneeling.",
+      "Decline Push-ups": "A more advanced variation performed with your feet elevated on a surface higher than your hands.",
+      "Wall Push-ups": "The easiest variation, performed standing upright and pushing against a wall."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

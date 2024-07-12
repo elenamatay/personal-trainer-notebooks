@@ -1,0 +1,36 @@
+{
+"romanian-deadlift": {
+"form": {
+"steps": "\n1. Stand with your feet hip-width apart, with a barbell in front of you. \n2. Bend at your hips to grip the barbell with an overhand grip, slightly wider than shoulder-width apart. Your knees should be slightly bent, and your back should be straight with a natural arch. \n3. Engage your core and lift the barbell off the floor by extending your legs. \n4. Once you're standing upright, with the barbell in front of your thighs, initiate the Romanian Deadlift. \n5. Keeping your back straight, push your hips back and lower the barbell towards the ground. As you lower the barbell, keep it close to your body. \n6. Lower the barbell until you feel a good stretch in your hamstrings. You don't need to touch the floor. \n7. Once you feel the stretch, drive your hips forward and stand back up, pulling the barbell back to the starting position. \n8. Repeat for desired reps.",
+"form": {
+"Back": "Keep your back straight throughout the entire movement. Avoid rounding your back.",
+"Hips": "Initiate the movement by pushing your hips back, not by bending your knees.",
+"Bar Path": "Keep the barbell close to your body throughout the entire movement. It should almost graze your shins and thighs.",
+"Head and Neck": "Maintain a neutral head and neck position. Avoid looking up or down.",
+"Shoulders": "Keep your shoulders pulled back and down, maintaining a stable upper body."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This is the most common mistake and can lead to lower back injury. Make sure to keep your back straight throughout the movement.",
+"Squatting Instead of Hinging": "The Romanian Deadlift is a hip-dominant movement. Avoid bending your knees too much and focus on pushing your hips back.",
+"Bouncing at the Bottom": "Don't bounce the barbell off the floor. Control the movement and maintain tension in your hamstrings.",
+"Using Too Much Weight": "Using too much weight can compromise form and increase the risk of injury. Start with a weight you can control with proper form.",
+"Not Engaging the Core": "Engage your core throughout the movement to protect your lower back and maintain stability."
+},
+"comments": {
+"Target Muscles": "The Romanian Deadlift primarily targets the glutes, hamstrings, and lower back.",
+"Hip Hinge Movement": "This exercise helps improve hip mobility and strengthens the posterior chain, which is essential for good posture and athletic performance.",
+"Grip Strength": "Romanian Deadlifts also challenge your grip strength. If you find your grip failing before your hamstrings or glutes, you can use lifting straps to assist your grip.",
+"Range of Motion": "Adjust the range of motion based on your flexibility and comfort level. You don't need to lower the barbell all the way to the floor if it compromises your form.",
+"Progression": "As you get stronger, you can increase the weight, reps, or sets. You can also try variations like the single-leg Romanian Deadlift or the deficit Romanian Deadlift."
+},
+"alternativesAndVariations": {
+"Conventional Deadlift": "A compound exercise that works similar muscle groups but involves a greater range of motion and starts with the barbell on the floor.",
+"Good Mornings": "Another hip hinge movement that targets the hamstrings and lower back, but with the weight on your upper back.",
+"Glute Ham Raise": "A bodyweight exercise that isolates the hamstrings and glutes, helping improve hip extension strength.",
+"Single-Leg Romanian Deadlift": "A unilateral variation that challenges balance and stability while working one leg at a time.",
+"Sumo Deadlift": "A variation of the deadlift with a wider stance and a more upright torso, shifting the emphasis more towards the inner thighs and glutes."
+},
+"tempo": "3010 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

@@ -1,0 +1,33 @@
+{
+"seated-machine-row": {
+"form": {
+"steps": "\n1. Adjust the seat height of the machine so that the handles are at chest level. \n2. Sit down on the machine and place your feet flat on the footrests, with your knees slightly bent. \n3. Grab the handles with an overhand grip, slightly wider than shoulder-width apart. \n4. Straighten your back and maintain a neutral spine throughout the exercise. \n5. Inhale and pull the handles towards you, while keeping your elbows close to your body and pulling through your elbows. \n6. Once the handles are close to your torso, pause for a moment and squeeze your back muscles. \n7. Exhale and slowly return the handles to the starting position, while maintaining control and tension in your back muscles.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows close to your body throughout the movement.",
+"Back": "Maintain a neutral spine, with your back straight and not rounded.",
+"Shoulders": "Pull your shoulder blades back and down as you pull the weight.",
+"Chest": "Keep your chest up and out throughout the exercise."
+}
+},
+"commonMistakes": {
+"Rounding your back": "This is a common mistake that can lead to lower back pain. Make sure to keep your back straight throughout the exercise.",
+"Using too much weight": "Using too much weight can compromise form and increase the risk of injury. Start with a weight that allows you to maintain good form and gradually increase the weight as you get stronger.",
+"Pulling with your arms": "The seated machine row is a back exercise, not an arm exercise. Focus on pulling the weight with your back muscles, not your arms.",
+"Not controlling the weight": "It's important to control the weight throughout the entire exercise, both during the concentric (pulling) and eccentric (returning) phases. Avoid letting the weight stack slam back down at the end of each rep."
+},
+"comments": {
+"Muscle groups used": "The seated machine row is a compound exercise that primarily targets the muscles in the back, including the latissimus dorsi (lats), rhomboids, trapezius, and rear deltoids. It also engages the biceps, forearms, and core muscles.",
+"Stable exercise": "Machine row is a stable exercise for your pulling muscles, which means that you don't have to think about balance or trajectory, but can focus on getting contact with the right muscles.",
+"Variations": "There are many variations of the seated machine row, such as using different grip attachments (e.g., close grip, wide grip, neutral grip) or adjusting the chest pad to change the angle of pull. Experiment with different variations to target your back muscles from different angles.",
+"Progression": "As you get stronger, you can increase the weight, reps, or sets. You can also try more challenging variations of the exercise."
+},
+"alternativesAndVariations": {
+"Bent-Over Row": "A free-weight exercise that works similar muscle groups as the seated machine row, but requires more core stability and balance.",
+"Pull-Ups": "A challenging bodyweight exercise that primarily targets the lats and biceps. It's a great exercise for building upper body strength and muscle mass.",
+"T-Bar Row": "Another compound exercise that targets the back muscles. It's typically performed with a barbell and a landmine attachment, but can also be done with dumbbells.",
+"Chest-Supported Row": "A variation of the row that supports your chest on a bench, which helps to isolate the back muscles and reduce stress on the lower back."
+},
+"tempo": "2011 (2 seconds pulling, 0 seconds pause at the contracted position, 1 second returning, 1 second pause at the starting position)"
+}
+}

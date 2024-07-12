@@ -1,0 +1,36 @@
+{
+  "front-squat": {
+    "form": {
+      "steps": "\n1. Grip the bar with an overhand grip, slightly wider than shoulder-width. Step forward and place the bar on the front of your shoulders: on top of your clavicles, and tight against your throat, resting on your deltoids (not your collarbone). \n2. Inhale and brace your core, and unrack the bar by straightening your legs and stepping back from the rack. \n3. Adjust your foot position so that your feet are slightly wider than shoulder-width apart, toes pointing slightly outwards. \n4. Keeping your back straight and core engaged, squat down as deep as possible while maintaining proper form. \n5. With control, stop and reverse the movement at the bottom of the squat, extending your hips and legs to return to the starting position. \n6. Exhale on the way up or exchange air in the top position. \n7. Breathe in and repeat for reps.",
+      "form": {
+        "Back": "Keep your back straight throughout the entire movement, maintaining a neutral spine. Avoid rounding or excessively arching your back.",
+        "Core": "Engage your core muscles to stabilize your spine and prevent injury. Imagine bracing your abs as if you were about to be punched in the stomach.",
+        "Elbows": "Keep your elbows up throughout the entire movement. This helps to keep your upper back engaged and the bar in the correct position.",
+        "Knees": "Make sure your knees track in line with your toes throughout the movement. Avoid letting your knees cave inwards.",
+        "Head": "Keep your head in a neutral position, looking straight ahead. Avoid looking up or down.",
+        "Foot Position": "Experiment with different foot positions to find what feels most comfortable and stable for you. A slightly wider stance with toes pointed slightly outwards is a good starting point."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the back": "This is a common mistake, especially when the weight gets heavy. It puts a lot of stress on the lower back and can lead to injury.",
+      "Not keeping the elbows up": "Letting your elbows drop will cause the bar to roll forward, putting more stress on your wrists and making the lift more difficult.",
+      "Not squatting deep enough": "To get the full benefits of the front squat, you need to squat down until your thighs are at least parallel to the ground.",
+      "Not bracing the core": "Failing to brace your core can lead to injury, especially in the lower back."
+    },
+    "comments": {
+      "Muscle groups used": "The front squat is a compound exercise that primarily targets the quadriceps, glutes, and adductors. It also works the core, lower back, and calves.",
+      "Quadriceps Emphasis": "Compared to the back squat, the front squat places more emphasis on the quadriceps due to the forward positioning of the barbell.",
+      "Improved Core Strength": "The front squat requires a strong core to maintain an upright torso, making it an effective exercise for developing core stability.",
+      "Carryover to Olympic Lifts": "The front squat is a key accessory exercise for Olympic weightlifting movements like the clean and jerk, as it mimics the receiving position of the clean.",
+      "Grip": "If you have difficulty with the front rack position, you can try using a cross-grip or lifting straps. However, it's generally recommended to work on improving your wrist and shoulder mobility to perform the front squat with a standard grip.",
+      "Mobility": "The front squat requires good ankle, hip, and wrist mobility. If you struggle with mobility in these areas, you may find it difficult to perform the exercise with proper form."
+    },
+    "alternativesAndVariations": {
+      "Back Squat": "A compound exercise that works similar muscle groups as the front squat, but with a different bar position (across the upper back).",
+      "Goblet Squat": "A variation of the squat that can help improve front squat technique. It involves holding a weight in front of your chest, similar to holding a goblet.",
+      "Zercher Squat": "A challenging squat variation where the barbell is held in the crooks of your elbows. It places significant emphasis on the core and upper back.",
+      "Leg Press": "A machine-based exercise that targets the quads, glutes, and hamstrings. It can be a good alternative for those who have difficulty performing squats with proper form."
+    },
+    "tempo": "31X0 (3 seconds lowering, 1 second pause at the bottom, explosive lifting, 0 seconds pause at the top)"
+  }
+}

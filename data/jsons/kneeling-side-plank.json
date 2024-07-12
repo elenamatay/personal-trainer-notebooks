@@ -1,0 +1,33 @@
+{
+"kneeling-side-plank": {
+"form": {
+"steps": "\n1. Start by kneeling on the floor on one side, with your body in a straight line from head to knees. \n2. Place your elbow directly under your shoulder, forearm extended forward, and your other hand on your hip. \n3. Engage your core and lift your hips off the ground, maintaining a straight line from head to knees. \n4. Hold this position for the desired time, then lower your hips back down to the starting position and repeat on the other side.",
+"form": {
+"Body Alignment": "Maintain a straight line from head to knees throughout the exercise. Avoid sagging or hiking your hips.",
+"Elbow Position": "Keep your elbow directly under your shoulder, ensuring it's not flared out or tucked in too close to your body.",
+"Core Engagement": "Actively engage your core muscles to stabilize your spine and prevent any arching or rounding of your back.",
+"Hip Placement": "Keep your hips lifted off the ground, avoiding any sagging towards the floor.",
+"Breathing": "Breathe normally throughout the exercise, don't hold your breath."
+}
+},
+"commonMistakes": {
+"Sagging Hips": "Allowing your hips to sag towards the floor, which reduces core engagement and can strain your lower back.",
+"Hiked Hips": "Raising your hips too high, creating an inverted V-shape with your body, which also compromises proper form.",
+"Misaligned Elbow": "Positioning your elbow too far forward or backward from your shoulder, leading to uneven weight distribution and potential strain.",
+"Holding Breath": "Forgetting to breathe properly during the hold, which can lead to dizziness and fatigue."
+},
+"comments": {
+"Progression": "As you get stronger, you can progress to a full side plank by extending your legs and supporting your body weight on your forearm and the side of your foot.",
+"Variations": "You can also modify the kneeling side plank by placing your top hand on your hip, behind your head, or extending it straight up towards the ceiling.",
+"Muscle Activation": "The kneeling side plank primarily targets the obliques, which are responsible for rotation and side bending of the torso. It also engages the abs, shoulders, and hip stabilizers.",
+"Importance of Core Strength": "A strong core is essential for maintaining good posture, stability, and balance, and can help prevent lower back pain."
+},
+"alternativesAndVariations": {
+"Side Plank": "A more challenging variation where you support your body weight on your forearm and the side of your foot, with your legs extended.",
+"Forearm Plank": "A classic core exercise that works the entire core, including the obliques.",
+"Russian Twists": "A dynamic exercise that targets the obliques and helps improve rotational strength.",
+"Bicycle Crunches": "Another effective exercise for working the obliques and rectus abdominis muscles."
+},
+"tempo": "0030 (0 seconds lowering, 0 seconds pause at the bottom, 3 seconds holding, 0 seconds pause at the top)"
+}
+}

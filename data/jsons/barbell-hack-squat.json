@@ -1,0 +1,33 @@
+{
+  "barbell-hack-squat": {
+    "form": {
+      "steps": "\n1. Stand with your feet shoulder-width apart in front of a barbell. The barbell should be close to your shins. \n2. Squat down and grip the barbell with an overhand grip, slightly wider than shoulder-width apart. Your arms should be outside your legs. \n3. Inhale, brace your core, keep your back straight, and lift the barbell by extending your legs. \n4. As you stand up, pull the barbell as close to your body as possible, keeping your back straight. \n5. Lower the barbell back to the ground with control by reversing the motion. \n6. Take another breath, and repeat for reps.",
+      "form": {
+        "Back": "Keep your back straight throughout the entire movement. Avoid rounding your back.",
+        "Head": "Look straight ahead or slightly upward. Avoid looking down.",
+        "Grip": "Use an overhand grip, slightly wider than shoulder-width apart.",
+        "Barbell Path": "Keep the barbell as close to your body as possible throughout the movement.",
+        "Feet": "Keep your feet flat on the floor throughout the exercise."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the back": "This is a common mistake that can lead to lower back injury. Make sure to keep your back straight throughout the entire movement.",
+      "Not squatting low enough": "To get the full range of motion and target your quads effectively, make sure to squat down until your thighs are at least parallel to the floor.",
+      "Using too much weight": "Using too much weight can lead to poor form and increase the risk of injury. Start with a weight you can lift with proper form and gradually increase the weight as you get stronger.",
+      "Not keeping the barbell close to the body": "Keeping the barbell close to your body helps to maintain balance and reduces stress on your lower back."
+    },
+    "comments": {
+      "Muscle activation": "The barbell hack squat primarily targets the quadriceps, but it also works the glutes, hamstrings, lower back, and core.",
+      "Old-school lift": "The barbell hack squat is an old-school lift that has recently gained popularity as a great alternative to the back squat.",
+      "Barbell position": "The main difference between the barbell hack squat and the deadlift is the placement of the barbell. In the barbell hack squat, the barbell is held behind the body, while in the deadlift, the barbell is held in front of the body.",
+      "Grip strength": "The barbell hack squat requires a lot of grip strength, so it's a good idea to train your grip if you're planning on doing this exercise."
+    },
+    "alternativesAndVariations": {
+      "Hack Squat Machine": "If you have access to a hack squat machine, you can use it as an alternative to the barbell hack squat. The machine provides a more stable base of support and allows you to use heavier weight.",
+      "Front Squat": "The front squat is another great exercise for developing the quads. It also works the core and upper back more than the barbell hack squat.",
+      "Leg Press": "The leg press is a machine exercise that works the quads, glutes, and hamstrings. It's a good alternative to the barbell hack squat if you're new to weightlifting or have lower back issues.",
+      "Goblet Squat": "The goblet squat is a variation of the squat that's performed with a dumbbell or kettlebell held in front of the chest. It's a good exercise for beginners because it helps to improve squat form."
+    },
+    "tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+  }
+}
