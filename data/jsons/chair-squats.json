@@ -1,0 +1,33 @@
+{
+"chair-squats": {
+"form": {
+"steps": "\n1. Stand in front of a chair with your feet slightly wider than shoulder-width apart, toes pointing slightly outwards. \n2. Keeping your back straight and core engaged, initiate the squat by pushing your hips back and bending your knees. \n3. Lower yourself down until your glutes lightly touch the chair. \n4. Push through your heels to return to the starting position, extending your legs completely.",
+"form": {
+"Head and Neck": "Keep your head and neck neutral, looking straight ahead.",
+"Back": "Maintain a straight back throughout the movement, with a natural arch in your lower back.",
+"Core": "Engage your core muscles to stabilize your spine.",
+"Knees": "Ensure your knees track in line with your toes, preventing them from caving inwards.",
+"Weight Distribution": "Distribute your weight evenly across your feet, focusing on pushing through your heels."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "Failing to maintain a straight back, which can lead to lower back pain.",
+"Knee Valgus": "Allowing the knees to collapse inwards, putting stress on the knee joints.",
+"Not Going Low Enough": "Partially squatting without fully engaging the glutes and hamstrings.",
+"Heels Lifting Off the Ground": "Shifting weight onto the toes, indicating tight calves or improper form."
+},
+"comments": {
+"Purpose": "Chair squats are a great exercise for beginners or individuals with mobility limitations, as they provide a target depth and reduce the risk of injury.",
+"Progression": "As you get stronger, you can progress to regular squats or increase the difficulty by using resistance bands or holding light weights.",
+"Depth": "The depth of your squat can be adjusted based on your flexibility and comfort level. Ensure that your hips descend below your knees for optimal muscle activation.",
+"Variations": "Chair squats can be varied by adjusting the width of your stance or the placement of your feet. Experiment with different variations to target different muscle groups."
+},
+"alternativesAndVariations": {
+"Box Squat": "Similar to chair squats but using a box instead of a chair. Boxes typically offer a higher surface, allowing for a greater range of motion.",
+"Goblet Squat": "Performed while holding a weight (dumbbell, kettlebell, or weight plate) close to your chest. The added weight increases the challenge and promotes core engagement.",
+"Air Squat": "A bodyweight squat performed without any external support. It helps improve form and mobility before progressing to weighted variations.",
+"Bulgarian Split Squat": "A unilateral exercise that targets one leg at a time, improving balance and coordination."
+},
+"tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

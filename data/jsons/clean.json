@@ -1,0 +1,35 @@
+{
+"clean": {
+"form": {
+"steps": "\n1. Step up close to the bar, so that it is about over the middle of your foot. \n2. Lean forward and grip the bar with an overhand grip, slightly wider than shoulder-width apart. \n3. With your back straight, shoulders over the bar, and core engaged, lift the bar by extending your legs. Keep the bar close to your body. \n4. As the bar passes your knees, explosively extend your hips and knees, pulling yourself under the bar. Rotate your elbows forward and bring the bar to your shoulders, dropping into a front squat position to receive the bar. \n5. Stand up on straight legs again. \n6. Lower the bar in front of you, with control.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Back": "Keep your back straight throughout the entire movement.",
+"Elbows": "Keep your elbows high and pointed outwards during the pull. Rotate them forward as you receive the bar.",
+"Bar Path": "The bar should travel in a straight line, close to your body.",
+"Foot Stance": "Feet should be hip-width apart, with toes pointed slightly outwards.",
+"Breathing": "Inhale before you initiate the lift, hold your breath during the pull, and exhale as you stand up."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This can lead to lower back injury. Keep your core engaged and your back straight.",
+"Not Keeping the Bar Close": "The bar should travel close to your body throughout the lift. If it drifts away, you'll lose power and increase the risk of injury.",
+"Using Too Much Arms": "The clean is primarily a leg exercise. Focus on using your legs to generate power, and use your arms to guide the bar.",
+"Not Staying Low Enough": "Dropping too quickly under the bar can lead to poor form and increase the risk of injury. Stay low and control the descent.",
+"Not Exploding Upwards": "The clean requires a powerful hip extension. Don't be afraid to explode upwards and pull yourself under the bar."
+},
+"comments": {
+"Muscle Groups": "The clean is a full-body exercise that primarily targets the glutes, lower back, quads, and hamstrings. It also engages the trapezius, forearms, and calves.",
+"Power and Strength": "The clean is a highly effective exercise for developing power and strength in the lower body.",
+"Complementary Training": "The clean has long been a staple exercise for athletes in various sports, as it improves explosiveness, coordination, and overall athleticism.",
+"Squat Clean vs. Power Clean": "The squat clean involves receiving the bar in a deep squat position, while the power clean involves a shallower catch. The squat clean allows for heavier weight but is more technically demanding."
+},
+"alternativesAndVariations": {
+"Hang Clean": "Performed with the bar starting at hip height, focusing on the second pull phase of the clean.",
+"Clean Pull": "Similar to the clean, but without the catch phase. It helps improve explosiveness and technique.",
+"Deadlift": "A compound exercise that targets similar muscle groups as the clean, focusing on hip hinge movement.",
+"Kettlebell Swings": "A dynamic exercise that develops hip power and explosiveness, mimicking the hip extension pattern of the clean."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

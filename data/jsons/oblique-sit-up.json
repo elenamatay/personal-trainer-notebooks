@@ -1,0 +1,30 @@
+{
+"oblique-sit-up": {
+"form": {
+"steps": "\n1. Lie on your back with your knees bent and feet flat on the floor. Place your hands lightly behind your head, elbows pointing out to the sides.\n2. Engage your core and lift your shoulder blades off the ground, twisting your torso to bring your right elbow towards your left knee. \n3. Lower back down slowly and repeat on the other side, bringing your left elbow towards your right knee.",
+"form": {
+"Torso": "Focus on using your obliques to twist your torso, rather than just lifting your shoulder off the ground.",
+"Neck": "Avoid pulling on your neck with your hands. Keep your chin slightly tucked and imagine holding a tennis ball between your chin and chest.",
+"Range of Motion": "Don't worry about touching your elbow to your knee; focus on a controlled movement and a strong contraction in your obliques.",
+"Breathing": "Exhale as you twist up and inhale as you lower back down."
+}
+},
+"commonMistakes": {
+"Yanking on the Neck": "Pulling on the back of your head with your hands, which can strain your neck.",
+"Limited Range of Motion": "Not twisting your torso enough, which reduces the engagement of the obliques.",
+"Using Momentum": "Swinging your body up instead of using a controlled movement, which reduces the effectiveness of the exercise."
+},
+"comments": {
+"Variations": "You can increase the difficulty of this exercise by holding a weight plate or dumbbell close to your chest.",
+"Target Muscles": "The oblique sit-up is a great exercise for strengthening the obliques, which are the muscles on the sides of your abdomen. These muscles are important for rotational movements, stability, and maintaining good posture.",
+"Progression": "As you get stronger, you can increase the number of repetitions or sets, or add weight to make the exercise more challenging."
+},
+"alternativesAndVariations": {
+"Bicycle Crunches": "A dynamic exercise that targets both the upper and lower abs, as well as the obliques. The main difference is the movement, which involves bringing opposite elbow and knee together in a cycling motion.",
+"Russian Twists": "An exercise that involves rotating your torso from side to side while holding a weight or medicine ball. It targets the obliques and core.",
+"Side Planks": "An isometric exercise that strengthens the obliques, core, and shoulders. It involves holding your body in a straight line supported by your forearm and the side of your foot.",
+"Standing Cable Woodchops": "A standing exercise performed on a cable machine that involves rotating your torso diagonally while resisting the weight of the cable. It targets the obliques, core, and shoulders."
+},
+"tempo": "2011 (2 seconds twisting up, 0 seconds pause at the top, 1 second lowering down, 1 second pause at the bottom)"
+}
+}

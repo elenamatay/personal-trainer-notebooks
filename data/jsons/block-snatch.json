@@ -1,0 +1,33 @@
+{
+"block-snatch": {
+"form": {
+"steps": "\n1. Place a barbell on two blocks, so that it is resting just above knee height. \n2. Lean forward and grip the bar with a wide overhand grip, slightly wider than shoulder-width apart. \n3. Inhale, brace your core, and lift the bar in a smooth but fast motion, by extending your legs and knees simultaneously, keeping the bar close to your body. \n4. Once the bar reaches your hip level, explosively extend your hips and knees, pulling yourself under the bar and rotating your elbows around and under the bar. \n5. Squat down deep and catch the bar on straight arms over your head, with your feet slightly wider than shoulder-width apart. \n6. When you've got control of the bar, stand up straight. \n7. Lower the bar down to the blocks again, with control.",
+"form": {
+"Grip": "Use a wide overhand grip, slightly wider than shoulder-width apart. The grip should be wide enough to allow you to get under the bar comfortably.",
+"Back": "Keep your back straight throughout the movement. A slight arch in your lower back is acceptable, but avoid rounding your upper back.",
+"Elbows": "Keep your elbows high and outside during the first pull. As the bar passes your knees, rotate your elbows around and under the bar.",
+"Head": "Keep your head in a neutral position throughout the movement. Look straight ahead, not up or down.",
+"Feet": "Start with your feet hip-width apart, and as you get under the bar, quickly move your feet to a slightly wider stance, about shoulder-width apart."
+}
+},
+"commonMistakes": {
+"Not keeping the bar close to the body": "This will make the lift less efficient and increase the risk of injury.",
+"Not extending the hips and knees explosively": "The second pull should be a powerful movement that drives the bar upwards.",
+"Not getting under the bar quickly enough": "You need to move quickly under the bar in order to catch it in a squat position.",
+"Not standing up straight with the bar": "Once you catch the bar, make sure to stand up straight with it. This will help to stabilize the weight and prevent injury."
+},
+"comments": {
+"Muscle groups": "The block snatch is a full-body exercise that works the glutes, lower back, adductors, quads, hamstrings, trapezius, calves, and forearms.",
+"Benefits": "The block snatch is a great exercise for developing power, speed, and coordination. It can also help to improve your vertical jump and overall athleticism.",
+"Progression": "The block snatch can be progressed by increasing the weight, increasing the height of the blocks, or by moving to a full snatch.",
+"Easier variant": "The block snatch is a variant of the snatch exercise, in which you have removed the first pull from the floor. This makes the block snatch a potentially easier variant to begin with for learning the snatch, since you don't have to focus on as many steps."
+},
+"alternativesAndVariations": {
+"Snatch": "A more advanced variation that starts from the floor. The main difference is that the snatch requires a stronger first pull from the floor.",
+"Power Snatch": "A variation of the snatch where the bar is caught in a higher position, with the hips above parallel. This variation is typically used to develop power and speed.",
+"Hang Snatch": "A variation of the snatch where the lifter starts with the bar at hip height, eliminating the first pull from the floor. This variation is often used as a teaching tool or to focus on the second pull.",
+"Clean and Jerk": "Another Olympic weightlifting exercise that involves lifting the bar from the ground to overhead. The main difference is that the clean and jerk is performed in two distinct movements, while the snatch is performed in one continuous movement."
+},
+"tempo": "10X0 (1 second lowering, 0 seconds pause at the bottom, X: As explosive as possible, 0 seconds pause at the top)"
+}
+}

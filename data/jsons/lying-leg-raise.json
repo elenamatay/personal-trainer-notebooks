@@ -1,0 +1,29 @@
+{
+"lying-leg-raise": {
+"form": {
+"steps": "\n1. Lie down on your back on the floor or on a bench, with your legs extended straight up towards the ceiling and your arms at your sides with your palms facing down. \n2. Engage your core muscles, pressing your lower back into the ground. This is your starting position. \n3. Slowly lower your legs towards the ground, keeping them as straight as possible. Only go as low as you can while maintaining a flat back. If your lower back starts to arch off the ground, stop lowering your legs and return to the starting position. \n4. Once you've lowered your legs as far as you can with good form, slowly raise them back to the starting position, using your core strength to control the movement.",
+"form": {
+"Back": "Keep your lower back pressed into the ground throughout the entire exercise. Do not let it arch off the ground.",
+"Legs": "Keep your legs as straight as possible throughout the exercise. If you find it too difficult, you can slightly bend your knees.",
+"Core": "Engage your core muscles throughout the entire exercise, focusing on using your abs to control the movement."
+}
+},
+"commonMistakes": {
+"Arching Lower Back": "This is a common mistake that can lead to lower back pain. Make sure to keep your lower back pressed into the ground throughout the entire exercise.",
+"Using Momentum": "Avoid swinging your legs up and down. The movement should be slow and controlled, using your core strength to lift and lower your legs.",
+"Not Engaging Core": "Focus on using your core muscles to control the movement, rather than relying on your hip flexors."
+},
+"comments": {
+"Progression": "To make the exercise more challenging, you can add ankle weights or hold a dumbbell between your feet.",
+"Variations": "You can try variations like hanging leg raises or captain's chair leg raises for a greater challenge.",
+"Target Muscles": "Lying leg raises primarily target the rectus abdominis (the 'six-pack' muscle), but they also work the obliques (side abs) and hip flexors to a lesser extent."
+},
+"alternativesAndVariations": {
+"Hanging Leg Raises": "A more challenging variation that also works the grip strength. The main difference is that you are suspended from a bar, which increases the difficulty and range of motion.",
+"Captain's Chair Leg Raises": "Another challenging variation that provides back support. The main difference is that you are in a seated position with your forearms resting on pads, which isolates the abs more.",
+"Reverse Crunches": "A similar exercise that targets the lower abs more directly. The main difference is that you bring your knees towards your chest, rather than lowering your legs.",
+"Plank": "A great isometric exercise that strengthens the entire core, including the abs, obliques, and lower back. The main difference is that it is a static hold, rather than a dynamic movement."
+},
+"tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

@@ -1,0 +1,30 @@
+{
+"concentration-curl": {
+"form": {
+"steps": "\n1. Sit on a bench with your feet flat on the floor, slightly wider than shoulder-width apart. \n2. Hold a dumbbell in one hand, and lean forward slightly. Place your elbow against the inside of your thigh, just above your knee. Let your arm hang straight down, with the dumbbell towards the floor. \n3. Keeping your upper arm still, curl the dumbbell up towards your shoulder by contracting your biceps. Only your lower arm should move. \n4. Slowly lower the dumbbell back to the starting position, straightening your arm.",
+"form": {
+"Elbow": "Keep your elbow in contact with your inner thigh throughout the exercise.",
+"Upper Arm": "Your upper arm should remain stationary throughout the exercise.",
+"Movement": "Focus on a slow and controlled movement, both during the curl and the extension.",
+"Range of Motion": "Use a full range of motion, extending your arm fully at the bottom and contracting your biceps fully at the top."
+}
+},
+"commonMistakes": {
+"Moving your elbow": "Moving your elbow away from your thigh reduces the isolation on the biceps and decreases the effectiveness of the exercise.",
+"Swinging the weight": "Using momentum to swing the weight up, rather than using a controlled movement.",
+"Not using a full range of motion": "Not fully extending the arm at the bottom or not fully contracting the biceps at the top, which reduces muscle activation."
+},
+"comments": {
+"Muscle Mind Connection": "The concentration curl is an excellent exercise for developing the mind-muscle connection with your biceps, as it forces you to focus on the contraction of the muscle.",
+"Isolation Exercise": "As an isolation exercise, the concentration curl is best performed after compound exercises like rows and pull-ups.",
+"Weight Selection": "Choose a weight that allows you to perform the exercise with perfect form and a full range of motion. It's better to start light and gradually increase the weight as you get stronger."
+},
+"alternativesAndVariations": {
+"Hammer Curls": "Similar to concentration curls, but with a neutral grip (palms facing each other). Hammer curls target the biceps, brachialis, and brachioradialis.",
+"Incline Dumbbell Curls": "Performed on an incline bench, which increases the stretch on the biceps at the bottom of the movement.",
+"Preacher Curls": "Performed on a preacher curl bench, which isolates the biceps and prevents cheating.",
+"Cable Curls": "Performed on a cable machine, which provides constant tension throughout the exercise."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

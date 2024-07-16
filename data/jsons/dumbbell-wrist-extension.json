@@ -1,0 +1,29 @@
+{
+"dumbbell-wrist-extension": {
+"form": {
+"steps": "\n1. Sit on a bench with your feet flat on the floor. \n2. Grab a dumbbell with an overhand grip (palms facing down) \n3. Rest your forearm on your thigh, with your hand extended beyond your knee. Alternatively, you can rest your forearm on a bench, with your wrist positioned just off the edge. \n4. Lower the dumbbell towards the floor by extending your wrist. \n5. Reverse the motion by flexing your wrist upwards, lifting the dumbbell as high as you can. ",
+"form": {
+"Wrist": "Keep your wrist straight throughout the movement, don't bend it sideways.",
+"Forearm": "Your forearm should remain still and rested on your thigh or the bench throughout the exercise.",
+"Movement": "The movement should only occur at the wrist joint."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the dumbbell instead of using a controlled motion.",
+"Moving the Forearm": "Lifting your forearm off your thigh or the bench during the exercise.",
+"Bending the Wrist": "Bending your wrist sideways instead of keeping it straight."
+},
+"comments": {
+"Muscle group": "This exercise isolates and strengthens the forearm extensors, which are important for grip strength and overall forearm development.",
+"Alternative Equipment": "As an alternative, you can perform the exercise with a barbell, or a resistance band.",
+"Important Note": "If you experience any pain in your wrist during this exercise, stop immediately and consult with a medical professional."
+},
+"alternativesAndVariations": {
+"Barbell Wrist Extension": "This variation uses a barbell instead of dumbbells, allowing you to lift heavier weight.",
+"Resistance Band Wrist Extension": "This variation uses a resistance band, providing a more consistent resistance throughout the exercise.",
+"Reverse Wrist Curl": "This exercise targets the opposing muscle group, the forearm flexors, which are responsible for flexing your wrist."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}
+

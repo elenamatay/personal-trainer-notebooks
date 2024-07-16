@@ -1,0 +1,32 @@
+{
+"plate-front-raise": {
+"form": {
+"steps": "\n1. Stand with your feet shoulder-width apart, holding a weight plate in front of your thighs with your palms facing your body and elbows slightly bent. \n2. Keeping your back straight and core engaged, raise the plate forward and upward in a controlled motion. \n3. Continue lifting until the plate is slightly above shoulder height or until you feel a stretch in your front deltoids. \n4. Pause briefly at the top of the movement, then slowly lower the plate back to the starting position.",
+"form": {
+"Elbows": "Maintain a slight bend in your elbows throughout the exercise.",
+"Wrists": "Keep your wrists straight and firm, not allowing them to bend backward.",
+"Back": "Avoid arching your back or leaning backward. Keep your torso upright and still.",
+"Movement": "The movement should be controlled and deliberate, initiated from your shoulders, not your hips or back."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weight up using momentum instead of controlled muscle action.",
+"Excessive Weight": "Lifting a weight that is too heavy, leading to improper form and potential injury.",
+"Arching Back": "Arching the lower back to gain leverage, which can strain the spine.",
+"Limited Range of Motion": "Not raising the plate high enough or lowering it all the way down, reducing muscle activation."
+},
+"comments": {
+"Weight Selection": "This is an exercise where it is easy to pick a weight that is too heavy. Rather err on the lighter side, and strive for a strict form where you focus on getting good contact with your delts.",
+"Mind-Muscle Connection": "Focus on squeezing the front deltoids at the top of the movement to maximize muscle activation.",
+"Variations": "You can vary the grip on the plate (e.g., fingers on the edge, palms flat) to slightly alter muscle activation.",
+"Breathing": "Exhale as you lift the weight and inhale as you lower it."
+},
+"alternativesAndVariations": {
+"Dumbbell Front Raise": "Similar movement pattern but allows for independent arm movement and a greater range of motion.",
+"Barbell Front Raise": "Uses a barbell instead of a plate, offering increased stability and the ability to lift heavier weights.",
+"Cable Front Raise": "Provides constant tension throughout the exercise, further challenging the front deltoids.",
+"Arnold Press": "A compound exercise that combines a front raise with a shoulder press, engaging multiple muscle groups in the shoulders."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

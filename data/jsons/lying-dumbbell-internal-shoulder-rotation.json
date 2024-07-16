@@ -1,0 +1,28 @@
+{
+"lying-dumbbell-internal-shoulder-rotation": {
+"form": {
+"steps": "\n1. Lie down on your side with your body straight, your arm close to your side, and your elbow bent to 90 degrees. \n2. Hold a dumbbell in your hand with an overhand grip. \n3. Rotate your arm internally (upwards), keeping your elbow glued to your side, against the direction of resistance, as far as possible. \n4. Slowly reverse the movement, and repeat for reps.",
+"form": {
+"Elbow": "Keep your elbow glued to your side throughout the entire movement.",
+"Shoulder": "Keep your shoulder down and relaxed, avoiding any shrugging during the exercise.",
+"Range of Motion": "Rotate your arm internally as far as comfortable, without feeling any pain or impingement in your shoulder joint."
+}
+},
+"commonMistakes": {
+"Lifting Elbow": "Lifting your elbow away from your side during the rotation, which can reduce the effectiveness of the exercise and potentially lead to shoulder discomfort.",
+"Using Momentum": "Swinging the dumbbell instead of using a controlled movement, which can reduce muscle activation and increase the risk of injury.",
+"Going Too Heavy": "Using a weight that is too heavy, which can compromise form and potentially lead to injury. It's important to start with a lighter weight and gradually increase as needed."
+},
+"comments": {
+"Muscle Worked": "Internal rotations train your anterior rotator cuff muscles (subscapularis).",
+"Range of Motion": "By lying on a bench, or similar elevation, you can increase the range of motion compared to lying on the floor.",
+"Alternatives": "Alternatives to using a dumbbell are to use a cable pulley or elastic bands (while standing up)."
+},
+"alternativesAndVariations": {
+"Cable Internal Rotation": "Similar to the dumbbell variation, but performed using a cable machine. This provides a more consistent resistance throughout the range of motion.",
+"Band Internal Rotation": "Performed standing up, using a resistance band anchored at chest height. This variation allows for a greater range of motion and can be easily adjusted by changing the band's resistance.",
+"Side-Lying External Rotation": "This exercise targets the external rotators of the shoulder, which are important for maintaining shoulder stability and preventing injuries. It is typically performed after internal rotations to ensure balanced shoulder strength."
+},
+"tempo": "2011 (2 seconds rotating internally, 0 seconds pause at the top, 1 second rotating externally, 1 second pause at the bottom)"
+}
+}

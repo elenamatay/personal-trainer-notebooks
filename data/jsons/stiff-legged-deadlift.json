@@ -1,0 +1,33 @@
+{
+  "stiff-legged-deadlift": {
+    "form": {
+      "steps": "\n1. Stand with your feet hip-width apart, with a barbell on the floor in front of you. \n2. Hinge at your hips and grasp the barbell with an overhand grip, slightly wider than shoulder-width apart. \n3. Keeping your back straight, chest up, and core engaged, lift the barbell off the ground by extending your hips and knees. \n4. Lower the barbell back to the ground by reversing the movement, maintaining a straight back and only a slight bend in your knees. ",
+      "form": {
+        "Back": "Keep your back straight throughout the entire movement. Avoid rounding your back, especially as you lower the weight.",
+        "Legs": "Maintain a slight bend in your knees throughout the exercise. Your legs should be close to locked out at the top of the movement, but not fully locked.",
+        "Hips": "The movement should be initiated from your hips, not your back. Push your hips back as you lower the weight and drive them forward to lift it.",
+        "Core": "Engage your core muscles throughout the exercise to protect your lower back and maintain stability.",
+        "Head and Neck": "Keep your head in a neutral position, aligned with your spine. Avoid looking up or down."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the back": "This is the most common mistake, which can lead to lower back injury. Make sure to keep your back straight throughout the entire movement.",
+      "Bending the knees too much": "This takes the emphasis off of the hamstrings and glutes, turning it more into a traditional deadlift.",
+      "Using too much weight": "Using a weight that is too heavy will force you to compromise your form, increasing the risk of injury.",
+      "Not controlling the descent": "Lower the weight with control, maintaining tension in your hamstrings and glutes."
+    },
+    "comments": {
+      "Muscle groups used": "The stiff-legged deadlift primarily targets the glutes, hamstrings, and lower back. It also engages the adductors, trapezius, and forearm flexors to a lesser extent.",
+      "Mobility": "This exercise requires good hamstring and hip flexibility. If you have tight hamstrings, you may need to modify the exercise by elevating the barbell on blocks or using a lighter weight.",
+      "Progression": "As you get stronger, you can increase the weight, decrease the bend in your knees, or perform the exercise from a deficit (standing on a slightly elevated platform).",
+      "Grip": "If you find that your grip is limiting your performance, you can use lifting straps to help you hold onto the barbell for longer."
+    },
+    "alternativesAndVariations": {
+      "Traditional Deadlift": "A compound exercise that works similar muscle groups, but with a greater emphasis on the quads and back. The main difference is the degree of knee bend, which is greater in the traditional deadlift.",
+      "Romanian Deadlift (RDL)": "A variation of the stiff-legged deadlift that is performed with a softer knee bend, allowing for a greater range of motion and potentially heavier weight.",
+      "Good Mornings": "Another exercise that targets the posterior chain, but with the weight loaded on the upper back. Good mornings can be a good alternative for those with limited hamstring flexibility.",
+      "Glute Ham Raise (GHR)": "A bodyweight exercise that specifically targets the hamstrings and glutes. It can be a challenging exercise, but it is very effective for building strength and muscle mass in the posterior chain."
+    },
+    "tempo": "2020 (2 seconds lowering, 0 seconds pause at the bottom, 2 seconds lifting, 0 seconds pause at the top)"
+  }
+}

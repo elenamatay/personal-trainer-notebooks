@@ -1,0 +1,34 @@
+{
+  "hip-thrust-with-band-around-knees": {
+    "form": {
+      "steps": "\n1. Sit on the floor with your back against a sturdy bench, positioned slightly below your shoulder blades. \n2. Place an elastic band around your knees, just below them. \n3. Roll the barbell up over your thighs until it is positioned directly over your hips. \n4. Place your feet flat on the floor, about shoulder-width apart, with your knees bent at a 90-degree angle. Your shins should be close to vertical. \n5. Place your hands on the bar to stabilize it, maintaining a slightly wider than shoulder-width grip. \n6. Push the bar towards the ceiling by extending your hips, squeezing your glutes at the top of the movement. Your knees should maintain a ~90-degree angle at the top. \n7. Lower the weight with control, under tension, until the barbell is close to the floor and repeat for reps.",
+      "form": {
+        "Feet": "Flat on the floor, shoulder-width apart, shins close to vertical.",
+        "Knees": "Bent at a 90-degree angle, aligned with your toes, pushing outwards against the band.",
+        "Hips": "Extended until your torso is parallel to the floor, squeezing your glutes at the top.",
+        "Back": "Resting against the bench, maintaining a neutral spine.",
+        "Head": "Keep your head in a neutral position, looking straight ahead.",
+        "Barbell": "Positioned directly over your hips throughout the movement."
+      }
+    },
+    "commonMistakes": {
+      "Not using a full range of motion": "Not lowering the hips enough or not extending them fully, reducing glute activation.",
+      "Arching the lower back": "This can lead to lower back pain and reduce glute engagement. Focus on keeping a neutral spine.",
+      "Pushing through the toes": "Instead, drive through your heels to activate the glutes effectively.",
+      "Using too heavy a weight": "This can compromise form and increase the risk of injury. Choose a weight that allows you to maintain proper technique."
+    },
+    "comments": {
+      "Muscle activation": "The hip thrust is a highly effective exercise for targeting the glutes, particularly the gluteus maximus. Adding a band around the knees further activates the gluteus medius and minimus, contributing to hip abduction and stability.",
+      "Barbell positioning": "Ensure the barbell is placed directly over your hips, not your stomach. This ensures optimal muscle activation and reduces strain on your lower back.",
+      "Bench placement": "Adjust the bench height so that when you're in the top position of the hip thrust, your torso is parallel to the floor.",
+      "Barbell padding": "We recommend placing something between the bar and your pelvis to soften the pressure from the bar, like a folded yoga mat, a towel, or a barbell pad."
+    },
+    "alternativesAndVariations": {
+      "Hip Thrust": "The traditional hip thrust without the band is an excellent alternative, providing a similar glute-building stimulus.",
+      "Glute Bridge": "Performed with your upper back on the floor instead of a bench, the glute bridge is a more accessible variation that still targets the glutes effectively.",
+      "Single-Leg Hip Thrust": "This variation increases the challenge to your balance and core stability while placing greater emphasis on one leg at a time.",
+      "American Hip Thrust": "Performed with your upper back against a wall instead of a bench, this variation allows for a greater range of motion and increased glute activation."
+    },
+    "tempo": "2021 (2 seconds lowering, 0 seconds pause at the bottom, 2 seconds lifting, 1 second pause at the top)"
+  }
+}

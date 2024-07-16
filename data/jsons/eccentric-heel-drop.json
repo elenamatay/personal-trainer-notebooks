@@ -1,0 +1,31 @@
+{
+"eccentric-heel-drop": {
+"form": {
+"steps": "\n1. Stand on a stable elevation, like a stair step or a thick weight plate, with the balls of your feet on the edge of the platform and your heels hanging off. Hold on to something for balance. \n2. Raise your heels and extend your feet by using both your legs, coming up onto your toes. \n3. Slowly lower yourself down with control, standing on only one foot. The other foot should be slightly lifted off the ground to avoid pushing off with it. \n4. Once you've lowered yourself as far as possible, bring the other foot back onto the platform and repeat the movement.",
+"form": {
+"Movement": "The movement should be slow and controlled, focusing on the eccentric (lowering) phase.",
+"Heels": "Allow your heels to drop below the level of the platform to fully stretch the calf muscles.",
+"Balance": "Hold onto something sturdy for balance, especially when first starting out.",
+"Foot Placement": "Keep the balls of your feet firmly planted on the platform throughout the exercise."
+}
+},
+"commonMistakes": {
+"Bouncing at the Bottom": "Avoid bouncing at the bottom of the movement, as this can put stress on your Achilles tendon.",
+"Rushing the Eccentric": "Control the descent and avoid rushing the eccentric phase. The goal is to overload the calves with a slow and controlled movement.",
+"Using Two Legs to Push Up": "Make sure to lift only with one leg, keeping the other leg slightly elevated to avoid pushing off with it."
+},
+"comments": {
+"Muscle Focus": "The eccentric heel drop is a unilateral exercise that primarily targets the gastrocnemius and soleus muscles of the calves.",
+"Eccentric Overload": "This exercise emphasizes the eccentric phase of the movement, which is when the muscle is lengthening under tension. Eccentric training can be effective for building strength and muscle mass.",
+"Progression": "You can increase the difficulty of the exercise by holding a dumbbell in your free hand.",
+"Safety": "If you have any history of Achilles tendon problems, consult with a healthcare professional before performing this exercise."
+},
+"alternativesAndVariations": {
+"Standing Calf Raise": "A bilateral exercise that works both calves simultaneously. It can be performed on a flat surface or using a calf raise machine.",
+"Seated Calf Raise": "This variation targets the soleus muscle more than the gastrocnemius. It is performed on a seated calf raise machine.",
+"Donkey Calf Raise": "A challenging variation that involves bending at the hips and having a partner or weight plates on your lower back.",
+"Jump Rope": "A plyometric exercise that can help improve calf strength and power."
+},
+"tempo": "1040 (1 second lowering, 0 seconds pause at the bottom, 4 seconds lifting, 0 seconds pause at the top)"
+}
+}

@@ -1,0 +1,34 @@
+{
+"farmers-walk": {
+"form": {
+"steps": "\n1. Stand between two farmers walk handles (or dumbbells, kettlebells, or trap bars) with your feet hip-width apart. \n2. Hinge at your hips and knees to squat down and grip the handles, maintaining a neutral spine and keeping your core engaged. Your shoulders should be slightly in front of the handles. \n3. Drive through your heels to stand up with the weights, keeping your back straight and core braced. \n4. Walk forward with short, controlled steps, keeping your chest up and shoulders back. \n5. When you reach the desired distance or time, carefully reverse the movement to lower the weights back to the ground.",
+"form": {
+"Grip": "Neutral grip with your palms facing each other.",
+"Back": "Keep your back straight and maintain a neutral spine throughout the movement.",
+"Core": "Engage your core to stabilize your body and prevent leaning forward or backward.",
+"Shoulders": "Keep your shoulders pulled back and down, avoiding shrugging them up towards your ears.",
+"Head": "Look straight ahead, maintaining a neutral head position."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "Failing to maintain a neutral spine, which can lead to lower back pain.",
+"Shrugging the Shoulders": "Raising your shoulders towards your ears, which can cause neck and shoulder strain.",
+"Leaning Forward": "Not keeping your torso upright, which puts excessive stress on your lower back.",
+"Taking Large Steps": "Walking with large steps can compromise your balance and stability."
+},
+"comments": {
+"Muscle Groups": "Farmers walk is a full-body exercise that primarily targets the forearms, upper back, and core, but it also engages the legs, glutes, and shoulders.",
+"Grip Strength": "This exercise is highly effective for developing grip strength, which is essential for many other exercises and everyday activities.",
+"Core Stability": "The farmers walk challenges your core muscles to stabilize your spine and maintain an upright posture, improving overall core strength and stability.",
+"Variations": "You can vary the weight, distance, and type of implement used to adjust the difficulty of the exercise.",
+"Practical Carryover": "The farmers walk has excellent practical carryover to everyday activities that involve carrying heavy objects."
+},
+"alternativesAndVariations": {
+"Suitcase Carry": "Similar to the farmers walk, but you carry a weight in only one hand, which increases the challenge to your core and grip.",
+"Trap Bar Carry": "Performed using a trap bar instead of dumbbells or kettlebells. The trap bar's neutral grip and even weight distribution can be more comfortable for some individuals.",
+"Racked Carry": "Hold the weights in a racked position, with your elbows bent and the weights resting on your forearms. This variation places more emphasis on the upper back and core.",
+"Overhead Carry": "Carry the weights overhead, keeping your arms straight and core engaged. This variation increases the challenge to your shoulders and upper back."
+},
+"tempo": "1010 (1 second to lift the weight, 0 seconds pause, 1 second to lower the weight, 0 seconds pause)"
+}
+}

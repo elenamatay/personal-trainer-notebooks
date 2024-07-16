@@ -1,0 +1,37 @@
+{
+"hang-power-clean": {
+"form": {
+"steps": "\n1. Stand with your feet hip-width apart, with a barbell over your feet. \n2. Bend at your hips to grab the barbell with an overhand grip, slightly wider than shoulder-width apart. Your back should be straight, with your core engaged. \n3. Lift the barbell off the floor by extending your legs, keeping the barbell close to your body. Once the barbell reaches your thighs, that's your starting position. \n4. Initiate the pull by explosively extending your hips and knees, as if you were jumping. Keep the barbell close to your body as you pull it upwards. \n5. As the barbell reaches chest height, quickly rotate your elbows forward and shrug your shoulders, using the momentum to pull yourself under the barbell. \n6. Catch the barbell on the front of your shoulders with a slight squat, keeping your back straight and core engaged. \n7. Stand up from the squat position, keeping the barbell stable on your shoulders. \n8. Lower the barbell back to the starting position with control by reversing the movement.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Back": "Keep your back straight throughout the entire movement, maintaining a neutral spine.",
+"Elbows": "Keep your elbows pointing out to the sides during the pull, and rotate them forward quickly as you catch the barbell.",
+"Shoulders": "Shrug your shoulders upwards as you pull the barbell to your chest.",
+"Hips and Knees": "Extend your hips and knees explosively to generate power for the lift.",
+"Bar Path": "Keep the barbell close to your body throughout the entire movement."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "Rounding your back during the lift, which can lead to lower back injury.",
+"Not Keeping the Bar Close": "Letting the barbell swing away from your body, which reduces power and increases the risk of injury.",
+"Not Extending Fully": "Not fully extending your hips and knees during the pull, which limits the amount of weight you can lift.",
+"Catching the Barbell Too High": "Catching the barbell with your elbows too high, which can put stress on your wrists and elbows.",
+"Not Engaging the Core": "Not engaging your core throughout the lift, which can lead to instability and injury."
+},
+"comments": {
+"Muscle groups used": "The hang power clean is a compound exercise that works multiple muscle groups in the upper and lower body, including the glutes, hamstrings, quads, back, shoulders, and traps.",
+"Explosive Power": "This exercise is highly effective for developing explosive power, which is essential for many sports and activities.",
+"Technical Exercise": "The hang power clean is a technical exercise that requires proper form and technique. It's important to start with light weight and gradually increase the weight as you improve your technique.",
+"Progression": "Once you've mastered the hang power clean, you can progress to the full power clean, which involves starting the lift from the floor.",
+"Olympic Weightlifting": "The hang power clean is a variation of the clean, which is one of the two lifts performed in Olympic weightlifting."
+},
+"alternativesAndVariations": {
+"Power Clean": "A more challenging variation that involves starting the lift from the floor.",
+"Hang Clean": "Similar to the hang power clean, but with a deeper catch position, requiring greater mobility.",
+"Clean Pulls": "A variation that focuses on the first part of the lift, helping to develop power and explosiveness.",
+"Deadlifts": "A compound exercise that works similar muscle groups as the hang power clean, but with a slower tempo and a focus on strength rather than power.",
+"Kettlebell Swings": "A dynamic exercise that develops explosive power in the hips and posterior chain."
+},
+"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

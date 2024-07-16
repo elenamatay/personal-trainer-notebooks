@@ -1,0 +1,31 @@
+{
+"sit-up": {
+"form": {
+"steps": "\n1. Lie on your back with your knees bent and feet flat on the floor. Place your hands crossed over your chest or lightly touching your ears. \n2. Engage your core muscles and lift your upper body off the ground, curling your torso towards your thighs. Your feet should remain flat on the floor throughout the exercise. \n3. Slowly lower your upper body back down to the starting position, vertebrae by vertebrae.",
+"form": {
+"Feet": "Keep your feet flat on the floor throughout the exercise.",
+"Hands": "Place your hands crossed over your chest or lightly touching your ears. Avoid pulling on your neck.",
+"Back": "Avoid arching your lower back. Focus on using your abdominal muscles to lift your torso.",
+"Range of Motion": "Focus on quality of movement over quantity. Only go as far as you can while maintaining good form and without arching your back."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your body up instead of using your abs to lift your torso.",
+"Pulling on the Neck": "Pulling on your neck with your hands, which can lead to neck strain.",
+"Arching the Back": "Arching your lower back, which can lead to lower back pain.",
+"Going Too Fast": "Performing the sit-up too quickly, which reduces muscle engagement and increases the risk of injury."
+},
+"comments": {
+"Muscle groups used": "The sit-up is a bodyweight exercise that primarily targets the abdominal muscles, specifically the rectus abdominis. It also engages the obliques and hip flexors to a lesser extent.",
+"Progression": "You can increase the difficulty of the sit-up by holding a weight against your chest or performing weighted sit-ups on a decline bench.",
+"Alternatives": "If you experience lower back pain during sit-ups, consider alternative exercises like crunches or planks, which place less stress on the lower back."
+},
+"alternativesAndVariations": {
+"Crunch": "A shorter range of motion exercise that focuses on the upper abs. It involves lifting only your head, shoulders, and upper back off the ground.",
+"Plank": "An isometric exercise that strengthens the core muscles, including the abs, obliques, and lower back. It involves holding a static position similar to a push-up, with your forearms and toes on the ground.",
+"Leg Raises": "A bodyweight exercise that targets the lower abs. It involves lying on your back and lifting your legs up towards the ceiling.",
+"Russian Twists": "An exercise that targets the obliques. It involves sitting on the floor with your knees bent and torso leaning back, and twisting your upper body from side to side."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

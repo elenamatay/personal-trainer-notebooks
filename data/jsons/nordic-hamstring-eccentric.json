@@ -1,0 +1,28 @@
+{
+"nordic-hamstring-eccentric": {
+"form": {
+"steps": "\n1. Kneel on a soft surface with your feet secured under a sturdy object or held by a partner. \n2. Keeping your back straight and core engaged, slowly lean forward from your knees. \n3. Control the descent with your hamstrings, resisting the pull of gravity. \n4. Lower yourself as far as possible while maintaining tension in your hamstrings. \n5. Once you reach your limit, use your arms to push yourself back up to the starting position.",
+"form": {
+"Hips": "Maintain a straight line from your knees to your shoulders throughout the movement. Avoid any bending at the hips.",
+"Back": "Keep your back straight and avoid rounding your spine.",
+"Core": "Engage your core muscles to stabilize your body and prevent excessive arching of your lower back."
+}
+},
+"commonMistakes": {
+"Bending at the Hips": "Instead of a controlled descent from the knees, bending at the hips turns the exercise into a hip hinge, reducing hamstring engagement.",
+"Fast Descent": "Lowering too quickly eliminates the eccentric overload, which is the primary benefit of this exercise.",
+"Arching the Back": "Failing to engage the core can lead to overarching the lower back, increasing the risk of injury."
+},
+"comments": {
+"Eccentric Focus": "This exercise emphasizes the eccentric (lengthening) phase of hamstring contraction, which is crucial for injury prevention and building strength.",
+"Progression": "Beginners can start with a smaller range of motion and gradually increase the depth as their hamstring strength improves. More advanced individuals can add weight for increased resistance.",
+"Safety": "Ensure your feet are securely anchored to prevent slipping. If you experience any pain in your knees or lower back, stop the exercise and consult with a healthcare professional."
+},
+"alternativesAndVariations": {
+"Glute Ham Raise (GHR)": "A similar exercise that also targets the hamstrings eccentrically, but with a greater range of motion.",
+"Sliding Leg Curls": "Performed on a machine, this exercise isolates the hamstrings and allows for controlled eccentric contractions.",
+"Single-Leg Romanian Deadlifts (RDLs)": "A challenging exercise that works the hamstrings, glutes, and lower back. The single-leg variation increases the demand for balance and stability."
+},
+"tempo": "4010 (4 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

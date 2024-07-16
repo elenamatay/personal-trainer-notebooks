@@ -1,0 +1,32 @@
+{
+"machine-glute-kickbacks": {
+"form": {
+"steps": "\n1. Adjust the machine to your body. The knees should be facing forward and resting near the bottom of the padding. Place your forearms on the upper padding and grip the handles. \n2. Next, make sure that you have the arm of the machine under your knee. \n3. Brace your core, keep your body still, and start to press your leg backwards and upwards by activating the glute. \n4. Push the leg as far up as you can without rotating in the hips, then return to the starting position, maintaining constant tension in your glutes. \n5. Do all reps on one side first, and then switch to the other leg.",
+"form": {
+"Hips": "Keep your hips square and avoid rotating them during the movement.",
+"Back": "Maintain a neutral spine throughout the exercise. Don't arch your back.",
+"Core": "Engage your core muscles to stabilize your body and prevent unnecessary movement.",
+"Movement": "The movement should be slow and controlled, focusing on squeezing the glutes at the top of the movement."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the leg back instead of using a controlled movement, reducing muscle activation and increasing the risk of injury.",
+"Arching the Back": "This can lead to lower back pain and reduce the effectiveness of the exercise.",
+"Not Going Through Full Range of Motion": "Not extending the leg fully or not lowering the weight enough, which limits muscle activation.",
+"Using Too Much Weight": "Using a weight that is too heavy can compromise form and increase the risk of injury."
+},
+"comments": {
+"Isolation exercise": "The Machine Glute Kickback is an isolation exercise that primarily targets the gluteus maximus, the largest muscle in the buttocks.",
+"Alternative to bodyweight kickbacks": "This exercise is a good alternative to bodyweight kickbacks when you want to add more resistance and isolate the glutes.",
+"Suitable for all levels": "Machine Glute Kickbacks can be performed by people of all fitness levels, as the weight can be adjusted to suit individual strength.",
+"Unilateral exercise": "Performing the exercise one leg at a time can help identify and correct muscle imbalances."
+},
+"alternativesAndVariations": {
+"Bodyweight Glute Kickbacks": "A bodyweight variation that can be done anywhere without equipment. It's less challenging than the machine version but still effective.",
+"Cable Glute Kickbacks": "A variation that uses a cable machine for resistance. It allows for a greater range of motion and can be adjusted to different resistance levels.",
+"Hip Thrusts": "A compound exercise that works the glutes, hamstrings, and quads. It's a more challenging exercise than glute kickbacks but also more effective for building overall lower body strength.",
+"Donkey Kicks": "Similar to glute kickbacks but performed on all fours. It targets the glutes and hamstrings."
+},
+"tempo": "2011 (2 seconds pressing back, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

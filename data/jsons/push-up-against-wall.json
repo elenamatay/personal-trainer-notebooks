@@ -1,0 +1,32 @@
+{
+"push-up-against-wall": {
+"form": {
+"steps": "\n1. Stand facing a wall, about an arm's length away. \n2. Place your hands on the wall, slightly wider than shoulder-width apart, at chest height. \n3. Lean forward, keeping your body in a straight line from head to heels. \n4. Lower yourself towards the wall by bending your elbows until your chest almost touches the wall. Inhale as you lower down. \n5. Push yourself back to the starting position by straightening your arms. Exhale as you push back.",
+"form": {
+"Body Alignment": "Maintain a straight line from head to heels throughout the exercise. Don't let your hips sag or your back arch.",
+"Hand Placement": "Place your hands slightly wider than shoulder-width apart, with your fingers pointing forward or slightly inwards.",
+"Elbow Movement": "As you lower down, keep your elbows slightly bent and close to your body. Don't let them flare out to the sides.",
+"Head Position": "Keep your head in line with your spine. Don't look up or down."
+}
+},
+"commonMistakes": {
+"Not Keeping Body Straight": "Allowing the hips to sag or the back to arch, which can strain the lower back.",
+"Flaring Elbows": "Letting the elbows flare out to the sides, which can put stress on the shoulder joints.",
+"Not Getting Close Enough": "Not lowering the body far enough towards the wall, which reduces the effectiveness of the exercise.",
+"Holding Breath": "Remember to breathe throughout the exercise. Inhale as you lower down and exhale as you push back up."
+},
+"comments": {
+"Progression": "The wall push-up is a great starting point for building upper body strength. As you get stronger, you can progress to incline push-ups (using a bench or step) and eventually to standard push-ups on the floor.",
+"Muscle Activation": "This exercise primarily targets the chest, front deltoids, and triceps. It also engages the core muscles to maintain stability.",
+"Variations": "You can vary the intensity of the exercise by adjusting your distance from the wall. Standing closer to the wall makes the exercise easier, while standing further away makes it more challenging.",
+"Hand Placement": "Experiment with different hand positions to target different muscle groups. A closer grip will emphasize the triceps, while a wider grip will focus more on the chest."
+},
+"alternativesAndVariations": {
+"Incline Push-Ups": "Performed with your hands elevated on a bench or step, this variation is a step up in difficulty from wall push-ups.",
+"Standard Push-Ups": "A classic bodyweight exercise performed on the floor, targeting the chest, triceps, and shoulders.",
+"Chest Press": "A machine-based exercise that mimics the movement of a push-up, providing a controlled environment for building chest strength.",
+"Dumbbell Bench Press": "A free weight exercise that allows for a greater range of motion and muscle activation compared to machine-based chest presses."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

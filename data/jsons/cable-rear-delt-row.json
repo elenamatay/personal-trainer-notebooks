@@ -1,0 +1,33 @@
+{
+"cable-rear-delt-row": {
+"form": {
+"steps": "\n1. Fasten a rope handle to a high pulley cable machine. \n2. Stand facing the machine and grip the ropes with an overhand grip, palms facing each other. \n3. Take a step or two back, so there is tension on the cable. \n4. Slightly bend your knees and hinge at your hips, keeping your back straight. This is your starting position. \n5. With elbows held high and slightly bent, pull the rope towards you by letting your upper arms move straight out towards your sides. \n6. Pull your scapulas together as the rope reaches your chest, feeling the contraction in your rear deltoids. \n7. Hold for a moment, then slowly return to the starting position, by letting your arms move forward again in a controlled manner.",
+"form": {
+"Elbows": "Keep your elbows high and slightly bent throughout the exercise. Don't let them drop.",
+"Back": "Maintain a straight back throughout the movement. Avoid rounding or arching your back.",
+"Shoulders": "Pull your shoulder blades together at the end of the movement to fully engage the rear deltoids.",
+"Grip": "Use a neutral grip with palms facing each other. This helps to target the rear deltoids more effectively.",
+"Movement": "The movement should be initiated from your rear deltoids and upper back, not your biceps or forearms."
+}
+},
+"commonMistakes": {
+"Using Too Much Weight": "Using too much weight can lead to poor form and reduce the effectiveness of the exercise. Start with a lighter weight and focus on proper technique.",
+"Pulling with Biceps": "Avoid pulling the weight primarily with your biceps. Focus on using your rear deltoids to initiate and control the movement.",
+"Rounding Your Back": "Keep your back straight throughout the exercise. Rounding your back can put stress on your spine.",
+"Dropping Your Elbows": "Keep your elbows high and slightly bent. Dropping your elbows will engage your biceps more than your rear deltoids."
+},
+"comments": {
+"Muscle Focus": "The cable rear delt row is an isolation exercise that primarily targets the rear deltoid muscles, which are often underdeveloped. It also works the muscles of the upper back, including the rhomboids, trapezius, and rotator cuff.",
+"Posture Improvement": "Strengthening the rear deltoids can help to improve posture by pulling the shoulders back and down.",
+"Variation": "You can vary the grip (e.g., using a wide grip or a narrow grip) to slightly alter the muscle activation.",
+"Progression": "As you get stronger, you can increase the weight or the number of repetitions."
+},
+"alternativesAndVariations": {
+"Face Pulls": "A similar exercise that also targets the rear deltoids and upper back. It is performed with a rope handle attached to a high pulley, but the movement is different, involving pulling the rope towards your face.",
+"Bent-Over Dumbbell Rows": "A compound exercise that works the rear deltoids, upper back, and biceps. It is performed with dumbbells and involves bending at the hips and pulling the weights towards your chest.",
+"Reverse Flyes": "An isolation exercise that targets the rear deltoids. It can be performed with dumbbells or on a pec deck machine and involves raising your arms out to the sides while keeping them slightly bent.",
+"Rear Delt Machine": "A machine-based exercise that isolates the rear deltoids. It involves pushing weights back while keeping your chest against a pad."
+},
+"tempo": "2011 (2 seconds pulling, 0 seconds pause at the contracted position, 1 second returning to starting position, 1 second pause at the starting position)"
+}
+}

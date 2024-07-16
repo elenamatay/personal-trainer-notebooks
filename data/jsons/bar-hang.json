@@ -1,0 +1,32 @@
+{
+"bar-hang": {
+"form": {
+"steps": "\n1. Stand directly below a pull-up bar, with your feet shoulder-width apart. \n2. Jump up and grab the bar with an overhand grip, slightly wider than shoulder-width apart. \n3. Let your body hang freely, fully extending your arms. ",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Shoulders": "Keep your shoulders relaxed and pulled down, away from your ears. You can experiment with hanging with relaxed or active shoulders, depending on your training goals.",
+"Arms": "Fully extend your arms, allowing your body to hang freely.",
+"Core": "Engage your core slightly to maintain stability.",
+"Legs": "Keep your legs straight or slightly bent, depending on your height and the distance from the floor."
+}
+},
+"commonMistakes": {
+"Shrugging Shoulders": "Raising your shoulders towards your ears, which can create tension in your neck and upper back.",
+"Bending Elbows": "Not fully extending your arms, which reduces the stretch and activation of the target muscles.",
+"Swinging": "Allowing your body to swing back and forth, which can reduce the effectiveness of the exercise."
+},
+"comments": {
+"Grip Strength": "Bar hangs are an excellent exercise for improving grip strength, which is essential for various activities, including weightlifting, climbing, and carrying objects.",
+"Shoulder Mobility": "Regular bar hangs can help improve shoulder mobility and range of motion, particularly for overhead movements.",
+"Forearm Muscle Activation": "You can adjust the intensity of the exercise by changing your grip (overhand, underhand, neutral) or by adding weight.",
+"Active vs. Passive Hang": "Experiment with both active and passive hangs. In an active hang, you engage your shoulder muscles to pull your shoulder blades down and back. In a passive hang, you relax your shoulders completely."
+},
+"alternativesAndVariations": {
+"Pull-ups": "A challenging bodyweight exercise that involves pulling yourself up to the bar from a hanging position. Pull-ups work your back, biceps, and forearms.",
+"Chin-ups": "Similar to pull-ups, but with an underhand grip. Chin-ups place more emphasis on the biceps.",
+"Dead Hangs": "A more challenging variation of the bar hang where you hold the hanging position for an extended period.",
+"Weighted Hangs": "Increase the difficulty by adding weight to your body, such as a weight belt or dumbbells."
+},
+"tempo": "0000 (Hold the hang for as long as possible with good form)"
+}
+}

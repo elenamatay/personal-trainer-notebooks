@@ -1,0 +1,32 @@
+{
+"hanging-sit-up": {
+"form": {
+"steps": "\n1. Grab a pull-up bar with an overhand grip, slightly wider than shoulder-width apart. \n2. Hang freely from the bar with your arms fully extended and your legs straight. \n3. Engage your core and begin to raise your legs, keeping them straight or slightly bent, until your torso is nearly vertical. \n4. Slowly lower yourself back down to the starting position, maintaining control throughout the movement.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Arms": "Keep your arms fully extended throughout the exercise.",
+"Legs": "Raise your legs while keeping them straight or slightly bent.",
+"Core": "Engage your core throughout the movement to protect your lower back and enhance stability.",
+"Breathing": "Exhale as you raise your legs and inhale as you lower them back down."
+}
+},
+"commonMistakes": {
+"Swinging": "Using momentum to swing your legs up instead of using your abs.",
+"Not Engaging Core": "Failing to engage your core, which can lead to lower back pain.",
+"Partial Range of Motion": "Not raising your legs high enough or not lowering them all the way down.",
+"Holding Breath": "Remember to breathe throughout the exercise to avoid straining."
+},
+"comments": {
+"Muscle groups used": "The hanging sit-up is a challenging bodyweight exercise that primarily targets the rectus abdominis (abs) and obliques. It also engages the hip flexors and forearms to a lesser extent.",
+"Progression": "The exercise can be made easier by reaching with your arms towards your feet, and heavier by extending your arms alongside your head or by holding a weight against your chest.",
+"Alternative grip": "You can also perform hanging sit-ups using a neutral grip (palms facing each other) if it feels more comfortable on your shoulders."
+},
+"alternativesAndVariations": {
+"Hanging Leg Raises": "Similar to hanging sit-ups, but you keep your legs straight throughout the exercise. This variation places more emphasis on the lower abs.",
+"Captains Chair Leg Raises": "Performed on a captain's chair apparatus, this variation provides back support and may be easier for beginners.",
+"Crunches": "A classic ab exercise that can be performed on the floor or on a decline bench. Crunches are less challenging than hanging sit-ups but still effective for targeting the abs.",
+"Plank": "An isometric exercise that strengthens the core, including the abs, obliques, and lower back. Planks involve holding a static position, similar to the top of a push-up, for an extended period."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

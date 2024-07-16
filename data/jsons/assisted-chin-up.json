@@ -1,0 +1,33 @@
+{
+"assisted-chin-up": {
+"form": {
+"steps": "\n1. Grip a pull-up bar with an underhand grip (palms facing you), about shoulder-width apart. \n2. Step onto the assistance platform of an assisted pull-up machine and position your knees on the pad, allowing your body weight to push it down until your arms are fully extended. \n3. Keep your chest up and look straight ahead. \n4. Inhale and pull yourself up, leading with your chest, until your chin is over the bar. \n5. Exhale and lower yourself with control until your arms are fully extended.",
+"form": {
+"Grip": "Underhand grip, slightly wider than shoulder-width apart.",
+"Chest": "Keep your chest up and slightly forward throughout the movement.",
+"Shoulders": "Pull your shoulder blades down and back, as if trying to put them in your back pockets.",
+"Elbows": "Keep your elbows tucked in close to your body.",
+"Legs": "Keep your legs straight or slightly bent, depending on the machine and your preference."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your body or using momentum to help you get up.",
+"Not Fully Extending": "Not fully extending your arms at the bottom of the movement.",
+"Not Controlling the Descent": "Letting yourself drop quickly on the way down instead of controlling the movement.",
+"Shrugging Shoulders": "Allowing your shoulders to shrug up towards your ears during the movement."
+},
+"comments": {
+"Muscle Groups": "Assisted chin-ups primarily target the latissimus dorsi (lats) and biceps, but they also work the back muscles, shoulders, and core.",
+"Progression": "As you get stronger, you can gradually decrease the amount of assistance provided by the machine until you are able to perform unassisted chin-ups.",
+"Grip Variation": "You can also vary your grip width to target different muscle groups. A wider grip will emphasize the lats more, while a narrower grip will place more emphasis on the biceps.",
+"Pull-up Progression": "Many people find assisted chin-ups to be a good stepping stone towards achieving unassisted pull-ups, as they allow you to build strength in the necessary muscles while gradually decreasing the amount of assistance required."
+},
+"alternativesAndVariations": {
+"Chin-Up": "Performed without the assistance of a machine, requiring greater upper body strength. The main difference is the absence of assistance, making it more challenging.",
+"Pull-Up": "Uses an overhand grip (palms facing away) and places more emphasis on the back muscles. The main difference is the grip and muscle activation.",
+"Lat Pulldown": "A machine-based exercise that targets similar muscle groups as the chin-up. It offers a more controlled movement and allows for adjustable resistance.",
+"Negative Chin-Ups": "Involve only the lowering phase of the chin-up. You start at the top position and slowly lower yourself down, focusing on eccentric muscle contraction."
+},
+"tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

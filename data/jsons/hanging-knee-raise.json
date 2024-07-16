@@ -1,0 +1,33 @@
+{
+"hanging-knee-raise": {
+"form": {
+"steps": "\n1. Jump up and grab a pull-up bar with an overhand grip, slightly wider than shoulder-width apart. Your body should hang freely with your arms fully extended. \n2. Engage your core and keep your legs straight or slightly bent. \n3. Without swinging, raise your knees towards your chest by contracting your abs and flexing your hips. \n4. Slowly lower your legs back down to the starting position, maintaining control and avoiding swinging.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Arms": "Fully extended while hanging, elbows slightly bent.",
+"Legs": "Straight or slightly bent, depending on the variation and your level.",
+"Movement": "Controlled and deliberate, avoiding swinging.",
+"Breathing": "Exhale as you raise your knees, inhale as you lower them."
+}
+},
+"commonMistakes": {
+"Swinging": "Using momentum instead of muscle strength to raise the legs.",
+"Not Engaging the Core": "Failing to engage the core, which can lead to lower back pain and reduced effectiveness.",
+"Partial Range of Motion": "Not raising the knees high enough, which limits muscle activation.",
+"Holding Breath": "Remember to breathe throughout the exercise to avoid straining."
+},
+"comments": {
+"Muscle groups used": "Hanging knee raises primarily target the abs, particularly the lower abs, but they also engage the hip flexors and obliques.",
+"Progression": "To make the exercise more challenging, you can progress to hanging leg raises, where you keep your legs straight throughout the movement. You can also add weight by holding a dumbbell between your feet or wearing ankle weights.",
+"Variations": "Hanging knee raises can be varied by changing the direction of the knee raise. For example, you can raise your knees towards your chest, to the sides (oblique knee raises), or in a circular motion (bicycle crunches).",
+"Grip": "Use a secure grip on the bar to avoid slipping."
+},
+"alternativesAndVariations": {
+"Hanging Leg Raises": "More challenging variation where you keep your legs straight throughout the movement, increasing the engagement of the abs and hip flexors.",
+"Captain's Chair Leg Raises": "Performed on a captain's chair apparatus, providing back support and making the exercise more accessible for beginners.",
+"Reverse Crunches": "Performed lying on your back, involve curling your knees towards your chest, targeting similar muscle groups as hanging knee raises.",
+"Crunches": "Classic abdominal exercise that primarily targets the upper abs, can be a good alternative for those who find hanging knee raises too challenging."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

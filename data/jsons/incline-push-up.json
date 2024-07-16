@@ -1,0 +1,32 @@
+{
+"incline-push-up": {
+"form": {
+"steps": "\n1. Place your hands slightly wider than shoulder-width apart on an elevated surface, such as a bench or a box. \n2. Step back so that your body forms a straight line from head to heels. \n3. Lower your chest towards the elevated surface by bending your elbows, keeping your core engaged and back straight. \n4. Push back up to the starting position, extending your arms fully.",
+"form": {
+"Hand Placement": "Slightly wider than shoulder-width apart, fingers pointing forward.",
+"Body Alignment": "Maintain a straight line from head to heels throughout the movement.",
+"Elbow Positioning": "Keep your elbows slightly tucked in, not flared out to the sides.",
+"Range of Motion": "Lower your chest as close to the elevated surface as possible without losing form."
+}
+},
+"commonMistakes": {
+"Sagging Hips": "Allowing your hips to sag towards the floor, indicating weak core engagement.",
+"Partial Range of Motion": "Not lowering your chest low enough or not fully extending your arms at the top.",
+"Flaring Elbows": "Letting your elbows flare out to the sides, which can strain your shoulder joints.",
+"Head Position": "Looking up or dropping your head, which can strain your neck. Keep your neck neutral in line with your spine."
+},
+"comments": {
+"Bodyweight Exercise": "The incline push-up is a bodyweight exercise that can be done anywhere with an elevated surface.",
+"Chest Activation": "The incline push-up puts more emphasis on the upper chest muscles compared to a standard push-up.",
+"Progression": "As you get stronger, you can gradually decrease the height of the elevation to increase the difficulty. Eventually, you can progress to standard push-ups and decline push-ups.",
+"Core Engagement": "Like all push-up variations, incline push-ups engage the core muscles to maintain stability."
+},
+"alternativesAndVariations": {
+"Push-ups": "A more challenging variation performed on the floor, engaging more of your body weight.",
+"Decline Push-ups": "A more advanced variation with your feet elevated, shifting more emphasis to the lower chest and shoulders.",
+"Chest Press": "A weighted exercise that targets similar muscles, allowing for progressive overload with heavier weights.",
+"Dumbbell Bench Press": "Another weighted exercise that allows for unilateral work and a greater range of motion."
+},
+"tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

@@ -1,0 +1,33 @@
+{
+"smith-machine-incline-bench-press": {
+"form": {
+"steps": "\n1. Adjust the incline bench to an angle between 30 and 45 degrees. \n2. Sit on the bench and position yourself so that the bar is directly above your upper chest. Your feet should be flat on the floor, shoulder-width apart. \n3. Grip the bar with an overhand grip, slightly wider than shoulder-width apart. \n4. Unrack the bar by straightening your arms, then pull your shoulder blades together and down, and hold your chest up. \n5. Take a breath and hold it, and slowly lower the bar down to your upper chest, keeping your elbows slightly tucked in. \n6. Push the bar back up to the starting position while exhaling, keeping your chest lifted. \n7. Take another breath in the top position, and repeat for reps.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows slightly tucked in during the movement, not flared out to the sides.",
+"Back": "Maintain a slight arch in your back, but keep your butt on the bench.",
+"Shoulder Blades": "Keep your shoulder blades retracted and pulled down towards your hips.",
+"Chest": "Lower the bar to your upper chest, around the collarbone level."
+}
+},
+"commonMistakes": {
+"Using too much weight": "Using a weight that is too heavy can lead to poor form and increase the risk of injury. Start with a lighter weight and gradually increase the weight as you get stronger.",
+"Not controlling the bar": "It's important to control the bar throughout the exercise, both on the way down and on the way up. Lowering the bar too quickly or using momentum to push it back up can put unnecessary stress on your joints.",
+"Not keeping your chest lifted": "Allowing your chest to collapse can put stress on your shoulders. Keep your chest lifted throughout the exercise.",
+"Not keeping your feet flat on the floor": "Your feet should be flat on the floor throughout the exercise to provide stability. Lifting your feet off the floor can make the exercise more difficult and increase the risk of injury."
+},
+"comments": {
+"Muscle groups used": "The smith machine incline bench press primarily targets the upper chest muscles, but it also works the front deltoids and triceps.",
+"Fixed plane of motion": "The smith machine guides the bar in a fixed vertical plane of motion, which can be helpful for maintaining proper form and reducing the risk of injury. However, it also means that the exercise doesn't work the stabilizing muscles as much as the free weight version.",
+"Incline angle": "The incline angle of the bench determines which part of the chest muscles are emphasized. A higher incline angle will target the upper chest muscles more, while a lower incline angle will target the middle chest muscles more.",
+"Variation to the barbell incline bench press": "The smith machine incline bench press is a variation of the barbell incline bench press. The main difference is that the smith machine guides the bar, while the barbell incline bench press requires more stabilization and control."
+},
+"alternativesAndVariations": {
+"Incline Dumbbell Bench Press": "This variation allows for a greater range of motion and increased muscle activation. It also requires more stabilization, which can be beneficial for developing core strength.",
+"Barbell Incline Bench Press": "The free weight version of the incline bench press, which requires more stabilization and control than the smith machine version.",
+"Incline Dumbbell Flyes": "This isolation exercise targets the chest muscles more directly, helping to improve muscle definition and hypertrophy.",
+"Push-Ups": "A bodyweight exercise that can be performed with varying inclines to target different muscle groups. Incline push-ups, with hands elevated on a bench, emphasize the upper chest."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

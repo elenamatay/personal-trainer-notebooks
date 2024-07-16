@@ -1,0 +1,33 @@
+{
+"hack-squat-machine": {
+"form": {
+"steps": "\n1. Adjust the machine to the correct height and place your shoulders comfortably against the shoulder pads. \n2. Place your feet on the platform, slightly in front of the base of the sled and about shoulder-width apart, with your toes pointing slightly outwards. \n3. Extend your legs to disengage the sled's safety locks. \n4. Inhale, brace your core, and squat down as deep as you can with good form, maintaining contact between your back and the backrest. \n5. Reverse the movement by pushing through your heels and extend your legs until you're back in the starting position. Exhale on the way up.",
+"form": {
+"Back": "Keep your back flat against the backrest throughout the entire movement.",
+"Head": "Look straight ahead or slightly upward.",
+"Core": "Engage your core to maintain stability.",
+"Knees": "Make sure your knees track in line with your toes and don't cave inward.",
+"Foot Placement": "Experiment with different foot placements to find what works best for you. A wider stance will target the glutes and inner thighs more, while a narrower stance will emphasize the quads."
+}
+},
+"commonMistakes": {
+"Not going low enough": "Not squatting to full depth will reduce muscle activation and limit results.",
+"Rounding your back": "Keep your back flat against the backrest to avoid injury.",
+"Lifting your heels": "Keep your feet flat on the platform throughout the exercise.",
+"Using too much weight": "Using a weight that is too heavy can compromise form and increase the risk of injury."
+},
+"comments": {
+"Safety": "The hack squat machine provides a guided range of motion, making it a safer option for those with back issues or who are new to squatting.",
+"Muscle activation": "The hack squat machine can help to target the quads, glutes, and hamstrings, depending on foot placement and depth.",
+"Variation": "Some hack squat machines allow for a variety of foot placements, which can alter muscle activation.",
+"Beginners": "This machine is a great option for beginners who are still learning proper squat form."
+},
+"alternativesAndVariations": {
+"Barbell Back Squat": "A compound exercise that works multiple muscle groups in the lower body. It's considered a more advanced exercise than the hack squat.",
+"Leg Press": "Another machine-based exercise that targets the quads, glutes, and hamstrings. It offers a similar movement pattern to the hack squat but with less core engagement.",
+"Goblet Squat": "A squat variation that involves holding a weight in front of the chest. It's a good option for beginners or those with limited equipment.",
+"Bulgarian Split Squat": "A single-leg exercise that challenges balance and stability while working the quads, glutes, and hamstrings."
+},
+"tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

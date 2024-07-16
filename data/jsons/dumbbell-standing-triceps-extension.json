@@ -1,0 +1,31 @@
+{
+"dumbbell-standing-triceps-extension": {
+"form": {
+"steps": "\n1. Stand tall with your feet shoulder-width apart, holding a dumbbell vertically in one hand. \n2. Keeping your upper arm still and vertical, slowly lower the dumbbell behind your head by bending your elbow until your forearm goes past 90 degrees. \n3. Reverse the motion and extend your arm again, flexing your triceps at the top of the movement.",
+"form": {
+"Upper Arm": "Keep your upper arm close to your ear and perpendicular to the floor throughout the exercise.",
+"Elbow": "Ensure your elbow points straight up towards the ceiling and doesn't flare out to the sides.",
+"Wrist": "Maintain a neutral wrist position throughout the movement, avoiding any bending or flexing.",
+"Core": "Engage your core muscles to maintain stability and prevent swinging your body."
+}
+},
+"commonMistakes": {
+"Flaring Elbows": "Allowing your elbows to flare outwards during the exercise, which can reduce triceps activation and potentially strain the elbow joint.",
+"Swinging the Weight": "Using momentum to lift the weight instead of controlled movements, which reduces the effectiveness of the exercise.",
+"Lowering the Weight Too Far": "Extending the range of motion beyond what's comfortable for your shoulder joint, which can lead to injury.",
+"Arching Your Back": "Arching your back to compensate for heavy weight, which can strain your lower back."
+},
+"comments": {
+"Muscle Focus": "The dumbbell standing triceps extension is an isolation exercise that primarily targets the triceps muscles, particularly the long head.",
+"Variations": "Common variations of this exercise include using a cable machine, resistance bands, or a barbell instead of dumbbells. You can also perform this exercise seated for greater stability.",
+"Weight Selection": "Choose a weight that allows you to maintain proper form throughout the exercise. It's better to start with a lighter weight and gradually increase it as you get stronger."
+},
+"alternativesAndVariations": {
+"Overhead Dumbbell Triceps Extension (both arms)": "Similar to the single-arm version but uses both arms simultaneously, allowing you to lift heavier weight.",
+"Cable Push-Down": "A popular triceps exercise performed on a cable machine, providing constant tension throughout the movement.",
+"Close-Grip Bench Press": "A compound exercise that works the triceps, chest, and shoulders, allowing you to lift heavier weights.",
+"Skullcrushers": "An isolation exercise that targets the triceps by lowering a weight towards the forehead or behind the head while lying on a bench."
+},
+"tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

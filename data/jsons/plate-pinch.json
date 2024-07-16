@@ -1,0 +1,33 @@
+{
+"plate-pinch": {
+"form": {
+"steps": "\n1. Choose two weight plates of equal weight. \n2. Stand with your feet shoulder-width apart, with the plates placed on the floor in front of you. \n3. Bend down and grip the plates with your fingertips, one plate in each hand. Your thumbs should be opposing your fingers on the other side of the plate. \n4. Keeping your back straight and core engaged, lift the plates off the ground by extending your knees and hips. \n5. Hold the plates for the desired amount of time, maintaining a tight grip. \n6. Slowly lower the plates back to the ground in a controlled manner.",
+"form": {
+"Grip": "Pinch grip, with fingertips and thumbs opposing each other on the plates.",
+"Back": "Keep your back straight throughout the exercise.",
+"Core": "Engage your core to maintain stability.",
+"Arms": "Keep your arms straight and perpendicular to the ground.",
+"Shoulders": "Relax your shoulders and avoid shrugging them."
+}
+},
+"commonMistakes": {
+"Using too much weight": "Using weight plates that are too heavy can lead to improper form and increase the risk of injury. Start with lighter plates and gradually increase the weight as your grip strength improves.",
+"Bending your wrists": "Keep your wrists straight throughout the exercise. Bending your wrists can strain the muscles and tendons in your forearms.",
+"Rounding your back": "Maintain a straight back throughout the exercise. Rounding your back can put stress on your spine.",
+"Using a mixed grip": "Using a mixed grip (one hand overhand, one hand underhand) can create muscle imbalances. Use an overhand grip with both hands."
+},
+"comments": {
+"Grip Strength": "The plate pinch is a great exercise for improving grip strength, which is important for a variety of activities, such as weightlifting, rock climbing, and martial arts.",
+"Forearm Development": "This exercise primarily targets the forearm flexors, which are responsible for gripping and squeezing.",
+"Progressive Overload": "To continue challenging your grip strength, gradually increase the weight of the plates, the duration of the hold, or the number of sets and reps over time.",
+"Plate Selection": "The design of the weight plates can affect the difficulty of the exercise. Plates with a smoother surface will be more challenging to grip than plates with a rougher surface."
+},
+"alternativesAndVariations": {
+"Farmer's Carry": "A compound exercise that works the grip, forearms, and core. It involves holding heavy dumbbells or kettlebells at your sides and walking for distance.",
+"Dead Hangs": "A bodyweight exercise that improves grip strength and strengthens the muscles in your hands, forearms, and upper back. It involves hanging from a pull-up bar with an overhand grip for as long as possible.",
+"Grip Squeezes": "An isolation exercise that specifically targets the forearm muscles. It involves repeatedly squeezing a hand gripper or a stress ball.",
+"Towel Pull-Ups": "A variation of pull-ups that increases grip strength. It involves hanging from a pull-up bar with a towel draped over it and performing pull-ups."
+},
+"tempo": "1000 (1 second to lift, 0 seconds pause at the bottom, 0 seconds lifting, hold at the top as long as possible)"
+}
+}

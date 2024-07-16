@@ -1,0 +1,34 @@
+{
+"landmine-hack-squat": {
+"form": {
+"steps": "\n1. Set up a barbell by securing one end in a landmine attachment or a corner. \n2. Face away from the barbell and stand with your feet slightly wider than shoulder-width apart, toes slightly pointed out. \n3. Hold the free end of the barbell with both hands, resting it on your upper chest or shoulder. \n4. Keeping your back straight and core engaged, initiate the movement by pushing your hips back and bending your knees. \n5. Lower yourself down until your thighs are at least parallel to the ground or as deep as your mobility allows. \n6. Drive through your heels to return to the starting position, extending your hips and knees simultaneously.",
+"form": {
+"Back": "Maintain a neutral spine throughout the exercise, avoiding any rounding or excessive arching.",
+"Core": "Keep your core muscles engaged to stabilize your torso and prevent any unwanted movement.",
+"Head": "Keep your head in line with your spine, looking straight ahead.",
+"Feet": "Ensure your feet remain flat on the ground throughout the movement.",
+"Bar Path": "Guide the barbell in a straight line, avoiding any lateral movement."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This can put excessive stress on your lower back. Ensure to maintain a neutral spine throughout the exercise.",
+"Not Going Low Enough": "To fully engage the target muscles, aim to squat down until your thighs are at least parallel to the ground.",
+"Lifting Heels off the Ground": "Keep your feet flat on the ground throughout the movement to maintain balance and stability.",
+"Using Too Much Weight": "Start with a lighter weight to focus on proper form before increasing the load."
+},
+"comments": {
+"Muscle Activation": "The landmine hack squat primarily targets the quadriceps, glutes, and adductors. It also engages the core, hamstrings, and calves to a lesser extent.",
+"Lower Back Friendly": "This exercise is generally considered easier on the lower back compared to traditional back squats, making it a suitable option for individuals with lower back issues.",
+"Versatility": "The landmine hack squat can be easily modified by adjusting your foot placement or using different grip variations.",
+"Progression": "As you get stronger, you can increase the weight, reps, or sets to continue challenging yourself."
+},
+"alternativesAndVariations": {
+"Hack Squat Machine": "Provides a similar movement pattern but with a fixed range of motion.",
+"Landmine Squat": "Performed with the barbell held in front of the body, placing more emphasis on the quads and core.",
+"Goblet Squat": "A variation using a dumbbell or kettlebell held close to the chest, suitable for beginners.",
+"Front Squat": "A challenging variation with the barbell held across the upper chest, requiring greater core stability."
+},
+"tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}
+

@@ -1,0 +1,31 @@
+{
+"dumbbell-rear-delt-row": {
+"form": {
+"steps": "\n1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. \n2. Hinge at your hips and lean forward, keeping your back straight and core engaged, until your torso is almost parallel to the floor. Let the dumbbells hang straight down from your shoulders. \n3. Inhale and pull the dumbbells up towards your chest, keeping your elbows wide and pointing out to the sides. \n4. Squeeze your shoulder blades together at the top of the movement, focusing on engaging your rear deltoids. \n5. With control, lower the dumbbells back to the starting position.",
+"form": {
+"Back": "Keep your back straight throughout the entire movement, maintaining a neutral spine. Avoid rounding or arching your back.",
+"Elbows": "Keep your elbows wide and pointing out to the sides during the row. Avoid letting your elbows hug your body.",
+"Shoulders": "Pull the dumbbells up towards your chest, not your face. Focus on using your rear deltoids to initiate the movement.",
+"Core": "Engage your core throughout the exercise to stabilize your body and protect your lower back."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the weights up instead of using a controlled movement.",
+"Elbows too Close to Body": "Keeping your elbows tucked in close to your body, which reduces the activation of the rear deltoids.",
+"Rounding the Back": "Not maintaining a straight back, which can lead to lower back pain.",
+"Pulling with Biceps": "Focusing on pulling the weight with your biceps instead of your rear deltoids."
+},
+"comments": {
+"Muscle Activation": "The dumbbell rear delt row is a great rear delt exercise. To avoid cheating or swinging the weights up, make sure you use light weights and focus on muscle contact with your rear deltoids.",
+"Variations": "You can also perform this exercise with a barbell, resistance bands, or a cable machine.",
+"Grip": "You can use an overhand or neutral grip for this exercise. Experiment to see which grip feels more comfortable and allows you to better target your rear deltoids."
+},
+"alternativesAndVariations": {
+"Face Pulls": "A cable machine exercise that targets the rear deltoids, traps, and rotator cuff. It involves pulling a rope attachment towards your face.",
+"Reverse Flyes": "Can be performed with dumbbells or on a pec deck machine. It involves bringing your arms out to the sides in a wide arc, focusing on squeezing the shoulder blades together.",
+"Bent-Over Rows": "A compound exercise that works the back, biceps, and forearms. The main difference is the grip and elbow position, which targets different muscle groups.",
+"Pull-Ups": "A bodyweight exercise that works the back, biceps, and shoulders. It can be modified with assistance bands or by using a lat pulldown machine."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

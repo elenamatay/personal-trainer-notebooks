@@ -1,0 +1,32 @@
+{
+"dumbbell-pullover": {
+"form": {
+"steps": "\n1. Lie perpendicularly on a bench, upper back centered on the bench, with your feet flat on the floor. \n2. Hold a dumbbell vertically with both hands, palms facing each other, and your thumbs wrapped around the handle for support. \n3. Start with the dumbbell directly above your chest, arms slightly bent but rigid, this is your starting position. \n4. Inhale and slowly lower the dumbbell in an arc motion behind your head, keeping your arms almost completely straight, just with a slight bend in the elbows. \n5. Lower the dumbbell until you feel a stretch in your chest and lats. \n6. Exhale and reverse the motion, pulling the dumbbell back to the starting position, using your chest and back muscles.",
+"form": {
+"Arms": "Keep your arms almost completely straight throughout the exercise, with a slight bend in the elbows to prevent hyperextension.",
+"Torso": "Your torso should remain stable and should not move during the exercise.",
+"Shoulders": "Don't shrug your shoulders up towards your ears during the movement. Keep them relaxed and pulled down.",
+"Breathing": "Inhale as you lower the dumbbell and exhale as you pull it back up.",
+"Range of Motion": "Lower the dumbbell until you feel a stretch in your chest and lats, but don't go too far down that you feel any pain or discomfort in your shoulders."
+}
+},
+"commonMistakes": {
+"Bending Arms": "Bending your arms too much during the exercise, turning it into a triceps extension.",
+"Using Too Much Weight": "Using a weight that is too heavy, which can lead to improper form and potential injury.",
+"Arching Your Back": "Arching your lower back to try to increase the range of motion.",
+"Not Controlling the Movement": "Lowering or raising the dumbbell too quickly, which can put stress on your shoulders and reduce muscle engagement."
+},
+"comments": {
+"Muscle Focus": "The dumbbell pullover is a compound exercise that primarily targets the chest and lats. By adjusting your form, you can emphasize one muscle group over the other. If you want to focus on your chest, keep your elbows slightly closer together and focus on feeling the stretch in your chest at the bottom of the movement. If you want to target your lats more, widen your grip slightly and focus on pulling the dumbbell down and back using your lats.",
+"Resistance": "A dumbbell or a small barbell are good options for resistance.",
+"Grip": "You can also use a parallel grip, with your palms facing each other, on the dumbbell, which may be more comfortable for your wrists."
+},
+"alternativesAndVariations": {
+"Straight-Arm Pulldown": "This exercise is similar to the dumbbell pullover, but it's performed on a cable machine. It targets the lats more directly than the dumbbell pullover.",
+"Chest Dips": "This bodyweight exercise is great for building chest and triceps strength. To emphasize the chest, lean forward slightly as you lower yourself down.",
+"Lat Pulldowns": "Another great exercise for the lats, lat pulldowns can be performed with a variety of grips to target different areas of the back.",
+"Push-Ups": "A classic bodyweight exercise that works the chest, triceps, and shoulders. There are many variations of push-ups that you can try to target different muscle groups."
+},
+"tempo": "3110 (3 seconds lowering, 1 second pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

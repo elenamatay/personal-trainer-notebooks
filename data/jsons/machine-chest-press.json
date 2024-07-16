@@ -1,0 +1,32 @@
+{
+"machine-chest-press": {
+"form": {
+"steps": "\n1. Adjust the seat height of the machine so that the handles are in line with your mid-chest when you sit down. \n2. Sit back against the pad with your feet flat on the floor, slightly wider than shoulder-width apart. \n3. Grip the handles with an overhand grip, slightly wider than shoulder-width apart. Your elbows should be slightly below your shoulders. \n4. Inhale and slowly lower the handles towards your chest, keeping your elbows slightly bent and tucked in. \n5. Exhale and push the handles back to the starting position, without locking out your elbows. \n6. Pause for a moment and repeat for the desired number of repetitions.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Keep your elbows slightly bent and tucked in throughout the movement.",
+"Back": "Maintain a neutral spine and keep your back flat against the pad.",
+"Chest": "Lower the handles to your mid-chest, keeping your chest up.",
+"Shoulders": "Don't shrug your shoulders during the movement."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your body or using momentum to push the weight, instead of using a controlled movement.",
+"Locking Out Elbows": "Fully extending your elbows at the top of the movement, which can put stress on your elbow joints.",
+"Lifting your Butt off the Pad": "This usually means you are lifting too heavy and compensating with your lower back, which can lead to injury.",
+"Not Adjusting the Seat Height": "Using a seat height that is too high or too low, which can affect your form and range of motion."
+},
+"comments": {
+"Muscle groups used": "The machine chest press primarily targets the pectoralis major (chest), with assistance from the anterior deltoids (front shoulders) and triceps.",
+"Stability and Focus": "The machine chest press offers more stability and requires less balance and coordination than free weight chest presses (e.g., with dumbbells or a barbell). This can lead to increased focus on the muscles worked and makes it easier to learn for beginners.",
+"Variation": "Many different machines exist for chest press, each one with its own range of motion and slight variations on the muscles involved."
+},
+"alternativesAndVariations": {
+"Barbell Bench Press": "A compound exercise that works the chest, triceps, and shoulders. It requires more balance and coordination than the machine chest press.",
+"Dumbbell Bench Press": "Similar to the barbell bench press, but using dumbbells allows for a greater range of motion and independent arm movement.",
+"Push-Ups": "A bodyweight exercise that works the chest, triceps, and shoulders. It can be made easier or more difficult by adjusting the hand placement and body angle.",
+"Chest Dips": "A bodyweight exercise that primarily targets the lower chest and triceps. It can be performed on parallel bars or on a dip station."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

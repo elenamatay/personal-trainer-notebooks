@@ -1,0 +1,33 @@
+{
+"ball-slams": {
+    "form": {
+      "steps": "\n1. Stand with your feet about shoulder-width apart, with a slight bend in your knees and hips. Hold the medicine ball in both hands at chest height. \n2. Engage your core and maintain a neutral spine. \n3. Extend your knees and drive your hips forward explosively while simultaneously lifting the ball overhead. \n4. As the ball reaches its highest point, fully extend your arms and hips, coming up onto your toes. \n5. Use your core and arms to forcefully slam the medicine ball straight down to the ground between your feet. \n6. As you slam the ball, exhale forcefully and hinge at your hips, allowing your knees to bend to absorb the impact. \n7. Squat down to pick up the ball from the floor. \n8. Immediately transition into the next repetition by repeating steps 3-7. \n9. Continue for the desired number of repetitions or for a set duration.",
+      "form": {
+        "Posture": "Maintain a neutral spine and engage your core throughout the entire movement.",
+        "Hip Extension": "Drive your hips forward explosively to generate power.",
+        "Arm Extension": "Fully extend your arms overhead as you slam the ball.",
+        "Breathing": "Exhale forcefully as you slam the ball and inhale as you squat down to pick it up.",
+        "Impact Absorption": "Allow your knees to bend as you slam the ball to absorb the impact."
+      }
+    },
+    "commonMistakes": {
+      "Not Engaging the Core": "Failing to engage your core can lead to lower back pain and reduce the effectiveness of the exercise.",
+      "Rounding the Back": "Rounding your back during the slam can put stress on your spine.",
+      "Using Only Your Arms": "The ball slam should be a full-body movement. Using only your arms will limit the power and effectiveness of the exercise.",
+      "Not Squatting Down to Pick Up the Ball": "Bending over to pick up the ball instead of squatting down can put strain on your lower back."
+    },
+    "comments": {
+      "Full-Body Workout": "Ball slams are an excellent compound exercise that engages multiple muscle groups simultaneously, including the lats, abs, obliques, glutes, shoulders, and triceps.",
+      "Cardiovascular Benefits": "The explosive nature of ball slams makes them a great exercise for improving cardiovascular health.",
+      "Stress Relief": "The act of slamming a ball into the ground can be a great way to release stress and tension.",
+      "Variations": "Ball slams can be varied by using different weights of medicine balls or by performing them from a kneeling or seated position."
+    },
+    "alternativesAndVariations": {
+      "Medicine Ball Chest Passes": "Similar movement pattern to ball slams, but with a focus on pushing the ball outward instead of slamming it down.",
+      "Overhead Medicine Ball Throws": "Another explosive exercise that targets similar muscle groups as ball slams.",
+      "Kettlebell Swings": "A dynamic exercise that engages the posterior chain, including the glutes, hamstrings, and lower back.",
+      "Jump Squats": "A plyometric exercise that develops explosive power in the lower body."
+    },
+    "tempo": "1010 (1 second to lift, 0 seconds hold at the top, 1 second to slam, 0 second hold at the bottom)"
+  }
+}

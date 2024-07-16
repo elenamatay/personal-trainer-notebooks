@@ -1,0 +1,33 @@
+{
+"plank-with-leg-lifts": {
+"form": {
+"steps": "\n1. Begin by getting into a standard plank position. Place your elbows directly under your shoulders, with your forearms resting on the ground and your hands clasped together. \n2. Extend your legs straight behind you, with your toes pressing into the ground. Your body should form a straight line from your head to your heels. \n3. Brace your core, keep your back flat, and avoid letting your hips sink down or lift too high. \n4. Slowly lift one leg off the ground to about hip height without bending the knee. Keep your leg straight during the movement. \n5. Hold the lifted position for a moment, then gently lower your leg back to the starting position. \n6. Repeat the lift with the opposite leg, ensuring you maintain a strong plank position throughout the movement. \n7. Continue to alternate legs for the chosen amount of time.",
+"form": {
+"Elbows": "Position your elbows directly beneath your shoulders, ensuring your forearms are parallel to each other.",
+"Body Alignment": "Maintain a straight line from head to heels, avoiding any sagging or arching of your back.",
+"Core Engagement": "Keep your core muscles engaged throughout the exercise to stabilize your spine and prevent lower back pain.",
+"Hip Stability": "Avoid swaying your hips from side to side as you lift your legs. Focus on keeping them level.",
+"Leg Extension": "Lift your legs straight up, without bending your knees, to engage your glutes and hamstrings."
+}
+},
+"commonMistakes": {
+"Sagging or Arching Back": "Failing to maintain a straight line from head to heels, putting stress on your spine.",
+"Lifting Legs Too High": "Lifting your legs beyond hip height can strain your lower back and compromise form.",
+"Holding Breath": "Remember to breathe evenly throughout the exercise to avoid straining your muscles.",
+"Rushing the Movement": "Performing the leg lifts too quickly can compromise form and reduce effectiveness."
+},
+"comments": {
+"Progression": "To increase the difficulty, you can try lifting opposite arm and leg simultaneously, or perform the exercise on an unstable surface like a BOSU ball.",
+"Variations": "This exercise can be varied by performing it with your forearms on an elevated surface, such as a bench, to increase the challenge.",
+"Focus": "Plank leg raises are excellent for strengthening your core while also challenging your balance and stability. Remember to breathe evenly throughout the exercise.",
+"Form is Key": "Focus on maintaining a solid plank form throughout the exercise. Avoid rocking your hips or twisting your body as you lift your legs."
+},
+"alternativesAndVariations": {
+"Standard Plank": "A static hold that strengthens your core, shoulders, and back. It differs from the plank with leg lifts by not involving any leg movement.",
+"Mountain Climbers": "A dynamic plank variation that involves bringing your knees towards your chest in an alternating fashion, providing a cardiovascular challenge.",
+"Reverse Plank": "Performed with your body facing upwards, supported by your hands and heels, targeting your glutes, hamstrings, and back.",
+"Dead Bug": "A floor-based exercise that involves lying on your back and moving your arms and legs in a controlled manner, effectively engaging your core muscles."
+},
+"tempo": "2011 (2 seconds lifting one leg, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

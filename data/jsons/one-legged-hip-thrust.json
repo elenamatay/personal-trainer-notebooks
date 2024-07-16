@@ -1,0 +1,32 @@
+{
+  "one-legged-hip-thrust": {
+    "form": {
+      "steps": "\n1. Sit on the ground with your upper back resting against a bench or sturdy elevated surface. Place one foot flat on the floor, directly in front of you, with your knee bent. Extend the other leg out straight. \n2. Lower your hips towards the ground, keeping your core engaged and back straight. \n3. Drive through your heel and extend your hips upward, squeezing your glutes at the top of the movement. \n4. Slowly lower your hips back down to the starting position and repeat for the desired number of repetitions.",
+      "form": {
+        "Foot Placement": "Position your foot so that when your hips are fully extended, your knee forms a 90-degree angle.",
+        "Back": "Maintain a neutral spine throughout the exercise, avoiding any excessive arching or rounding.",
+        "Core Engagement": "Engage your core muscles to stabilize your body and prevent any unwanted movement.",
+        "Hip Extension": "Focus on using your glutes to extend your hips upward, rather than relying on your lower back.",
+        "Controlled Movement": "Perform the exercise with a controlled tempo, both during the concentric (lifting) and eccentric (lowering) phases."
+      }
+    },
+    "commonMistakes": {
+      "Arching the Lower Back": "This can lead to lower back pain and reduce the effectiveness of the exercise. Ensure you're engaging your core and not overextending your spine.",
+      "Limited Range of Motion": "Not lowering your hips low enough or not extending them fully will limit muscle activation. Aim for a full range of motion while maintaining good form.",
+      "Pushing Through the Toes": "Focus on driving through your heel to activate your glutes effectively. Pushing through your toes can put stress on your knee joint.",
+      "Using Momentum": "Avoid using momentum to swing your hips up. This reduces the effectiveness of the exercise and increases the risk of injury. Focus on controlled, deliberate movements."
+    },
+    "comments": {
+      "Muscle Activation": "The one-legged hip thrust is a great exercise for targeting the glutes, particularly the gluteus maximus. It also engages the hamstrings, quads, and core muscles for stability.",
+      "Progression": "You can increase the difficulty of this exercise by adding weight, such as a dumbbell or barbell, across your hips. Start with a lighter weight and gradually increase as you get stronger.",
+      "Variations": "The one-legged hip thrust can also be performed with your back elevated on a bench for a greater range of motion. Additionally, you can try variations like the frog pump or hip abduction to target different muscle groups."
+    },
+    "alternativesAndVariations": {
+      "Hip Thrust": "The two-legged version of this exercise, which allows you to lift heavier weight and provides a greater challenge for the glutes.",
+      "Glute Bridge": "A similar exercise to the hip thrust, but performed with your shoulders on the ground instead of elevated. It targets similar muscle groups but with less range of motion.",
+      "Bulgarian Split Squat": "A single-leg exercise that targets the quads, glutes, and hamstrings. It also challenges balance and stability.",
+      "Walking Lunges": "A dynamic exercise that works the quads, glutes, and hamstrings while also improving balance and coordination."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+"mountain-climbers": {
+"form": {
+"steps": "\n1. Get into a high plank position with your hands about shoulder-width apart, wrists directly below your shoulders, back flat, and core engaged. Your body should form a straight line from your head to your heels. \n2. Maintaining the plank position and engaging your core, pull your right knee towards your chest as far as you can. \n3. Switch legs, extending your right leg back to the starting position while simultaneously pulling your left knee towards your chest. \n4. Continue alternating legs, keeping your hips down and running the knees in and out as far and as fast as you can while maintaining proper form and a tight core. \n5. Repeat for the desired number of repetitions or for a specific duration.",
+"form": {
+"Hand Placement": "Place your hands directly below your shoulders, slightly wider than shoulder-width apart.",
+"Body Alignment": "Maintain a straight line from your head to your heels throughout the exercise, avoiding sagging or arching your back.",
+"Core Engagement": "Keep your core muscles engaged throughout the exercise to stabilize your spine and prevent lower back pain.",
+"Hip Movement": "Minimize hip movement and avoid bouncing your hips up and down. Focus on driving your knees towards your chest in a controlled manner.",
+"Breathing": "Breathe rhythmically throughout the exercise, exhaling as you drive your knee towards your chest and inhaling as you extend it back."
+}
+},
+"commonMistakes": {
+"Sagging Hips": "Letting your hips sag towards the ground, which can strain your lower back.",
+"Arching Back": "Arching your back, which can also lead to lower back pain.",
+"Insufficient Core Engagement": "Not engaging your core muscles properly, which reduces the effectiveness of the exercise and increases the risk of injury.",
+"Limited Range of Motion": "Not bringing your knees in far enough towards your chest, which limits the activation of your core muscles.",
+"Too Fast, Too Soon": "Performing the exercise too quickly before mastering proper form, which can compromise technique and increase the risk of injury."
+},
+"comments": {
+"Muscle Groups": "Mountain climbers are a full-body exercise that primarily targets the abs and obliques, but they also engage the shoulders, chest, triceps, quads, and hip flexors.",
+"Cardio and Strength": "This versatile exercise combines cardiovascular training with core strengthening, making it an efficient addition to any workout routine.",
+"Progression": "To increase the intensity, try performing the exercise with your hands on an elevated surface, such as a bench or a box.",
+"Variations": "Variations include cross-body mountain climbers, where you bring your knee towards the opposite elbow, and slow-motion mountain climbers, where you perform the exercise at a slower pace, focusing on control and muscle engagement."
+},
+"alternativesAndVariations": {
+"Plank": "A static exercise that strengthens the core, shoulders, and back. Unlike mountain climbers, the plank involves holding a still position.",
+"Crunches": "A classic abdominal exercise that isolates the abs. Crunches primarily target the upper abs, while mountain climbers engage multiple muscle groups.",
+"Russian Twists": "An exercise that targets the obliques and core. Russian twists involve rotating the torso from side to side while holding a weight or medicine ball.",
+"Leg Raises": "An exercise that targets the lower abs and hip flexors. Leg raises involve lifting the legs off the ground while lying on your back.",
+"Bicycle Crunches": "A dynamic exercise that engages both the upper and lower abs, as well as the obliques. Bicycle crunches involve bringing the opposite elbow and knee together in a cycling motion."
+},
+"tempo": "1010 (1 second lowering each leg, 0 seconds pause at the bottom, 1 second lifting each leg, 0 seconds pause at the top)"
+}
+}

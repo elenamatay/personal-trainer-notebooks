@@ -1,0 +1,33 @@
+{
+"seal-row": {
+    "form": {
+      "steps": "\n1. Position a flat bench so that it's perpendicular to a barbell on the floor. The bar should be close enough that you can reach it while lying on the bench. \n2. Lie face down on the bench with your chest slightly off the edge. Your hips and torso should be fully supported by the bench, while your legs extend off the end, feet flat on the floor. \n3. Reach down and grip the barbell with an overhand grip, slightly wider than shoulder-width apart. \n4. Inhale, engage your core, and pull the bar towards your torso, keeping your elbows close to your body. \n5. Pull the bar as high as you can, ideally until it touches the underside of the bench. \n6. Hold for a brief moment at the top of the movement, squeezing your back muscles. \n7. With control, lower the bar back to the starting position, fully extending your arms.",
+      "form": {
+        "Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+        "Elbows": "Keep your elbows close to your body throughout the movement.",
+        "Back": "Maintain a flat back, avoiding any arching or rounding.",
+        "Chest": "Keep your chest slightly off the bench to allow for a full range of motion.",
+        "Legs": "Keep your legs extended and feet flat on the floor for stability."
+      }
+    },
+    "commonMistakes": {
+      "Using too much weight": "Using excessive weight can lead to poor form and increase the risk of injury. Start with a lighter weight and gradually increase as you get stronger.",
+      "Rowing with your biceps": "Focus on pulling with your back muscles, not your arms. Imagine your hands are hooks and your back is doing the work.",
+      "Arching your back": "Keep your back flat throughout the movement. Arching your back can put stress on your spine.",
+      "Not using a full range of motion": "Pull the bar all the way up to your chest and lower it down until your arms are fully extended to maximize muscle activation."
+    },
+    "comments": {
+      "Muscle groups used": "The seal row primarily targets the lats, traps, and rear deltoids, but it also engages the biceps, forearms, and rotator cuff.",
+      "Isolation Exercise": "The seal row is an isolation exercise that helps to target the back muscles more effectively by minimizing the involvement of other muscle groups.",
+      "Benefits for Posture": "Strengthening the back muscles with seal rows can help improve posture and reduce the risk of back pain.",
+      "Suitable for All Levels": "The seal row can be modified to suit different fitness levels by adjusting the weight used."
+    },
+    "alternativesAndVariations": {
+      "Barbell Row": "A compound exercise that works the back, biceps, and forearms. The main difference is that the barbell row is performed with your feet on the ground, which engages more muscle groups.",
+      "T-Bar Row": "Another compound exercise that targets the back muscles. It's performed on a T-bar machine and allows for a greater range of motion than the seal row.",
+      "Pull-Ups": "A bodyweight exercise that works the back, biceps, and forearms. It's a challenging exercise but very effective for building back strength.",
+      "Lat Pulldowns": "A machine-based exercise that isolates the lat muscles. It's a good alternative to pull-ups for beginners or those who can't yet perform a pull-up."
+    },
+    "tempo": "2011 (2 seconds pulling, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+  }
+}

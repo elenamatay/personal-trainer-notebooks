@@ -1,0 +1,32 @@
+{
+"barbell-front-raise": {
+"form": {
+"steps": "\n1. Stand tall with your feet shoulder-width apart, holding a barbell in front of your thighs with an overhand grip, slightly wider than shoulder-width apart. \n2. Keep your elbows slightly bent and your core engaged. \n3. Raise the barbell forward and upward in a controlled motion, keeping your arms straight or slightly bent, until the barbell reaches shoulder height. \n4. Pause briefly at the top of the movement, ensuring your elbows don't go higher than your shoulders. \n5. Slowly lower the barbell back to the starting position, resisting the weight on the way down.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Elbows": "Maintain a slight bend in your elbows throughout the exercise.",
+"Wrists": "Keep your wrists straight and firm, not allowing them to bend backward.",
+"Back": "Avoid arching your back. Keep your core engaged to maintain a neutral spine.",
+"Shoulders": "Lift the barbell to shoulder height, not higher, to prevent strain on the shoulder joint."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the barbell upward using momentum instead of controlled muscle contraction.",
+"Lifting Too Heavy": "Choosing a weight that's too heavy, leading to improper form and potential injury.",
+"Arching the Back": "Arching the lower back to compensate for heavy weight, which can strain the spine.",
+"Not Controlling the Descent": "Lowering the barbell too quickly without resistance, reducing muscle engagement."
+},
+"comments": {
+"Target Muscles": "The barbell front raise primarily targets the anterior deltoids (front shoulders).",
+"Weight Selection": "This is an exercise where it is easy to pick a weight that is too heavy. Rather err on the lighter side, and strive for a strict form where you focus on getting a good contact with your delts.",
+"Variations": "You can perform front raises with dumbbells or a weight plate for variations."
+},
+"alternativesAndVariations": {
+"Dumbbell Front Raise": "This variation allows for a greater range of motion and independent arm movement.",
+"Plate Front Raise": "Using a weight plate instead of a barbell can provide a different feel and challenge grip strength.",
+"Arnold Press": "This compound exercise works the front, side, and rear deltoids, as well as the triceps.",
+"Overhead Press": "A compound exercise that targets the shoulders, triceps, and upper back."
+},
+"tempo": "2011 (2 seconds lifting, 0 seconds pause at the top, 1 second lowering, 1 second pause at the bottom)"
+}
+}

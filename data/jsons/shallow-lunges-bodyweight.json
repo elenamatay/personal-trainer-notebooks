@@ -1,0 +1,33 @@
+{
+"shallow-lunges-bodyweight": {
+"form": {
+"steps": "\n1. Stand tall with your feet hip-width apart. \n2. Take a big step forward with one leg. \n3. Lower your body by bending both knees to a comfortable depth. \n4. Push through the heel of your front foot to return to the starting position. \n5. Repeat on the other side.",
+"form": {
+"Torso": "Keep your torso upright and core engaged throughout the exercise.",
+"Front Knee": "Ensure your front knee tracks over your toes and doesn't collapse inward.",
+"Back Knee": "Lower your back knee towards the ground without allowing it to touch.",
+"Weight Distribution": "Distribute your weight evenly between both feet."
+}
+},
+"commonMistakes": {
+"Excessive Forward Lean": "Leaning too far forward, putting stress on the front knee.",
+"Knee Collapse": "Allowing the front knee to cave inward, which can strain the knee joint.",
+"Heel Lift": "Lifting the front heel off the ground, shifting the weight forward and potentially causing imbalance.",
+"Limited Range of Motion": "Not lowering the body down far enough, reducing muscle activation."
+},
+"comments": {
+"Purpose": "Shallow lunges are a good alternative to regular lunges for individuals with mobility limitations or those new to the exercise.",
+"Progression": "As your strength and mobility improve, you can gradually increase the depth of the lunge.",
+"Variations": "You can add variations like lateral lunges or reverse lunges to target different muscle groups.",
+"Weight Addition": "Once you can comfortably perform bodyweight shallow lunges, you can increase the difficulty by holding dumbbells or a barbell."
+},
+"alternativesAndVariations": {
+"Bodyweight Lunge": "A deeper variation of the lunge that increases the range of motion and muscle activation.",
+"Reverse Lunge": "Performed by stepping backward instead of forward, emphasizing the glutes and hamstrings.",
+"Lateral Lunge": "Involves stepping sideways instead of forward, targeting the inner and outer thighs.",
+"Bulgarian Split Squat": "A more challenging variation performed with the back foot elevated, increasing the load on the front leg."
+},
+"tempo": "2010 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}
+

@@ -1,0 +1,32 @@
+{
+"horizontal-wood-chop-with-band": {
+"form": {
+"steps": "\n1. Fasten an elastic band at shoulder height. \n2. Grip the band with both hands, step away, and stand sideways to the band's anchor point, so that the band is pulling your hands away from your body. \n3. With almost straight arms, make a sweeping, horizontal movement to your other side, rotating your torso and keeping your core engaged. \n4. Slowly return to the starting position in a controlled manner, resisting the pull of the band.",
+"form": {
+"Arms": "Keep your arms almost straight throughout the exercise.",
+"Core": "Engage your core muscles to stabilize your body and control the movement.",
+"Rotation": "Focus on rotating your torso from your core, rather than just moving your arms.",
+"Movement": "The movement should be smooth and controlled, both when pulling the band and returning to the starting position."
+}
+},
+"commonMistakes": {
+"Using only arms": "Using only your arms to pull the band, instead of engaging your core and rotating your torso.",
+"Rushing the movement": "Performing the exercise too quickly, which can reduce muscle engagement and increase the risk of injury.",
+"Not controlling the eccentric phase": "Letting the band snap back to the starting position without controlling the movement.",
+"Holding your breath": "Remember to breathe throughout the exercise."
+},
+"comments": {
+"Muscle groups": "The horizontal wood chop with band primarily targets the obliques, which are responsible for rotation and lateral flexion of the torso.",
+"Functional Exercise": "This exercise is considered a functional exercise, as it mimics movements used in everyday activities and sports.",
+"Variations": "You can adjust the difficulty of the exercise by changing the resistance of the band or by adjusting your distance from the anchor point.",
+"Diagonal Variation": "To also train the flexing function of your obliques, you can attach the band to a higher point, and perform the movement diagonally downwards."
+},
+"alternativesAndVariations": {
+"Cable Wood Chop": "Similar to the band version, but uses a cable machine instead of a band. The cable machine provides a more consistent resistance throughout the exercise.",
+"Russian Twist": "A bodyweight exercise that also targets the obliques. It involves rotating your torso from side to side while holding a weight or medicine ball.",
+"Side Plank": "An isometric exercise that strengthens the obliques, as well as the core and shoulders. It involves holding your body in a straight line, supported by your forearm and your feet.",
+"Pallof Press": "An anti-rotation exercise that strengthens the core, including the obliques. It involves resisting rotation while holding a band or cable away from your body."
+},
+"tempo": "1011 (1 second concentric, 0 seconds pause, 1 second eccentric, 1 second pause)"
+}
+}

@@ -1,0 +1,36 @@
+{
+"belt-squats": {
+"form": {
+"steps": "\n1. Securely fasten a dipping belt around your waist, ensuring it sits snugly above your hips. Attach a weight plate or dumbbell to the belt's carabiner.\n2. Position yourself on two elevated platforms with a slightly wider than shoulder-width stance, ensuring the belt hangs freely between your legs. Your toes should point slightly outward, aligning with your natural squat stance.\n3. Inhale deeply, brace your core, and maintain a neutral spine. This is your starting position.\n4. Initiate the downward movement by pushing your hips back and bending your knees. Descend slowly and in a controlled manner until your thighs are parallel to the ground or as low as your mobility allows.\n5. At the bottom of the movement, pause briefly while maintaining tension in your legs and core.\n6. Drive through your heels to reverse the motion. Extend your hips and knees, pushing yourself back to the starting position.\n7. Exhale as you return to the starting position. Repeat steps 4-7 for the desired number of repetitions.",
+"form": {
+"Head and Neck": "Maintain a neutral head position throughout the exercise, looking straight ahead. Avoid tilting your head up or down.",
+"Back": "Keep your back straight with a natural arch. Avoid rounding or excessively arching your lower back.",
+"Core": "Engage your core muscles throughout the movement to stabilize your spine and maintain proper form.",
+"Knees": "Ensure your knees track in line with your toes during both the descent and ascent. Avoid letting your knees cave inward.",
+"Feet": "Keep your feet flat on the platforms throughout the exercise. Distribute your weight evenly across your feet.",
+"Breathing": "Inhale as you descend into the squat and exhale as you push back up to the starting position."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "Failing to maintain a neutral spine, leading to excessive stress on the lower back.",
+"Knee Valgus": "Allowing the knees to collapse inward, which can strain the knee joints.",
+"Insufficient Depth": "Performing shallow squats, reducing muscle activation and limiting overall benefits.",
+"Heels Lifting Off the Platforms": "Shifting weight onto the toes, indicating improper form and potential for injury.",
+"Holding Breath": "Forgetting to breathe properly, leading to increased blood pressure and reduced performance."
+},
+"comments": {
+"Spinal Decompression": "Belt squats are often favored by individuals with lower back issues as they minimize spinal compression compared to traditional barbell squats.",
+"Increased Core Engagement": "The hanging weight from the belt requires greater core activation to maintain balance and stability.",
+"Quadriceps Emphasis": "Belt squats tend to target the quadriceps muscles more directly than traditional squats.",
+"Reduced Lower Back Stress": "The weight distribution in belt squats reduces the load on the spine, making it a suitable alternative for those with back pain or injuries.",
+"Versatility": "Belt squats can be performed with various foot stances and depths to target different muscle groups."
+},
+"alternativesAndVariations": {
+"Barbell Back Squats": "A compound exercise that engages multiple muscle groups in the lower body. The main difference is the weight placement, which is on the upper back in barbell squats.",
+"Goblet Squats": "A variation where a weight is held close to the chest, promoting an upright torso and emphasizing core engagement.",
+"Hack Squats": "Performed on a machine that provides back support and a guided range of motion, reducing stress on the lower back.",
+"Leg Press": "A machine-based exercise that targets the quads, glutes, and hamstrings. It offers a supported movement pattern and allows for heavier loads."
+},
+"tempo": "3010 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

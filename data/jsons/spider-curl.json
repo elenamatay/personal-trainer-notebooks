@@ -1,0 +1,29 @@
+{
+"spider-curl": {
+"form": {
+"steps": "\n1. Position yourself face down on a 45-degree incline bench, with your chest and stomach firmly against the pad. Your feet should be flat on the floor for stability. \n2. Hold a pair of dumbbells in an underhand grip (palms facing up), allowing your arms to hang straight down perpendicular to the floor. \n3. Keeping your upper arms perpendicular to the floor, curl the dumbbells up by flexing your elbows. \n4. Slowly lower the dumbbells back to the starting position, maintaining a slight bend in your elbows at the bottom to keep tension on the biceps.",
+"form": {
+"Upper Arms": "Maintain a fixed position throughout the exercise, ensuring they remain perpendicular to the floor. Avoid swinging or using momentum.",
+"Elbows": "Keep your elbows tucked in close to your sides throughout the movement. Avoid letting them flare outwards.",
+"Range of Motion": "Curl the dumbbells up as high as possible, aiming for a full contraction in your biceps. Lower the dumbbells under control until your arms are fully extended, maintaining a slight bend at the bottom."
+}
+},
+"commonMistakes": {
+"Swinging": "Using momentum or swinging your body to lift the weight, reducing muscle activation in the biceps.",
+"Elbow Flare": "Allowing your elbows to move away from your sides during the curl, which can shift the focus away from the biceps and potentially strain your shoulders.",
+"Incomplete Range of Motion": "Not fully extending your arms at the bottom or not curling the weight all the way up, limiting muscle stimulation and growth."
+},
+"comments": {
+"Constant Tension": "For optimal biceps development, strive to maintain constant tension on the muscles throughout the exercise. Avoid completely locking out your elbows at the top or fully extending your arms at the bottom.",
+"Mind-Muscle Connection": "Focus on squeezing your biceps at the top of the curl to enhance muscle activation and engagement.",
+"Variation": "You can also perform spider curls using a barbell or EZ-bar. Experiment with different grips to target different areas of your biceps."
+},
+"alternativesAndVariations": {
+"Concentration Curls": "An isolation exercise that isolates the biceps even further than spider curls. It involves performing the curl with your upper arm resting on your thigh.",
+"Incline Dumbbell Curls": "Similar to spider curls but performed on an incline bench with a less steep angle. This variation places less stress on the shoulders.",
+"Hammer Curls": "Performed with a neutral grip (palms facing each other), hammer curls target the biceps as well as the brachialis, a muscle located beneath the biceps.",
+"Preacher Curls": "Performed on a preacher curl bench, this variation helps to isolate the biceps by preventing your upper arms from swinging."
+},
+"tempo": "3011 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

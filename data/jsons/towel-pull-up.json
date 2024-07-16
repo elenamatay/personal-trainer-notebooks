@@ -1,0 +1,33 @@
+{
+  "towel-pull-up": {
+    "form": {
+      "steps": "\n1. Lay a pair of towels over a pull-up bar, ensuring they are spaced evenly. Grab one towel in each hand with an overhand grip, slightly wider than shoulder-width apart. \n2. Hang with your arms fully extended, engaging your shoulders and slightly retracting your shoulder blades. \n3. Inhale and pull yourself up by driving your elbows towards your hips, ensuring the towels don't slip. Continue pulling until your chin is over the bar. \n4. Exhale and lower yourself with control, maintaining tension in your back and grip, until your arms are fully extended.",
+      "form": {
+        "Grip": "Overhand grip on the towels, slightly wider than shoulder-width apart.",
+        "Shoulders": "Engage your shoulders throughout the movement, slightly retracting your shoulder blades at the bottom.",
+        "Elbows": "Drive your elbows towards your hips during the pulling phase.",
+        "Core": "Maintain a tight core throughout the exercise to prevent swinging.",
+        "Breathing": "Inhale during the eccentric phase (lowering down), exhale during the concentric phase (pulling up)."
+      }
+    },
+    "commonMistakes": {
+      "Loose Grip": "Failing to maintain a tight grip on the towels, leading to slipping and reduced muscle activation.",
+      "Using Momentum": "Swinging the body to generate momentum instead of using back and arm muscles.",
+      "Partial Range of Motion": "Not pulling yourself all the way up or lowering yourself all the way down, reducing the effectiveness of the exercise.",
+      "Shrugging Shoulders": "Raising your shoulders towards your ears during the pull, indicating poor shoulder engagement and potential strain."
+    },
+    "comments": {
+      "Grip Strength": "Towel pull-ups are highly effective for building grip strength, which is essential for various exercises and everyday activities.",
+      "Advanced Variation": "This exercise is a more challenging variation of the regular pull-up, requiring greater grip strength and stability.",
+      "Progression": "If you're unable to perform a full towel pull-up, you can start with assisted variations or negatives (focusing on the lowering phase).",
+      "Towel Alternatives": "Alternatives to towels include using thick ropes, gi sleeves, or specialized grip attachments."
+    },
+    "alternativesAndVariations": {
+      "Regular Pull-Up": "A compound exercise that targets the back, biceps, and forearms. The main difference is the grip, which is more stable on a bar.",
+      "Chin-Up": "Similar to a pull-up, but with an underhand grip, placing more emphasis on the biceps.",
+      "Lat Pulldown": "A machine-based exercise that targets the back muscles. It can be a good alternative for those who can't yet perform pull-ups.",
+      "Inverted Row": "A bodyweight exercise that targets the back, biceps, and forearms. It can be adjusted to different difficulty levels."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

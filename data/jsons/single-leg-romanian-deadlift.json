@@ -1,0 +1,33 @@
+{
+"single-leg-romanian-deadlift": {
+"form": {
+"steps": "\n1. Stand upright with your feet hip-width apart, holding a dumbbell or kettlebell in each hand, palms facing your thighs. \n2. Brace your core, and lift one leg slightly off the ground, keeping your toes pointed down. \n3. Keeping your back straight, start to lean forward by hinging at the hips. Lower the weights towards the ground until you feel a stretch in the standing leg's hamstring. Make sure to keep your hips square and avoid rotating at the torso. \n4. Drive through your heel to return to the starting position. Finish all your reps on one side first, and then repeat on the other leg.",
+"form": {
+"Back": "Keep your back straight throughout the entire movement, maintaining a neutral spine. Avoid rounding your back.",
+"Hips": "Keep your hips square and avoid rotating at the torso as you lower and raise the weights.",
+"Standing Leg": "Keep your standing leg straight or slightly bent, with your knee in line with your toes.",
+"Weights": "Keep the weights close to your body throughout the movement, allowing them to travel in a straight line down towards your feet.",
+"Head and Neck": "Maintain a neutral head and neck position, looking straight ahead or slightly down."
+}
+},
+"commonMistakes": {
+"Rounding the Back": "This is a common mistake that can lead to lower back pain. Make sure to keep your back straight throughout the entire movement.",
+"Rotating at the Torso": "Keep your hips square and avoid rotating at the torso as you lower and raise the weights. This will help to target the glutes and hamstrings more effectively.",
+"Lifting the Back Leg Too High": "Lifting your back leg too high can put stress on your lower back and make it difficult to maintain your balance. Keep your back leg slightly off the ground, with your toes pointed down.",
+"Using Momentum": "Avoid using momentum to swing the weights up. Focus on using your glutes and hamstrings to control the movement."
+},
+"comments": {
+"Balance and Coordination": "The Single Leg Romanian Deadlift is a challenging exercise that can help to improve your balance and coordination.",
+"Unilateral Exercise": "As a unilateral exercise (performed on one leg at a time), it can help to identify and correct any strength imbalances between your left and right sides.",
+"Progression": "If you're new to this exercise, you can start by practicing the movement without any weights. Once you've mastered the form, you can gradually increase the weight.",
+"Variations": "You can also try variations such as the Single Leg Romanian Deadlift to Row, or performing the exercise with your back leg elevated on a bench."
+},
+"alternativesAndVariations": {
+"Romanian Deadlift": "A bilateral variation that works both legs simultaneously. It's a good alternative if you find the single-leg version too challenging.",
+"Good Mornings": "Another exercise that targets the posterior chain (glutes, hamstrings, and lower back). The main difference is that good mornings are performed with the weight on your upper back, while Romanian Deadlifts are performed with the weight in your hands.",
+"Glute Ham Raise": "A bodyweight exercise that targets the glutes and hamstrings. It can be performed on a glute ham raise machine or on the floor with a partner.",
+"Hyperextensions": "An isolation exercise that targets the lower back. It can be performed on a hyperextension bench or on the floor."
+},
+"tempo": "3010 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

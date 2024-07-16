@@ -1,0 +1,33 @@
+{
+"one-handed-lat-pulldown": {
+"form": {
+"steps": "\n1. Adjust the lat pulldown machine so that the knee pad is securely positioned to support your thighs. \n2. Sit down on the machine with your thighs positioned firmly under the knee pad. \n3. Grasp the handle with one hand using an overhand grip, slightly wider than shoulder-width. \n4. Keep your chest up and look slightly upward, maintaining a neutral spine. \n5. Inhale and pull the handle down towards your side, focusing on bringing your elbow towards your hip. \n6. Squeeze your lat muscles at the bottom of the movement for a brief moment. \n7. Exhale and slowly return the handle to the starting position, maintaining control and resisting the weight as you extend your arm. \n8. Repeat the movement for the desired number of repetitions, then switch to the other arm.",
+"form": {
+"Grip": "Use an overhand grip, slightly wider than shoulder-width.",
+"Elbow": "Pull the handle down towards your side, focusing on bringing your elbow towards your hip.",
+"Chest": "Keep your chest up throughout the movement.",
+"Back": "Maintain a neutral spine, avoiding excessive arching or rounding.",
+"Shoulder Blades": "Pull your shoulder blades down and back as you pull the handle down."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your body back and forth to use momentum instead of using your lat muscles to pull the weight.",
+"Pulling the Handle Too Far Down": "Pulling the handle down too far, behind your neck, which can put stress on your shoulder joint.",
+"Not Controlling the Eccentric Phase": "Letting the weight pull your arm back up too quickly, without controlling the movement.",
+"Not Engaging the Core": "Not engaging your core muscles to stabilize your body during the exercise."
+},
+"comments": {
+"Muscle Activation": "The one-handed lat pulldown allows for greater focus on each side of the body, potentially leading to improved muscle activation and mind-muscle connection.",
+"Unilateral Training Benefits": "Training one side at a time can help address strength imbalances between sides and improve core stability.",
+"Variation": "You can vary your grip (e.g., neutral grip) to target slightly different muscle groups.",
+"Progression": "As you get stronger, you can increase the weight or the number of repetitions."
+},
+"alternativesAndVariations": {
+"Two-Handed Lat Pulldown": "A compound exercise that works the lats, biceps, and rear deltoids. The main difference is that you use both hands to pull the bar down.",
+"Pull-Ups": "A bodyweight exercise that is a great compound movement for the back, biceps, and shoulders. It requires pulling your body weight up to a bar.",
+"Chin-Ups": "Similar to pull-ups, but with an underhand grip, which places more emphasis on the biceps.",
+"Seated Cable Rows": "Another great exercise for the back muscles, performed on a cable machine. It involves pulling a handle towards your torso while maintaining a straight back."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

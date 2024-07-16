@@ -1,0 +1,33 @@
+{
+  "pull-up": {
+    "form": {
+      "steps": "\n1. Grip the bar with an overhand grip (palms facing away from you), slightly wider than shoulder-width apart. \n2. Hang freely from the bar with your arms fully extended, keeping your chest up and looking straight ahead. \n3. Inhale and pull yourself up by driving your elbows towards your hips, until your chin is over the bar or the bar touches your upper chest. \n4. Exhale and lower yourself with control until your arms are fully extended, avoiding any swinging or using momentum.",
+      "form": {
+        "Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+        "Shoulders": "Keep your shoulders pulled down and back, avoiding shrugging them up towards your ears.",
+        "Chest": "Maintain a proud chest throughout the movement, avoiding rounding your back.",
+        "Core": "Engage your core to stabilize your body and prevent swinging.",
+        "Breathing": "Inhale as you lower down, exhale as you pull yourself up."
+      }
+    },
+    "commonMistakes": {
+      "Using Momentum": "Swinging your body to gain momentum instead of using muscle strength to pull yourself up.",
+      "Not Full Range of Motion": "Not lowering yourself down completely or not pulling yourself up high enough.",
+      "Shrugging Shoulders": "Raising your shoulders towards your ears during the pull-up, which can lead to neck strain.",
+      "Loose Core": "Not engaging your core, which can cause swinging and reduce efficiency."
+    },
+    "comments": {
+      "Muscle Activation": "Pull-ups are a compound exercise that effectively trains both your lats (back muscles) and arm flexors (biceps and forearms).",
+      "Grip Variation": "Using a grip slightly wider than shoulder-width provides a good balance between range of motion and muscle activation.",
+      "Progression": "To make the exercise easier, you can use a resistance band or an assisted pull-up machine. To make it harder, you can add extra weight using a weight belt or hold a dumbbell between your feet.",
+      "Chin-Up Variation": "A common variation is the chin-up, performed with a supinated grip (palms facing you), which places more emphasis on the biceps."
+    },
+    "alternativesAndVariations": {
+      "Chin-Up": "Performed with an underhand grip, placing more emphasis on the biceps.",
+      "Lat Pulldown": "A machine-based alternative that allows you to adjust the weight and provides assistance.",
+      "Negative Pull-Ups": "Focus on the eccentric (lowering) phase of the pull-up by slowly lowering yourself down from the top position.",
+      "Inverted Rows": "Performed with your body at an incline beneath a bar, working similar muscle groups as pull-ups but with less resistance."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

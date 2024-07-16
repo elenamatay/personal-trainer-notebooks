@@ -1,0 +1,33 @@
+{
+"seated-barbell-overhead-press": {
+"form": {
+"steps": "\n1. Sit down on a bench with a raised backrest, positioning yourself so that the barbell is at about shoulder height when you are seated. Your feet should be flat on the floor, shoulder-width apart. \n2. Grip the bar with an overhand grip, slightly wider than shoulder-width apart. \n3. Inhale, lightly brace your core, and unrack the bar by straightening your arms. \n4. Lean back slightly on the backrest, ensuring your back is straight and not excessively arched. \n5. Lower the bar with control by bending your elbows until it reaches the upper part of your chest or clavicles. \n6. Press the bar back up to the starting position while exhaling, extending your arms fully but avoiding locking out your elbows. \n7. Repeat for reps.",
+"form": {
+"Grip": "Overhand grip, slightly wider than shoulder-width apart.",
+"Back": "Keep your back straight with a natural arch, leaning slightly back against the backrest.",
+"Elbows": "Maintain your elbows slightly in front of the bar during the movement, not flared out to the sides.",
+"Head": "Keep your head neutral, looking straight ahead. Avoid tilting your head back excessively.",
+"Breathing": "Inhale as you lower the bar and exhale as you press it up."
+}
+},
+"commonMistakes": {
+"Arching Back Excessively": "This can put stress on your lower back. Maintain a natural arch, not an exaggerated one.",
+"Using Momentum": "Avoid using momentum to push the weight up. Control the movement throughout.",
+"Locking Out Elbows": "Avoid fully locking out your elbows at the top of the movement, as this can put stress on your joints.",
+"Lowering the Bar Too Far Down": "Lowering the bar too far down towards your chest can put stress on your shoulder joints. Stop at the upper chest or clavicle level."
+},
+"comments": {
+"Muscle Activation": "The seated barbell overhead press primarily targets the front deltoids, with secondary involvement from the triceps and lateral deltoids. It also engages the core muscles for stability.",
+"Benefits of Seated Position": "The seated position helps to stabilize the body, allowing for a greater focus on the target muscles and potentially heavier weights compared to the standing variation.",
+"Progression": "As you get stronger, you can increase the weight on the barbell or increase the number of reps and sets.",
+"Variations": "This exercise can also be performed with dumbbells or a resistance band."
+},
+"alternativesAndVariations": {
+"Standing Barbell Overhead Press": "A variation that involves standing while performing the exercise, which increases core engagement and overall stability demands.",
+"Dumbbell Shoulder Press": "This variation allows for a greater range of motion and independent arm movement, which can help address muscle imbalances.",
+"Arnold Press": "A variation that involves rotating the dumbbells as you press them up, engaging more of the shoulder muscles.",
+"Lateral Raises": "An isolation exercise that targets the lateral deltoids, helping to build wider shoulders."
+},
+"tempo": "2110 (2 seconds lowering, 1 second pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

@@ -1,0 +1,32 @@
+{
+"seated-calf-raise": {
+"form": {
+"steps": "\n1. Sit down on the calf raise machine seat, adjusting the knee pad to the correct height so that it sits comfortably on your thighs, just above your knees. \n2. Place the balls of your feet on the foot support, with your heels hanging off the edge. Your toes can be pointed straight ahead or slightly outward, depending on what feels most comfortable for your ankles. \n3. Lower the weight by bending your ankles, letting your heels drop down towards the floor in a controlled movement, until you feel a deep stretch in your calves. \n4. Push the weight up by extending your ankles, lifting your heels as high as possible, contracting your calves at the top of the movement. Hold for a brief moment to maximize muscle activation. \n5. Repeat for the desired number of repetitions.",
+"form": {
+"Knee Pad": "Adjust the knee pad so that it sits comfortably on your thighs, just above your knees, providing enough resistance to keep you stable during the exercise.",
+"Foot Placement": "Place the balls of your feet on the foot support, with your heels hanging off the edge. Your toes can be pointed straight ahead or slightly outward, depending on what feels most comfortable for your ankles.",
+"Movement": "The movement should be controlled and deliberate, focusing on feeling the stretch in your calves at the bottom and the contraction at the top.",
+"Range of Motion": "Try to maximize your range of motion by lowering your heels as far as possible and raising them as high as possible."
+}
+},
+"commonMistakes": {
+"Partial Range of Motion": "Not lowering the heels enough or not raising them high enough, which reduces the effectiveness of the exercise.",
+"Using Momentum": "Swinging the body or using momentum to lift the weight, instead of using the calves muscles.",
+"Holding Breath": "Remember to breathe throughout the exercise, exhaling during the exertion phase (lifting the weight).",
+"Incorrect Knee Pad Placement": "Having the knee pad too high or too low can affect your stability and range of motion."
+},
+"comments": {
+"Muscle Focus": "Seated calf raises primarily target the soleus muscle, which is located underneath the gastrocnemius (the larger, more visible calf muscle). The soleus plays a crucial role in ankle plantarflexion (pointing your toes).",
+"Gastrocnemius Involvement": "While the seated calf raise emphasizes the soleus, the gastrocnemius is still partially involved in the movement, especially when the knees are slightly bent.",
+"Importance of Calf Training": "Strong calves are essential for various activities, including running, jumping, and walking. They also contribute to overall lower body strength and power.",
+"Stretching": "Stretching your calves regularly can help improve flexibility and prevent injuries."
+},
+"alternativesAndVariations": {
+"Standing Calf Raise": "This variation targets both the gastrocnemius and soleus muscles. The main difference is that your knees are straight, which allows for greater activation of the gastrocnemius.",
+"Donkey Calf Raise": "This variation involves bending at the hips with your torso parallel to the floor, placing more emphasis on the gastrocnemius. It can be performed with a partner or using a donkey calf raise machine.",
+"Leg Press Calf Raise": "This variation utilizes the leg press machine to perform calf raises. It allows for heavier weight and can be a good option for those who find it challenging to balance during standing calf raises.",
+"Single-Leg Calf Raise": "Performing calf raises on one leg at a time increases the intensity and challenge to the muscles, improving balance and stability."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

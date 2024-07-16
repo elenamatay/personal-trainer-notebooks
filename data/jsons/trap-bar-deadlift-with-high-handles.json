@@ -1,0 +1,34 @@
+{
+  "trap-bar-deadlift-with-high-handles": {
+    "form": {
+      "steps": "\n1. Step into the trap bar's opening and stand in the center, ensuring the handles are in line with the middle of your feet. \n2. Inhale, bend down, and grip the handles with an overhand grip, slightly wider than shoulder-width apart. \n3. Hold your breath, brace your core, keep your back straight, and lift the bar by extending your hips and knees simultaneously. \n4. Lift the bar in a controlled manner, keeping it close to your body, until you are standing straight. \n5. Lower the bar back to the ground by reversing the motion, maintaining control and a straight back. \n6. Take another breath and repeat for reps.",
+      "form": {
+        "Back": "Maintain a neutral spine and a straight back throughout the entire movement. Avoid rounding your back.",
+        "Head": "Keep your head in a neutral position, aligned with your spine. Avoid looking up or down.",
+        "Shoulders": "Keep your shoulders pulled back and down, maintaining a stable upper body.",
+        "Core": "Engage your core muscles to stabilize your spine and prevent injury.",
+        "Hips": "Initiate the lift by driving through your hips, not by pulling with your back.",
+        "Bar Path": "Keep the bar close to your body throughout the lift to maintain balance and reduce stress on your lower back."
+      }
+    },
+    "commonMistakes": {
+      "Rounding the back": "This is a common mistake that can lead to lower back injury. Make sure to keep your back straight throughout the entire movement.",
+      "Using too much weight": "Using a weight that is too heavy can also lead to injury. Start with a weight that you can lift with good form and gradually increase the weight as you get stronger.",
+      "Not engaging the core": "Failing to engage your core can make you more susceptible to injury. Make sure to brace your core muscles throughout the lift.",
+      "Lifting with your back and not your legs": "This can put a lot of strain on your lower back. Make sure to initiate the lift by driving through your hips and using your legs to lift the weight."
+    },
+    "comments": {
+      "Muscle activation": "The trap bar deadlift, particularly with high handles, engages the quadriceps more than traditional deadlifts due to the more upright torso position.",
+      "Benefits of high handles": "High handles on a trap bar reduce the range of motion, making it suitable for individuals with mobility limitations or those new to deadlifts.",
+      "Grip": "Using straps can help maintain grip if you find your forearms fatiguing before your larger muscle groups.",
+      "Progression": "As you get stronger, you can increase the weight, reps, or sets. You can also progress to using lower handles on the trap bar for a greater challenge."
+    },
+    "alternativesAndVariations": {
+      "Conventional Deadlift": "A more technical variation that emphasizes the posterior chain (lower back, glutes, hamstrings) with a greater range of motion.",
+      "Sumo Deadlift": "A variation with a wider stance and a more upright torso, targeting the inner thighs and glutes.",
+      "Rack Pulls": "Performed with the barbell elevated on a rack, reducing the range of motion and allowing for heavier loads.",
+      "Hex bar deadlift with low handles": "This variation will engage more the posterior chain (glutes, hamstrings) than using high handles, as the torso will be more horizontal."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

@@ -1,0 +1,32 @@
+{
+"lying-windshield-wiper-with-bent-knees": {
+"form": {
+"steps": "\n1. Lie on your back with your arms extended to your sides, either straight or bent at a 90-degree angle, with your palms facing down. \n2. Raise your legs and bend your knees to a 90-degree angle, so your shins are parallel to the floor. \n3. Keeping your core engaged and your upper body flat on the ground, slowly lower your legs to one side, rotating your hips. \n4. Reverse the motion, bringing your legs back to the center, and then lower them to the other side. ",
+"form": {
+"Upper Body": "Keep your upper body flat on the ground throughout the exercise.",
+"Lower Back": "Press your lower back into the ground to prevent arching.",
+"Core": "Engage your core muscles, particularly your obliques, to control the movement.",
+"Range of Motion": "Lower your legs as far as you can without lifting your upper back off the ground. The goal is to maintain tension on the obliques throughout the exercise.",
+"Breathing": "Exhale as you lower your legs and inhale as you bring them back to the center."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging your legs instead of using a controlled movement.",
+"Lifting Upper Back off the Ground": "This usually indicates that you're going too far down and losing core engagement.",
+"Holding Breath": "Remember to breathe throughout the exercise to maintain core stability."
+},
+"comments": {
+"Muscle Activation": "Lying windshield wipers primarily target the obliques, which are responsible for rotation and side bending of the torso. They also engage the abdominal muscles, particularly the rectus abdominis.",
+"Progression": "To increase the difficulty, you can straighten your legs, which increases the lever arm and makes the exercise more challenging. You can also add weight by holding a dumbbell or weight plate between your feet.",
+"Regression": "If you find the exercise too difficult, you can reduce the range of motion by not lowering your legs as far down. You can also try performing the exercise with your knees bent at a wider angle.",
+"Variations": "There are several variations of windshield wipers, including standing windshield wipers, hanging windshield wipers, and decline windshield wipers."
+},
+"alternativesAndVariations": {
+"Standing Cable Woodchops": "This exercise also targets the obliques but in a standing position, using a cable machine for resistance.",
+"Russian Twists": "A bodyweight exercise that involves rotating your torso from side to side while holding a weight or medicine ball.",
+"Side Planks": "An isometric exercise that strengthens the obliques and improves core stability. It involves holding your body in a straight line supported by your forearm and the side of your foot.",
+"Bicycle Crunches": "A dynamic exercise that targets both the obliques and the rectus abdominis. It involves bringing your opposite elbow and knee together in a twisting motion."
+},
+"tempo": "3010 (3 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+}
+}

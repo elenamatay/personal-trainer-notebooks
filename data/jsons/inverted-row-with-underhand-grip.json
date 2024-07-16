@@ -1,0 +1,34 @@
+{
+"inverted-row-with-underhand-grip": {
+"form": {
+"steps": "\n1. Set a barbell in a rack at a height that allows you to hang beneath it with your arms fully extended and your heels resting on the floor. \n2. Position yourself under the barbell and grip it with an underhand grip, hands slightly wider than shoulder-width apart. \n3. Engage your core, and initiate the movement by pulling your chest towards the bar. \n4. Pause briefly at the top of the movement when your chest reaches or nearly reaches the bar. \n5. Slowly lower yourself back down to the starting position, ensuring a controlled descent.",
+"form": {
+"Grip": "Use an underhand grip, with your hands slightly wider than shoulder-width apart.",
+"Body Position": "Maintain a straight line from your head to your heels throughout the exercise, avoiding any sagging or arching of your back.",
+"Shoulder Blades": "Pull your shoulder blades together as you pull yourself up, and keep them retracted throughout the movement.",
+"Elbows": "Keep your elbows close to your body as you pull yourself up.",
+"Range of Motion": "Pull yourself up until your chest touches the bar or as high as you can while maintaining good form."
+}
+},
+"commonMistakes": {
+"Not Engaging the Core": "Failing to engage your core can lead to excessive swinging and reduce the effectiveness of the exercise.",
+"Shrugging Shoulders": "Avoid shrugging your shoulders towards your ears during the pull. Focus on pulling with your back muscles.",
+"Using Momentum": "Relying on momentum instead of muscle strength to pull yourself up. Maintain a controlled movement throughout.",
+"Partial Range of Motion": "Not pulling yourself up high enough or lowering yourself down completely. Aim for a full range of motion to maximize muscle activation."
+},
+"comments": {
+"Muscle Activation": "The inverted row with an underhand grip primarily targets the latissimus dorsi (lats), trapezius, and rear deltoids. It also engages the biceps, forearm flexors, and rotator cuff.",
+"Progression": "To increase the difficulty, you can elevate your feet on a bench or box. To decrease the difficulty, you can raise the height of the barbell in the rack.",
+"Grip Variation": "Using an underhand grip may increase the involvement of the biceps compared to an overhand grip.",
+"Bodyweight Exercise": "The inverted row is a great bodyweight exercise that can be done with minimal equipment.",
+"Back Strength and Posture": "This exercise is beneficial for improving back strength and posture."
+},
+"alternativesAndVariations": {
+"Inverted Row with Overhand Grip": "This variation places less emphasis on the biceps and more on the back muscles. The main difference is the grip, which is overhand in this variation.",
+"Pull-Ups": "A more challenging exercise that also targets the back muscles. The main difference is that pull-ups are performed with a fixed bar and require you to lift your entire body weight.",
+"Barbell Rows": "A compound exercise that works the back muscles. The main difference is that barbell rows are performed with a barbell and require external weight.",
+"Seated Cable Rows": "A machine-based exercise that isolates the back muscles. The main difference is that seated cable rows provide a more controlled movement and allow for adjustable resistance."
+},
+"tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+}
+}

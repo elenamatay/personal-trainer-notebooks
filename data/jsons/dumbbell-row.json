@@ -1,0 +1,33 @@
+{
+"dumbbell-row": {
+    "form": {
+      "steps": "\n1. Start by placing a dumbbell on the floor beside a bench or chair. \n2. Stand facing the bench or chair and place your left hand and left knee on top of it, keeping your back flat and parallel to the ground, with a slight bend in the standing leg. \n3. Grip the dumbbell with your right hand, with an overhand grip. \n4. Inhale and pull the dumbbell up towards your chest by driving your elbow toward the ceiling, keeping your elbow close to your body. \n5. With control, lower the dumbbell back to the starting position while exhaling. \n6. Complete desired reps on one side, then switch to the opposite arm and leg.",
+      "form": {
+        "Back": "Keep your back straight and parallel to the ground throughout the exercise. Avoid rounding or arching your back.",
+        "Elbow": "Keep your elbow close to your body during the row. Avoid letting it flare out to the side.",
+        "Shoulder Blades": "Focus on pulling the weight with your back muscles, retracting your shoulder blades as you pull the dumbbell towards your chest.",
+        "Core": "Engage your core muscles to maintain stability and balance throughout the exercise.",
+        "Range of Motion": "Pull the dumbbell up as high as you can while maintaining good form. Lower the weight slowly and controlled until your arm is fully extended."
+      }
+    },
+    "commonMistakes": {
+      "Using Momentum": "Swinging the body to lift the weight instead of using the back muscles.",
+      "Pulling with the Arm": "Instead of pulling with the back muscles and leading with the elbow.",
+      "Rounding the Back": "This can lead to lower back pain and injury.",
+      "Not Controlling the Weight": "Lowering the weight too quickly or letting it drop down without control."
+    },
+    "comments": {
+      "Muscle groups used": "The dumbbell row is a great exercise for building a strong and muscular back. It primarily targets the latissimus dorsi (lats), trapezius, and rear deltoids. It also works the biceps, forearms, and core muscles.",
+      "Unilateral Exercise": "The dumbbell row is a unilateral exercise, meaning that you work one side of the body at a time. This can help to identify and correct muscle imbalances.",
+      "Grip Variations": "You can use different grip variations for the dumbbell row, such as overhand, underhand, or neutral grip. Each grip variation will slightly alter the muscle activation.",
+      "Progression": "As you get stronger, you can increase the weight of the dumbbells. You can also make the exercise more challenging by performing it with your chest supported on an incline bench."
+    },
+    "alternativesAndVariations": {
+      "Barbell Row": "A compound exercise that works the same muscle groups as the dumbbell row. The main difference is that you use a barbell instead of dumbbells, which can allow you to lift heavier weight.",
+      "T-Bar Row": "Another compound exercise that targets the back muscles. It is performed on a T-bar machine, which provides a more stable base of support than the dumbbell row.",
+      "Pull-Ups": "A bodyweight exercise that is a great way to build upper body strength. It works the same muscle groups as the dumbbell row, but it is more challenging.",
+      "Seated Cable Rows": "A cable machine exercise that provides a constant tension throughout the movement. It is a good alternative to the dumbbell row if you have access to a cable machine."
+    },
+    "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)"
+  }
+}

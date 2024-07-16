@@ -1,0 +1,31 @@
+{
+"barbell-wrist-curl": {
+"form": {
+"steps": "\n1. Sit on a bench with your feet flat on the floor, shoulder-width apart. \n2. Grab a barbell with an underhand grip, slightly narrower than shoulder-width. \n3. Rest your forearms on your thighs, with your wrists extending beyond your knees. \n4. Lower your hands towards the floor, allowing the barbell to roll down your fingers towards your fingertips, until you feel a good stretch in your forearms. \n5. Reverse the motion by closing your grip and bending your wrists upwards, curling the barbell as high as possible. \n6. Hold the contraction at the top for a moment, then slowly lower the barbell back to the starting position.",
+"form": {
+"Grip": "Underhand grip, slightly narrower than shoulder-width apart.",
+"Forearms": "Keep your forearms resting on your thighs throughout the exercise.",
+"Wrists": "Allow the barbell to roll down your fingers during the eccentric phase, and curl it up using only your wrist muscles during the concentric phase.",
+"Movement": "The movement should only occur at the wrist joint. Keep your elbows and shoulders stationary."
+}
+},
+"commonMistakes": {
+"Using Momentum": "Swinging the barbell using momentum from your body instead of isolating the wrist muscles.",
+"Partial Range of Motion": "Not lowering the barbell far enough or not curling it up high enough, which reduces the effectiveness of the exercise.",
+"Gripping Too Tightly": "Gripping the barbell too tightly can engage your forearms more than your wrist flexors. Use a light to moderate weight and focus on the mind-muscle connection.",
+"Incorrect Forearm Position": "Not resting your forearms on your thighs properly, which can lead to improper form and potential injury."
+},
+"comments": {
+"Muscle group": "Barbell wrist curls primarily target the forearm flexors, which are responsible for bending the wrist and closing the hand.",
+"Grip Strength": "Strengthening the forearm flexors can improve grip strength, which is beneficial for various activities, including weightlifting, rock climbing, and everyday tasks.",
+"Alternative execution": "As an alternative, you can perform the exercise with a dumbbell, or rest your forearms against a bench instead of your legs."
+},
+"alternativesAndVariations": {
+"Dumbbell Wrist Curl": "This variation allows for unilateral training, which can help address strength imbalances between the forearms.",
+"Reverse Wrist Curl": "This exercise targets the opposing muscle group, the forearm extensors, which are responsible for extending the wrist.",
+"Farmer's Carry": "This compound exercise involves holding heavy weights in each hand and walking for a certain distance. It effectively engages the forearm muscles, including the flexors.",
+"Plate Pinch": "This exercise involves pinching weight plates together with your fingers and holding for time. It specifically targets the muscles involved in grip strength."
+},
+"tempo": "2011 (2 seconds lowering the barbell, 0 seconds pause at the bottom, 1 second lifting the barbell, 1 second pause at the top)"
+}
+}
