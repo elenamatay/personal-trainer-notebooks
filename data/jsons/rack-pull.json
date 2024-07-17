@@ -1,0 +1,34 @@
+{
+    "rack-pull": {
+        "form": {
+            "steps": "\n1. Set the barbell up on a squat rack, platform, or blocks, at a desired height (usually lightly below your knee caps). \n2. Stand close to the bar, so that it is over the middle of your foot. \n3. Inhale, lean forward with your back straight and bend your knees slightly, as little as needed to grip the bar. \n4. Grip the barbell, hold your breath, brace your core, and lift it off the ground by extending your hips and knees at the same time. \n5.  Pull the bar close to your body with a straight back, until you are standing straight. \n6. Lower the barbell back down to the starting position in a controlled manner.",
+            "form": {
+                "Back": "Maintain a neutral spine throughout the entire movement. Avoid rounding or arching your back.",
+                "Core": "Engage your core to maintain stability and keep your spine in a neutral position.",
+                "Hips": "Initiate the movement with a hip hinge, pushing your hips back as you lower yourself down. Don't squat down like a traditional deadlift.",
+                "Knees": "Track your knees over your toes and avoid letting them cave inward.",
+                "Bar Path": "The bar should travel in a straight line vertically, as close to your body as possible.",
+                "Grip": "Use an overhand grip, slightly wider than shoulder-width apart."
+            }
+        },
+        "commonMistakes": {
+            "Rounding Back": "This is a common mistake that can put strain on your lower back. Keep your core engaged and maintain a neutral spine throughout the movement.",
+            "Lifting with your Back": "You should be lifting with your legs and hips, not your back. Keep your core engaged and use your leg drive to lift the weight.",
+            "Not Keeping the Bar Close": "The bar should travel close to your body throughout the entire movement. If it drifts away from your body, it can put more stress on your lower back.",
+            "Using Too Much Weight": "Use a weight that allows you to maintain good form throughout the entire movement.",
+            "Bending Knees Too Early": "Focus on hinging at the hips first, then bending your knees as you lower yourself down."
+        },
+        "comments": {
+            "Rack Pull vs Deadlift":"The rack pull is a variation of the regular deadlift, in which you have elevated the bar (in a rack or on a pair of blocks) in order to start the lift at a higher position. This makes the rack pull a partial deadlift with a shorter range of motion. This generally means that you are able to pull heavier loads and it also shifts more of the work to your posterior chain muscles.",
+            "Proper Barbell Height":"How high should you place the barbell in the starting position? Should you do rack pulls above or below your knee? \nThe best height for you to do your rack pulls from depends on your goal. \n1. Do you want to strengthen your sticking point in the deadlift? Place the barbell just below it. \n2. Do you want to emphasize your posterior muscle groups? Set the barbell at a height which gives you great muscle contact. \n3. Are you trying to train around an injury? Place the barbell at a height that let’s you lift without pain or discomfort. Well, as free of discomfort as deadlifts ever get. \nAs a rule of thumb, somewhere from 10 cm up to around knee level is a good range to shoot for, for general strength and muscle building purposes.",
+            "Rack Pull Benefit: Easier on Your Back than Deadlift":"If you currently have back issues keeping you from performing the deadlift off the floor, rack pulls can be a way to work around that. Test various heights and techniques and see if you can find something that you can perform pain-free, and the rack pull can help you not only maintain (or build) strength and mass in your deadlift muscles, but also help you rehabilitate and get back to regular deadlifts sooner.",
+            "Rack Pull Benefit: Learning Tool For the Deadlift":"For some people, learning the deadlift can be tricky. One way to learn it is to simply work your way down from the top: 1. Begin with a barbell in a rack, placed somewhere above your knee. Practice bending forward by hinging in your hips and keeping a neutral back while you lift. 2. As you gain proficiency, lower the barbell rather than adding weight, and keep practicing. 3. Eventually you should be able to lower the barbell all the way to the floor. Voilà! You’re doing regular deadlifts! Now you can move on to adding weight to the bar.",
+            "Rack Pull grip and strength limits":"Rack pull allows to lift heavier weights than deadlift to the same person, so your grip strength might get challenged beyond its capacity. This makes the rack pull a great exercise for strengthening your grip. However, if your goal is to strengthen the larger muscle groups of your back, hips, and legs, we would recommend using lifting straps if necessary to be able to lift more weight.",
+            "Posterior Chain Muscles Isolation":"Because the rack pull begins at a greater height, your knees don’t need to bend and extend as much as in the conventional deadlift. This takes work off your quadriceps and shifts the remainder of the work to your posterior chain muscles: your glutes, lower back, hamstrings, and trapezius. You can emphasize your posterior chain even further by performing the rack pull with a Romanian deadlift-style technique, meaning that you only bend your knees slightly and instead only hinge at the hips.",
+            "Are Rack Pulls Bad for My Lower Back?":"All forms of deadlifts can be both good and bad for your back – it all comes down to factors such as technique, load, and training volume. Deadlifts performed with good technique, at a load and training volume which you have worked up to and which is well within your capacity is good for your back. On the contrary, doing too much, too soon, and lifting with a horrible technique can definitely be bad for your back. If you learn how to do rack pulls properly, and gradually increase the load and training volume, they will strengthen your back, and make it healthier and more resilient.",
+            "Rack-pull target personas": "The rack-pull is a variation of the deadlift that is performed with a higher starting position. This can be beneficial for people with limited mobility, low-back pain when executing deadlift, those who want to focus on the upper part of the deadlift movement, or those learning deadlift.",
+            "Alternatives": "For a more challenging variation, you can perform the rack-pull from the floor. This is, a conventional deadlift."
+        },
+        "tempo": "X011 (Lowering the bar keeping a controlled eccentric which is usually 1-3 seconds, 0 seconds pause at the bottom, 1 second lifting the bar, 1 second pause at the top)"
+    }
+}    

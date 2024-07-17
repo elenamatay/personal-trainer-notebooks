@@ -1,0 +1,37 @@
+{
+    "goblet-squat": {
+        "form": {
+            "steps": "\n1. Hold a kettlebell or dumbbell (usually kettlebell) at chest level, close to your body. \n2. Stand with your feet shoulder-width apart, toes slightly pointed outward. \n3. Inhale, lightly brace your core, and squat down as if you were going to sit in a chair, keeping your back straight and your knees tracking over your toes. \n4. Lower yourself until your thighs are parallel to the ground (or as low as you can comfortably go without compromising your form). \n5. Push through your heels to stand back up to the starting position. Exhale on the way up.",
+            "form": {
+                "Back": "Keep your back straight and neutral throughout the entire movement.",
+                "Core": "Engage your core to maintain stability and keep your spine in a neutral position.",
+                "Knees": "Track your knees over your toes and avoid letting them cave inward.",
+                "Depth": "Squat down as low as you can comfortably go without compromising your form. Aim for at least parallel depth (thighs parallel to the ground).",
+                "Weight": "Hold the weight close to your chest throughout the movement."
+            }
+        },
+        "commonMistakes": {
+            "Rounding Back": "This can put strain on your lower back. Keep your core engaged and maintain a neutral spine throughout the movement.",
+            "Letting Knees Cave In": "This can put strain on your knees. Track your knees over your toes and avoid letting them cave inward.",
+            "Not Squatting Deep Enough": "Squat down as low as you can comfortably go to get the most out of the exercise. Aim for at least parallel depth.",
+            "Using Too Much Weight": "Use a weight that allows you to maintain good form throughout the entire movement.",
+            "Valsalva Maneuver": "Avoid performing a Valsalva maneuver (holding your breath and straining) during the exercise. This can increase your blood pressure."
+        },
+        "comments": {
+            "Barbell vs Goblet squat": "The main difference between the goblet squat and the barbell squat is, of course, the tool you use.",
+            "Grip on the Weight":"The point of the exercise is to work your legs, glutes, and core – not your arms or grip. Therefore, try to find a way to hold the weight that is as comfortable and easy as possible. The better grip you can get, the more weight you can use, which means that your lower body is going to get a better workout. If you’re using a kettlebell, grasp it by the “horns” close to the ball. Point your forearms up and keep the kettlebell close to your chest, even leaning it against your chest if comfortable. If you’re using something else for weight, like a dumbbell or a weight plate, the same principle still applies: try to make holding the weight as easy as possible. The whole point is to train your lower body and core, not your arms.",
+            "Stance and Foot position": "A stance around shoulder-width or slightly wider than hip-width is a good place to start testing, but experiment with a wider or narrower stance if it doesn’t feel good. Your toes should point in roughly the same direction that your knees travel when you squat down. That is probably not going to be 100% straight forward, but rather slightly outwards. Once again, move around a bit and experiment. As a rule of thumb, the wider your stance, the more your toes will point outward.",
+            "Breathing": "Breathing is important in the goblet squat, as in all exercises. Inhale on the way down, and exhale on the way up. This is the natural way to breathe during the exercise, and it also helps you to keep your core engaged and stable.",
+            "Depth": "How deep you should squat is a common question. The answer is that it depends on your mobility and comfort. The most important thing is that you squat down to at least parallel depth, where your thighs are parallel to the ground. If you can squat deeper without compromising your form, that’s great. But if you can’t, that’s fine too. Just squat as deep as you can comfortably go.",
+            "Goblet Squat Benefits":"1. The goblet squat is a great exercise for beginners to learn proper squat form, as well as for more advanced lifters to use as a warm-up or accessory exercise. 2. The goblet squat can act as a great stepping stone towards the barbell back squat, giving you a chance to practice the movement pattern, find your preferred stance, and develop some strength and flexibility in the right structures. 3. A lot of the times that you should use your core strength in a real world setting, you will find yourself in something very similar to the goblet squat. And knowing how to perform the exercise may make you unconciously brace your core, maintaining a better posture and avoiding injuries. It is also back friendly. Because of how the weight acts as a counterweight and let’s you keep your torso upright, the lower back typically likes the goblet squat.",
+            "Muscles involved": "The goblet squat primarily targets the quads, glutes, and adductors. Secondarily, your calves and lower back are in on the work, as well as some of your deep core muscles. Thus, it is an exercise that engages multiple muscle groups and can help improve lower body strength and stability."
+        },
+        "alternativesAndVariations": {
+            "Bodyweight Squat": "The bodyweight squat is a good beginner exercise or a variation to perform without any weight. Main difference on the effect the tool has on the exercise, are that it’s usually much easier to squat down deep in the goblet squat and, on the other hand, you can usually lift much more weight in the barbell squat.",
+            "Bulgarian Split Squat": "The Bulgarian split squat is a more challenging variation that can be performed with dumbbells or a barbell. It targets each leg individually.",
+            "Front Squat": "The front squat is another variation that can be performed with a barbell. It requires more upper body mobility than the goblet squat.",
+            "Hack Squat": "The hack squat is a machine exercise that isolates the quadriceps muscles. It can be a good option for people with lower back problems."
+        },
+        "tempo": "2010? - There is no single recommended tempo for goblet squats. However, a good tempo to focus on form and control is 2010 (2 seconds lowering yourself down, 0 seconds pause at the bottom, 1 second standing back up, and 0 seconds pause at the top)."
+    }
+}

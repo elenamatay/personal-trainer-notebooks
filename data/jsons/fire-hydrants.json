@@ -1,0 +1,30 @@
+
+{
+    "fire-hydrant": {
+        "form": {
+            "steps": "\n1. Start on all fours, with your hands directly under your shoulders and your knees hip-width apart. \n2. Engage your core and lift one leg off the ground by using your glutes muscles, keeping it bent at a 90-degree angle. \n3. Lift your leg out to the side as high as you can comfortably go, keeping your hips square and your core engaged. \n4. Slowly lower your leg back down to the starting position in a controlled manner. \n5. Repeat.",
+            "form": {
+                "Core": "Engage your core throughout the entire movement to maintain stability and prevent your back from arching.",
+                "Back": "Keep your back flat and neutral, avoiding any rounding or arching.",
+                "Hips": "Keep your hips square and facing forward throughout the movement.",
+                "Leg": "Keep the working leg bent at a 90-degree angle throughout the movement. Focus on lifting the leg with your hip muscles, not your lower back."
+            }
+        },
+        "commonMistakes": {
+            "Arching Back": "This can put strain on your lower back. Maintain a neutral spine throughout the movement.",
+            "Swinging Leg": "Avoid swinging your leg up with momentum. Lift it slowly and controlled using your hip muscles.",
+            "Rotating Hips": "Keep your hips square and facing forward. Avoid rotating your hips to the side.",
+            "Not Engaging Core": "A strong core is essential for maintaining stability. Engage your core throughout the movement."
+        },
+        "comments": {
+            "Glutes emphasis":"Fire hydrants are a great exercise for targeting the gluteus medius, which is an important muscle for hip stability and overall lower body strength. It's a suitable exercise to do at home, since it does not require any equipment. It can also be used to activate the glutes before a workout.",
+            "Variations": "You can perform this exercise with a resistance band looped around your knees, or with an ankle wight, for added difficulty."
+        },
+        "alternativesAndVariations": {
+            "Side Plank": "The side plank is another exercise that targets the obliques and core muscles. It is a static exercise that requires you to hold your body in a side-lying position with your forearm on the ground.",
+            "Russian Twist": "The Russian twist is another exercise that targets the obliques and core muscles. It involves sitting on the ground with your knees bent and feet flat on the floor, and then rotating your torso from side to side.",
+            "Plank with Leg Raise": "This is a variation of the standard plank that adds difficulty by requiring you to raise one leg off the ground at a time."
+        },
+        "tempo": "3101 (2-4 seconds for lowering the leg (controlled eccentric), 1 seconds pause at the bottom, 0-1 second for raising the leg (explosive movement contracting the glutes), 1 second pause at the top)"
+    }
+}

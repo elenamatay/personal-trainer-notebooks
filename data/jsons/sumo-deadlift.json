@@ -1,36 +1,36 @@
 {
-"sumo-deadlift": {
-"form": {
-"steps": "\n1. Stand with your feet wider than shoulder-width apart, toes pointing slightly outward, with the barbell over the middle of your feet. \n2. Bend at your hips and knees, keeping your back straight and your shins vertical. \n3. Grip the barbell with an overhand grip, slightly wider than your stance. \n4. Inhale deeply, engage your core, and lift the bar off the ground by extending your hips and knees simultaneously. Keep the barbell close to your body throughout the movement. \n5. Stand upright, with your shoulders pulled back and your core braced. \n6. Lower the barbell back to the ground by reversing the movement, keeping your back straight and the barbell close to your body.",
-"form": {
-"Back": "Maintain a neutral spine throughout the entire lift, avoiding any rounding or arching.",
-"Head": "Keep your head in line with your spine, looking straight ahead.",
-"Shoulders": "Keep your shoulders pulled back and down, avoiding any shrugging.",
-"Hips": "Start with your hips lower than your shoulders and raise them at the same rate as your chest during the lift.",
-"Bar Path": "The bar should travel in a straight line vertically, as close to your body as possible.",
-"Grip": "Use an overhand grip, slightly wider than your stance. You can use a mixed grip (one hand overhand, one hand underhand) if needed for heavier weights, but it's generally recommended to stick with an overhand grip whenever possible."
-}
-},
-"commonMistakes": {
-"Rounding the Back": "This is one of the most common and dangerous mistakes. It puts excessive stress on the lower back and can lead to injury.",
-"Squatting the Deadlift": "The sumo deadlift should be initiated with a hip hinge, not a squat. Don't let your knees move forward too much before your hips start to rise.",
-"Lifting with your Back": "You should be lifting with your legs and hips, not your back. Keep your core engaged and your back straight.",
-"Not Keeping the Bar Close": "The bar should travel as close to your body as possible. If it drifts away, it puts more stress on your lower back.",
-"Jerking the Weight": "Lift the weight smoothly and controlled. Avoid jerking or yanking the bar, as this can lead to injury."
-},
-"comments": {
-"Muscle groups used": "The sumo deadlift is a compound exercise that primarily targets the glutes, hamstrings, and lower back. It also works the quads, adductors, traps, and forearms.",
-"Wide Stance": "The sumo deadlift is characterized by its wide stance and outward-pointing toes, which allows for a more upright torso and a shorter range of motion compared to the conventional deadlift.",
-"Hip Dominant": "The sumo deadlift is considered a more hip-dominant variation of the deadlift, which can be beneficial for lifters with longer legs or those who struggle with conventional deadlifts.",
-"Grip Strength": "Grip strength can be a limiting factor in the sumo deadlift. If you find that your grip is failing, you can use lifting straps to help you hold onto the bar.",
-"Experiment with Stance": "It's important to experiment with different stance widths to find what feels most comfortable and strongest for you."
-},
-"alternativesAndVariations": {
-"Conventional Deadlift": "The most common deadlift variation, performed with a narrower stance and the hands outside the knees. It places more emphasis on the back muscles.",
-"Hex/Trap Bar Deadlift": "Performed using a hex bar or trap bar, which allows for a more neutral grip and can be easier on the lower back.",
-"Romanian Deadlift (RDL)": "A deadlift variation that focuses on the hamstrings and glutes. It involves keeping the legs relatively straight and lowering the weight to just below the knees.",
-"Good Mornings": "Another exercise that targets the posterior chain (glutes, hamstrings, and lower back). It involves bending at the hips with a barbell across the upper back."
-},
-"tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
-}
+    "sumo-deadlift": {
+        "form": {
+            "steps": "\n1. Stand with your feet wider than shoulder-width apart, toes pointing slightly outward, with the barbell over the middle of your feet. \n2. Bend at your hips and knees, keeping your back straight and your shins vertical. \n3. Grip the barbell with an overhand grip, slightly wider than your stance. \n4. Inhale deeply, engage your core, and lift the bar off the ground by extending your hips and knees simultaneously. Keep the barbell close to your body throughout the movement. \n5. Stand upright, with your shoulders pulled back and your core braced. \n6. Lower the barbell back to the ground by reversing the movement, keeping your back straight and the barbell close to your body.",
+            "form": {
+                "Back": "Maintain a neutral spine throughout the entire lift, avoiding any rounding or arching.",
+                "Head": "Keep your head in line with your spine, looking straight ahead.",
+                "Shoulders": "Keep your shoulders pulled back and down, avoiding any shrugging.",
+                "Hips": "Start with your hips lower than your shoulders and raise them at the same rate as your chest during the lift.",
+                "Bar Path": "The bar should travel in a straight line vertically, as close to your body as possible.",
+                "Grip": "Use an overhand grip, slightly wider than your stance. You can use a mixed grip (one hand overhand, one hand underhand) if needed for heavier weights, but it's generally recommended to stick with an overhand grip whenever possible."
+            }
+        },
+        "commonMistakes": {
+            "Rounding the Back": "This is one of the most common and dangerous mistakes. It puts excessive stress on the lower back and can lead to injury.",
+            "Squatting the Deadlift": "The sumo deadlift should be initiated with a hip hinge, not a squat. Don't let your knees move forward too much before your hips start to rise.",
+            "Lifting with your Back": "You should be lifting with your legs and hips, not your back. Keep your core engaged and your back straight.",
+            "Not Keeping the Bar Close": "The bar should travel as close to your body as possible. If it drifts away, it puts more stress on your lower back.",
+            "Jerking the Weight": "Lift the weight smoothly and controlled. Avoid jerking or yanking the bar, as this can lead to injury."
+        },
+        "comments": {
+            "Muscle groups used": "The sumo deadlift is a compound exercise that primarily targets the glutes, hamstrings, and lower back. It also works the quads, adductors, traps, and forearms.",
+            "Wide Stance": "The sumo deadlift is characterized by its wide stance and outward-pointing toes, which allows for a more upright torso and a shorter range of motion compared to the conventional deadlift.",
+            "Hip Dominant": "The sumo deadlift is considered a more hip-dominant variation of the deadlift, which can be beneficial for lifters with longer legs or those who struggle with conventional deadlifts.",
+            "Grip Strength": "Grip strength can be a limiting factor in the sumo deadlift. If you find that your grip is failing, you can use lifting straps to help you hold onto the bar.",
+            "Experiment with Stance": "It's important to experiment with different stance widths to find what feels most comfortable and strongest for you."
+        },
+        "alternativesAndVariations": {
+            "Conventional Deadlift": "The most common deadlift variation, performed with a narrower stance and the hands outside the knees. It places more emphasis on the back muscles.",
+            "Hex/Trap Bar Deadlift": "Performed using a hex bar or trap bar, which allows for a more neutral grip and can be easier on the lower back.",
+            "Romanian Deadlift (RDL)": "A deadlift variation that focuses on the hamstrings and glutes. It involves keeping the legs relatively straight and lowering the weight to just below the knees.",
+            "Good Mornings": "Another exercise that targets the posterior chain (glutes, hamstrings, and lower back). It involves bending at the hips with a barbell across the upper back."
+        },
+        "tempo": "1010 (1 second lowering, 0 seconds pause at the bottom, 1 second lifting, 0 seconds pause at the top)"
+    }
 }

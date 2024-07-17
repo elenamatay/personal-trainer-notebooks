@@ -1,30 +1,30 @@
 {
-"barbell_curl": {
-"form": {
-"Steps": "\n1. Grip a bar with an underhand (supinated) grip, hands about shoulder-width apart. \n2. Stand with your feet about hip-width apart. \n3. Lift the bar with control, by flexing your elbows. \n4. Don’t let your upper arm travel back during the curl, keep it at your side or move it slightly forward. \n5. Reverse the movement and lower the bar back to the starting position.",
-"Form": {
-"Grip": "Grip the barbell with a shoulder-wide grip.",
-"Stance": "Stand with your feet about hip-width apart and make sure that you’re standing in a stable position.",
-"Posture": "Keep a good posture, and brace your core during the entire movement.",
-"Movement": "Curl up the barbell, and make sure that you keep your elbows close to your body the entire time. Your body shouldn’t move, just the arms. \nIf you start to swing to move the barbell with help from the momentum of the body, you should probably remove some weight instead and focus on performing the movement with control."
-}
-},
-"tempo": "2011",
-"commonMistakes": {
-"1. Elbow positioning": "If your elbows move forward while you’re lifting the weight, it will put an additional load on your front delts, instead of focusing on your biceps. If your elbows move backward, you’ll also move the load from your biceps and be able to “cheat up” the weight.",
-"2. Using too heavy weights": "By adding more weight than you can lift, you might start to swing your body and use momentum to get the weight up. Another sign of using too much weight is if you’re not using the full range of motion and start doing half reps instead.",
-"3. Not locking your wrists": "Keep your wrists straight during the movement. If they’re bent, it can put an unnecessary load on them and lead to discomfort and maybe even injuries."
-},
-"comments": {
-"Popularity": "The barbell curl is one of the most classic (and best) exercises you can do for your biceps.",
-"Pro tip": "For the best training effect on your biceps, you should maintain a strict form, where your muscles are under constant tension. To accomplish this, avoid letting your elbows travel backward during the lift, and also keep tension in the muscles in the bottom position."
-},
-"alternativesAndVariations": {
-"Dumbbell Curl": "Dumbbell curls allow for a greater range of motion than the barbell curl since each arm works independently. This can also help to address any muscle imbalances.",
-"Hammer Curl": "The hammer curl is practically the same as the dumbbell curl, but it targets the muscles brachialis and brachioradialis a bit more.",
-"Machine Bicep Curl": "The machine curl provides more stability than the barbell curl, as they keep you in a fixed path of motion. This might be beneficial, especially for beginners, or if you want to be able to focus on your biceps without any distractions like balance and stabilization. However, the machines typically have less versatility, with most offering a fixed grip width and position that might not fit all lifters.",
-"Preacher Curl": "If you have difficulties getting good muscle contact in the barbell or dumbbell curl, the preacher curl might be a good alternative. By resting your upper arms on the sloping pad of the preacher bench, you get more stabilization, and it eliminates the possibility of moving your elbows and creating excessive momentum.",
-"Bodyweight Curl": "The bodyweight curl is a good alternative for training biceps if you don’t have access to any external weight. All you need is a TRX or something similar to hang on to, and then use your own body weight and gravity as resistance."
-}
-}
+    "barbell_curl": {
+        "form": {
+            "Steps": "\n1. Grip a bar with an underhand (supinated) grip, hands about shoulder-width apart. \n2. Stand with your feet about hip-width apart. \n3. Lift the bar with control, by flexing your elbows. \n4. Don’t let your upper arm travel back during the curl, keep it at your side or move it slightly forward. \n5. Reverse the movement and lower the bar back to the starting position.",
+            "Form": {
+                "Grip": "Grip the barbell with a shoulder-wide grip.",
+                "Stance": "Stand with your feet about hip-width apart and make sure that you’re standing in a stable position.",
+                "Posture": "Keep a good posture, and brace your core during the entire movement.",
+                "Movement": "Curl up the barbell, and make sure that you keep your elbows close to your body the entire time. Your body shouldn’t move, just the arms. \nIf you start to swing to move the barbell with help from the momentum of the body, you should probably remove some weight instead and focus on performing the movement with control."
+            }
+        },
+        "tempo": "2011",
+        "commonMistakes": {
+            "1. Elbow positioning": "If your elbows move forward while you’re lifting the weight, it will put an additional load on your front delts, instead of focusing on your biceps. If your elbows move backward, you’ll also move the load from your biceps and be able to “cheat up” the weight.",
+            "2. Using too heavy weights": "By adding more weight than you can lift, you might start to swing your body and use momentum to get the weight up. Another sign of using too much weight is if you’re not using the full range of motion and start doing half reps instead.",
+            "3. Not locking your wrists": "Keep your wrists straight during the movement. If they’re bent, it can put an unnecessary load on them and lead to discomfort and maybe even injuries."
+        },
+        "comments": {
+            "Popularity": "The barbell curl is one of the most classic (and best) exercises you can do for your biceps.",
+            "Pro tip": "For the best training effect on your biceps, you should maintain a strict form, where your muscles are under constant tension. To accomplish this, avoid letting your elbows travel backward during the lift, and also keep tension in the muscles in the bottom position."
+        },
+        "alternativesAndVariations": {
+            "Dumbbell Curl": "Dumbbell curls allow for a greater range of motion than the barbell curl since each arm works independently. This can also help to address any muscle imbalances.",
+            "Hammer Curl": "The hammer curl is practically the same as the dumbbell curl, but it targets the muscles brachialis and brachioradialis a bit more.",
+            "Machine Bicep Curl": "The machine curl provides more stability than the barbell curl, as they keep you in a fixed path of motion. This might be beneficial, especially for beginners, or if you want to be able to focus on your biceps without any distractions like balance and stabilization. However, the machines typically have less versatility, with most offering a fixed grip width and position that might not fit all lifters.",
+            "Preacher Curl": "If you have difficulties getting good muscle contact in the barbell or dumbbell curl, the preacher curl might be a good alternative. By resting your upper arms on the sloping pad of the preacher bench, you get more stabilization, and it eliminates the possibility of moving your elbows and creating excessive momentum.",
+            "Bodyweight Curl": "The bodyweight curl is a good alternative for training biceps if you don’t have access to any external weight. All you need is a TRX or something similar to hang on to, and then use your own body weight and gravity as resistance."
+        }
+    }
 }
