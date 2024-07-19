@@ -1,9 +1,35 @@
 {
-    "form": {
-        "Steps": "1. Lie on a bench and have a partner place a board on your chest. Alternatively, secure it with a band on the barbell. \n2. Grip the barbell at your desired width and unrack the weight. \n3. Lower the bar until it touches the board, and make sure to keep the tension in your upper body to maintain position. \n4. Press the barbell back up to the starting position in a controlled, explosive movement."
-    },
-    "tempo": "2010. Why? The board press emphasizes the top half of the bench press movement. A controlled eccentric is still important, and the brief pause at the top helps reinforce lockout strength.",
-    "commonMistakes": "",
-    "comments": "",
-    "alternativesAndVariations": "Bench press and all its variations"
+    "board-press": {
+        "form": {
+            "Steps": "\n1. Lie on a bench with your feet flat on the floor. Have a partner place a board on your chest, ensuring it's securely positioned and won't slip. Alternatively, you can secure the board with a band on the barbell, but make sure it doesn't interfere with the bar path. \n2. Grip the barbell with an overhand grip, slightly wider than shoulder-width apart. This grip width can be adjusted based on your individual comfort and leverages. \n3. Unrack the weight by straightening your arms, making sure the board is firmly in place before removing the barbell from the rack. \n4. Lower the bar in a controlled manner until it touches the board on your chest. Maintain tension in your upper body throughout the movement to keep your body stable and the board in position. \n5. Press the barbell back up to the starting position, extending your arms fully. The movement should be controlled and powerful, focusing on pushing through the board.",
+            "Form": {
+                "Grip": "Overhand grip, slightly wider than shoulder-width apart (can be adjusted for comfort).",
+                "Elbows": "Keep your elbows slightly tucked in, not flared out, to protect your shoulder joints and engage the triceps effectively.",
+                "Back": "Maintain a slight arch in your back, ensuring your shoulder blades are pulled back and down towards your hips. This helps create a stable base for the lift.",
+                "Chest": "Lower the bar to the board on your chest, maintaining a consistent point of contact throughout the set.",
+                "Feet": "Keep your feet flat on the floor, providing a stable base and helping you generate leg drive when pressing the weight."
+            }
+        },
+        "commonMistakes": {
+            "Board Slipping": "Ensure the board is securely placed to prevent it from slipping during the exercise, which can disrupt your lift and potentially lead to injury.",
+            "Incorrect Grip Width": "Experiment with different grip widths to find what feels most comfortable and allows for the strongest press. An improper grip can lead to discomfort or inefficient force transfer.",
+            "Losing Tension": "Maintain tension throughout your body during the exercise. Losing tension, especially in your core or back, can compromise stability and increase the risk of injury.",
+            "Bouncing the Bar": "Avoid bouncing the bar off the board. This can cause unnecessary stress on your joints and doesn't contribute to muscle growth.",
+            "Uneven Descent": "Lower the bar in a controlled and even manner. An uneven descent can lead to muscle imbalances and increase the risk of injury."
+        },
+        "tempo": "2011 (2 seconds lowering, 0 seconds pause at the bottom, 1 second lifting, 1 second pause at the top)",
+        "comments": {
+            "Purpose": "The board press is a variation of the bench press that limits the range of motion, making it easier to handle heavier weights and target specific muscle groups.",
+            "Lockout Strength": "By reducing the range of motion, the board press places a greater emphasis on the top portion of the lift, helping to improve lockout strength.",
+            "Overload and Progression": "The board press allows you to overload the muscles involved in the bench press with heavier weights than you could handle with a full range of motion. This can be beneficial for breaking through plateaus and increasing overall strength.",
+            "Board Thickness": "The thickness of the board used can be adjusted to vary the range of motion. Thicker boards reduce the range of motion, while thinner boards allow for a greater range of motion.",
+            "Assistance Exercise": "The board press is often used as an assistance exercise to improve bench press performance, but it can also be incorporated as a standalone exercise in your training program."
+        },
+        "alternativesAndVariations": {
+            "Bench Press": "The board press is a variation of the standard bench press, which involves a greater range of motion. The bench press works a wider range of muscles in the chest, shoulders, and triceps.",
+            "Floor Press": "Similar to the board press, the floor press limits the range of motion but is performed lying on the floor instead of a bench. This variation can be beneficial for improving lockout strength and stability.",
+            "Pin Press": "Performed by setting the safety pins in a power rack at a specific height and pressing the barbell from the pins. This variation allows you to work on a specific range of motion and can be beneficial for improving power output.",
+            "Close-Grip Bench Press": "A variation of the bench press that uses a narrower grip, shifting the emphasis to the triceps muscles. This exercise can be beneficial for building triceps strength and improving lockout power."
+        }
+    }
 }

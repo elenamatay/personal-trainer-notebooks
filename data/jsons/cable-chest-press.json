@@ -1,10 +1,30 @@
 {
-    "form": {
-        "Steps": "1. Fasten a pair of handles in the top position of a cable cross. Grip the handles, step forward, and lean slightly forward. \n2. Push the handles forward until they meet in front of your body. \n3. With control, let the handles go back to the starting position.",
-        "Form":" "
-    },
-    "tempo": "2010. Why? Cables provide constant tension, so a 2-second eccentric and smooth transition to the concentric maintain that tension for optimal muscle growth.",
-    "commonMistakes": " ",
-    "comments": "Cable chest press is a pressing exercise with a different resistance curve than for example dumbbell chest press, as the direction of resistance comes more from the sides. That might make it easier to keep tension on the chest muscles throughout the whole movement, and thus possibly benefit muscle growth.",
-    "alternativesAndVariations": "Dumbbel chest press, Bench press and all its variations."
+    "cable-chest-press": {
+        "form": {
+            "steps": "\n1. Fasten a pair of handles to the high pulleys of a cable cross machine. \n2. Grip the handles with a neutral grip (palms facing each other), step forward, positioning yourself in the middle of the cable machine, and stand with your feet shoulder-width apart. \n3. Lean slightly forward from your hips, maintaining a straight back. \n4. Push the handles forward until they meet in front of your body, keeping a slight bend in your elbows. \n5. With control, let the handles go back to the starting position, feeling a stretch in your chest muscles. Don't let the weight pull your shoulders forward.",
+            "form": {
+                "Torso": "Maintain a slight forward lean with a straight back throughout the exercise.",
+                "Elbows": "Keep a slight bend in your elbows throughout the movement to protect your elbow joints.",
+                "Shoulders": "Don't let the weight pull your shoulders forward at the end of the movement. Keep your shoulders back and down.",
+                "Chest": "Focus on using your chest muscles to push the handles forward, feeling a stretch in your chest as you return to the starting position."
+            }
+        },
+        "commonMistakes": {
+            "Not keeping core engaged": "Failing to engage your core, which can lead to excessive arching of the back and potential injury.",
+            "Using too much momentum": "Using momentum to swing the weight instead of controlling the movement with your chest muscles.",
+            "Locking out elbows": "Locking out your elbows at the top of the movement, which can put stress on your elbow joints.",
+            "Not controlling the negative": "Allowing the weight to pull your arms back too quickly, which can increase the risk of injury and reduce muscle activation."
+        },
+        "tempo": "2011 (2 seconds pushing the handles forward, 0 seconds pause, 1 second bringing the handles back, 1 second pause)",
+        "comments": {
+            "Muscle activation": "Cable chest press is a pressing exercise with a different resistance curve than for example dumbbell chest press, as the direction of resistance comes more from the sides. That might make it easier to keep tension on the chest muscles throughout the whole movement, and thus possibly benefit muscle growth.",
+            "Variation": "You can vary the height of the cables to target different areas of your chest. Higher cables will emphasize the lower chest, while lower cables will emphasize the upper chest."
+        },
+        "alternativesAndVariations": {
+            "Dumbbell Chest Press": "A similar exercise that uses dumbbells instead of cables. The dumbbell chest press allows for a greater range of motion and can help improve muscle balance.",
+            "Barbell Bench Press": "A compound exercise that works the chest, triceps, and shoulders. The barbell bench press allows you to lift heavier weights than the cable chest press.",
+            "Push-Ups": "A bodyweight exercise that works the chest, triceps, and shoulders. Push-ups can be performed anywhere and are a great way to build chest strength.",
+            "Machine Chest Press": "A machine-based exercise that provides a fixed range of motion and can be a good option for beginners."
+        }
+    }
 }

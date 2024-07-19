@@ -1,26 +1,26 @@
 {
-"seated_leg_curl": {
-"form": {
-"Steps": "\n1. Adjust the machine so that you are correctly positioned. Your knees should be in line with the machine’s joint. \n2. Push the weight down by bending your knees as far as possible. \n3. Slowly let the weight back again.",
-"Form": {
-"1. Positioning": "Take your time to adjust the machine so that it fits your body. The most important part here is to make sure that your knees align with the machine’s joint. Otherwise, the movement pattern will be off and might hurt. Adjust the back pad as well, so that you can keep your back flat against it.",
-"2. Movement": "When you’ve made sure that you have a good position in the machine, brace your core and start the movement by curling your legs as far as possible. Keep the motion slow and controlled to maximize the muscle engagement."
-}
-},
-"tempo": "2012",
-"commonMistakes": {
-"1. Not adjusting the machine correctly": "By not adjusting the leg pad and seat height to your body, the exercise will be very hard to perform, and it can lead to an ineffective and possibly painful exercise.",
-"2. Adding too much weight": "If you add more weight than you can control, it’s easy to start relying on the momentum and swinging the weight. Besides fooling yourself, and making the exercise less effective, this can cause harm to the machine as well. Lower the weight, and keep the movement controlled and slow."
-},
-"comments": {
-"Benefit 1: Hamstring Isolation": "The seated leg curl lets you train the hamstrings effectively without involving other muscle groups. This helps you focus 100% on the hamstrings without other aspects such as grip strength, balance, etc interfering.",
-"Benefit 2: Improved athletic performance": "Stronger hamstrings can help to increase power, speed, and agility in various sports and physical activities.",
-"Benefit 3: Injury prevention": "A strong and flexible hamstring can help to reduce the risk of hamstring strains, and by avoiding injury, you’ll be able to keep working out and get even bigger and stronger."
-},
-"alternativesAndVariations": {
-"1. Lying Leg Curl": "A study showed that the seated leg curl might grow your hamstrings better than the lying leg curl. However, according to said study, the sartorius muscle grew better from training lying leg curls, and gracilis and biceps femoris short head grew equally well from both. Therefore, you might benefit from training both seated and lying leg curls for optimal hamstring growth.",
-"2. Romanian Deadlift": "The Romanian deadlift is a barbell hamstring exercise, and a good complement to the seated leg curl. The seated leg curl works your hamstrings in knee flexion, while the Romanian deadlift works the other function of hamstrings – the hip extension. By doing both of them, you target all the functions of the hamstrings. You can perform the Romanian deadlift with a barbell or with a pair of dumbbells.",
-"3. Nordic Hamstring Curl": "The Nordic hamstring exercise is a great exercise if: 1. You are able to do it at all, or … 2. You are training to reduce the risk of a hamstring strain from sports like sprinting, soccer, or football. However, most people cannot do the concentric phase of the Nordic hamstring curl, especially not for multiple reps. Therefore, it might not be a good alternative for most lifters. But if you’re capable of doing it for several reps, and like the exercise - feel free to add it to your routine!"
-}
-}
+    "seated-leg-curl": {
+        "form": {
+            "Steps": "\n1. Adjust the machine so that you are correctly positioned. Your knees should be in line with the machine\u2019s joint. \n2. Push the weight down by bending your knees as far as possible. \n3. Slowly let the weight back again.",
+            "Form": {
+                "1. Positioning": "Take your time to adjust the machine so that it fits your body. The most important part here is to make sure that your knees align with the machine\u2019s joint. Otherwise, the movement pattern will be off and might hurt. Adjust the back pad as well, so that you can keep your back flat against it.",
+                "2. Movement": "When you\u2019ve made sure that you have a good position in the machine, brace your core and start the movement by curling your legs as far as possible. Keep the motion slow and controlled to maximize the muscle engagement."
+            }
+        },
+        "tempo": "2012",
+        "commonMistakes": {
+            "1. Not adjusting the machine correctly": "By not adjusting the leg pad and seat height to your body, the exercise will be very hard to perform, and it can lead to an ineffective and possibly painful exercise.",
+            "2. Adding too much weight": "If you add more weight than you can control, it\u2019s easy to start relying on the momentum and swinging the weight. Besides fooling yourself, and making the exercise less effective, this can cause harm to the machine as well. Lower the weight, and keep the movement controlled and slow."
+        },
+        "comments": {
+            "Benefit 1: Hamstring Isolation": "The seated leg curl lets you train the hamstrings effectively without involving other muscle groups. This helps you focus 100% on the hamstrings without other aspects such as grip strength, balance, etc interfering.",
+            "Benefit 2: Improved athletic performance": "Stronger hamstrings can help to increase power, speed, and agility in various sports and physical activities.",
+            "Benefit 3: Injury prevention": "A strong and flexible hamstring can help to reduce the risk of hamstring strains, and by avoiding injury, you\u2019ll be able to keep working out and get even bigger and stronger."
+        },
+        "alternativesAndVariations": {
+            "1. Lying Leg Curl": "A study showed that the seated leg curl might grow your hamstrings better than the lying leg curl. However, according to said study, the sartorius muscle grew better from training lying leg curls, and gracilis and biceps femoris short head grew equally well from both. Therefore, you might benefit from training both seated and lying leg curls for optimal hamstring growth.",
+            "2. Romanian Deadlift": "The Romanian deadlift is a barbell hamstring exercise, and a good complement to the seated leg curl. The seated leg curl works your hamstrings in knee flexion, while the Romanian deadlift works the other function of hamstrings \u2013 the hip extension. By doing both of them, you target all the functions of the hamstrings. You can perform the Romanian deadlift with a barbell or with a pair of dumbbells.",
+            "3. Nordic Hamstring Curl": "The Nordic hamstring exercise is a great exercise if: 1. You are able to do it at all, or \u2026 2. You are training to reduce the risk of a hamstring strain from sports like sprinting, soccer, or football. However, most people cannot do the concentric phase of the Nordic hamstring curl, especially not for multiple reps. Therefore, it might not be a good alternative for most lifters. But if you\u2019re capable of doing it for several reps, and like the exercise - feel free to add it to your routine!"
+        }
+    }
 }

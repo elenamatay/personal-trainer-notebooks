@@ -1,8 +1,8 @@
 {
-    " barbell_lunge":{
+    "barbell-lunge": {
         "form": {
-            "steps": "\n 1. Stand tall with your feet shoulder-width apart, holding a barbell across your upper back. \n2. Engage your core, and take a big step forward, \n3. Sink (descend) as deep as possible in a lunge position, without hitting the knee of the back leg in the floor (this is usually until both knees are bent at 90-degree angles). During descent, keep your front heel flat on the ground and your front knee tracking in line with your toes. \n4. Push yourself back with your front leg to return to the starting position.",
-            "form": {
+            "Steps": "\n 1. Stand tall with your feet shoulder-width apart, holding a barbell across your upper back. \n2. Engage your core, and take a big step forward, \n3. Sink (descend) as deep as possible in a lunge position, without hitting the knee of the back leg in the floor (this is usually until both knees are bent at 90-degree angles). During descent, keep your front heel flat on the ground and your front knee tracking in line with your toes. \n4. Push yourself back with your front leg to return to the starting position.",
+            "Form": {
                 "Back": "Keep your back straight and maintain a natural arch in your lower back throughout the movement.",
                 "Core": "Engage your core to keep your body stable and upright.",
                 "Front Knee": "Don't let your front knee cave inward; keep it tracking in line with your toes.",

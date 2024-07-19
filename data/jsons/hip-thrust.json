@@ -1,5 +1,5 @@
 {
-    "hip_thrust": {
+    "hip-thrust": {
         "form": {
             "Steps": "\n1. Sit on the floor with your back against a sturdy bench. \n2. Roll the barbell up over your thighs, until it is placed over your hips. \n3. Place your feet on the floor, about shoulder-width apart, with bent knees. \n4. Place your hands on the bar to stabilize it. \n5. Push the bar towards the ceiling by extending your hips. Your knees should form a ~90 degree angle at the top. \n6. Lower the weight and repeat for reps.",
             "Form": {
@@ -13,12 +13,12 @@
             "Not engaging core / Back arching": "Failing to engage your core can lead to lower back pain and instability. A visual proof of this is when someone hyperextends their back when doing hip thrust, especially during the eccentric phase, which could put unnecessary stress on your spine. Maintain a tight core throughout the exercise to protect your spine.",
             "Limited range of motion": "Not lowering your hips low enough or not extending them fully can reduce muscle activation and limit results. Aim for a full range of motion, feeling a stretch in your glutes at the bottom and a strong contraction at the top.",
             "Not squeezing your glutes": "The hip thrust is all about working your glutes, so make sure you're actually using them! Focus on squeezing your glutes at the top of the movement, during that 1-2 seconds at the top, as if you're trying to crush a walnut between your cheeks.",
-            "Bench height": "The ideal bench height will depend on your leg length, but you generally want that your upper back rests on the bench somewhere around the middle of your shoulder blades, not your entire back or neck. This should allow your knees to be bent at a 90-degree angle with your feet flat on the floor when you're in starting position. If the bench is too high, you'll arch your back, and if it's too low, you'll have trouble driving through your heels."
+            "Bench height": "The ideal bench height will depend on your leg length, but you generally want that your upper back rests on the bench somewhere around the middle of your shoulder blades, not your entire back or neck.\u00a0This should allow your knees to be bent at a 90-degree angle with your feet flat on the floor when you're in starting position. If the bench is too high, you'll arch your back, and if it's too low, you'll have trouble driving through your heels."
         },
         "comments": "The hip thrust is an isolation exercise for your hip extensors, particularly your glutes. The exercise can be varied by using either one or two legs, by elevating your feet for a longer range of motion, or by adding an elastic band between your knees to train your hip abductors simultaneously.",
         "alternativesAndVariations": {
-            "Romanian Deadlift":"Similarly to hip thrust, romanian deadlift focuses on glutes and harmstrings as primary muscles -slightly less than the hip thrust, but in return it adds focus on the lower back too-.",
-            "Squat":"Similarly to hip thrust, squat (with weights) focuses heavily on working out your glutes. It's true that it results in slightly less glutes activity than the hip thrust, but in return it adds primary focus on the quadriceps, adductors, and lower back too-.",
+            "Romanian Deadlift": "Similarly to hip thrust, romanian deadlift focuses on glutes and harmstrings as primary muscles -slightly less than the hip thrust, but in return it adds focus on the lower back too-.",
+            "Squat": "Similarly to hip thrust, squat (with weights) focuses heavily on working out your glutes. It's true that it results in slightly less glutes activity than the hip thrust, but in return it adds primary focus on the quadriceps, adductors, and lower back too-.",
             "Glute Bridge": "The glute bridge is a similar exercise to the hip thrust, but it is performed with your upper back on the floor instead of a bench. This makes the exercise slightly easier and reduces the range of motion."
         }
     }

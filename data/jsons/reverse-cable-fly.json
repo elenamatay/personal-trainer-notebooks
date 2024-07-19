@@ -1,27 +1,27 @@
 {
-"reverse_cable_flyes": {
-"form": {
-"Steps": "\n1. Attach two handles in the upper pulleys of a cable crossover. \n2. Reach across your body and grab the handle from the right side of the machine with your left hand and the left handle with your right. \n3. Position yourself in the center of the machine. Keep your arms straight ahead, your chest up, and brace your core. \n4. Keep the elbows slightly bent while pulling your arms backward until they are about parallel to your body. \n5. Reverse the movement. \n6. Repeat for reps.",
-"Form": {
-"1. Positioning": "Position yourself in the middle between the two pulleys so that your arms have a clear path to move. If you're standing off-center, the pulling motion will feel off. Keep a good posture and your core braced. Your shoulders should be rolled back and down to make sure that you're targeting the correct muscles and protecting your shoulder joints. You should keep your arms in the same position, with a slight bend in the elbow, throughout the movement.",
-"2. Movement": "Aim for a full range of motion, bringing the handles close together at the starting point and pulling them as far apart as possible at the end of the movement to fully engage the rear deltoids. Pick a light weight, so that you can move slowly and controlled without starting to hinge and create excessive momentum."
-}
-},
-"tempo": "3110",
-"commonMistakes": {
-"1. Picking a weight that's too heavy": "By choosing a weight that is heavier than you can handle, you might end up using excessive momentum or other muscles than the targeted ones to complete the lift, compromising the exercise's effectiveness and potentially leading to injury.",
-"2. Not keeping form": "This is an exercise where it's easy to use momentum by swinging and/or starting to overextend your lower back. This can place unnecessary stress on the lower back and shoulder joints. Keep the movement slow and controlled."
-},
-"comments": {
-"Better posture": "Strengthening the muscles in your upper back can help pull your shoulders back and contribute to a better posture.",
-"Balanced shoulder development": "Many lifters have stronger pushing muscles due to focusing on exercises that work the front of the body, like the bench press. The reverse cable fly helps strengthen the rear deltoids, helping you to achieve a more balanced muscle development.",
-"Variety": "You can alter the cable's angle, grip, and height to work slightly different parts of the target muscles and find angles that suit you the best.",
-"Cheating": "This is an exercise where it is easy to cheat by using momentum, which takes away the work from the rear deltoid. Instead, make sure to pick a weight light enough to be able to perform the exercise correctly and with control."
-},
-"alternativesAndVariations": {
-"1. Reverse Dumbbell Fly": "The reverse fly can be performed using dumbbells instead of a cable machine. The cable machine allows for a more controlled and stable motion, which might be appreciated by the beginner. However, setting up the cable machine can be more complex than simply grabbing a pair of dumbbells. The cable machine allows for constant tension throughout the full movement since the direction of resistance can be adjusted according to the cable's setup.",
-"2. Reverse Machine Fly": "The reverse machine fly is another effective rear delt exercise that keeps your muscles under constant load like the reverse cable fly. It might also be a good alternative for beginners or someone who wants to focus fully on the targeted muscles because the machine provides stability and guides you through the right movement path."
-}
-}
+    "reverse-cable-fly": {
+        "form": {
+            "Steps": "\n1. Attach two handles in the upper pulleys of a cable crossover. \n2. Reach across your body and grab the handle from the right side of the machine with your left hand and the left handle with your right. \n3. Position yourself in the center of the machine. Keep your arms straight ahead, your chest up, and brace your core. \n4. Keep the elbows slightly bent while pulling your arms backward until they are about parallel to your body. \n5. Reverse the movement. \n6. Repeat for reps.",
+            "Form": {
+                "1. Positioning": "Position yourself in the middle between the two pulleys so that your arms have a clear path to move. If you're standing off-center, the pulling motion will feel off. Keep a good posture and your core braced. Your shoulders should be rolled back and down to make sure that you're targeting the correct muscles and protecting your shoulder joints. You should keep your arms in the same position, with a slight bend in the elbow, throughout the movement.",
+                "2. Movement": "Aim for a full range of motion, bringing the handles close together at the starting point and pulling them as far apart as possible at the end of the movement to fully engage the rear deltoids. Pick a light weight, so that you can move slowly and controlled without starting to hinge and create excessive momentum."
+            }
+        },
+        "tempo": "3110",
+        "commonMistakes": {
+            "1. Picking a weight that's too heavy": "By choosing a weight that is heavier than you can handle, you might end up using excessive momentum or other muscles than the targeted ones to complete the lift, compromising the exercise's effectiveness and potentially leading to injury.",
+            "2. Not keeping form": "This is an exercise where it's easy to use momentum by swinging and/or starting to overextend your lower back. This can place unnecessary stress on the lower back and shoulder joints. Keep the movement slow and controlled."
+        },
+        "comments": {
+            "Better posture": "Strengthening the muscles in your upper back can help pull your shoulders back and contribute to a better posture.",
+            "Balanced shoulder development": "Many lifters have stronger pushing muscles due to focusing on exercises that work the front of the body, like the bench press. The reverse cable fly helps strengthen the rear deltoids, helping you to achieve a more balanced muscle development.",
+            "Variety": "You can alter the cable's angle, grip, and height to work slightly different parts of the target muscles and find angles that suit you the best.",
+            "Cheating": "This is an exercise where it is easy to cheat by using momentum, which takes away the work from the rear deltoid. Instead, make sure to pick a weight light enough to be able to perform the exercise correctly and with control."
+        },
+        "alternativesAndVariations": {
+            "1. Reverse Dumbbell Fly": "The reverse fly can be performed using dumbbells instead of a cable machine. The cable machine allows for a more controlled and stable motion, which might be appreciated by the beginner. However, setting up the cable machine can be more complex than simply grabbing a pair of dumbbells. The cable machine allows for constant tension throughout the full movement since the direction of resistance can be adjusted according to the cable's setup.",
+            "2. Reverse Machine Fly": "The reverse machine fly is another effective rear delt exercise that keeps your muscles under constant load like the reverse cable fly. It might also be a good alternative for beginners or someone who wants to focus fully on the targeted muscles because the machine provides stability and guides you through the right movement path."
+        }
+    }
 }
 

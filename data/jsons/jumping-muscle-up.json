@@ -1,32 +1,31 @@
 {
-"jumping_muscle_up": {
-"form": {
-"Steps": "\n1. Use a box of self-selected height. \n2. Start on top of the box with bent knees and straight arms/elbows. Keep a firm grip on the rings. \n3. Jump hard simultaneously as you pull yourself up to get through the transition part and into the bottom of the dip. \n4. Find a balanced and secure position to land at the bottom of the dip. Try to squeeze the rings against your body (torso or stomach) before continuing the movement with the finishing dip press.",
-"Form": {
-"Grip": "Use a firm overhand grip, slightly wider than shoulder-width. Ensure your thumbs are wrapped around the rings for safety and stability.",
-"Jump": "Initiate the movement with a powerful jump, extending your legs explosively. Use the momentum from the jump to assist your upward movement.",
-"Transition": "As you reach the top of the jump, pull yourself up aggressively, transitioning your body from below the rings to above the rings. This is the most challenging part of the exercise and requires coordination and strength.",
-"Dip": "Once your chest is above the rings, stabilize your body and perform a controlled dip, lowering your body until your elbows reach a 90-degree angle.",
-"Press": "Push yourself back up to the starting position, extending your arms fully. Maintain a stable and upright torso throughout the press."
+    "jumping-muscle-up": {
+        "form": {
+            "Steps": "\n1. Use a box of self-selected height. \n2. Start on top of the box with bent knees and straight arms/elbows. Keep a firm grip on the rings. \n3. Jump hard simultaneously as you pull yourself up to get through the transition part and into the bottom of the dip. \n4. Find a balanced and secure position to land at the bottom of the dip. Try to squeeze the rings against your body (torso or stomach) before continuing the movement with the finishing dip press.",
+            "Form": {
+                "Grip": "Use a firm overhand grip, slightly wider than shoulder-width. Ensure your thumbs are wrapped around the rings for safety and stability.",
+                "Jump": "Initiate the movement with a powerful jump, extending your legs explosively. Use the momentum from the jump to assist your upward movement.",
+                "Transition": "As you reach the top of the jump, pull yourself up aggressively, transitioning your body from below the rings to above the rings. This is the most challenging part of the exercise and requires coordination and strength.",
+                "Dip": "Once your chest is above the rings, stabilize your body and perform a controlled dip, lowering your body until your elbows reach a 90-degree angle.",
+                "Press": "Push yourself back up to the starting position, extending your arms fully. Maintain a stable and upright torso throughout the press."
+            }
+        },
+        "tempo": "X010:  Explosive jump and pull, followed by a controlled dip. Why? The jump provides the momentum needed to get above the rings. The controlled dip emphasizes strength and stability in the top position.",
+        "commonMistakes": {
+            "1. Insufficient Jump": "A weak jump won't generate enough momentum to propel you above the rings, making the transition significantly harder.",
+            "2. Lack of Pull": "Relying solely on the jump and neglecting the pulling motion will make it difficult to complete the transition.",
+            "3. Poor Core Engagement": "A weak core can lead to instability and swinging during the exercise, reducing efficiency and increasing injury risk.",
+            "4. Incomplete Dip": "Not lowering your body far enough during the dip limits muscle activation and reduces the overall effectiveness of the exercise.",
+            "5. Rushing the Movement": "Performing the exercise too quickly can compromise form and increase the risk of injury. Focus on controlled and deliberate movements throughout."
+        },
+        "comments": {
+            "Benefits": "Strength Development. Jumping muscle-ups help build upper body strength, particularly in the muscles involved in pull-ups and dips, such as the latissimus dorsi, biceps, triceps, and pectoral muscles. \nSkill Progression. Jumping muscle-ups serve as an excellent progression exercise for those working towards performing a strict muscle-up. They allow you to get accustomed to the transition phase of the muscle-up, which is often the most challenging part.",
+            "What is a Jumping Muscle-Up?": "The jumping muscle-up is a great way to practice the full movement of the muscle-up. It lets you get a feel for the transition and also tests your lock-out strength in the dip. You can perform the exercise both in rings or on a bar."
+        },
+        "alternativesAndVariations": {
+            "1. Negative/Eccentric Ring Muscle-Ups": "This variation of the muscle-up focuses on the downward phase more. This exercise develops strength and muscle control, particularly in the muscles involved in the transition phase. Without the assistance of an explosive jump, it could be more challenging to perform.",
+            "2. Low Ring Variation to Band-Assisted Strict Muscle Up": "This variation might allow for a more comfortable experience if height is considered one of your unpreferred locations. Other than that the principles remain the same as for band-assisted muscle ups in the high rings. This variation emphasizes strict form and technique, especially during the transition phase, without relying on momentum from jumping.",
+            "3. Banded Muscle-Up": "In banded muscle-ups you use a resistance band looped around the bar/one of the rings and your feet, offering continuous upward assistance which helps to lighten the load during the pull and transition phases. While both methods aim to assist in learning the muscle-up, jumping muscle-ups rely more on explosive power from the legs, and banded muscle-ups provide more external support and can be adjusted for tension to gradually increase the exercise\u2019s difficulty."
+        }
+    }
 }
-},
-"tempo": "X010:  Explosive jump and pull, followed by a controlled dip. Why? The jump provides the momentum needed to get above the rings. The controlled dip emphasizes strength and stability in the top position.",
-"commonMistakes": {
-"1. Insufficient Jump": "A weak jump won't generate enough momentum to propel you above the rings, making the transition significantly harder.",
-"2. Lack of Pull": "Relying solely on the jump and neglecting the pulling motion will make it difficult to complete the transition.",
-"3. Poor Core Engagement": "A weak core can lead to instability and swinging during the exercise, reducing efficiency and increasing injury risk.",
-"4. Incomplete Dip": "Not lowering your body far enough during the dip limits muscle activation and reduces the overall effectiveness of the exercise.",
-"5. Rushing the Movement": "Performing the exercise too quickly can compromise form and increase the risk of injury. Focus on controlled and deliberate movements throughout."
-},
-"comments": {
-"Benefits": "Strength Development. Jumping muscle-ups help build upper body strength, particularly in the muscles involved in pull-ups and dips, such as the latissimus dorsi, biceps, triceps, and pectoral muscles. \nSkill Progression. Jumping muscle-ups serve as an excellent progression exercise for those working towards performing a strict muscle-up. They allow you to get accustomed to the transition phase of the muscle-up, which is often the most challenging part.",
-"What is a Jumping Muscle-Up?": "The jumping muscle-up is a great way to practice the full movement of the muscle-up. It lets you get a feel for the transition and also tests your lock-out strength in the dip. You can perform the exercise both in rings or on a bar."
-},
-"alternativesAndVariations": {
-"1. Negative/Eccentric Ring Muscle-Ups": "This variation of the muscle-up focuses on the downward phase more. This exercise develops strength and muscle control, particularly in the muscles involved in the transition phase. Without the assistance of an explosive jump, it could be more challenging to perform.",
-"2. Low Ring Variation to Band-Assisted Strict Muscle Up": "This variation might allow for a more comfortable experience if height is considered one of your unpreferred locations. Other than that the principles remain the same as for band-assisted muscle ups in the high rings. This variation emphasizes strict form and technique, especially during the transition phase, without relying on momentum from jumping.",
-"3. Banded Muscle-Up": "In banded muscle-ups you use a resistance band looped around the bar/one of the rings and your feet, offering continuous upward assistance which helps to lighten the load during the pull and transition phases. While both methods aim to assist in learning the muscle-up, jumping muscle-ups rely more on explosive power from the legs, and banded muscle-ups provide more external support and can be adjusted for tension to gradually increase the exercise’s difficulty."
-}
-}
-}
-

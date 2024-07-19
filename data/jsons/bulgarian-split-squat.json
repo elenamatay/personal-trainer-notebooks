@@ -1,23 +1,23 @@
 {
-  "bulgarian_split_squat": {
-    "form": {
-      "Steps": "\n1. Stand with your back turned against a bench, which should be at about knee height. Stand about one long step in front of the bench. \n2. Place one foot on the bench behind you, with the top of your foot facing down. \n3. Inhale, look forward, and squat down with control until right before the knee of the back leg touches the floor. \n4. Reverse the movement and extend your front leg again, while exhaling. \n5. Inhale at the top and repeat for reps.",
-      "Form": {
-        "1. Placement": "Make sure that the bench behind you is about knee height. Placing the front foot too close or too far from the rear foot can cause instability and decrease your range of motion. How big of a step you need to take might vary, so try a couple of times with a light weight before finding your optimal stance. Make sure to stand with the feet about hip-width apart to maintain your balance.",
-        "2. Movement": "Try to keep your body upright the entire time, and try to go as far down as possible without the rear knee touching the ground. Reverse the movement with control. Keep your core tight throughout the movement.",
-        "3. Workload": "The Bulgarian split squat is often performed with a barbell. However, it might be a good idea to introduce the exercise without any weight at all first. Once you feel like you can perform the movement controlled and securely, you can add some external load. Sometimes, it might be better to work with dumbbells instead of a barbell, for balance or to take some load off your back."
-      }
-    },
-    "tempo": "3110",
-    "commonMistakes": {
-      "1. Poor knee control": "Allowing your knee to collapse inwards will make the movement less efficient and can lead to knee pain. Focus on keeping your knee in line with your toes throughout the movement.",
-      "2. Leaning too far forward": "Leaning too far forward will add excessive stress to the lower back and reduce focus on the target muscles. Try to keep your torso as upright as possible during the entire movement.",
-      "3. Pushing yourself up with your rear leg": "Your front leg is supposed to work in the Bulgarian split squat, not your rear leg. Use your rear leg for balance, but not (excessively) for pushing yourself up. You’ll work that leg when you switch sides."
-    },
-    "comments": "The Bulgarian split squat is a great unilateral (one-sided) exercise for strengthening your leg muscles and improving your coordination and balance. You can perform this exercise without any external load, with weights in your hands (i.e., dumbbells or kettlebells), against your chest, or with a barbell on your shoulders. By holding the weights in your hand, you can unload your spine somewhat while you still work your legs and glutes effectively, which can be useful for maintaining your exercise routine during times of injury.",
-    "alternativesAndVariations": {
-      "1. Barbell Lunge": "The Bulgarian split squat and the barbell lunge have a lot in common, but the main difference between them is in the range of motion. While you keep both feet on the floor in barbell lunges, the elevated rear foot in Bulgarian split squat allows a longer movement. The lunge can feel a bit easier to perform, many lifters feel like it’s a bit easier to keep your balance.",
-      "2. Dumbbell Lunge": "Like the barbell lunge, the dumbbell lunge can feel a bit easier to perform than the Bulgarian split squat. By holding dumbbells in your hands instead of having a barbell on your shoulders, the exercise can feel a bit less intimidating as well."
+    "bulgarian-split-squat": {
+        "form": {
+            "Steps": "\n1. Stand with your back turned against a bench, which should be at about knee height. Stand about one long step in front of the bench. \n2. Place one foot on the bench behind you, with the top of your foot facing down. \n3. Inhale, look forward, and squat down with control until right before the knee of the back leg touches the floor. \n4. Reverse the movement and extend your front leg again, while exhaling. \n5. Inhale at the top and repeat for reps.",
+            "Form": {
+                "1. Placement": "Make sure that the bench behind you is about knee height. Placing the front foot too close or too far from the rear foot can cause instability and decrease your range of motion. How big of a step you need to take might vary, so try a couple of times with a light weight before finding your optimal stance. Make sure to stand with the feet about hip-width apart to maintain your balance.",
+                "2. Movement": "Try to keep your body upright the entire time, and try to go as far down as possible without the rear knee touching the ground. Reverse the movement with control. Keep your core tight throughout the movement.",
+                "3. Workload": "The Bulgarian split squat is often performed with a barbell. However, it might be a good idea to introduce the exercise without any weight at all first. Once you feel like you can perform the movement controlled and securely, you can add some external load. Sometimes, it might be better to work with dumbbells instead of a barbell, for balance or to take some load off your back."
+            }
+        },
+        "tempo": "3110",
+        "commonMistakes": {
+            "1. Poor knee control": "Allowing your knee to collapse inwards will make the movement less efficient and can lead to knee pain. Focus on keeping your knee in line with your toes throughout the movement.",
+            "2. Leaning too far forward": "Leaning too far forward will add excessive stress to the lower back and reduce focus on the target muscles. Try to keep your torso as upright as possible during the entire movement.",
+            "3. Pushing yourself up with your rear leg": "Your front leg is supposed to work in the Bulgarian split squat, not your rear leg. Use your rear leg for balance, but not (excessively) for pushing yourself up. You\u2019ll work that leg when you switch sides."
+        },
+        "comments": "The Bulgarian split squat is a great unilateral (one-sided) exercise for strengthening your leg muscles and improving your coordination and balance. You can perform this exercise without any external load, with weights in your hands (i.e., dumbbells or kettlebells), against your chest, or with a barbell on your shoulders. By holding the weights in your hand, you can unload your spine somewhat while you still work your legs and glutes effectively, which can be useful for maintaining your exercise routine during times of injury.",
+        "alternativesAndVariations": {
+            "1. Barbell Lunge": "The Bulgarian split squat and the barbell lunge have a lot in common, but the main difference between them is in the range of motion. While you keep both feet on the floor in barbell lunges, the elevated rear foot in Bulgarian split squat allows a longer movement. The lunge can feel a bit easier to perform, many lifters feel like it\u2019s a bit easier to keep your balance.",
+            "2. Dumbbell Lunge": "Like the barbell lunge, the dumbbell lunge can feel a bit easier to perform than the Bulgarian split squat. By holding dumbbells in your hands instead of having a barbell on your shoulders, the exercise can feel a bit less intimidating as well."
+        }
     }
-  }
 }

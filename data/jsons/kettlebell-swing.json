@@ -1,11 +1,16 @@
 {
-    "kettlebell_swing:": {
+    "kettlebell-swing": {
         "form": {
             "steps": "1. Place a kettlebell on the ground, about one or two feet in front of you.\n2. Take a wide stance, lean forward and grip the kettlebell.\n3. Brace your core slightly, and swing the kettlebell back between your legs, while inhaling.\n4. Swing the kettlebell forward by extending your hip, while exhaling.\n5. Try to swing the kettlebell to about chest height.\n6. Repeat for reps and put the kettlebell back on the ground when you're finished.",
             "form": "Remember that it is the power from your hip and back that lifts the kettlebell, not your arms. The kettlebell swing is primarily an exercise for your glutes, back, and posterior thighs, and therefore you shouldn't bend your knees more than just slightly."
         },
         "tempo": "10X0: 1 second to lift the weight explosively, and control the kettlebell on the way down for X seconds (2-4 seconds depending on the weight and individual preference). Why? The explosive lifting phase (1 second) recruits the maximum number of muscle fibers and develops power. Controlling the weight on the way down (eccentric phase) helps maintain tension in the muscles, promotes hypertrophy, and reinforces good form. The variable tempo (X) on the eccentric phase allows for individual adjustment based on experience level and training goals. Beginners may benefit from a slower descent (4 seconds) to focus on technique and control, while experienced lifters may use a faster tempo (2 seconds) to increase training volume and intensity.",
         "commonMistakes": {
+            "Rounding the back": "Maintain a neutral spine throughout the movement by keeping your core engaged and chest lifted, imagine a slight arch in your lower back.",
+            "Swinging the kettlebell with arms": "Think of your arms as pendulums, the power comes from your hips. Engage your core and posterior chain to generate power for the swing.",
+            "Incomplete hip hinge": "Push your hips back as if sitting on a chair, keeping your core engaged and back neutral. The kettlebell should swing down naturally between your legs, maximizing power generation and protecting your lower back.",
+            "Excessive knee extension": "Maintain a slight bend in your knees throughout the swing. Focus on using your glutes and hamstrings to extend your hips, not straightening your legs, to avoid knee stress and improve stability.",
+            "Swinging the kettlebell too high": "Keep the core engaged and maintain control by swinging the kettlebell to roughly shoulder height, avoiding unnecessary strain on your lower back and shoulders.",
             "Squatting too much": "The kettlebell swing is primarily an exercise for your glutes, back, and posterior thighs, and therefore you shouldn't bend your knees more than just slightly. If you want to train your quads (front of the thigh) with a kettlebell, then goblet squats or front squats are a better alternative."
         },
         "comments": {

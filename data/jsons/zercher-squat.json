@@ -1,24 +1,24 @@
 {
-"zercher_squat": {
-"form": {
-"Steps": "\n1. Set a rack so that the barbell is just under the height of your elbow. Place the barbell in the crooks of your elbows. \n2. Back out from the rack, and brace your core. \n3. Descend by bending your knees, just like in a regular squat. \n4. Go as deep as you can while keeping your back straight. \n5. Reverse the movement, and repeat for reps.",
-"Form": {
-"1. Bar Placement": "Set a rack so that the barbell is at the height of your mid-torso. Place yourself in front of the barbell, and position your arms under the bar so that it rests in the crook of your elbows. Make sure to keep your elbows close together to secure the bar.",
-"2. Movement": "While performing the squat, your arms will naturally want to drop. You can avoid this by keeping your core braced, and actively pulling the bar into your body. Drive the movement through your heels, ensure you maintain the bar’s placement and keep your core tight throughout the movement to protect your back."
-}
-},
-"tempo": "3110",
-"commonMistakes": {
-"1. Not keeping form": "It’s important to keep your core active and keep your back straight, as a rounded back might lead to stress on your lower back.",
-"2. Adding too much weight": "Take your time and let your body (especially your elbow crooks) adapt to the workload."
-},
-"comments": {
-"General": "The Zercher squat is a variation of the squat where you hold the bar in the crooks of your elbows. By keeping the weight in front of your body, it promotes a more upright posture, similar to a front squat or a goblet squat, making it easier to achieve good depth while maintaining proper form. This squat variation can be useful for lifters who want to learn proper squat mechanics and improve core strength. With higher weights, it can be difficult to keep the barbell in the crooks of your elbows, and at that point, it might be a good idea to transition to front squats or back squats. If you experience discomfort from the barbell, try wrapping a towel or shirt around it."
-},
-"alternativesAndVariations": {
-"1. Goblet Squat": "The goblet squat involves holding a weight close to the chest with both hands, which is generally more comfortable than the Zercher squat. The movement pattern is similar, but the goblet squat might feel slightly easier in terms of maintaining an upright torso.",
-"2. Front Squat": "In the front squat, the weight rests on the front shoulders, either with arms crossed or in a clean grip. While both exercises emphasize an upright posture, the Zercher squat presents a greater challenge in terms of holding the bar and maintaining form, while the front squat demands more mobility, especially in the wrists, hips, and thoracic spine.",
-"3. Back Squat": "The back squat, with the barbell across the upper back, allows for heavier loads and a more natural bar path. It is often considered more comfortable for long-term progression. However, the Zercher squat offers unique challenges to balance and posture, promoting core stability and upper back engagement to a greater degree."
-}
-}
+    "zercher-squat": {
+        "form": {
+            "Steps": "\n1. Set a rack so that the barbell is just under the height of your elbow. Place the barbell in the crooks of your elbows. \n2. Back out from the rack, and brace your core. \n3. Descend by bending your knees, just like in a regular squat. \n4. Go as deep as you can while keeping your back straight. \n5. Reverse the movement, and repeat for reps.",
+            "Form": {
+                "1. Bar Placement": "Set a rack so that the barbell is at the height of your mid-torso. Place yourself in front of the barbell, and position your arms under the bar so that it rests in the crook of your elbows. Make sure to keep your elbows close together to secure the bar.",
+                "2. Movement": "While performing the squat, your arms will naturally want to drop. You can avoid this by keeping your core braced, and actively pulling the bar into your body. Drive the movement through your heels, ensure you maintain the bar\u2019s placement and keep your core tight throughout the movement to protect your back."
+            }
+        },
+        "tempo": "3110",
+        "commonMistakes": {
+            "1. Not keeping form": "It\u2019s important to keep your core active and keep your back straight, as a rounded back might lead to stress on your lower back.",
+            "2. Adding too much weight": "Take your time and let your body (especially your elbow crooks) adapt to the workload."
+        },
+        "comments": {
+            "General": "The Zercher squat is a variation of the squat where you hold the bar in the crooks of your elbows. By keeping the weight in front of your body, it promotes a more upright posture, similar to a front squat or a goblet squat, making it easier to achieve good depth while maintaining proper form. This squat variation can be useful for lifters who want to learn proper squat mechanics and improve core strength. With higher weights, it can be difficult to keep the barbell in the crooks of your elbows, and at that point, it might be a good idea to transition to front squats or back squats. If you experience discomfort from the barbell, try wrapping a towel or shirt around it."
+        },
+        "alternativesAndVariations": {
+            "1. Goblet Squat": "The goblet squat involves holding a weight close to the chest with both hands, which is generally more comfortable than the Zercher squat. The movement pattern is similar, but the goblet squat might feel slightly easier in terms of maintaining an upright torso.",
+            "2. Front Squat": "In the front squat, the weight rests on the front shoulders, either with arms crossed or in a clean grip. While both exercises emphasize an upright posture, the Zercher squat presents a greater challenge in terms of holding the bar and maintaining form, while the front squat demands more mobility, especially in the wrists, hips, and thoracic spine.",
+            "3. Back Squat": "The back squat, with the barbell across the upper back, allows for heavier loads and a more natural bar path. It is often considered more comfortable for long-term progression. However, the Zercher squat offers unique challenges to balance and posture, promoting core stability and upper back engagement to a greater degree."
+        }
+    }
 }
