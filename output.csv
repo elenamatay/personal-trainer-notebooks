@@ -1,0 +1,2 @@
+input video URI,test,Call 1 output,Call 2 output
+gs://gymally-mvp/exercises-videos/abduction-usr1-20240527-1.mp4,1,machine_abduction,<generator object _GenerativeModel._generate_content_streaming at 0x11655e680>
