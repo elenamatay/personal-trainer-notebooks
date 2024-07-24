@@ -1,0 +1,19 @@
+input video URI,test,Call 1 output,Call 2 output
+gs://gymally-mvp/exercises-videos/abduction-usr1-20240527-1.mp4,1,machine_abduction,"{""Scores"": {
+""Form"": {
+""Score"": ""75%"",
+""Improvement Suggestions"": ""You are doing a good job keeping yourback straight and core engaged, which is excellent! To further enhance your form, try to keep your shoulders relaxed and avoid hunching them up during the exercise.This will help you target the abductors more effectively and reduce strain on your upper body.""
+},
+""Tempo"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're demonstrating good control throughout the exercise. To optimize tempo, focus on a slightly slower, more controlled eccentric phase (bringing your legs together). This can help enhance muscle engagement and improve overall control.""},
+""Range of Movement"": {
+""Score"": ""80%"",
+""Improvement Suggestions"": ""You're achieving a decent range of motion. To maximize it, ensure that you're bringing your legs together until youfeel a stretch in your inner thighs, and then extend them outwards as far as comfortable without compromising form. This full range of motion will help target the abductor muscles more effectively.""
+}
+},
+""Pro tips"": {
+""Maintaining a consistent and controlled tempo throughout the exercise can help you build strength and endurancemore effectively."": ""Remember to breathe deeply throughout the exercise, inhaling during the eccentric phase and exhaling during the concentric phase."",
+""It's great that you're focusing on proper form! Remember that quality trumps quantity when it comes to exercise."": ""Adjust the resistance level on the machine to find a weightthat challenges you while still allowing you to maintain perfect form."",
+""Well done on your workout today! Keep up the fantastic work, and remember to listen to your body and take rest days when needed."": ""If you experience any pain or discomfort during the exercise, stop immediately and consult with a healthcare professional.""
+}}"

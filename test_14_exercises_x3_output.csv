@@ -1,0 +1,506 @@
+input video URI,test,Call 1 output,Call 2 output,Total Processing Time
+gs://gymally-mvp/exercises-videos/abduction-usr1-20240527-1.mp4,1,machine_abduction_adduction,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're demonstrating good form overall!To further enhance it, ensure your back remains flat against the backrest throughout the exercise. This helps maintain stability and targets the intended muscle groups more effectively.""
+},""Tempo"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""You're maintaining a consistent and controlled tempo throughout the exercise, which is excellent!""
+},
+""Range of Movement"": {
+""Score"": ""85%"",
+""Improvement Suggestions"": ""You're achieving a good range of motion. To push yourself a bit further, focus on fullyextending your legs at the peak of each repetition before returning to the starting position. This maximizes muscle engagement and flexibility.""
+}
+},
+""Pro tips"": {
+""Potential Signs of Fatigue"": ""I noticed a slight decrease in yourrange of motion towards the end of the set. This could be a sign of fatigue. Remember to prioritize proper form over pushing through exhaustion. If you notice any significant form breakdown or discomfort, it's always wise to stop, rest, and consider reducing the weight or reps in your next set. Your safety and well-being are paramount!"",
+""Exercise Variation"": ""To add variety to your routine, you can try performing unilateral hip abductions and adductions. This involves using one leg at a time and can help address any strength imbalances between sides.""
+}
+}",26.21 seconds
+gs://gymally-mvp/exercises-videos/abduction-usr1-20240527-1.mp4,2,machine_abduction_adduction,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're demonstrating great form! Tofurther enhance it, ensure your back remains flat against the backrest throughout the exercise. This helps maintain stability and targets the intended muscle groups more effectively.""
+},""Tempo"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""You're maintaining a consistent and controlled tempo throughout the exercise.Keep up the good work!""
+},
+""Range of Movement"": {
+""Score"": ""85%"",
+""Improvement Suggestions"": ""You're achieving a good range of motion. To maximize it, focus on squeezing your innerthighs together at the top of the movement for a full contraction. This can help enhance muscle activation.""
+}
+},
+""Pro tips"": {
+""Potential Signs of Fatigue"": ""I noticed a slight decrease in your range of motiontowards the end of the set. This could be a sign of fatigue. Remember, it's always better to prioritize proper form and listen to your body. If you're feeling fatigued, don't hesitate to take a short break or adjust the weight. What's most important is exercising safely and effectively."",""Exercise Variation"": ""To add variety to your workouts, you can try performing unilateral hip abductions and adductions. This means working one leg at a time and can help address any strength imbalances between sides.""
+}
+}",24.38 seconds
+gs://gymally-mvp/exercises-videos/abduction-usr1-20240527-1.mp4,3,machine_abduction_adduction,"{""Scores"": {
+""Form"": {
+""Score"": ""70%"",
+""Improvement Suggestions"": ""You're doing a good job keepingyour back straight! To get even more out of this exercise, try to keep your core engaged throughout the movement. Imagine you're bracing for a punch tothe stomach. This will help stabilize your body and make sure you're working the right muscles.""
+},
+""Tempo"": {
+""Score"": ""80%"",
+""Improvement Suggestions"": ""Your tempo is good overall. For an extra challenge and to really target those inner and outer thighs, try slowing down the movement slightly, both when opening and closing your legs. This controlled pace willincrease the time under tension and make the exercise more effective.""
+},
+""Range of Movement"": {
+""Score"": ""60%"",
+""Improvement Suggestions"": ""You have a decent range of motion, but you can aim fora bit more! Try to open your legs as wide as you comfortably can without compromising your form. This will help you fully engage the muscles and get a deeper stretch. Remember, quality over quantity!""
+}
+},
+""Pro tips"": {
+""Potential signs of fatigue"": ""It's important to listento your body and pay attention to any signs of fatigue. If you notice yourself slowing down, decreasing your range of motion, or struggling to maintain proper form, it might be a good idea to take a short break or reduce the weight. Remember, safety and proper form come first!"",
+""Exercise variations"": ""Onceyou feel comfortable with this exercise, there are many variations you can try to challenge yourself further. For example, you can increase the weight, add resistance bands, or even try single-leg abductions and adductions. Keep exploring and find what works best for you!""
+}
+}",23.76 seconds
+gs://gymally-mvp/exercises-videos/bar_dip_ref_strengthlog.mp4,1,bar_dip,"{""Scores"": {""Form"": {""Score"": ""90%"", ""Improvement Suggestions"":""Your form looks great! To get that 100%, try tokeep your legs completely straight throughout the exercise. This will help you engage your core more effectively and maintain stability.""}, ""Tempo"": {""Score"": ""30%"", ""Improvement Suggestions"": ""It seems like you're going a bit fast, especially on the way down. Remember to control the movement for a 2-second count on the descent. This will help you build more strength and prevent injuries. A good, controlled tempo is key for maximizing this exercise.""}, ""Range of Movement"": {""Score"": ""90%"", ""Improvement Suggestions"": ""Your range of motion is really good!  To make sure you're getting the most out of each rep, try to go a little deeper, ensuring your shoulders dip just below your elbows at the bottom of the movement. This will helpyou fully activate your chest and triceps.""}}, ""Pro tips"": {""Grip and Hand Positioning"": ""Make sure to find bars where you can grip about shoulder-width apart. If the bars are too far away from each other, you’ll end up with a weird movement for your shoulders, and it will behard to maintain a proper form. If they are too close together, it will be hard to reach a good depth."", ""Why a 2011 tempo?"": ""Dips require a controlled descent to protect your shoulders. The 2-second eccentric helps with this. A smooth transition from the bottom tothe top maintains tension in the triceps and chest."", ""Potential signs of fatigue"": ""It's great to push yourself, but remember to listen to your body! If you start to feel your form slipping, or you're struggling to maintain the 2-second descent, it might be a sign to takea short break or decrease your reps.  Remember, safety and consistency are key for long-term progress!""}}",16.91 seconds
+gs://gymally-mvp/exercises-videos/bar_dip_ref_strengthlog.mp4,2,bar_dip,"{""Scores"": {""Form"": {""Score"": ""90%"", ""Improvement Suggestions"":""You're demonstrating great form overall! To further refine your technique, focuson keeping your legs completely still throughout the exercise. This will help you maintain stability and target your chest and triceps more effectively.""}, ""Tempo"": {""Score"": ""40%"", ""Improvement Suggestions"": ""It seems like you're going a bit too fast, especially on the way down. Remember to prioritize acontrolled descent, aiming for a 2-second count as you lower yourself. This will help you build more strength and prevent injuries.""}, ""Range of Movement"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You're achieving a great range of motion, lowering yourself until your shoulders go below your elbows. Keep up the good work!""}}, ""Pro tips"": {""Remember to prioritize proper form over speed."": ""It's better to perform the exercise witha controlled tempo and perfect form than to rush through it."", ""Listen to your body."": ""If you start to feel any pain or discomfort, stop the exercise and consult with a fitness professional."", ""If the bars are too wide or too narrow, it will be difficult to maintain proper form."": ""Experiment with different gripwidths to find what feels most comfortable and allows you to achieve a full range of motion.""}}",18.41 seconds
+gs://gymally-mvp/exercises-videos/bar_dip_ref_strengthlog.mp4,3,bar_dip,"{""Scores"": {""Form"": {""Score"": ""90%"", ""Improvement Suggestions"":""Your form looks really good! To make it even better, try to keepyour legs completely still throughout the exercise. This will help you engage your core more and maintain stability.""}, ""Tempo"": {""Score"": ""40%"", ""Improvement Suggestions"": ""It seems like you're going a bit too fast, especially on the way down. Remember to control the movement and aim for a2-second descent. This will help you build more strength and prevent injuries.""}, ""Range of Movement"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You're achieving a great range of motion, well done!""}}, ""Pro tips"": {""Grip and Hand Positioning"": ""Remember that you should find bars where you can grip about shoulder-width apart. If the bars are too far away from each other, you’ll end up with a weird movementfor your shoulders, and it will be hard to maintain a proper form. If they are too close together, it will be hard to reach a good depth."", ""Tempo"": ""A smooth transition from the bottom to the top maintains tension in the triceps and chest."", ""Why a 2011 tempo?"": ""Dips require a controlled descent to protect your shoulders. The 2-second eccentric helps with this."", ""Listen to your body!"": ""If you are noticing that you are slowing down, or that your range of motion is decreasing, it may be a good idea to stop the set, or reduce thenumber of repetitions. Remember that pushing through fatigue can increase the risk of injury, decrease performance, and hinder recovery. It's crucial to recognize the signs and adjust accordingly.""}}",27.15 seconds
+gs://gymally-mvp/exercises-videos/bench_press_against_band_ref_strengthlog.mp4,1,bench_press_against_band,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're doing great! To furtherimprove, focus on keeping your shoulder blades retracted throughout the entire lift, even as you press the bar up. This might require some practice, but it will enhanceyour stability and protect your shoulder joints.""
+},
+""Tempo"": {
+""Score"": ""95%"",
+""Improvement Suggestions"": ""Your tempo isgood! You're maintaining a controlled eccentric phase and utilizing the band's assistance at the bottom for a slightly faster concentric. Keep up the good work!""
+},
+""Range of Movement"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""You're demonstrating a full range of motion, which is excellent! Keep it up!""
+}
+},
+""Pro tips"": {
+""Leg Drive"": ""It's great that you're using leg drive! Remember to apply just enough force with your legs so that your feet don't move. You're aiming to create tension in your legs and stabilize your body, not lift your butt off the bench."",
+""Hand Positioning"": ""Experiment with slightly rotating your hands inwards so that the barbellrests in a diagonal line in your palm. This can help maintain a secure grip while keeping your wrists safe."",
+""Potential Fatigue"": ""I noticed a slight decrease in the speed of your concentric movement towards the end of the set. While this is normal, it's important to listen to your body. If youfelt any unusual fatigue or strain, consider taking a short break or adjusting the weight in your next set. Remember, safety and proper form are paramount!""
+}
+}",16.58 seconds
+gs://gymally-mvp/exercises-videos/bench_press_against_band_ref_strengthlog.mp4,2,bench_press_against_band,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're doing great! To furtherimprove, focus on keeping your shoulder blades retracted and pulled down throughout the entire lift, even as you press the bar up. This might take some practice, butit will enhance your stability and protect your shoulder joints.""
+},
+""Tempo"": {
+""Score"": ""95%"",
+""Improvement Suggestions"": ""Your tempo is good overall. You could slightly slow down the concentric phase (lifting the weight) to ensure controlled movement against the band's resistance.""
+},
+""Range of Movement"": {
+""Score"": ""100%"",""Improvement Suggestions"": ""Your range of motion looks excellent. Keep it up!""
+}
+},
+""Pro tips"": {
+""Leg Drive"": ""It seems like you have a good understanding of leg drive, but remember topush horizontally with your feet, as if trying to slide towards the head end of the bench. This will help you generate more force and stability."",
+""Hand Positioning"": ""Experiment with slightly rotating your hands inwards so that the barbell rests in a diagonal line in your palm. This can improve your grip and make it easierto maintain proper form, especially as you increase the weight."",
+""Potential Fatigue"": ""I noticed a slight decrease in your bar speed towards the end of the set. While this is normal, it's important to listen to your body. If you felt any significant fatigue or struggled to maintain form, consider taking ashort break or reducing the weight on your next set. Remember, safety and proper form should always come first!""
+}
+}",16.49 seconds
+gs://gymally-mvp/exercises-videos/bench_press_against_band_ref_strengthlog.mp4,3,bench_press_against_band,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're doing great overall! Tofurther improve your form, focus on keeping your shoulder blades retracted and pulled down throughout the entire lift, even as you press the bar up. This might take somepractice, but it will provide a more stable base for lifting.""
+},
+""Tempo"": {
+""Score"": ""95%"",
+""Improvement Suggestions"": ""Your tempo looks good! You're maintaining a controlled eccentric phase and utilizing the band's assistance at the bottom for a slightly faster concentric. Keep up the good work!""
+},
+""Range of Movement"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""Your range of motion looks perfect. You're lowering the bar to your chest and pressing it back up to the starting position effectively.""
+}
+},
+""Pro tips"": {
+""Leg Drive"": ""It seems like you're already applying leg drive effectively, which is great! Remember to focus on pushing horizontally with your feet, as if trying to slide yourself over the bench, without actually moving them. This will further enhance your stability and potentially allow you to lift even heavier weights."",
+""Hand Positioning"": ""Experimenting with different hand widths on the barbell can help you target different muscle groups more effectively. A wider grip emphasizes the chest muscles, while a narrower grip engages more of the triceps. Find what works best for you and your goals.""
+}
+}",15.67 seconds
+gs://gymally-mvp/exercises-videos/bench-press-usr4-20240527-1.mp4,1,Error,429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_per_base_model with base model: gemini-1.5-pro. Please submit a quota increase request. https://cloud.google.com/vertex-ai/docs/generative-ai/quotas-genai.,9.82 seconds
+gs://gymally-mvp/exercises-videos/bench-press-usr4-20240527-1.mp4,2,bench_press,"{""Scores"": {""Form"": {""Score"": ""90%"", ""Improvement Suggestions"":""That's great! It looks like you have a solid understanding of theform. Just a small detail: remember to keep your shoulder blades pulled together and down throughout the entire lift, even as you're pressing the bar up.This will help you maintain stability and protect your shoulder joints. Keep up the good work!""}, ""Tempo"": {""Score"": ""70%"", ""Improvement Suggestions"": ""Your tempo is good overall, but try to slow down the eccentric (lowering) phase of the lift. Aim for a controlled 2-3 second count as you bring the bar down to your chest. This will increase muscleactivation and improve your control. You're doing great!""}, ""Range of Movement"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You're demonstrating a full range of motion, well done!""}}, ""Pro tips"": {""How Wide Should You Grip the Bar?"": ""Remember that your grip can influence which muscles are being worked. A wider grip emphasizes the chest and front delts, while a narrower grip puts more emphasis on the triceps. You can experiment with different grips to target specific muscle groups."", ""Elbow Position"":""Similar to grip width, your elbow position can also affect muscle activation. A wider elbow position, typically with a wider grip, is great for chest development. A closer elbow position, often with a narrower grip, puts more emphasis on the triceps. Find what feels most comfortable and effective for you."", ""Pro tipon Foot position"": ""Make sure your feet are placed in a way that provides stability and allows you to generate leg drive. Experiment with different foot positions to find what feels most solid and powerful for you.""}}",21.71 seconds
+gs://gymally-mvp/exercises-videos/bench-press-usr4-20240527-1.mp4,3,bench_press,"{""Scores"": {""Form"": {""Score"": ""90%"", ""Improvement Suggestions"":""That's great! It looks like you have a solid understanding of theform. Just a small detail: remember to keep your shoulder blades pulled together and down throughout the entire lift, even as you're pressing the bar up.This will help you maintain stability and protect your shoulder joints. Keep up the good work!""}, ""Tempo"": {""Score"": ""70%"", ""Improvement Suggestions"": ""Your tempo is good overall, but you could benefit from slowing down the eccentric (lowering) phase of the lift. Try aiming for a 2-3 second count as you lower the bar to your chest. This controlled descentwill help you build more muscle and improve your control. You're doing great, just a little tweak can make a difference!""}, ""Range of Movement"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You'redemonstrating a full range of motion, well done!""}}, ""Pro tips"": {""How Wide Should You Grip the Bar?"": ""Did you know that your grip width can affect which muscles are activated during the bench press? A wider grip targets more of your chest, while a narrower grip emphasizes your triceps. You canexperiment with different grip widths to find what works best for you and your goals."", ""Elbow Position"": ""The position of your elbows during the bench press can also influence muscle activation and shoulder health. Generally, a wider grip goes with elbows flared out, while a closer grip pairs with elbows closer to your sides. It's important to find a position that feels comfortable and stable for your shoulders. You can always ask a trainer for guidance on finding the optimal elbow position for you."", ""Pro tip on Foot position"": ""Remember to keep those feet firmly planted on the floor throughout the entire lift for maximum stability and power! It seems likeyou've already found a good foot position, but it's always good to experiment and see what feels most stable and allows you to generate the most force.""}}",21.89 seconds
+gs://gymally-mvp/exercises-videos/board_bench_press_ref_strengthlog.mp4,1,bench_press,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're doing great! Your formis really good. Just a small detail: try to focus on keeping your shoulder blades together and down throughout the entire lift, even as you're pressing thebar up. This will help you maintain stability and protect your shoulder joints. Keep up the good work!""
+},
+""Tempo"": {
+""Score"":""100%"",
+""Improvement Suggestions"": ""Your tempo looks spot on! You're demonstrating great control during both the eccentric and concentric phases of the lift. This controlled pace is essential for maximizing muscle activation and ensuring proper form.Keep up the excellent work!""
+},
+""Range of Movement"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""Your range of motion is excellent! You're lowering the bar all the way down toyour chest and pressing it up to full extension. This full range of motion is crucial for stimulating muscle growth and improving overall strength. Keep it up!""
+}
+},
+""Pro tips"": {
+""Grip Width"": ""Remember that your grip width can affect which muscles are emphasized during the bench press. A widergrip targets more of your chest, while a narrower grip puts more emphasis on your triceps. You can experiment with different grip widths to find what works best for you and your goals."",
+""Elbow Position"": ""Similar to grip width, your elbow position can also influence muscle activation.  If you're aimingfor chest development, a wider elbow position might be more effective. Conversely, if you're focusing on triceps strength, keeping your elbows closer to your body could be beneficial. Try out different variations and see what feels most comfortable and aligns with your training objectives.""
+}
+}",17.71 seconds
+gs://gymally-mvp/exercises-videos/board_bench_press_ref_strengthlog.mp4,2,bench_press,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""That's a really good bench press! You're demonstrating excellent control and form. Just a small detail to keep in mind: remember to keep your shoulder blades retracted and pulled down throughout the entirelift, even as you're pressing the bar up. This will further enhance your stability and protect your shoulder joints. Keep up the great work!""
+},""Tempo"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""You're nailing the tempo! Maintaining a controlled eccentric is crucial for both proper form and muscle activation, and you're doing afantastic job. Keep up the great work!""
+},
+""Range of Movement"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""Your range of motion is spot on! You're lowering the bar allthe way to your chest and pressing it up to full extension, ensuring you're getting the most out of each rep. Keep up the great work!""
+}
+},
+""Pro tips"": {
+""Grip Width"": ""Experimenting with your grip width can be beneficial for targeting different muscle groups. A widergrip emphasizes the chest and front delts, while a narrower grip puts more emphasis on the triceps. Try adjusting your grip to see how it affects your lift and muscle activation."",
+""Elbow Position"": ""Similar to grip width, your elbow position can also influence muscle activation. A wider elbow position, typically associatedwith a wider grip, targets the chest more, while a closer elbow position, often with a narrower grip, emphasizes the triceps. Find what feels most comfortable and effective for you."",
+""Pausing"": ""Consider incorporating pauses at the bottom of your reps. This can help improve your technique and strength off your chest. However, if you're not training for powerlifting, it's optional and might not provide additional muscle-building benefits compared to a controlled reversal.""
+}
+}",17.63 seconds
+gs://gymally-mvp/exercises-videos/board_bench_press_ref_strengthlog.mp4,3,bench_press,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""That's great! You'redemonstrating excellent control and form. Just a small tweak for that extra edge: try to focus on keeping your lats engaged throughout the movement. Imagine squeezing an orangebetween your shoulder blades. This will help with stability and power.""
+},
+""Tempo"": {
+""Score"": ""95%"",
+""Improvement Suggestions"": ""You're nailing the tempo! Your controlled descent is perfect. If you're feeling up for a challenge, you could experiment with a slightly longer pause at the bottom of the rep (around 2 seconds). This canhelp build even more strength.""
+},
+""Range of Movement"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""You're demonstrating a full range of motion, bringing the bar all the way down toyour chest and pressing it up with control. Keep up the great work!""
+}
+},
+""Pro tips"": {
+""Elbow Position"": ""It seems you're using a grip slightly wider than shoulder-width. With this grip, aiming for an elbow position at about 45 degrees from yoursides can be optimal for maximizing the weight you lift. However, feel free to experiment and see what feels most comfortable and effective for you."",
+""Potential Fatigue"": ""I noticed a slight decrease in the speed of your last couple of reps, particularly in the pushing phase. This could be a sign of fatigue. Don't hesitate to take a short break or adjust the weight if needed. Remember, listening to your body is key for preventing injuries and maximizing your gains. How are you feeling?""
+}
+}",16.36 seconds
+gs://gymally-mvp/exercises-videos/bulgarian-squat-usr1-20240617-1.mp4,1,dumbbell_shoulder_press,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're doing a great job keepingyour core engaged and maintaining a neutral spine! To further enhance your form, focus on these small tweaks: ensure the dumbbells move in a straight line upwards, directlyabove your shoulders, throughout the exercise. This might require a slight adjustment to your grip width. Experiment to find what feels most stable and allows for the most naturalupward movement.""
+},
+""Tempo"": {
+""Score"": ""75%"",
+""Improvement Suggestions"": ""Your tempo is good overall, but try to control the eccentric phase (lowering the dumbbells) a bit more. Aslower, more controlled descent can enhance muscle engagement and improve overall form. Aim for a 2-second descent, maintaining that straight line we talked about.""
+},
+""Range of Movement"": {
+""Score"": ""80%"",""Improvement Suggestions"": ""You're demonstrating a good range of motion. To maximize it, pay attention to the bottom of the movement. Ensure the dumbbells are lowered just below your chin before pushing back up. This full extension will target your shoulder muscles effectively.""
+}
+},
+""Pro tips"": {""Potential sign of fatigue"": ""I noticed you might be slowing down a bit towards the end of the set. This could be a sign of fatigue. Remember, it's always better to prioritize proper form over pushing through exhaustion. If you felt your form slipping or experienced any discomfort, consider these options: reduce theweight slightly to maintain a consistent tempo and range of motion, or take a short break to recover before completing your set. Listening to your body is key for safe and effective workouts!"",
+""Importance of controlled movements"": ""Maintaining a controlled tempo, especially during the lowering phase, is crucial for muscle activation and injury prevention.Don't rush the movement!""
+}
+}",32.11 seconds
+gs://gymally-mvp/exercises-videos/bulgarian-squat-usr1-20240617-1.mp4,2,dumbbell_shoulder_press,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're doing a great job keepingyour core engaged and your back straight! To further improve, focus on keeping your wrists neutral throughout the exercise. This means avoiding any excessive bending forward or backward withyour wrists as you lift the dumbbells. Maintaining a neutral wrist alignment helps prevent strain and ensures that the targeted muscles are effectively engaged.""
+},
+""Tempo"":{
+""Score"": ""75%"",
+""Improvement Suggestions"": ""It seems like you're going at a good pace overall. For this exercise, try to control both the lifting and lowering phases of the movement.  A controlledtempo helps build more strength and stability. For example, you could aim for a 2-second count while lifting the dumbbells, a 1-second pause at the top, and a 3-second count while lowering them back down.""
+},
+""Range of Movement"": {
+""Score"": ""80%"",
+""Improvement Suggestions"": ""You're demonstrating a good range of motion. To get a bit more out of each rep, try lowering the dumbbells a bit further down before pushing them back up.  This will help activate yourshoulder muscles even more. Remember to listen to your body and stop if you feel any discomfort or pain.""
+}
+},
+""Pro tips"": {
+""Potential signs of fatigue"": ""Throughout the video, your form remained consistent, which is excellent! However, it's always a good idea to pay attentionto how your body feels during your workout. If you notice yourself starting to lose form, decrease your range of motion, or change your tempo, it might be a sign to stop or adjust the exercise. Remember, safety and proper form come first!"",
+""Alternatives to continuing"": ""If you ever feel fatigued during thisexercise, don't hesitate to take a short break, reduce the weight, or switch to a variation that feels more comfortable. You can also try splitting your set into multiple sets with fewer reps.  Listening to your body and adjusting your workout as needed will help you progress safely and effectively!""
+}
+}",30.97 seconds
+gs://gymally-mvp/exercises-videos/bulgarian-squat-usr1-20240617-1.mp4,3,dumbbell_shoulder_press,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're doing a great job keepingyour core engaged and maintaining a stable upper body. To further improve, focus on keeping your wrists neutral throughout the exercise. This means avoiding any excessive bending or arching of the wrists as you lift the dumbbells. Maintaining a neutral wrist position can help prevent discomfort and potential injuries.""
+},
+""Tempo"": {
+""Score"": ""75%"",
+""Improvement Suggestions"": ""It seems like you're going at a good pace overall. For this exercise, try to slow down the eccentric phase (lowering the dumbbells) and control the movement. Aimfor a count of 2 seconds to lower the weights. This controlled descent helps build more strength and stability in the shoulders.""
+},
+""Range of Movement"": {
+""Score"": ""80%"",
+""Improvement Suggestions"": ""You're demonstrating a good range of motion. To maximize muscle activation, try lowering the dumbbells a bit further down, until your elbows are slightly below your shoulders, if your mobility allows. This can help engage the muscles more effectively.""
+}
+},
+""Pro tips"": {
+""Potential sign of fatigue"":""I noticed your speed slightly decreasing towards the end of the set. This could be a sign of fatigue. Remember, it's always better to prioritize proper form and listen to your body. If you feel like you're struggling to maintain good form, it's okay to take a break or reduce the weight. How are you feeling?"",
+""Tempo"": ""Remember that tempo is a powerful tool to increase time under tension, which can lead to more muscle growth. Don't hesitate to experiment with different tempos to see what works best for you and your goals."",
+""Variations"": ""Once you feel comfortable with this exercise, you can explore variations like the Arnold press or the seated dumbbell shoulder press to challenge your shoulders in different ways.""
+}
+}",32.60 seconds
+gs://gymally-mvp/exercises-videos/cable_chest_press_ref_strengthlog.mp4,1,"{""exercise"": ""standing_cable_chest_fly""}","{""Scores"": {""Form"": {""Score"": ""90%"", ""Improvement Suggestions"":""To get those last few percentage points, really focus on keeping your shoulders downand relaxed. This will help you target the chest muscles more effectively and prevent unnecessary stress on your shoulders.""}, ""Tempo"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You're demonstrating great control throughout the exercise, keep it up!""}, ""Range of Movement"": {""Score"": ""90%"", ""Improvement Suggestions"": ""You have a good range of motion, but try to bring the cables slightly further forward at the top of the movement to really feel a good chest contraction.""}}, ""Pro tips"": {""Slight variations for different results"": ""Did you know? You can slightly change the angle of your arms during this exercise to target different parts of your chest. Try experimenting with higher and lower cable positions to see what works best for you!"", ""Potential fatigue detected"": ""I noticed you might be slowing down a bit towards the end of your set. Remember, it's always okay to take a break or adjust the weight if you feel your form slipping. Listen to your body and prioritize safety!""}}",14.07 seconds
+gs://gymally-mvp/exercises-videos/cable_chest_press_ref_strengthlog.mp4,2,"{""exercise"": ""standing_cable_chest_fly""}","{""Scores"": {
+""Form"": {
+""Score"": ""90%"",""Improvement Suggestions"": ""You're demonstrating great form overall! To furtherrefine your technique, focus on keeping your shoulders slightly lowered away from your ears throughout the exercise. This will help optimize muscle engagement and prevent unnecessary tension in your neckand shoulders.""
+},
+""Tempo"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""You're maintaining a consistent andcontrolled tempo throughout the exercise, which is excellent!""
+},
+""Range of Movement"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're achieving a good range of motion! To maximize muscle activation,try extending your arms slightly further back at the end of each rep, ensuring you don't hyperextend your elbows. This will help you achieve a fuller stretch and contraction in your chest muscles.""
+}
+},
+""Protips"": {
+""Potential signs of fatigue"": ""Throughout the video, your form and tempo remain consistent, which is a good sign that you're working within a safe and effective range. However, as you progress in your workout, it's essential to stay mindful of any potential signs of fatigue, such aschanges in your movement quality, speed, or form. If you notice any of these signs, it's crucial to prioritize your safety and consider adjusting your workout by lowering the weight, switching exercises, or taking a short break to allow for recovery."",
+""Remember to prioritize safety"": ""Listening to your body and adjustingyour workout as needed will help you achieve optimal results while minimizing the risk of injury.""
+}
+}",15.83 seconds
+gs://gymally-mvp/exercises-videos/cable_chest_press_ref_strengthlog.mp4,3,"{""exercise"": ""standing_cable_chest_fly""}","{""Scores"": {""Form"": {""Score"": ""90%"", ""Improvement Suggestions"":""That's looking really good! To get those last few percentage points,try to keep your upper body still throughout the movement. This will help you really target the chest muscles effectively.""}, ""Tempo"": {""Score"": ""100%"", ""Improvement Suggestions"": ""Your tempo looks spot on! You're controlling the weight well throughout the entire movement.""}, ""Range of Movement"": {""Score"": ""90%"", ""Improvement Suggestions"": ""You're demonstrating a good range of motion.  To push it a little further, try to bring your hands slightly further back at the end of each rep, ensuring you feel agood stretch across your chest.""}}, ""Pro tips"": {""Maintain a slight bend in your elbows."": ""Remember to keep a slight bend in your elbows throughout the exercise. This not only protects your joints but also helps maintain tension on the chestmuscles."", ""Control the weight."": ""Avoid letting the weights pull you back at the start of each rep. Instead, initiate the movement with control, using your chest muscles to draw the handles together.""}}",14.06 seconds
+gs://gymally-mvp/exercises-videos/deadlift_usr1_20240627_2.mp4,1,smith_machine_squat,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You are keeping your back straight and engaging your core, which is great!To improve even further, try to go a bit lower in the squat, ensuring your hips go below your knees. This will help you target your glutes andquads more effectively.""}, ""Tempo"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You are performing the exercise at a good pace, keepit up!""}, ""Range of Movement"": {""Score"": ""70%"", ""Improvement Suggestions"": ""You're demonstrating good mobility, but try to squat a bit lower, getting your hips below your knees for a deeper squat.""}},""Pro tips"": {""Depth"": ""Remember that squatting to full depth, where your hips go below your knees, can increase muscle activation in your quads and glutes. However, it's important to work within a range that feels comfortablefor you and doesn't cause any pain."", ""Listen to your body"": ""If you start to feel any pain or discomfort, stop the exercise and consult with a fitness professional.""}}",21.34 seconds
+gs://gymally-mvp/exercises-videos/deadlift_usr1_20240627_2.mp4,2,smith_machine_squat,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You are keeping your back straight and engaging your core, which is great!To improve even further, try to go a bit lower in the squat, ensuring your hips go below your knees. This will help you target your glutes andquads more effectively. Additionally, make sure your weight is evenly distributed on your feet throughout the exercise, feeling the pressure on your mid-foot and heels, noton your toes. ""}, ""Tempo"": {""Score"": ""90%"", ""Improvement Suggestions"": ""Your tempo seems good, and you are controlling the movement well. To further optimize your workout, you could try incorporating a slight pause atthe bottom of the squat. This can help improve muscle activation and control.""}, ""Range of Movement"": {""Score"": ""60%"", ""Improvement Suggestions"": ""You're demonstrating good control, but try to squat a little lower,getting your hips below your knees for a deeper squat. This will help you achieve a fuller range of motion and maximize muscle activation.""}}, ""Pro tips"": {""Depth consistency is key!"": ""Remember to maintain consistent depth throughout your set. As you get fatigued, it's common for your squats to become shallower. Focus on maintaining that depth to get the most out of each rep."", ""Listen to your body"": ""If you start to feel any pain or discomfort, stop and reassess your form. It's better to be safe than sorry!""}}",22.32 seconds
+gs://gymally-mvp/exercises-videos/deadlift_usr1_20240627_2.mp4,3,smith_machine_squat,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You are keeping your back straight and engaging your core, which is great!To improve even further, try to go a bit lower in the squat, ensuring your hips go below your knees. This will help you target your glutes andquads more effectively.""}, ""Tempo"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You are performing the exercise at a good pace, keepit up!""}, ""Range of Movement"": {""Score"": ""70%"", ""Improvement Suggestions"": ""You're doing well in achieving a good range of motion. To enhance it further, focus on squatting deeper, ensuring your hips gobelow your knees. This will help maximize muscle activation and flexibility.""}}, ""Pro tips"": {""Depth"": ""Remember that squatting deeper, while maintaining proper form, can lead to better muscle activation and overall lower body strength."", ""Potential Fatigue"":""It seems like you might be slowing down a bit towards the end of the set. Remember to listen to your body! If you're feeling fatigued, it's always okay to take a break or reduce the weight. Safety and proper form come first!""}}",20.90 seconds
+gs://gymally-mvp/exercises-videos/hip-thrust-usr1-20240523-2.mp4,1,hip_thrust,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You seem to be raising your hips a bit too high, which could putstress on your lower back and reduce glute activation. Try to keep your torso parallel to the floor at the top of the movement. Also, make sure toengage your core throughout the exercise to protect your spine and improve stability. It's great that you're keeping your feet flat on the floor, but doublecheck that they are positioned at hip-width for optimal glute engagement.""}, ""Tempo"": {""Score"": ""90%"", ""Improvement Suggestions"": ""You have a good control over the weight, but try to slow down the eccentric phase(lowering the weight) to really feel the burn in your glutes. Aim for a smooth and controlled 2-second descent.""}, ""Range of Movement"": {""Score"": ""80%"", ""Improvement Suggestions"": ""You're demonstrating a good range of motion, but you could potentially increase it slightly by ensuring that you're feeling a good stretch in your glutes at the bottom of the movement before pushing back up.""}}, ""Pro tips"": {""Bench height"": ""The bench height seems to be working well for you, as your kneesare bending at approximately a 90-degree angle. Remember that the ideal bench height allows for a 90-degree bend in the knees when your feet are flat on the floor at the starting position."", ""Squeeze at the top!"": ""Don't forget to squeeze your glutes at the topof the movement for 1-2 seconds. Imagine you're trying to hold a piece of paper between your glutes – this will help you maximize muscle activation."", ""Potential fatigue"": ""I noticed that your movements might be getting slightly slower towards the end of the set. This could be a sign of fatigue.Remember to listen to your body – if you feel your form is compromised or you're experiencing any pain, it's better to stop, rest, and maybe decrease the weight or reps in the next set. Safety and proper form come first!""}}",26.62 seconds
+gs://gymally-mvp/exercises-videos/hip-thrust-usr1-20240523-2.mp4,2,hip_thrust,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You seem to be raising your hips a bit too high, which could putstress on your lower back and reduce glute activation. Try to keep your torso parallel to the floor at the top of the movement. Also, make sure toengage your core throughout the exercise to protect your spine and improve stability. Remember to plant your feet firmly on the ground, ensuring your heels are hip-width apartand your knees are bending at a 90-degree angle when you reach the top of the thrust.""}, ""Tempo"": {""Score"": ""90%"", ""Improvement Suggestions"": ""Your tempo is pretty good! You're controllingthe weight well on the way down. To get the most out of each rep, try to pause for just a second at the top of the movement when your hips are extended. This helps to ensure a peak contraction in your glutes.""}, ""Range of Movement"": {""Score"": ""80%"", ""Improvement Suggestions"": ""You have a good range of motion, but you could potentially increase it slightly. Try to lower the weight until you feel a good stretch in your glutes, and make sure to extend your hips fully at the top of the movement.""}}, ""Pro tips"": {""Bench Height"": ""The bench height looks good for you, but remember that the ideal height allows your upper back to rest on the bench around the middle of your shoulder blades, letting your knees bend at a 90-degree angle with flat feet when you're in the startingposition."", ""Glute Engagement"": ""Remember to squeeze your glutes at the top of the movement for 1-2 seconds, as if you're trying to crack a walnut between them. This will help you maximize the effectiveness of the exercise."", ""Variations"": ""Once you feel comfortable, you can try variationslike elevated feet for a longer range of motion or adding a resistance band around your knees to engage your hip abductors.""}}",24.38 seconds
+gs://gymally-mvp/exercises-videos/hip-thrust-usr1-20240523-2.mp4,3,hip_thrust,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You seem to be raising your hips a bit too high, which could putstress on your lower back and reduce glute activation. Try to keep your torso parallel to the floor at the top of the movement. Also, make sure toengage your core throughout the exercise to protect your spine and improve stability. Remember to plant your feet firmly on the ground, ensuring your heels stay flat and your weightis evenly distributed.""}, ""Tempo"": {""Score"": ""90%"", ""Improvement Suggestions"": ""Your tempo is pretty good! You're controlling the weight well on the way down. To get even more out of each rep, tryto emphasize the pause at the top of the movement for a full second, squeezing your glutes as if you're trying to crack a walnut. This will ensure maximum glute activation.""}, ""Range of Movement"": {""Score"": ""80%"", ""Improvement Suggestions"": ""You have a good range of motion, but you could potentially increase it slightly. Try to lower the weight until you feel a good stretch in your glutes, and make sure you're fully extending your hips at the top of the movement.""}}, ""Pro tips"": {""BenchHeight"": ""It seems like the bench might be a tad high for you, which can lead to over-arching your back. Experiment with a slightly lower bench height to see if it feels more comfortable and allows you to maintain a neutral spine. Remember, the goal is to have your knees bent at a 90-degree angle when your hips are fully extended."", ""Mind-Muscle Connection"": ""Really focus on squeezing your glutes at the top of each rep. Imagine you're trying to push the weight up through your heels and glutes. This mind-muscle connection will help you target the glutes more effectively."", ""Alternatives and Variations"": ""Once you feel comfortable with the hip thrust, you can explore variations like single-leg hip thrusts or banded hip thrusts to challenge yourself and target different muscle fibers. You can also incorporate exercises like Romanian Deadlifts and Glute Bridges into your routine to work your glutes from different angles.""}}",25.90 seconds
+gs://gymally-mvp/exercises-videos/kettlebell-deadlift-usr1-20240701-1.mp4,1,kettlebell_floor_press,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""That's a great start! Tomake your form even better, try to keep your core engaged throughout the exercise. Imagine bracing your abs as if someone were about to poke you in the stomach.This will help protect your lower back and improve your stability.""
+},
+""Tempo"": {
+""Score"": ""80%"",
+""Improvement Suggestions"":""Your tempo is good overall. To get the most out of this exercise, try to control the lowering phase of the movement a bit more.  A slower, controlled descent can help build more strength and muscle.""
+},
+""Rangeof Movement"": {
+""Score"": ""100%"",
+""Improvement Suggestions"": ""You're demonstrating a full range of motion. Keep it up!""
+}
+},
+""Pro tips"": {
+""Potential signs offatigue"": ""I noticed you might be slowing down a bit towards the end of the set. This could be a sign of fatigue. Remember, it's always better to prioritize proper form and listen to your body. If you're feeling fatigued, don't hesitate to take a break or adjust the weight.What do you think? How are you feeling?"",
+""Tempo variations"": ""Did you know that you can vary the tempo of your kettlebell floor presses to target different aspects of your muscles? For example, a slower tempo can increase muscle growth and time under tension, while a faster tempo can improve power. It's all about finding what works best for you and your goals.""
+}
+}",35.24 seconds
+gs://gymally-mvp/exercises-videos/kettlebell-deadlift-usr1-20240701-1.mp4,2,kettlebell_floor_press,"{""Scores"": {
+""Form"": {
+""Score"": ""75%"",
+""Improvement Suggestions"": ""You're doing a good job keepingyour core engaged and back straight! To further improve, focus on keeping your elbows slightly closer to your body during the movement. This will help target the tricepsmore effectively.""
+},
+""Tempo"": {
+""Score"": ""60%"",
+""Improvement Suggestions"": ""It's great that you'renot rushing through the reps! Try to control the downward movement a bit more, aiming for a slightly slower and more deliberate eccentric phase. This controlled descent will help build more strength and muscle.""
+},
+""Range of Movement"": {""Score"": ""80%"",
+""Improvement Suggestions"": ""You're demonstrating a good range of motion! To maximize muscle activation, ensure the kettlebell grazes your sides at the bottom of the movement. This full range will engagemore muscle fibers and contribute to better overall results.""
+}
+},
+""Pro tips"": {
+""Elbow positioning"": ""Remember that slight adjustments to your elbow positioning can shift the emphasis of the exercise. Bringing your elbows closer to your body targets the triceps more directly, while flaring them out slightly can increasechest activation."",
+""Tempo variation"": ""Experimenting with different tempos can create unique training stimuli. For instance, a slower tempo can enhance muscle growth and improve control, while a faster tempo can build power and explosiveness."",
+""Potential fatigue"": ""I noticed you might be slowing down and your form is slightly lessprecise towards the end of the set. This could be a sign of fatigue. Remember to listen to your body! If you feel your form slipping or experience any discomfort, it's okay to stop, rest, and reduce the weight or reps if needed. Your safety and proper form are the priority.""
+}}",36.09 seconds
+gs://gymally-mvp/exercises-videos/kettlebell-deadlift-usr1-20240701-1.mp4,3,kettlebell_floor_press,"{""Scores"": {
+""Form"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""That's a great start! Tomake your form even better, try to keep your core engaged throughout the exercise. Imagine bracing your abs as if someone were about to poke you in the stomach.This will help protect your lower back and improve your stability.""
+},
+""Tempo"": {
+""Score"": ""80%"",
+""Improvement Suggestions"":""Your tempo is good overall! For an extra challenge and to really work those muscles, try slowing down the lowering phase of the exercise. Count to two as you lower the kettlebell, and then press it back up with control.""},
+""Range of Movement"": {
+""Score"": ""90%"",
+""Improvement Suggestions"": ""You're demonstrating a good range of motion! To ensure you're getting the most out of each rep, focus on afull extension at the top of the press. This will help maximize muscle activation and improve your strength gains.""
+}
+},
+""Pro tips"": {
+""Potential signs of fatigue"": ""I noticed you might be slowing down a bit towards the end of the set. Remember, it's always okay to takea break or adjust the weight if you start to feel fatigued.  Would you mind sharing how you're feeling? Are you experiencing any fatigue or difficulty maintaining form?""
+}
+}",34.37 seconds
+gs://gymally-mvp/exercises-videos/leg-extension-usr2-20240606-1.mp4,1,leg_extension,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You should make sure to keep your back flat against the backrest throughout the exercise, and avoid arching your back. This will help to target your quads more effectively and reduce the risk of injury. Also, try to keep your core engagedthroughout the exercise to help stabilize your body.""}, ""Tempo"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You maintained a good tempo throughoutthe exercise. Keep up the good work!""}, ""Range of Movement"": {""Score"": ""70%"", ""Improvement Suggestions"": ""To get the most out of this exercise, try to extend your legs almost completely, but without locking yourknees at the top of the movement. This will help you achieve a full range of motion and maximize muscle activation.""}}, ""Pro tips"": {""Maintain a consistent breathing pattern"": ""Remember to breathe throughout the exercise. Inhale as you lowerthe weight and exhale as you lift it. This will help you stay oxygenated and maintain good form."", ""Listen to your body"": ""If you feel any pain or discomfort during the exercise, stop immediately and consult with a healthcare professional."", ""Adjust the weight as needed"": ""The weight you use should be challenging butallow you to maintain good form throughout the exercise. If you find yourself struggling to complete the reps with good form, reduce the weight. As you get stronger, you can gradually increase the weight.""}}",17.29 seconds
+gs://gymally-mvp/exercises-videos/leg-extension-usr2-20240606-1.mp4,2,leg_extension,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You should make sure to keep your back flat against the backrest throughout the exercise, and avoid arching your lower back. Try to engage your core muscles to help with this. Also, ensure your hips remain stable and don't liftoff the seat during the movement. This will help target the quads more effectively and reduce strain on your lower back.""}, ""Tempo"": {""Score"": ""50%"", ""Improvement Suggestions"": ""It's great that you're not rushing through the exercise, but try to control both the lifting and lowering phases of the movement. Aim for a smoother, more controlled motion, which can help withmuscle activation and prevent injury.""}, ""Range of Movement"": {""Score"": ""80%"", ""Improvement Suggestions"": ""You have a good range of motion, but try to extend your legs a bit more at the top of the movement tofully engage your quads. Be sure not to lock your knees at the top, though. Keep a slight bend to protect your joints.""}}, ""Pro tips"": {""Maintain a neutral spine"": ""Remember to keep your back straight and avoid any unnecessary arching to prevent potential lower back discomfort."", ""Control the weight"": ""Don't let the weight control you! Focus on a controlled motion, both when lifting and lowering, to maximize muscle engagement and minimize risk of injury."" ""Listen to your body"": ""If you start to feel any pain or discomfort, stop the exercise and reassess your form or weight. Your safety and well-being are paramount.""}}",17.83 seconds
+gs://gymally-mvp/exercises-videos/leg-extension-usr2-20240606-1.mp4,3,leg_extension,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""To get the most out of this exercise and avoid potential strain, make sureyour back is resting flat against the seat throughout the movement. You can do this by slightly adjusting the seat's position if needed. This will help you targetyour quads effectively while minimizing stress on your back. Keep up the great work!""}, ""Tempo"": {""Score"": ""100%"", ""Improvement Suggestions"":""You're demonstrating excellent control during the exercise, which is fantastic to see!""}, ""Range of Movement"": {""Score"": ""70%"", ""Improvement Suggestions"": ""Try to extend your legs a bit more with each rep, stoppingjust before your knees fully lock out. This full range of motion will help you maximize muscle activation and growth. You're doing great, just a little adjustment away from perfection!""}}, ""Pro tips"": {""Maintain a controlled pace"": ""Remember that maintaining a controlled pace throughout the exercise is key. This helps you focus on your muscles and prevents any jerking movements that could lead to injury."", ""Listen to your body"": ""If you start to feel any discomfort or strain, especially in your knees or back, stop and adjust your position or weight. It's always better to err on the side of caution."", ""Potential fatigue"": ""It seems like you might be slowing down a bit towards the end of the set. This could be a sign of fatigue. Remember, it's always okay to take a break or adjust the weight if needed. Listen to your bodyand prioritize proper form over pushing through fatigue. How are you feeling?""}}",17.60 seconds
+gs://gymally-mvp/exercises-videos/leg-press-usr1-20240530-1.mp4,1,leg_press,"{""Scores"": {""Form"": {""Score"": ""75%"", ""Improvement Suggestions"":""You are keeping a good position overall! To improve your form even more,try to avoid slightly arching your lower back as you lower the weight. Keep your core engaged to protect your spine and ensure you're working the targeted muscleseffectively. Remember to breathe throughout the exercise.""}, ""Tempo"": {""Score"": ""50%"", ""Improvement Suggestions"": ""It's great that you're focusing on controlled movements! To optimize your tempo, aim for a slightly slower and more controlled descent, emphasizing the negative portion of the exercise. This can help with muscle growth and strength gains. For example, try counting 2 seconds downand 1 second up.""}, ""Range of Movement"": {""Score"": ""80%"", ""Improvement Suggestions"": ""You're demonstrating a good range of motion! To maximize it, try to lower the weight a bit further until youfeel a good stretch in your quads and glutes. Ensure you're not going too deep to the point of discomfort. Find a balance between depth and comfort to maximize muscle activation.""}}, ""Pro tips"": {""Potential signs of fatigue"": ""It seems like you might be slowing down a bit towards the end of theset. This could be a sign of fatigue. Remember to listen to your body and prioritize proper form over pushing through fatigue. If you notice any significant changes in your form or range of motion, it's always okay to stop, rest, and adjust the weight or reps as needed. Your safety and well-beingare paramount!"", ""Self-Reporting"": ""How are you feeling? If you're feeling fatigued or struggling to maintain proper form, don't hesitate to stop or adjust the exercise. You can try lowering the weight, splitting the set into more sets with fewer reps, or switching to a variation that targets the samemuscle groups but places less stress on fatigued areas. Remember, it's crucial to listen to your body and prioritize recovery to prevent injuries and maximize your results.""}}",34.16 seconds
+gs://gymally-mvp/exercises-videos/leg-press-usr1-20240530-1.mp4,2,leg_press,"{""Scores"": {""Form"": {""Score"": ""75%"", ""Improvement Suggestions"":""You're doing a good job keeping your back flat against the seat,which is important for safety. To further improve your form, try to focus on pushing through your heels and midfoot, rather than just your toes. This willhelp target your quads and glutes more effectively. Additionally, make sure your knees are tracking in line with your toes throughout the exercise to protect your knee joints.""}, ""Tempo"": {""Score"": ""60%"", ""Improvement Suggestions"": ""While there's no reference tempo provided, it's generally a good idea to control both the lifting and lowering phases of the exercise. Try to aim fora smooth and controlled movement throughout the exercise, avoiding any sudden jerks or bouncing. This will help you maintain tension in your muscles and improve your overall control.""}, ""Range of Movement"": {""Score"": ""80%"", ""Improvement Suggestions"":""You're demonstrating a good range of motion, but it looks like you could potentially lower the weight a bit further before extending your legs completely.  Remember to listen to your body and stop if you feel any discomfort or pain.""}}, ""Pro tips"": {""Pushing through your heels"": ""Remember to push through yourheels and midfoot to better target your quads and glutes."", ""Controlled movements"": ""Focus on smooth and controlled movements to maximize muscle engagement and minimize risk of injury."", ""Listen to your body"": ""Don't push yourself too hard, especially if you're new to this exercise. It's better tostart with a lighter weight and gradually increase it as you get stronger.""}}",31.02 seconds
+gs://gymally-mvp/exercises-videos/leg-press-usr1-20240530-1.mp4,3,leg_press,"{""Scores"": {""Form"": {""Score"": ""75%"", ""Improvement Suggestions"":""You are doing a good job keeping your back straight and avoiding excessive arching. To further improve your form, try to keep your core engaged throughout the exercise. This will help stabilize your body and prevent unnecessary movement. Additionally, make sureyour feet are positioned shoulder-width apart on the platform, with your toes slightly pointed outwards. This will help target your quads, glutes, and hamstringseffectively.""}, ""Tempo"": {""Score"": ""50%"", ""Improvement Suggestions"": ""While the video doesn't allow me to see the full picture of your tempo, it seems like you could benefit from controlling the weight more. Rememberto lower the weight slowly and with control (eccentric phase), pause briefly at the bottom of the movement, and then push explosively back up (concentric phase). Experiment with different tempos to find what works best for you and your goals. For example, a slower tempo can increase time under tension and promote muscle growth, while a faster tempo can enhance power and explosiveness.""}, ""Range of Movement"": {""Score"": ""60%"", ""Improvement Suggestions"": ""It looks like you're not quite reaching a full range of motion. To maximize muscleactivation and flexibility, try to lower the platform until your knees are bent at a 90-degree angle. However, it's crucial to listen to your body and stop if you feel any discomfort or pain. If you're unable to reach a full range of motion without discomfort, you may need to reducethe weight or adjust the setup of the machine.""}}, ""Pro tips"": {""Pro tip 1"": ""Remember that proper form and full range of motion are crucial for maximizing muscle activation and preventing injuries. Don't hesitate to adjust the weight or seek guidance from a fitness professional if needed."", ""Pro tip 2"": ""It's important to listen to your body and stop if you experience any pain or discomfort during the exercise. Pushing through pain can lead to injuries and hinder your progress.""}}",33.74 seconds
+gs://gymally-mvp/exercises-videos/leg-pull-usr1-20240606-1.mp4,1,Error,"Cannot get the response text.
+Cannot get the Candidate text.
+Response candidate content has no parts (and thus no text). The candidate is likely blocked by the safety filters.
+Content:
+{}
+Candidate:
+{
+  ""finish_reason"": ""SAFETY"",
+  ""safety_ratings"": [
+    {
+      ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+      ""probability"": ""NEGLIGIBLE"",
+      ""probability_score"": 0.13867188,
+      ""severity"": ""HARM_SEVERITY_LOW"",
+      ""severity_score"": 0.20605469
+    },
+    {
+      ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+      ""probability"": ""HIGH"",
+      ""blocked"": true,
+      ""probability_score"": 0.86328125,
+      ""severity"": ""HARM_SEVERITY_HIGH"",
+      ""severity_score"": 0.640625
+    },
+    {
+      ""category"": ""HARM_CATEGORY_HARASSMENT"",
+      ""probability"": ""NEGLIGIBLE"",
+      ""probability_score"": 0.080566406,
+      ""severity"": ""HARM_SEVERITY_LOW"",
+      ""severity_score"": 0.30664062
+    },
+    {
+      ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+      ""probability"": ""LOW"",
+      ""probability_score"": 0.41210938,
+      ""severity"": ""HARM_SEVERITY_LOW"",
+      ""severity_score"": 0.24609375
+    }
+  ]
+}
+Response:
+{
+  ""candidates"": [
+    {
+      ""finish_reason"": ""SAFETY"",
+      ""safety_ratings"": [
+        {
+          ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+          ""probability"": ""NEGLIGIBLE"",
+          ""probability_score"": 0.13867188,
+          ""severity"": ""HARM_SEVERITY_LOW"",
+          ""severity_score"": 0.20605469
+        },
+        {
+          ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+          ""probability"": ""HIGH"",
+          ""blocked"": true,
+          ""probability_score"": 0.86328125,
+          ""severity"": ""HARM_SEVERITY_HIGH"",
+          ""severity_score"": 0.640625
+        },
+        {
+          ""category"": ""HARM_CATEGORY_HARASSMENT"",
+          ""probability"": ""NEGLIGIBLE"",
+          ""probability_score"": 0.080566406,
+          ""severity"": ""HARM_SEVERITY_LOW"",
+          ""severity_score"": 0.30664062
+        },
+        {
+          ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+          ""probability"": ""LOW"",
+          ""probability_score"": 0.41210938,
+          ""severity"": ""HARM_SEVERITY_LOW"",
+          ""severity_score"": 0.24609375
+        }
+      ]
+    }
+  ],
+  ""usage_metadata"": {
+    ""prompt_token_count"": 19969,
+    ""candidates_token_count"": 1,
+    ""total_token_count"": 19970
+  }
+}",11.60 seconds
+gs://gymally-mvp/exercises-videos/leg-pull-usr1-20240606-1.mp4,2,Error,"Cannot get the response text.
+Cannot get the Candidate text.
+Response candidate content has no parts (and thus no text). The candidate is likely blocked by the safety filters.
+Content:
+{}
+Candidate:
+{
+  ""finish_reason"": ""SAFETY"",
+  ""safety_ratings"": [
+    {
+      ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+      ""probability"": ""NEGLIGIBLE"",
+      ""probability_score"": 0.13867188,
+      ""severity"": ""HARM_SEVERITY_LOW"",
+      ""severity_score"": 0.20605469
+    },
+    {
+      ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+      ""probability"": ""HIGH"",
+      ""blocked"": true,
+      ""probability_score"": 0.86328125,
+      ""severity"": ""HARM_SEVERITY_HIGH"",
+      ""severity_score"": 0.640625
+    },
+    {
+      ""category"": ""HARM_CATEGORY_HARASSMENT"",
+      ""probability"": ""NEGLIGIBLE"",
+      ""probability_score"": 0.080566406,
+      ""severity"": ""HARM_SEVERITY_LOW"",
+      ""severity_score"": 0.30664062
+    },
+    {
+      ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+      ""probability"": ""LOW"",
+      ""probability_score"": 0.41210938,
+      ""severity"": ""HARM_SEVERITY_LOW"",
+      ""severity_score"": 0.24609375
+    }
+  ]
+}
+Response:
+{
+  ""candidates"": [
+    {
+      ""finish_reason"": ""SAFETY"",
+      ""safety_ratings"": [
+        {
+          ""category"": ""HARM_CATEGORY_HATE_SPEECH"",
+          ""probability"": ""NEGLIGIBLE"",
+          ""probability_score"": 0.13867188,
+          ""severity"": ""HARM_SEVERITY_LOW"",
+          ""severity_score"": 0.20605469
+        },
+        {
+          ""category"": ""HARM_CATEGORY_DANGEROUS_CONTENT"",
+          ""probability"": ""HIGH"",
+          ""blocked"": true,
+          ""probability_score"": 0.86328125,
+          ""severity"": ""HARM_SEVERITY_HIGH"",
+          ""severity_score"": 0.640625
+        },
+        {
+          ""category"": ""HARM_CATEGORY_HARASSMENT"",
+          ""probability"": ""NEGLIGIBLE"",
+          ""probability_score"": 0.080566406,
+          ""severity"": ""HARM_SEVERITY_LOW"",
+          ""severity_score"": 0.30664062
+        },
+        {
+          ""category"": ""HARM_CATEGORY_SEXUALLY_EXPLICIT"",
+          ""probability"": ""LOW"",
+          ""probability_score"": 0.41210938,
+          ""severity"": ""HARM_SEVERITY_LOW"",
+          ""severity_score"": 0.24609375
+        }
+      ]
+    }
+  ],
+  ""usage_metadata"": {
+    ""prompt_token_count"": 19969,
+    ""candidates_token_count"": 1,
+    ""total_token_count"": 19970
+  }
+}",10.60 seconds
+gs://gymally-mvp/exercises-videos/leg-pull-usr1-20240606-1.mp4,3,machine_ab_crunch,"{""Scores"": {
+""Form"": {
+""Score"": ""75%"",
+""Improvement Suggestions"": ""You're doing a good job keepingyour back straight, but try to engage your core more to avoid using momentum. Imagine pulling your belly button towards your spine as you crunch up.""
+},""Tempo"": {
+""Score"": ""50%"",
+""Improvement Suggestions"": ""It's great that you're not rushing through the reps,but try to control both the lifting and lowering phases of the exercise. Aim for a slightly slower and more deliberate tempo to really feel the burn in your abs.""
+},
+""Range of Movement"": {
+""Score"": ""50%"",
+""Improvement Suggestions"": ""You're getting a decent range of motion, but try to crunch up a little higher to fully engage your abs. Focus on squeezing your abs at the top of the movement.""
+}
+},""Pro tips"": {
+""Potential Fatigue Detected"": ""It looks like you might be slowing down a bit towards the end of the set. Remember, it's always better to prioritize proper form over the number of reps. If you're feeling fatigued, don't hesitate to take a short break or reducethe weight. How are you feeling?"",
+""Tempo for Muscle Growth"": ""If your goal is muscle growth, try a 2-1-2-1 tempo (2 seconds eccentric, 1-second pause at the bottom, 2 seconds concentric, 1-second pause at the top). This willincrease the time under tension and promote muscle hypertrophy.""
+}
+}",26.83 seconds
+gs://gymally-mvp/exercises-videos/unknown-exercise-usr2-20240509-1.mp4,1,machine_chest_press,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You should adjust the machine so that the handles are at a chest level whenyou are sitting upright with your back against the pad. Try to keep your wrists straight and in line with your forearms throughout the exercise. This will help youtarget your chest muscles more effectively and reduce the risk of injury. Remember to keep your feet flat on the floor and your core engaged to maintain stability during the exercise. This will help you maintain a stable base and prevent unnecessary movement in your lower back.""}, ""Tempo"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You're doing great with the tempo!""}, ""Range ofMovement"": {""Score"": ""90%"", ""Improvement Suggestions"": ""To get the most out of this exercise, ensure you're fully extending your arms at the top of the movement without locking your elbows. This full extension will maximize muscleengagement and promote better results. Keep up the good work!""}}, ""Pro tips"": {""Adjust the seat if needed"": ""Make sure the seat height allows you to maintain the correct form throughout the exercise. Your shoulders should be in line with the pivot point of the machine's arms."", ""Experiment with different grips"":""You can try different grip widths to target different areas of your chest muscles. A wider grip will emphasize the outer chest, while a narrower grip will focus more on the inner chest."", ""Focus on the mind-muscle connection"": ""Throughout the exercise, concentrate on feeling the contraction in your chest muscles. This will helpyou maximize muscle activation and improve your results.""}}",20.37 seconds
+gs://gymally-mvp/exercises-videos/unknown-exercise-usr2-20240509-1.mp4,2,machine_chest_press,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You should adjust the machine so that the handles are at a chest level whenyou are seated. Try to keep your shoulders relaxed and pulled down, away from your ears, throughout the exercise. This will help you target your chest muscles moreeffectively and reduce the risk of shoulder strain. Also, make sure to keep your wrists straight and in line with your forearms. This will help you maintain aneutral wrist position and prevent any discomfort or injury. Remember to keep your core engaged throughout the exercise to maintain stability and good posture. This will help you perform the exercise safely and effectively.""}, ""Tempo"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You're doing great with the tempo! Keep it up.""}, ""Range of Movement"": {""Score"": ""90%"", ""Improvement Suggestions"": ""To get the most out of this exercise, try tobring the handles a bit closer together at the top of the movement, ensuring a full contraction in your chest muscles. This will help you maximize muscle activation and improve your results.""}}, ""Pro tips"": {""Adjust the seat"": ""Remember that you can adjust the seat to find the optimal position for your height and limb length. This will help you maintain proper form and target the right muscles."", ""Experiment with different tempos"": ""While you're doing well with the current tempo, experimenting with different tempos can provide various benefits. For example, a slower tempo can increase muscle time under tension, leading to greater muscle growth. On the other hand, a faster tempo can enhance power and explosiveness. Try incorporating different tempos into your workouts to challenge your muscles in new ways.""}}",20.47 seconds
+gs://gymally-mvp/exercises-videos/unknown-exercise-usr2-20240509-1.mp4,3,machine_chest_press,"{""Scores"": {""Form"": {""Score"": ""70%"", ""Improvement Suggestions"":""You should adjust the seat height so that the handles are in line with yourchest. This will help you maintain a better posture and target your chest muscles more effectively. Also, try to keep your shoulders relaxed and pulled down, away fromyour ears, to avoid unnecessary tension in your neck and shoulders. Remember to keep your back flat against the backrest throughout the exercise to prevent any strain on your lowerback.""}, ""Tempo"": {""Score"": ""100%"", ""Improvement Suggestions"": ""You're doing a great job keeping a consistent tempo! Keep it up.""}, ""Range of Movement"": {""Score"": ""90%"",""Improvement Suggestions"": ""To get the most out of this exercise, try to bring the handles a bit closer together at the top of the movement. This will help you achieve a fuller contraction in your chest muscles and enhance muscle growth.""}},""Pro tips"": {""Seat Height Adjustment"": ""Remember that adjusting the seat height to align the handles with your chest is crucial for optimal form and muscle activation. Don't hesitate to make adjustments until you find the perfect position for you."", ""Shoulder Positioning"": ""Keeping your shoulders relaxed and pulled down can prevent neck andshoulder strain. Focus on engaging your chest muscles while maintaining a comfortable shoulder position."", ""Back Support"": ""Maintaining a flat back against the backrest throughout the exercise is essential for protecting your lower back. Ensure that the backrest provides adequate support and adjust your positioning if needed.""}}",19.25 seconds
