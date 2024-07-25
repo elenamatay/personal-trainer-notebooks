@@ -1,0 +1,103 @@
+input video URI,test,Call 1 output,Total Processing Time
+gs://gymally-mvp/exercises-videos/abduction-usr1-20240527-1.mp4,1,hip_abduction_machine,9.06 seconds
+gs://gymally-mvp/exercises-videos/abduction-usr1-20240527-1.mp4,2,hip_abduction_machine,9.56 seconds
+gs://gymally-mvp/exercises-videos/abduction-usr1-20240527-1.mp4,3,hip_abduction_machine,8.38 seconds
+gs://gymally-mvp/exercises-videos/bar_dip_ref_strengthlog.mp4,1,bar_dip,4.80 seconds
+gs://gymally-mvp/exercises-videos/bar_dip_ref_strengthlog.mp4,2,bar_dip,4.68 seconds
+gs://gymally-mvp/exercises-videos/bar_dip_ref_strengthlog.mp4,3,bar_dip,4.14 seconds
+gs://gymally-mvp/exercises-videos/bench_press_against_band_ref_strengthlog.mp4,1,bench_press_against_band,4.89 seconds
+gs://gymally-mvp/exercises-videos/bench_press_against_band_ref_strengthlog.mp4,2,band-assisted_bench_press,4.81 seconds
+gs://gymally-mvp/exercises-videos/bench_press_against_band_ref_strengthlog.mp4,3,bench_press_against_band,4.30 seconds
+gs://gymally-mvp/exercises-videos/bench-press-usr4-20240527-1.mp4,1,bench_press,6.69 seconds
+gs://gymally-mvp/exercises-videos/bench-press-usr4-20240527-1.mp4,2,bench_press,6.84 seconds
+gs://gymally-mvp/exercises-videos/bench-press-usr4-20240527-1.mp4,3,bench_press,8.42 seconds
+gs://gymally-mvp/exercises-videos/board_bench_press_ref_strengthlog.mp4,1,board_press,5.01 seconds
+gs://gymally-mvp/exercises-videos/board_bench_press_ref_strengthlog.mp4,2,board_press,4.24 seconds
+gs://gymally-mvp/exercises-videos/board_bench_press_ref_strengthlog.mp4,3,Error,429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_per_base_model with base model: gemini-1.5-pro. Please submit a quota increase request. https://cloud.google.com/vertex-ai/docs/generative-ai/quotas-genai.
+gs://gymally-mvp/exercises-videos/bulgarian-squat-usr1-20240617-1.mp4,1,push-up_against_wall,12.29 seconds
+gs://gymally-mvp/exercises-videos/bulgarian-squat-usr1-20240617-1.mp4,2,Error,429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_per_base_model with base model: gemini-1.5-pro. Please submit a quota increase request. https://cloud.google.com/vertex-ai/docs/generative-ai/quotas-genai.
+gs://gymally-mvp/exercises-videos/bulgarian-squat-usr1-20240617-1.mp4,3,push-up_against_wall,9.80 seconds
+gs://gymally-mvp/exercises-videos/cable_chest_press_ref_strengthlog.mp4,1,cable_chest_press,4.32 seconds
+gs://gymally-mvp/exercises-videos/cable_chest_press_ref_strengthlog.mp4,2,cable_chest_press,4.39 seconds
+gs://gymally-mvp/exercises-videos/cable_chest_press_ref_strengthlog.mp4,3,cable_chest_press,3.79 seconds
+gs://gymally-mvp/exercises-videos/deadlift_usr1_20240627_2.mp4,1,pin_bench_press,9.46 seconds
+gs://gymally-mvp/exercises-videos/deadlift_usr1_20240627_2.mp4,2,pin_bench_press,8.35 seconds
+gs://gymally-mvp/exercises-videos/deadlift_usr1_20240627_2.mp4,3,Error,429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_per_base_model with base model: gemini-1.5-pro. Please submit a quota increase request. https://cloud.google.com/vertex-ai/docs/generative-ai/quotas-genai.
+gs://gymally-mvp/exercises-videos/hip-thrust-usr1-20240523-2.mp4,1,Error,429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_per_base_model with base model: gemini-1.5-pro. Please submit a quota increase request. https://cloud.google.com/vertex-ai/docs/generative-ai/quotas-genai.
+gs://gymally-mvp/exercises-videos/hip-thrust-usr1-20240523-2.mp4,2,hip_thrust,7.83 seconds
+gs://gymally-mvp/exercises-videos/hip-thrust-usr1-20240523-2.mp4,3,Error,429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_per_base_model with base model: gemini-1.5-pro. Please submit a quota increase request. https://cloud.google.com/vertex-ai/docs/generative-ai/quotas-genai.
+gs://gymally-mvp/exercises-videos/kettlebell-deadlift-usr1-20240701-1.mp4,1,Error,"Response has no candidates (and thus no text). The response is likely blocked by the safety filters.
+Response:
+{
+  ""prompt_feedback"": {
+    ""block_reason"": ""PROHIBITED_CONTENT""
+  },
+  ""usage_metadata"": {
+    ""prompt_token_count"": 29147,
+    ""total_token_count"": 29147
+  }
+}"
+gs://gymally-mvp/exercises-videos/kettlebell-deadlift-usr1-20240701-1.mp4,2,Error,"Response has no candidates (and thus no text). The response is likely blocked by the safety filters.
+Response:
+{
+  ""prompt_feedback"": {
+    ""block_reason"": ""PROHIBITED_CONTENT""
+  },
+  ""usage_metadata"": {
+    ""prompt_token_count"": 29147,
+    ""total_token_count"": 29147
+  }
+}"
+gs://gymally-mvp/exercises-videos/kettlebell-deadlift-usr1-20240701-1.mp4,3,Error,"Response has no candidates (and thus no text). The response is likely blocked by the safety filters.
+Response:
+{
+  ""prompt_feedback"": {
+    ""block_reason"": ""PROHIBITED_CONTENT""
+  },
+  ""usage_metadata"": {
+    ""prompt_token_count"": 29147,
+    ""total_token_count"": 29147
+  }
+}"
+gs://gymally-mvp/exercises-videos/leg-extension-usr2-20240606-1.mp4,1,Error,"Response has no candidates (and thus no text). The response is likely blocked by the safety filters.
+Response:
+{
+  ""prompt_feedback"": {
+    ""block_reason"": ""PROHIBITED_CONTENT""
+  },
+  ""usage_metadata"": {
+    ""prompt_token_count"": 5252,
+    ""total_token_count"": 5252
+  }
+}"
+gs://gymally-mvp/exercises-videos/leg-extension-usr2-20240606-1.mp4,2,Error,"Response has no candidates (and thus no text). The response is likely blocked by the safety filters.
+Response:
+{
+  ""prompt_feedback"": {
+    ""block_reason"": ""PROHIBITED_CONTENT""
+  },
+  ""usage_metadata"": {
+    ""prompt_token_count"": 5252,
+    ""total_token_count"": 5252
+  }
+}"
+gs://gymally-mvp/exercises-videos/leg-extension-usr2-20240606-1.mp4,3,Error,"Response has no candidates (and thus no text). The response is likely blocked by the safety filters.
+Response:
+{
+  ""prompt_feedback"": {
+    ""block_reason"": ""PROHIBITED_CONTENT""
+  },
+  ""usage_metadata"": {
+    ""prompt_token_count"": 5252,
+    ""total_token_count"": 5252
+  }
+}"
+gs://gymally-mvp/exercises-videos/leg-press-usr1-20240530-1.mp4,1,leg_press,10.62 seconds
+gs://gymally-mvp/exercises-videos/leg-press-usr1-20240530-1.mp4,2,leg_press,13.14 seconds
+gs://gymally-mvp/exercises-videos/leg-press-usr1-20240530-1.mp4,3,leg_press,12.49 seconds
+gs://gymally-mvp/exercises-videos/leg-pull-usr1-20240606-1.mp4,1,leg_extension,10.75 seconds
+gs://gymally-mvp/exercises-videos/leg-pull-usr1-20240606-1.mp4,2,leg_extension,11.88 seconds
+gs://gymally-mvp/exercises-videos/leg-pull-usr1-20240606-1.mp4,3,leg_extension,10.24 seconds
+gs://gymally-mvp/exercises-videos/unknown-exercise-usr2-20240509-1.mp4,1,machine_chest_fly,9.15 seconds
+gs://gymally-mvp/exercises-videos/unknown-exercise-usr2-20240509-1.mp4,2,machine_chest_fly,6.31 seconds
+gs://gymally-mvp/exercises-videos/unknown-exercise-usr2-20240509-1.mp4,3,machine_chest_fly,8.13 seconds
