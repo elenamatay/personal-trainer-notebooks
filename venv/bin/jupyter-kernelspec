@@ -1,5 +1,9 @@
 #!/bin/sh
+<<<<<<< HEAD
 '''exec' "/Users/elenamatay/VSCode projects/gymally-old/venv/bin/python" "$0" "$@"
+=======
+'''exec' "/Users/elenamatay/VSCode projects/gymally/venv/bin/python" "$0" "$@"
+>>>>>>> 18d7037cf30f05fb9c835180cb251f94a7f2d64c
 ' '''
 # -*- coding: utf-8 -*-
 import re
